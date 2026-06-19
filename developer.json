@@ -819,17 +819,43 @@
   },
   {
     "word": "active learning",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈæktɪv ˈlɜːnɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=active%20learning&type=1",
-    "phonetic_parts": [],
-    "meaning": "积极学习：一种学习方法，学生积极参与制定学习过程。"
+    "phonetic_parts": [
+      "æ",
+      "k",
+      "t",
+      "ɪ",
+      "v",
+      "l",
+      "ɜː",
+      "n",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "积极学习：一种学习方法，学生积极参与制定学习过程。",
+    "phonetic": "/ˈæktɪv ˈlɜːnɪŋ/"
   },
   {
     "word": "adaptive design",
-    "phonetic_full": "//",
+    "phonetic_full": "/əˈdæptɪv dɪˈzaɪn/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=adaptive%20design&type=1",
-    "phonetic_parts": [],
-    "meaning": "自适应设计：一种设计方法，使产品或系统能够根据用户需求和环境条件进行调整和优化。"
+    "phonetic_parts": [
+      "ə",
+      "d",
+      "æ",
+      "p",
+      "t",
+      "ɪ",
+      "v",
+      "d",
+      "ɪ",
+      "z",
+      "aɪ",
+      "n"
+    ],
+    "meaning": "自适应设计：一种设计方法，使产品或系统能够根据用户需求和环境条件进行调整和优化。",
+    "phonetic": "/əˈdæptɪv dɪˈzaɪn/"
   },
   {
     "word": "agile",
@@ -845,10 +871,33 @@
   },
   {
     "word": "Agile software development",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈædʒaɪl ˈsɒftweə dɪˈveləpmənt/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Agile%20software%20development&type=1",
-    "phonetic_parts": [],
-    "meaning": "敏捷软件开发"
+    "phonetic_parts": [
+      "æ",
+      "dʒ",
+      "aɪ",
+      "l",
+      "s",
+      "ɒ",
+      "f",
+      "t",
+      "w",
+      "eə",
+      "d",
+      "ɪ",
+      "v",
+      "e",
+      "l",
+      "ə",
+      "p",
+      "m",
+      "ə",
+      "n",
+      "t"
+    ],
+    "meaning": "敏捷软件开发",
+    "phonetic": "/ˈædʒaɪl ˈsɒftweə dɪˈveləpmənt/"
   },
   {
     "word": "application",
@@ -881,10 +930,30 @@
   },
   {
     "word": "Application Security",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌæplɪˈkeɪʃ(ə)n sɪˈkjʊərəti/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Application%20Security&type=1",
-    "phonetic_parts": [],
-    "meaning": "应用安全"
+    "phonetic_parts": [
+      "æ",
+      "p",
+      "l",
+      "ɪ",
+      "k",
+      "eɪ",
+      "ʃ",
+      "ə",
+      "n",
+      "s",
+      "ɪ",
+      "k",
+      "j",
+      "ʊə",
+      "r",
+      "ə",
+      "t",
+      "i"
+    ],
+    "meaning": "应用安全",
+    "phonetic": "/ˌæplɪˈkeɪʃ(ə)n sɪˈkjʊərəti/"
   },
   {
     "word": "array",
@@ -899,10 +968,36 @@
   },
   {
     "word": "artificial general intelligence",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌɑːtɪˈfɪʃl ˈdʒenərəl ɪnˈtelɪdʒəns/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=artificial%20general%20intelligence&type=1",
-    "phonetic_parts": [],
-    "meaning": "通用人工智能：具备与人类同等智能、或超越人类的人工智能，能表现正常人类所具有的所有智能行为。"
+    "phonetic_parts": [
+      "ɑː",
+      "t",
+      "ɪ",
+      "f",
+      "ɪ",
+      "ʃ",
+      "l",
+      "dʒ",
+      "e",
+      "n",
+      "ə",
+      "r",
+      "ə",
+      "l",
+      "ɪ",
+      "n",
+      "t",
+      "e",
+      "l",
+      "ɪ",
+      "dʒ",
+      "ə",
+      "n",
+      "s"
+    ],
+    "meaning": "通用人工智能：具备与人类同等智能、或超越人类的人工智能，能表现正常人类所具有的所有智能行为。",
+    "phonetic": "/ˌɑːtɪˈfɪʃl ˈdʒenərəl ɪnˈtelɪdʒəns/"
   },
   {
     "word": "artificial intelligence",
@@ -991,10 +1086,25 @@
   },
   {
     "word": "binary operator",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈbaɪnəri ˈɒpəreɪtə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=binary%20operator&type=1",
-    "phonetic_parts": [],
-    "meaning": "二元运算符：代表二元运算的符号，需要两个操作数。"
+    "phonetic_parts": [
+      "b",
+      "aɪ",
+      "n",
+      "ə",
+      "r",
+      "i",
+      "ɒ",
+      "p",
+      "ə",
+      "r",
+      "eɪ",
+      "t",
+      "ə"
+    ],
+    "meaning": "二元运算符：代表二元运算的符号，需要两个操作数。",
+    "phonetic": "/ˈbaɪnəri ˈɒpəreɪtə/"
   },
   {
     "word": "boilerplate",
@@ -1078,10 +1188,23 @@
   },
   {
     "word": "buffer overflow",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈbʌfər ˌəʊvəˈfləʊ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=buffer%20overflow&type=1",
-    "phonetic_parts": [],
-    "meaning": "缓冲区溢出：计算机安全领域的术语，指向缓冲区添加的数据量超过缓冲区大小的事件。如果没有预先考虑这种情况，通常会导致灾难性的错误。"
+    "phonetic_parts": [
+      "b",
+      "ʌ",
+      "f",
+      "ə",
+      "r",
+      "əʊ",
+      "v",
+      "ə",
+      "f",
+      "l",
+      "əʊ"
+    ],
+    "meaning": "缓冲区溢出：计算机安全领域的术语，指向缓冲区添加的数据量超过缓冲区大小的事件。如果没有预先考虑这种情况，通常会导致灾难性的错误。",
+    "phonetic": "/ˈbʌfər ˌəʊvəˈfləʊ/"
   },
   {
     "word": "cache",
@@ -1110,10 +1233,18 @@
   },
   {
     "word": "CDN",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌsiː diː ˈen/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=CDN&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 内容分发网络（Content Distribution Network）；内容传递网络（Content Delivery Network）；芝加哥每日新闻（报纸名，Chicago Daily News）；统一数据网络（Consolidated Data Network）；双源距补偿中子测井（Compensated Dual Neutron Log）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "d",
+      "iː",
+      "e",
+      "n"
+    ],
+    "meaning": "abbr. 内容分发网络（Content Distribution Network）；内容传递网络（Content Delivery Network）；芝加哥每日新闻（报纸名，Chicago Daily News）；统一数据网络（Consolidated Data Network）；双源距补偿中子测井（Compensated Dual Neutron Log）",
+    "phonetic": "/ˌsiː diː ˈen/"
   },
   {
     "word": "class",
@@ -1129,10 +1260,17 @@
   },
   {
     "word": "CLI",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌsiː el ˈaɪ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=CLI&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 命令行界面（command-line interface）；生活费用指数（cost-of-living index）；综合领先指标（composite leading indicator）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "e",
+      "l",
+      "aɪ"
+    ],
+    "meaning": "abbr. 命令行界面（command-line interface）；生活费用指数（cost-of-living index）；综合领先指标（composite leading indicator）",
+    "phonetic": "/ˌsiː el ˈaɪ/"
   },
   {
     "word": "client",
@@ -1293,10 +1431,21 @@
   },
   {
     "word": "control flow",
-    "phonetic_full": "//",
+    "phonetic_full": "/kənˈtrəʊl fləʊ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=control%20flow&type=1",
-    "phonetic_parts": [],
-    "meaning": "控制流：程序中的一种结构，用于控制代码的执行顺序，包括条件语句、循环语句和函数调用等。"
+    "phonetic_parts": [
+      "k",
+      "ə",
+      "n",
+      "tr",
+      "əʊ",
+      "l",
+      "f",
+      "l",
+      "əʊ"
+    ],
+    "meaning": "控制流：程序中的一种结构，用于控制代码的执行顺序，包括条件语句、循环语句和函数调用等。",
+    "phonetic": "/kənˈtrəʊl fləʊ/"
   },
   {
     "word": "cookies",
@@ -1327,52 +1476,139 @@
   },
   {
     "word": "CRM",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌsiː ɑː ˈem/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=CRM&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 客户关系管理（customer relationship management）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "ɑː",
+      "e",
+      "m"
+    ],
+    "meaning": "abbr. 客户关系管理（customer relationship management）",
+    "phonetic": "/ˌsiː ɑː ˈem/"
   },
   {
     "word": "CSS",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌsiː es ˈes/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=CSS&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 层叠样式表（cascading style sheet）；客户服务和支持（customer service and support）；计算机系统模拟（computer system simulation）；半铸钢，钢性铸铁（cast semi-steel）；（英国）社会服务资格证书（Certificate in Social Service）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "e",
+      "s",
+      "e",
+      "s"
+    ],
+    "meaning": "abbr. 层叠样式表（cascading style sheet）；客户服务和支持（customer service and support）；计算机系统模拟（computer system simulation）；半铸钢，钢性铸铁（cast semi-steel）；（英国）社会服务资格证书（Certificate in Social Service）",
+    "phonetic": "/ˌsiː es ˈes/"
   },
   {
     "word": "CSV",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌsiː es ˈviː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=CSV&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 战斗支援车（Combat Support Vehicle）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "e",
+      "s",
+      "v",
+      "iː"
+    ],
+    "meaning": "abbr. 战斗支援车（Combat Support Vehicle）",
+    "phonetic": "/ˌsiː es ˈviː/"
   },
   {
     "word": "cyber security",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsaɪbə(r) sɪˈkjʊərəti/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=cyber%20security&type=1",
-    "phonetic_parts": [],
-    "meaning": "网络安全：指保护计算机系统、网络和数据免受未经授权的访问、使用、泄露、破坏或干扰的一系列措施和技术。"
+    "phonetic_parts": [
+      "s",
+      "aɪ",
+      "b",
+      "ə",
+      "r",
+      "s",
+      "ɪ",
+      "k",
+      "j",
+      "ʊə",
+      "r",
+      "ə",
+      "t",
+      "i"
+    ],
+    "meaning": "网络安全：指保护计算机系统、网络和数据免受未经授权的访问、使用、泄露、破坏或干扰的一系列措施和技术。",
+    "phonetic": "/ˈsaɪbə(r) sɪˈkjʊərəti/"
   },
   {
     "word": "Data-driven Programming",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdeɪtə; ˈdɑːtə ˈdrɪvn ˈprəʊɡræmɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Data-driven%20Programming&type=1",
-    "phonetic_parts": [],
-    "meaning": "数据驱动式编程；数据驱动编程；数据驱动程序设计风格"
+    "phonetic_parts": [
+      "d",
+      "eɪ",
+      "t",
+      "ə",
+      "d",
+      "ɑː",
+      "t",
+      "ə",
+      "dr",
+      "ɪ",
+      "v",
+      "n",
+      "p",
+      "r",
+      "əʊ",
+      "ɡ",
+      "r",
+      "æ",
+      "m",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "数据驱动式编程；数据驱动编程；数据驱动程序设计风格",
+    "phonetic": "/ˈdeɪtə; ˈdɑːtə ˈdrɪvn ˈprəʊɡræmɪŋ/"
   },
   {
     "word": "data lake",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdeɪtə; ˈdɑːtə leɪk/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=data%20lake&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 数据湖（指使用原始格式存储数据的系统）"
+    "phonetic_parts": [
+      "d",
+      "eɪ",
+      "t",
+      "ə",
+      "d",
+      "ɑː",
+      "t",
+      "ə",
+      "l",
+      "eɪ",
+      "k"
+    ],
+    "meaning": "n. 数据湖（指使用原始格式存储数据的系统）",
+    "phonetic": "/ˈdeɪtə; ˈdɑːtə leɪk/"
   },
   {
     "word": "data structure",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdeɪtə ˈstrʌktʃə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=data%20structure&type=1",
-    "phonetic_parts": [],
-    "meaning": "数据结构：在计算机中组织数据的各种方法或格式，例如数组、文件或记录等。"
+    "phonetic_parts": [
+      "d",
+      "eɪ",
+      "t",
+      "ə",
+      "s",
+      "tr",
+      "ʌ",
+      "k",
+      "tʃ",
+      "ə"
+    ],
+    "meaning": "数据结构：在计算机中组织数据的各种方法或格式，例如数组、文件或记录等。",
+    "phonetic": "/ˈdeɪtə ˈstrʌktʃə/"
   },
   {
     "word": "debugging",
@@ -1391,38 +1627,97 @@
   },
   {
     "word": "data warehouse",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdeɪtə; ˈdɑːtə ˈweəhaʊs/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=data%20warehouse&type=1",
-    "phonetic_parts": [],
-    "meaning": "数据仓库：从各种来源收集的数据的集合，经过组织和整理，为组织的决策者提供有用的指导。"
+    "phonetic_parts": [
+      "d",
+      "eɪ",
+      "t",
+      "ə",
+      "d",
+      "ɑː",
+      "t",
+      "ə",
+      "w",
+      "eə",
+      "h",
+      "aʊ",
+      "s"
+    ],
+    "meaning": "数据仓库：从各种来源收集的数据的集合，经过组织和整理，为组织的决策者提供有用的指导。",
+    "phonetic": "/ˈdeɪtə; ˈdɑːtə ˈweəhaʊs/"
   },
   {
     "word": "deep learning",
-    "phonetic_full": "//",
+    "phonetic_full": "/diːp ˈlɜːnɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=deep%20learning&type=1",
-    "phonetic_parts": [],
-    "meaning": "深度学习：一种基于对数据结构的解释的机器学习形式。"
+    "phonetic_parts": [
+      "d",
+      "iː",
+      "p",
+      "l",
+      "ɜː",
+      "n",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "深度学习：一种基于对数据结构的解释的机器学习形式。",
+    "phonetic": "/diːp ˈlɜːnɪŋ/"
   },
   {
     "word": "design patterns",
-    "phonetic_full": "//",
+    "phonetic_full": "/dɪˈzaɪn ˈpætənz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=design%20patterns&type=1",
-    "phonetic_parts": [],
-    "meaning": "设计模式；设计样式"
+    "phonetic_parts": [
+      "d",
+      "ɪ",
+      "z",
+      "aɪ",
+      "n",
+      "p",
+      "æ",
+      "t",
+      "ə",
+      "n",
+      "z"
+    ],
+    "meaning": "设计模式；设计样式",
+    "phonetic": "/dɪˈzaɪn ˈpætənz/"
   },
   {
     "word": "destructuring",
-    "phonetic_full": "//",
+    "phonetic_full": "/diːˈstrʌktʃərɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=destructuring&type=1",
-    "phonetic_parts": [],
-    "meaning": "解构；解构赋值；以及非结构化赋值；解构声明；参数绑定；解构数组；属性解构；解构对象；解构声明；意义解构"
+    "phonetic_parts": [
+      "d",
+      "iː",
+      "s",
+      "tr",
+      "ʌ",
+      "k",
+      "tʃ",
+      "ə",
+      "r",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "解构；解构赋值；以及非结构化赋值；解构声明；参数绑定；解构数组；属性解构；解构对象；解构声明；意义解构",
+    "phonetic": "/diːˈstrʌktʃərɪŋ/"
   },
   {
     "word": "DevOps",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdevɒps/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=DevOps&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 开发运维"
+    "phonetic_parts": [
+      "d",
+      "e",
+      "v",
+      "ɒ",
+      "p",
+      "s"
+    ],
+    "meaning": "n. 开发运维",
+    "phonetic": "/ˈdevɒps/"
   },
   {
     "word": "DHCP",
@@ -1496,10 +1791,15 @@
   },
   {
     "word": "EAI",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌiː eɪ ˈaɪ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=EAI&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 电子联合公司（Electronic Associates Incorporated）"
+    "phonetic_parts": [
+      "iː",
+      "eɪ",
+      "aɪ"
+    ],
+    "meaning": "abbr. 电子联合公司（Electronic Associates Incorporated）",
+    "phonetic": "/ˌiː eɪ ˈaɪ/"
   },
   {
     "word": "ecosystem",
@@ -1554,17 +1854,42 @@
   },
   {
     "word": "environment variables",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɪnˈvaɪrənmənt ˈverɪəbl/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=environment%20variables&type=1",
-    "phonetic_parts": [],
-    "meaning": "环境变量：计算机系统中用于存储系统设置和应用程序配置信息的变量。"
+    "phonetic_parts": [
+      "ɪ",
+      "n",
+      "v",
+      "aɪ",
+      "r",
+      "ə",
+      "n",
+      "m",
+      "ə",
+      "n",
+      "t",
+      "v",
+      "e",
+      "r",
+      "ɪə",
+      "b",
+      "l"
+    ],
+    "meaning": "环境变量：计算机系统中用于存储系统设置和应用程序配置信息的变量。",
+    "phonetic": "/ɪnˈvaɪrənmənt ˈverɪəbl/"
   },
   {
     "word": "ERP",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌiː ɑː ˈpiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=ERP&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 企业资源计划（Enterprise Resource Planning）；有效辐射功率（effective radiated power）"
+    "phonetic_parts": [
+      "iː",
+      "ɑː",
+      "p",
+      "iː"
+    ],
+    "meaning": "abbr. 企业资源计划（Enterprise Resource Planning）；有效辐射功率（effective radiated power）",
+    "phonetic": "/ˌiː ɑː ˈpiː/"
   },
   {
     "word": "event",
@@ -1581,10 +1906,23 @@
   },
   {
     "word": "event handler",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɪˈvent ˈhændlə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=event%20handler&type=1",
-    "phonetic_parts": [],
-    "meaning": "事件处理程序：在计算机编程中，处理事件的方法或子程序。"
+    "phonetic_parts": [
+      "ɪ",
+      "v",
+      "e",
+      "n",
+      "t",
+      "h",
+      "æ",
+      "n",
+      "d",
+      "l",
+      "ə"
+    ],
+    "meaning": "事件处理程序：在计算机编程中，处理事件的方法或子程序。",
+    "phonetic": "/ɪˈvent ˈhændlə/"
   },
   {
     "word": "expression",
@@ -1697,10 +2035,30 @@
   },
   {
     "word": "functional programming",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈfʌŋkʃən(ə)l ˈprəʊɡræmɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=functional%20programming&type=1",
-    "phonetic_parts": [],
-    "meaning": "函数程序设计"
+    "phonetic_parts": [
+      "f",
+      "ʌ",
+      "ŋ",
+      "k",
+      "ʃ",
+      "ə",
+      "n",
+      "ə",
+      "l",
+      "p",
+      "r",
+      "əʊ",
+      "ɡ",
+      "r",
+      "æ",
+      "m",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "函数程序设计",
+    "phonetic": "/ˈfʌŋkʃən(ə)l ˈprəʊɡræmɪŋ/"
   },
   {
     "word": "full-stack",
@@ -1790,10 +2148,24 @@
   },
   {
     "word": "high-order function",
-    "phonetic_full": "//",
+    "phonetic_full": "/haɪ ˈɔːdə(r) ˈfʌŋkʃn/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=high-order%20function&type=1",
-    "phonetic_parts": [],
-    "meaning": "高阶"
+    "phonetic_parts": [
+      "h",
+      "aɪ",
+      "ɔː",
+      "d",
+      "ə",
+      "r",
+      "f",
+      "ʌ",
+      "ŋ",
+      "k",
+      "ʃ",
+      "n"
+    ],
+    "meaning": "高阶",
+    "phonetic": "/haɪ ˈɔːdə(r) ˈfʌŋkʃn/"
   },
   {
     "word": "HTML",
@@ -1829,17 +2201,44 @@
   },
   {
     "word": "HTTP request methods",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌeɪtʃ tiː tiː ˈpiː rɪˈkwest ˈmeθədz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=HTTP%20request%20methods&type=1",
-    "phonetic_parts": [],
-    "meaning": "暂无释义"
+    "phonetic_parts": [
+      "eɪ",
+      "tʃ",
+      "t",
+      "iː",
+      "t",
+      "iː",
+      "p",
+      "iː",
+      "r",
+      "ɪ",
+      "k",
+      "w",
+      "e",
+      "s",
+      "t",
+      "m",
+      "e",
+      "θ",
+      "ə",
+      "dz"
+    ],
+    "meaning": "暂无释义",
+    "phonetic": "/ˌeɪtʃ tiː tiː ˈpiː rɪˈkwest ˈmeθədz/"
   },
   {
     "word": "IaaS",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈaɪˌæs/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=IaaS&type=1",
-    "phonetic_parts": [],
-    "meaning": "基础设施即服务（Infrastructure as a Service）"
+    "phonetic_parts": [
+      "aɪ",
+      "æ",
+      "s"
+    ],
+    "meaning": "基础设施即服务（Infrastructure as a Service）",
+    "phonetic": "/ˈaɪˌæs/"
   },
   {
     "word": "IDE",
@@ -1853,10 +2252,27 @@
   },
   {
     "word": "immutable object",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɪˈmjuːtəb(ə)l ˈɒbdʒekt/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=immutable%20object&type=1",
-    "phonetic_parts": [],
-    "meaning": "不可变物件"
+    "phonetic_parts": [
+      "ɪ",
+      "m",
+      "j",
+      "uː",
+      "t",
+      "ə",
+      "b",
+      "ə",
+      "l",
+      "ɒ",
+      "b",
+      "dʒ",
+      "e",
+      "k",
+      "t"
+    ],
+    "meaning": "不可变物件",
+    "phonetic": "/ɪˈmjuːtəb(ə)l ˈɒbdʒekt/"
   },
   {
     "word": "inheritance",
@@ -1926,10 +2342,30 @@
   },
   {
     "word": "information architecture",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌɪnfəˈmeɪʃ(ə)n ˈɑːkɪtektʃə(r)/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=information%20architecture&type=1",
-    "phonetic_parts": [],
-    "meaning": "信息架构：设计和组织网站的过程，以便用户能够轻松地找到他们想要的信息。"
+    "phonetic_parts": [
+      "ɪ",
+      "n",
+      "f",
+      "ə",
+      "m",
+      "eɪ",
+      "ʃ",
+      "ə",
+      "n",
+      "ɑː",
+      "k",
+      "ɪ",
+      "t",
+      "e",
+      "k",
+      "tʃ",
+      "ə",
+      "r"
+    ],
+    "meaning": "信息架构：设计和组织网站的过程，以便用户能够轻松地找到他们想要的信息。",
+    "phonetic": "/ˌɪnfəˈmeɪʃ(ə)n ˈɑːkɪtektʃə(r)/"
   },
   {
     "word": "iterator",
@@ -1960,45 +2396,97 @@
   },
   {
     "word": "Java EE",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdʒɑːvə iː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Java%20EE&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. Java企业版（Java Enterprise Edition）：一种基于Java编程语言的企业级应用开发平台，提供了创建分布式、大规模、多层应用程序的API和运行时环境。"
+    "phonetic_parts": [
+      "dʒ",
+      "ɑː",
+      "v",
+      "ə",
+      "iː"
+    ],
+    "meaning": "n. Java企业版（Java Enterprise Edition）：一种基于Java编程语言的企业级应用开发平台，提供了创建分布式、大规模、多层应用程序的API和运行时环境。",
+    "phonetic": "/ˈdʒɑːvə iː/"
   },
   {
     "word": "jQuery",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdʒeɪˌkwɪəri/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=jQuery&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 放大镜效果（软件名）"
+    "phonetic_parts": [
+      "dʒ",
+      "eɪ",
+      "k",
+      "w",
+      "ɪə",
+      "r",
+      "i"
+    ],
+    "meaning": "n. 放大镜效果（软件名）",
+    "phonetic": "/ˈdʒeɪˌkwɪəri/"
   },
   {
     "word": "JSON",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdʒeɪsən/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=JSON&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 基于 JavaScript 语言的轻量级的数据交换格式（JavaScript Object Notation）"
+    "phonetic_parts": [
+      "dʒ",
+      "eɪ",
+      "s",
+      "ə",
+      "n"
+    ],
+    "meaning": "abbr. 基于 JavaScript 语言的轻量级的数据交换格式（JavaScript Object Notation）",
+    "phonetic": "/ˈdʒeɪsən/"
   },
   {
     "word": "JSX",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌdʒeɪ es ˈeks/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=JSX&type=1",
-    "phonetic_parts": [],
-    "meaning": "雅加达证券交易所；编辑器；型号"
+    "phonetic_parts": [
+      "dʒ",
+      "eɪ",
+      "e",
+      "s",
+      "e",
+      "k",
+      "s"
+    ],
+    "meaning": "雅加达证券交易所；编辑器；型号",
+    "phonetic": "/ˌdʒeɪ es ˈeks/"
   },
   {
     "word": "JVM",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌdʒeɪ viː ˈem/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=JVM&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. Java 虚拟机（Java Virtual Machine）"
+    "phonetic_parts": [
+      "dʒ",
+      "eɪ",
+      "v",
+      "iː",
+      "e",
+      "m"
+    ],
+    "meaning": "abbr. Java 虚拟机（Java Virtual Machine）",
+    "phonetic": "/ˌdʒeɪ viː ˈem/"
   },
   {
     "word": "JWT",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌdʒeɪ dʌbljuː ˈtiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=JWT&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 智威汤逊（广告公司，James Walter Thompson）"
+    "phonetic_parts": [
+      "dʒ",
+      "eɪ",
+      "d",
+      "ʌ",
+      "b",
+      "l",
+      "j",
+      "uː",
+      "t",
+      "iː"
+    ],
+    "meaning": "abbr. 智威汤逊（广告公司，James Walter Thompson）",
+    "phonetic": "/ˌdʒeɪ dʌbljuː ˈtiː/"
   },
   {
     "word": "kernel",
@@ -2028,10 +2516,22 @@
   },
   {
     "word": "kubernetes",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌkjuːbəˈnetɪs/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=kubernetes&type=1",
-    "phonetic_parts": [],
-    "meaning": "n.一个开源容器编排系统"
+    "phonetic_parts": [
+      "k",
+      "j",
+      "uː",
+      "b",
+      "ə",
+      "n",
+      "e",
+      "t",
+      "ɪ",
+      "s"
+    ],
+    "meaning": "n.一个开源容器编排系统",
+    "phonetic": "/ˌkjuːbəˈnetɪs/"
   },
   {
     "word": "library",
@@ -2079,24 +2579,54 @@
   },
   {
     "word": "load testing",
-    "phonetic_full": "//",
+    "phonetic_full": "/ləʊd ˈtestɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=load%20testing&type=1",
-    "phonetic_parts": [],
-    "meaning": "负载测试：通过模拟多个用户同时访问软件程序来建模预期使用情况的实践。"
+    "phonetic_parts": [
+      "l",
+      "əʊ",
+      "d",
+      "t",
+      "e",
+      "s",
+      "t",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "负载测试：通过模拟多个用户同时访问软件程序来建模预期使用情况的实践。",
+    "phonetic": "/ləʊd ˈtestɪŋ/"
   },
   {
     "word": "log file",
-    "phonetic_full": "//",
+    "phonetic_full": "/lɒɡ faɪl/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=log%20file&type=1",
-    "phonetic_parts": [],
-    "meaning": "日志文件：一种计算机文件，用于记录计算机、网站等上执行的所有操作。"
+    "phonetic_parts": [
+      "l",
+      "ɒ",
+      "ɡ",
+      "f",
+      "aɪ",
+      "l"
+    ],
+    "meaning": "日志文件：一种计算机文件，用于记录计算机、网站等上执行的所有操作。",
+    "phonetic": "/lɒɡ faɪl/"
   },
   {
     "word": "logical error",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈlɒdʒɪkl ˈerə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=logical%20error&type=1",
-    "phonetic_parts": [],
-    "meaning": "逻辑错误：在推理、分析或解决问题过程中出现的错误，通常是由于错误的假设、推理或证据导致的。"
+    "phonetic_parts": [
+      "l",
+      "ɒ",
+      "dʒ",
+      "ɪ",
+      "k",
+      "l",
+      "e",
+      "r",
+      "ə"
+    ],
+    "meaning": "逻辑错误：在推理、分析或解决问题过程中出现的错误，通常是由于错误的假设、推理或证据导致的。",
+    "phonetic": "/ˈlɒdʒɪkl ˈerə/"
   },
   {
     "word": "loop",
@@ -2131,24 +2661,55 @@
   },
   {
     "word": "Markup Language",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈmɑːkʌp ˈlæŋɡwɪdʒ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Markup%20Language&type=1",
-    "phonetic_parts": [],
-    "meaning": "标记语言：一种用于标记或标签文档的系统，它指示文档的逻辑结构（如段落）并提供其在页面上的布局指令，特别用于电子传输和显示。"
+    "phonetic_parts": [
+      "m",
+      "ɑː",
+      "k",
+      "ʌ",
+      "p",
+      "l",
+      "æ",
+      "ŋ",
+      "ɡ",
+      "w",
+      "ɪ",
+      "dʒ"
+    ],
+    "meaning": "标记语言：一种用于标记或标签文档的系统，它指示文档的逻辑结构（如段落）并提供其在页面上的布局指令，特别用于电子传输和显示。",
+    "phonetic": "/ˈmɑːkʌp ˈlæŋɡwɪdʒ/"
   },
   {
     "word": "Merge Sort",
-    "phonetic_full": "//",
+    "phonetic_full": "/mɜːdʒ sɔːt/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Merge%20Sort&type=1",
-    "phonetic_parts": [],
-    "meaning": "归并排序：一种计算机排序算法，将待排序的数组分成两个子数组，然后递归地对子数组进行排序，最后将两个有序的子数组合并成一个有序的数组。"
+    "phonetic_parts": [
+      "m",
+      "ɜː",
+      "dʒ",
+      "s",
+      "ɔː",
+      "t"
+    ],
+    "meaning": "归并排序：一种计算机排序算法，将待排序的数组分成两个子数组，然后递归地对子数组进行排序，最后将两个有序的子数组合并成一个有序的数组。",
+    "phonetic": "/mɜːdʒ sɔːt/"
   },
   {
     "word": "meta tag",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈmetə tæɡ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=meta%20tag&type=1",
-    "phonetic_parts": [],
-    "meaning": "元标签：插入到网页源代码中的文本，用于提供元数据，例如搜索引擎的关键词。"
+    "phonetic_parts": [
+      "m",
+      "e",
+      "t",
+      "ə",
+      "t",
+      "æ",
+      "ɡ"
+    ],
+    "meaning": "元标签：插入到网页源代码中的文本，用于提供元数据，例如搜索引擎的关键词。",
+    "phonetic": "/ˈmetə tæɡ/"
   },
   {
     "word": "method",
@@ -2165,10 +2726,21 @@
   },
   {
     "word": "memoization",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌmeməʊaɪˈzeɪʃn/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=memoization&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 记忆化；备忘"
+    "phonetic_parts": [
+      "m",
+      "e",
+      "m",
+      "əʊ",
+      "aɪ",
+      "z",
+      "eɪ",
+      "ʃ",
+      "n"
+    ],
+    "meaning": "n. 记忆化；备忘",
+    "phonetic": "/ˌmeməʊaɪˈzeɪʃn/"
   },
   {
     "word": "middleware",
@@ -2198,10 +2770,26 @@
   },
   {
     "word": "mutable object",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈmjuːtəb(ə)l ˈɒbdʒekt/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=mutable%20object&type=1",
-    "phonetic_parts": [],
-    "meaning": "暂无释义"
+    "phonetic_parts": [
+      "m",
+      "j",
+      "uː",
+      "t",
+      "ə",
+      "b",
+      "ə",
+      "l",
+      "ɒ",
+      "b",
+      "dʒ",
+      "e",
+      "k",
+      "t"
+    ],
+    "meaning": "暂无释义",
+    "phonetic": "/ˈmjuːtəb(ə)l ˈɒbdʒekt/"
   },
   {
     "word": "Metaverse",
@@ -2248,10 +2836,37 @@
   },
   {
     "word": "natural language understanding",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈnætʃ(ə)rəl ˈlæŋɡwɪdʒ ˌʌndəˈstændɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=natural%20language%20understanding&type=1",
-    "phonetic_parts": [],
-    "meaning": "自然语言理解"
+    "phonetic_parts": [
+      "n",
+      "æ",
+      "tʃ",
+      "ə",
+      "r",
+      "ə",
+      "l",
+      "l",
+      "æ",
+      "ŋ",
+      "ɡ",
+      "w",
+      "ɪ",
+      "dʒ",
+      "ʌ",
+      "n",
+      "d",
+      "ə",
+      "s",
+      "t",
+      "æ",
+      "n",
+      "d",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "自然语言理解",
+    "phonetic": "/ˈnætʃ(ə)rəl ˈlæŋɡwɪdʒ ˌʌndəˈstændɪŋ/"
   },
   {
     "word": "neural network",
@@ -2300,10 +2915,42 @@
   },
   {
     "word": "NoSQL or NoSQL Databases",
-    "phonetic_full": "//",
+    "phonetic_full": "/NoSQL ɔː(r) NoSQL ˈdeɪtəˌbeɪsɪz; ˈdætəˌbeɪsɪz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=NoSQL%20or%20NoSQL%20Databases&type=1",
-    "phonetic_parts": [],
-    "meaning": "暂无释义"
+    "phonetic_parts": [
+      "N",
+      "o",
+      "S",
+      "Q",
+      "L",
+      "ɔː",
+      "r",
+      "N",
+      "o",
+      "S",
+      "Q",
+      "L",
+      "d",
+      "eɪ",
+      "t",
+      "ə",
+      "b",
+      "eɪ",
+      "s",
+      "ɪ",
+      "z",
+      "d",
+      "æ",
+      "t",
+      "ə",
+      "b",
+      "eɪ",
+      "s",
+      "ɪ",
+      "z"
+    ],
+    "meaning": "暂无释义",
+    "phonetic": "/NoSQL ɔː(r) NoSQL ˈdeɪtəˌbeɪsɪz; ˈdætəˌbeɪsɪz/"
   },
   {
     "word": "noise",
@@ -2329,10 +2976,35 @@
   },
   {
     "word": "Object-Oriented Programming",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈɒbdʒekt ˈɔːrientɪd ˈprəʊɡræmɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Object-Oriented%20Programming&type=1",
-    "phonetic_parts": [],
-    "meaning": "面向对象编程：一种计算机编程类型，其中程序由相互通信的对象组成，这些对象可以排列成层次结构，并可以组合成其他对象。"
+    "phonetic_parts": [
+      "ɒ",
+      "b",
+      "dʒ",
+      "e",
+      "k",
+      "t",
+      "ɔː",
+      "r",
+      "i",
+      "e",
+      "n",
+      "t",
+      "ɪ",
+      "d",
+      "p",
+      "r",
+      "əʊ",
+      "ɡ",
+      "r",
+      "æ",
+      "m",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "面向对象编程：一种计算机编程类型，其中程序由相互通信的对象组成，这些对象可以排列成层次结构，并可以组合成其他对象。",
+    "phonetic": "/ˈɒbdʒekt ˈɔːrientɪd ˈprəʊɡræmɪŋ/"
   },
   {
     "word": "objective",
@@ -2352,10 +3024,22 @@
   },
   {
     "word": "On-Premises",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɒn ˈpremɪsɪz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=On-Premises&type=1",
-    "phonetic_parts": [],
-    "meaning": "adj．现场的，本地的：指在客户自己的设施内部署和管理软件和硬件，而不是使用云计算服务。"
+    "phonetic_parts": [
+      "ɒ",
+      "n",
+      "p",
+      "r",
+      "e",
+      "m",
+      "ɪ",
+      "s",
+      "ɪ",
+      "z"
+    ],
+    "meaning": "adj．现场的，本地的：指在客户自己的设施内部署和管理软件和硬件，而不是使用云计算服务。",
+    "phonetic": "/ɒn ˈpremɪsɪz/"
   },
   {
     "word": "operator",
@@ -2397,24 +3081,52 @@
   },
   {
     "word": "open source software",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈəʊpən sɔːs ˈsɒftweə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=open%20source%20software&type=1",
-    "phonetic_parts": [],
-    "meaning": "开源软件：指可以公开获取源代码的软件，用户可以自由地使用、修改和分发该软件。"
+    "phonetic_parts": [
+      "əʊ",
+      "p",
+      "ə",
+      "n",
+      "s",
+      "ɔː",
+      "s",
+      "s",
+      "ɒ",
+      "f",
+      "t",
+      "w",
+      "eə"
+    ],
+    "meaning": "开源软件：指可以公开获取源代码的软件，用户可以自由地使用、修改和分发该软件。",
+    "phonetic": "/ˈəʊpən sɔːs ˈsɒftweə/"
   },
   {
     "word": "OOTB",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌəʊ əʊ tiː ˈbiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=OOTB&type=1",
-    "phonetic_parts": [],
-    "meaning": "立即可用的；通用配置"
+    "phonetic_parts": [
+      "əʊ",
+      "əʊ",
+      "t",
+      "iː",
+      "b",
+      "iː"
+    ],
+    "meaning": "立即可用的；通用配置",
+    "phonetic": "/ˌəʊ əʊ tiː ˈbiː/"
   },
   {
     "word": "PaaS",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈpæz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=PaaS&type=1",
-    "phonetic_parts": [],
-    "meaning": "平台即服务（Platform as a Service）"
+    "phonetic_parts": [
+      "p",
+      "æ",
+      "z"
+    ],
+    "meaning": "平台即服务（Platform as a Service）",
+    "phonetic": "/ˈpæz/"
   },
   {
     "word": "package",
@@ -2431,17 +3143,42 @@
   },
   {
     "word": "page template",
-    "phonetic_full": "//",
+    "phonetic_full": "/peɪdʒ ˈtempleɪt/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=page%20template&type=1",
-    "phonetic_parts": [],
-    "meaning": "页面模板"
+    "phonetic_parts": [
+      "p",
+      "eɪ",
+      "dʒ",
+      "t",
+      "e",
+      "m",
+      "p",
+      "l",
+      "eɪ",
+      "t"
+    ],
+    "meaning": "页面模板",
+    "phonetic": "/peɪdʒ ˈtempleɪt/"
   },
   {
     "word": "package manager",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈpækɪdʒ ˈmænɪdʒə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=package%20manager&type=1",
-    "phonetic_parts": [],
-    "meaning": "软件包管理器：一种计算机程序，负责安装、更新和配置其他软件，维护已安装程序的索引并解决它们之间的依赖关系。"
+    "phonetic_parts": [
+      "p",
+      "æ",
+      "k",
+      "ɪ",
+      "dʒ",
+      "m",
+      "æ",
+      "n",
+      "ɪ",
+      "dʒ",
+      "ə"
+    ],
+    "meaning": "软件包管理器：一种计算机程序，负责安装、更新和配置其他软件，维护已安装程序的索引并解决它们之间的依赖关系。",
+    "phonetic": "/ˈpækɪdʒ ˈmænɪdʒə/"
   },
   {
     "word": "parse",
@@ -2456,17 +3193,41 @@
   },
   {
     "word": "performance testing",
-    "phonetic_full": "//",
+    "phonetic_full": "/pəˈfɔːməns ˈtestɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=performance%20testing&type=1",
-    "phonetic_parts": [],
-    "meaning": "性能测试：评估软件、系统或应用在特定工作负载条件下的速度、响应能力、稳定性和可扩展性的过程。"
+    "phonetic_parts": [
+      "p",
+      "ə",
+      "f",
+      "ɔː",
+      "m",
+      "ə",
+      "n",
+      "s",
+      "t",
+      "e",
+      "s",
+      "t",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "性能测试：评估软件、系统或应用在特定工作负载条件下的速度、响应能力、稳定性和可扩展性的过程。",
+    "phonetic": "/pəˈfɔːməns ˈtestɪŋ/"
   },
   {
     "word": "PHP",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌpiː eɪtʃ ˈpiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=PHP&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 个人网页（Personal Home Page）；服务器端编程语言（Professional Hypertext Preprocessor）；菲律宾比索；水解聚丙烯酸胺"
+    "phonetic_parts": [
+      "p",
+      "iː",
+      "eɪ",
+      "tʃ",
+      "p",
+      "iː"
+    ],
+    "meaning": "abbr. 个人网页（Personal Home Page）；服务器端编程语言（Professional Hypertext Preprocessor）；菲律宾比索；水解聚丙烯酸胺",
+    "phonetic": "/ˌpiː eɪtʃ ˈpiː/"
   },
   {
     "word": "pipeline",
@@ -2545,17 +3306,56 @@
   },
   {
     "word": "procedural programming",
-    "phonetic_full": "//",
+    "phonetic_full": "/prəˈsiːdʒərəl ˈprəʊɡræmɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=procedural%20programming&type=1",
-    "phonetic_parts": [],
-    "meaning": "过程式编程：一种编程范式，它将程序分解为一系列顺序执行的过程或函数。过程式编程强调程序的执行顺序和步骤，而不是数据结构和操作。"
+    "phonetic_parts": [
+      "p",
+      "r",
+      "ə",
+      "s",
+      "iː",
+      "dʒ",
+      "ə",
+      "r",
+      "ə",
+      "l",
+      "p",
+      "r",
+      "əʊ",
+      "ɡ",
+      "r",
+      "æ",
+      "m",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "过程式编程：一种编程范式，它将程序分解为一系列顺序执行的过程或函数。过程式编程强调程序的执行顺序和步骤，而不是数据结构和操作。",
+    "phonetic": "/prəˈsiːdʒərəl ˈprəʊɡræmɪŋ/"
   },
   {
     "word": "Process Control Block",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈprəʊses kənˈtrəʊl blɒk/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Process%20Control%20Block&type=1",
-    "phonetic_parts": [],
-    "meaning": "[计] 进程控制块"
+    "phonetic_parts": [
+      "p",
+      "r",
+      "əʊ",
+      "s",
+      "e",
+      "s",
+      "k",
+      "ə",
+      "n",
+      "tr",
+      "əʊ",
+      "l",
+      "b",
+      "l",
+      "ɒ",
+      "k"
+    ],
+    "meaning": "[计] 进程控制块",
+    "phonetic": "/ˈprəʊses kənˈtrəʊl blɒk/"
   },
   {
     "word": "programming",
@@ -2576,17 +3376,53 @@
   },
   {
     "word": "programming language",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈprəʊɡræmɪŋ ˈlæŋɡwɪdʒ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=programming%20language&type=1",
-    "phonetic_parts": [],
-    "meaning": "编程语言：用于编写计算机程序的各种高级语言。"
+    "phonetic_parts": [
+      "p",
+      "r",
+      "əʊ",
+      "ɡ",
+      "r",
+      "æ",
+      "m",
+      "ɪ",
+      "ŋ",
+      "l",
+      "æ",
+      "ŋ",
+      "ɡ",
+      "w",
+      "ɪ",
+      "dʒ"
+    ],
+    "meaning": "编程语言：用于编写计算机程序的各种高级语言。",
+    "phonetic": "/ˈprəʊɡræmɪŋ ˈlæŋɡwɪdʒ/"
   },
   {
     "word": "programming paradigm",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈprəʊɡræmɪŋ ˈpærədaɪm/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=programming%20paradigm&type=1",
-    "phonetic_parts": [],
-    "meaning": "编程范型（编程范型是软件工程中的典型编程风格，包括函数式、指令式、过程式、面向对象等）"
+    "phonetic_parts": [
+      "p",
+      "r",
+      "əʊ",
+      "ɡ",
+      "r",
+      "æ",
+      "m",
+      "ɪ",
+      "ŋ",
+      "p",
+      "æ",
+      "r",
+      "ə",
+      "d",
+      "aɪ",
+      "m"
+    ],
+    "meaning": "编程范型（编程范型是软件工程中的典型编程风格，包括函数式、指令式、过程式、面向对象等）",
+    "phonetic": "/ˈprəʊɡræmɪŋ ˈpærədaɪm/"
   },
   {
     "word": "promise",
@@ -2709,10 +3545,18 @@
   },
   {
     "word": "RAML",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌɑː eɪ em ˈel/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=RAML&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. RESTful API Modeling Language（RAML）：一种用于描述RESTful API的建模语言，它使得开发者能够更容易地设计、构建和共享API。"
+    "phonetic_parts": [
+      "ɑː",
+      "eɪ",
+      "e",
+      "m",
+      "e",
+      "l"
+    ],
+    "meaning": "n. RESTful API Modeling Language（RAML）：一种用于描述RESTful API的建模语言，它使得开发者能够更容易地设计、构建和共享API。",
+    "phonetic": "/ˌɑː eɪ em ˈel/"
   },
   {
     "word": "redirects",
@@ -2752,10 +3596,22 @@
   },
   {
     "word": "ruby on rails",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈruːbi ɒn ˈreɪlz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=ruby%20on%20rails&type=1",
-    "phonetic_parts": [],
-    "meaning": "开发工程师；ROR教程；在路轨的红宝石；开发；由浅入深；由浅入深；由浅入深；大公司对于；在路轨意大利的红宝石"
+    "phonetic_parts": [
+      "r",
+      "uː",
+      "b",
+      "i",
+      "ɒ",
+      "n",
+      "r",
+      "eɪ",
+      "l",
+      "z"
+    ],
+    "meaning": "开发工程师；ROR教程；在路轨的红宝石；开发；由浅入深；由浅入深；由浅入深；大公司对于；在路轨意大利的红宝石",
+    "phonetic": "/ˈruːbi ɒn ˈreɪlz/"
   },
   {
     "word": "recursion",
@@ -2794,17 +3650,44 @@
   },
   {
     "word": "regular expression",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈreɡjələ(r) ɪkˈspreʃ(ə)n/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=regular%20expression&type=1",
-    "phonetic_parts": [],
-    "meaning": "正则表达式：计算机理论中对正则形式语言的简洁描述，用于文本匹配或搜索的模式。"
+    "phonetic_parts": [
+      "r",
+      "e",
+      "ɡ",
+      "j",
+      "ə",
+      "l",
+      "ə",
+      "r",
+      "ɪ",
+      "k",
+      "s",
+      "p",
+      "r",
+      "e",
+      "ʃ",
+      "ə",
+      "n"
+    ],
+    "meaning": "正则表达式：计算机理论中对正则形式语言的简洁描述，用于文本匹配或搜索的模式。",
+    "phonetic": "/ˈreɡjələ(r) ɪkˈspreʃ(ə)n/"
   },
   {
     "word": "REPL",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌɑː iː piː ˈel/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=REPL&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 交互式解释器，读取﹣求值﹣输出循环（read-eval-print loop）"
+    "phonetic_parts": [
+      "ɑː",
+      "iː",
+      "p",
+      "iː",
+      "e",
+      "l"
+    ],
+    "meaning": "abbr. 交互式解释器，读取﹣求值﹣输出循环（read-eval-print loop）",
+    "phonetic": "/ˌɑː iː piː ˈel/"
   },
   {
     "word": "REST",
@@ -2820,24 +3703,56 @@
   },
   {
     "word": "RESTful Web Services",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈrestfl web ˈsɜːvɪsɪz/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=RESTful%20Web%20Services&type=1",
-    "phonetic_parts": [],
-    "meaning": "服务；入门"
+    "phonetic_parts": [
+      "r",
+      "e",
+      "s",
+      "t",
+      "f",
+      "l",
+      "w",
+      "e",
+      "b",
+      "s",
+      "ɜː",
+      "v",
+      "ɪ",
+      "s",
+      "ɪ",
+      "z"
+    ],
+    "meaning": "服务；入门",
+    "phonetic": "/ˈrestfl web ˈsɜːvɪsɪz/"
   },
   {
     "word": "SaaS",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsæs/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SaaS&type=1",
-    "phonetic_parts": [],
-    "meaning": "软件即服务（Software as a Service）"
+    "phonetic_parts": [
+      "s",
+      "æ",
+      "s"
+    ],
+    "meaning": "软件即服务（Software as a Service）",
+    "phonetic": "/ˈsæs/"
   },
   {
     "word": "SAML",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌes eɪ em ˈel/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SAML&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 安全声明标记语言（Security Assertion Markup Language）"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "eɪ",
+      "e",
+      "m",
+      "e",
+      "l"
+    ],
+    "meaning": "abbr. 安全声明标记语言（Security Assertion Markup Language）",
+    "phonetic": "/ˌes eɪ em ˈel/"
   },
   {
     "word": "sandbox",
@@ -2857,10 +3772,20 @@
   },
   {
     "word": "SDLC",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌes diː el ˈsiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SDLC&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 同步资料链路控制（Sychronous Data Line Control）；系统开发生命周期（Systems Development Life Cycle）"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "d",
+      "iː",
+      "e",
+      "l",
+      "s",
+      "iː"
+    ],
+    "meaning": "abbr. 同步资料链路控制（Sychronous Data Line Control）；系统开发生命周期（Systems Development Life Cycle）",
+    "phonetic": "/ˌes diː el ˈsiː/"
   },
   {
     "word": "server",
@@ -2876,10 +3801,24 @@
   },
   {
     "word": "sequence model",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsiːkwəns ˈmɒd(ə)l/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=sequence%20model&type=1",
-    "phonetic_parts": [],
-    "meaning": "序列模型"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "k",
+      "w",
+      "ə",
+      "n",
+      "s",
+      "m",
+      "ɒ",
+      "d",
+      "ə",
+      "l"
+    ],
+    "meaning": "序列模型",
+    "phonetic": "/ˈsiːkwəns ˈmɒd(ə)l/"
   },
   {
     "word": "setter",
@@ -2896,17 +3835,31 @@
   },
   {
     "word": "sitemap",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsaɪtmæp/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=sitemap&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 网站地图"
+    "phonetic_parts": [
+      "s",
+      "aɪ",
+      "t",
+      "m",
+      "æ",
+      "p"
+    ],
+    "meaning": "n. 网站地图",
+    "phonetic": "/ˈsaɪtmæp/"
   },
   {
     "word": "SOA",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌes əʊ ˈeɪ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SOA&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 前进速度（speed of advance ）；工艺现状（state of the art）；进场著陆速度（speed of approach）；面向服务的体系架构（service-oriented architecture）；北美精算师协会（Society of Actuaries）"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "əʊ",
+      "eɪ"
+    ],
+    "meaning": "abbr. 前进速度（speed of advance ）；工艺现状（state of the art）；进场著陆速度（speed of approach）；面向服务的体系架构（service-oriented architecture）；北美精算师协会（Society of Actuaries）",
+    "phonetic": "/ˌes əʊ ˈeɪ/"
   },
   {
     "word": "SOAP",
@@ -2934,24 +3887,75 @@
   },
   {
     "word": "Software architecture",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsɒftweə ˈɑːkɪtektʃə(r)/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Software%20architecture&type=1",
-    "phonetic_parts": [],
-    "meaning": "软件架构：用于理解给定软件系统的结构集合。"
+    "phonetic_parts": [
+      "s",
+      "ɒ",
+      "f",
+      "t",
+      "w",
+      "eə",
+      "ɑː",
+      "k",
+      "ɪ",
+      "t",
+      "e",
+      "k",
+      "tʃ",
+      "ə",
+      "r"
+    ],
+    "meaning": "软件架构：用于理解给定软件系统的结构集合。",
+    "phonetic": "/ˈsɒftweə ˈɑːkɪtektʃə(r)/"
   },
   {
     "word": "Software Engineering",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsɒftweə ˌendʒɪˈnɪərɪŋ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Software%20Engineering&type=1",
-    "phonetic_parts": [],
-    "meaning": "软件工程：计算机科学的一个分支，涉及复杂计算机程序的设计、实现和维护。"
+    "phonetic_parts": [
+      "s",
+      "ɒ",
+      "f",
+      "t",
+      "w",
+      "eə",
+      "e",
+      "n",
+      "dʒ",
+      "ɪ",
+      "n",
+      "ɪə",
+      "r",
+      "ɪ",
+      "ŋ"
+    ],
+    "meaning": "软件工程：计算机科学的一个分支，涉及复杂计算机程序的设计、实现和维护。",
+    "phonetic": "/ˈsɒftweə ˌendʒɪˈnɪərɪŋ/"
   },
   {
     "word": "Software integration",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsɒftweə ˌɪntɪˈɡreɪʃn/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Software%20integration&type=1",
-    "phonetic_parts": [],
-    "meaning": "软件集成：将多个软件组件或子系统组合成一个统一的系统的过程，以实现特定的功能或优化性能。"
+    "phonetic_parts": [
+      "s",
+      "ɒ",
+      "f",
+      "t",
+      "w",
+      "eə",
+      "ɪ",
+      "n",
+      "t",
+      "ɪ",
+      "ɡ",
+      "r",
+      "eɪ",
+      "ʃ",
+      "n"
+    ],
+    "meaning": "软件集成：将多个软件组件或子系统组合成一个统一的系统的过程，以实现特定的功能或优化性能。",
+    "phonetic": "/ˈsɒftweə ˌɪntɪˈɡreɪʃn/"
   },
   {
     "word": "Source Code",
@@ -2969,17 +3973,33 @@
   },
   {
     "word": "SQL",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsiːkwəl/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SQL&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 结构化查询语言（Structured Query Language）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "k",
+      "w",
+      "ə",
+      "l"
+    ],
+    "meaning": "abbr. 结构化查询语言（Structured Query Language）",
+    "phonetic": "/ˈsiːkwəl/"
   },
   {
     "word": "SSL",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌes es ˈel/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SSL&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 加密套接字协议层（一种加密的通讯协定，用在使用者与网服器之间，Security Socket Layer）"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "e",
+      "s",
+      "e",
+      "l"
+    ],
+    "meaning": "abbr. 加密套接字协议层（一种加密的通讯协定，用在使用者与网服器之间，Security Socket Layer）",
+    "phonetic": "/ˌes es ˈel/"
   },
   {
     "word": "stack",
@@ -3064,24 +4084,57 @@
   },
   {
     "word": "subexpression",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌsʌbɪkˈspreʃn/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=subexpression&type=1",
-    "phonetic_parts": [],
-    "meaning": "[计] 子表达式"
+    "phonetic_parts": [
+      "s",
+      "ʌ",
+      "b",
+      "ɪ",
+      "k",
+      "s",
+      "p",
+      "r",
+      "e",
+      "ʃ",
+      "n"
+    ],
+    "meaning": "[计] 子表达式",
+    "phonetic": "/ˌsʌbɪkˈspreʃn/"
   },
   {
     "word": "subnet mask",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsʌbnet mɑːsk/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=subnet%20mask&type=1",
-    "phonetic_parts": [],
-    "meaning": "子网掩码：在计算机网络中用于划分IP地址的一部分，通过与IP地址进行逻辑与运算，可以确定网络地址和主机地址。"
+    "phonetic_parts": [
+      "s",
+      "ʌ",
+      "b",
+      "n",
+      "e",
+      "t",
+      "m",
+      "ɑː",
+      "s",
+      "k"
+    ],
+    "meaning": "子网掩码：在计算机网络中用于划分IP地址的一部分，通过与IP地址进行逻辑与运算，可以确定网络地址和主机地址。",
+    "phonetic": "/ˈsʌbnet mɑːsk/"
   },
   {
     "word": "SVG",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌes viː ˈdʒiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SVG&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 可伸缩向量图形（Scalable Vector Graphics）；隐静脉移植物（Saphenous Vein Graft）"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "v",
+      "iː",
+      "dʒ",
+      "iː"
+    ],
+    "meaning": "abbr. 可伸缩向量图形（Scalable Vector Graphics）；隐静脉移植物（Saphenous Vein Graft）",
+    "phonetic": "/ˌes viː ˈdʒiː/"
   },
   {
     "word": "syntax",
@@ -3120,24 +4173,54 @@
   },
   {
     "word": "SRE",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌes ɑː ˈiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=SRE&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 串联继电器（Series Relay）；钠冷却实验性反应堆（Sodium Reactor Experiment）；监视雷达设备（Surveillance Radar Equipment）"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "ɑː",
+      "iː"
+    ],
+    "meaning": "abbr. 串联继电器（Series Relay）；钠冷却实验性反应堆（Sodium Reactor Experiment）；监视雷达设备（Surveillance Radar Equipment）",
+    "phonetic": "/ˌes ɑː ˈiː/"
   },
   {
     "word": "TCP",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌtiː siː ˈpiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=TCP&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 传输控制协议（Transmission Control Protocol）；终端控制协议（Terminal Control Protocol）；技术合作计划（Technical Cooperation Programme）"
+    "phonetic_parts": [
+      "t",
+      "iː",
+      "s",
+      "iː",
+      "p",
+      "iː"
+    ],
+    "meaning": "abbr. 传输控制协议（Transmission Control Protocol）；终端控制协议（Terminal Control Protocol）；技术合作计划（Technical Cooperation Programme）",
+    "phonetic": "/ˌtiː siː ˈpiː/"
   },
   {
     "word": "tenary operator",
-    "phonetic_full": "//",
+    "phonetic_full": "/tenary ˈɒpəreɪtə(r)/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=tenary%20operator&type=1",
-    "phonetic_parts": [],
-    "meaning": "暂无释义"
+    "phonetic_parts": [
+      "t",
+      "e",
+      "n",
+      "a",
+      "r",
+      "y",
+      "ɒ",
+      "p",
+      "ə",
+      "r",
+      "eɪ",
+      "t",
+      "ə",
+      "r"
+    ],
+    "meaning": "暂无释义",
+    "phonetic": "/tenary ˈɒpəreɪtə(r)/"
   },
   {
     "word": "testing",
@@ -3155,10 +4238,25 @@
   },
   {
     "word": "testing framework",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈtestɪŋ ˈfreɪmwɜːk/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=testing%20framework&type=1",
-    "phonetic_parts": [],
-    "meaning": "测试框架"
+    "phonetic_parts": [
+      "t",
+      "e",
+      "s",
+      "t",
+      "ɪ",
+      "ŋ",
+      "f",
+      "r",
+      "eɪ",
+      "m",
+      "w",
+      "ɜː",
+      "k"
+    ],
+    "meaning": "测试框架",
+    "phonetic": "/ˈtestɪŋ ˈfreɪmwɜːk/"
   },
   {
     "word": "text editor",
@@ -3242,10 +4340,17 @@
   },
   {
     "word": "UAT",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌjuː eɪ ˈtiː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=UAT&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. （法）联合海空运输公司（Union Aéromaritime de Transport）；用户验收测试（User Acceptance Testing）"
+    "phonetic_parts": [
+      "j",
+      "uː",
+      "eɪ",
+      "t",
+      "iː"
+    ],
+    "meaning": "abbr. （法）联合海空运输公司（Union Aéromaritime de Transport）；用户验收测试（User Acceptance Testing）",
+    "phonetic": "/ˌjuː eɪ ˈtiː/"
   },
   {
     "word": "unit testing",
@@ -3268,17 +4373,43 @@
   },
   {
     "word": "unix",
-    "phonetic_full": "//",
+    "phonetic_full": "/juː en aɪ eks/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=unix&type=1",
-    "phonetic_parts": [],
-    "meaning": "操作系统；Single UNIX Specification；档案系统；Advanced Programming in the UNIX Environment；The Art of UNIX Programming；Unix System Laboratories；unix file system；单一UNIX规范；Unix系统实验室；时间戳"
+    "phonetic_parts": [
+      "j",
+      "uː",
+      "e",
+      "n",
+      "aɪ",
+      "e",
+      "k",
+      "s"
+    ],
+    "meaning": "操作系统；Single UNIX Specification；档案系统；Advanced Programming in the UNIX Environment；The Art of UNIX Programming；Unix System Laboratories；unix file system；单一UNIX规范；Unix系统实验室；时间戳",
+    "phonetic": "/juː en aɪ eks/"
   },
   {
     "word": "unary operator",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈjuːnəri ˈɒpəreɪtə(r)/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=unary%20operator&type=1",
-    "phonetic_parts": [],
-    "meaning": "一元运算符：代表一元操作的符号，即只接受一个操作数的运算符。"
+    "phonetic_parts": [
+      "j",
+      "uː",
+      "n",
+      "ə",
+      "r",
+      "i",
+      "ɒ",
+      "p",
+      "ə",
+      "r",
+      "eɪ",
+      "t",
+      "ə",
+      "r"
+    ],
+    "meaning": "一元运算符：代表一元操作的符号，即只接受一个操作数的运算符。",
+    "phonetic": "/ˈjuːnəri ˈɒpəreɪtə(r)/"
   },
   {
     "word": "URI",
@@ -3309,10 +4440,28 @@
   },
   {
     "word": "Version Control System",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈvɜːʃn kənˈtrəʊl ˈsɪstəm/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=Version%20Control%20System&type=1",
-    "phonetic_parts": [],
-    "meaning": "版本控制系统"
+    "phonetic_parts": [
+      "v",
+      "ɜː",
+      "ʃ",
+      "n",
+      "k",
+      "ə",
+      "n",
+      "tr",
+      "əʊ",
+      "l",
+      "s",
+      "ɪ",
+      "s",
+      "t",
+      "ə",
+      "m"
+    ],
+    "meaning": "版本控制系统",
+    "phonetic": "/ˈvɜːʃn kənˈtrəʊl ˈsɪstəm/"
   },
   {
     "word": "Visual Basic",
@@ -3335,52 +4484,143 @@
   },
   {
     "word": "web browser",
-    "phonetic_full": "//",
+    "phonetic_full": "/web ˈbraʊzə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=web%20browser&type=1",
-    "phonetic_parts": [],
-    "meaning": "浏览器"
+    "phonetic_parts": [
+      "w",
+      "e",
+      "b",
+      "b",
+      "r",
+      "aʊ",
+      "z",
+      "ə"
+    ],
+    "meaning": "浏览器",
+    "phonetic": "/web ˈbraʊzə/"
   },
   {
     "word": "web components",
-    "phonetic_full": "//",
+    "phonetic_full": "/web kəmˈpəʊnənts/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=web%20components&type=1",
-    "phonetic_parts": [],
-    "meaning": "web 组件"
+    "phonetic_parts": [
+      "w",
+      "e",
+      "b",
+      "k",
+      "ə",
+      "m",
+      "p",
+      "əʊ",
+      "n",
+      "ə",
+      "n",
+      "ts"
+    ],
+    "meaning": "web 组件",
+    "phonetic": "/web kəmˈpəʊnənts/"
   },
   {
     "word": "webhooks",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdʌbljuː iː biː eɪtʃ əʊ əʊ keɪ es/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=webhooks&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 网络钩子（webhook 的复数）"
+    "phonetic_parts": [
+      "d",
+      "ʌ",
+      "b",
+      "l",
+      "j",
+      "uː",
+      "iː",
+      "b",
+      "iː",
+      "eɪ",
+      "tʃ",
+      "əʊ",
+      "əʊ",
+      "k",
+      "eɪ",
+      "e",
+      "s"
+    ],
+    "meaning": "n. 网络钩子（webhook 的复数）",
+    "phonetic": "/ˈdʌbljuː iː biː eɪtʃ əʊ əʊ keɪ es/"
   },
   {
     "word": "WebRTC",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdʌbljuː iː biː ɑː tiː siː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=WebRTC&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. Web实时通信（Web Real-Time Communication）：一种允许网页浏览器进行实时音视频通话和数据共享的开放源代码项目。通过使用简单的JavaScript API，开发人员可以在不需要插件或第三方软件的情况下，在浏览器之间建立点对点（P2P）连接。"
+    "phonetic_parts": [
+      "d",
+      "ʌ",
+      "b",
+      "l",
+      "j",
+      "uː",
+      "iː",
+      "b",
+      "iː",
+      "ɑː",
+      "t",
+      "iː",
+      "s",
+      "iː"
+    ],
+    "meaning": "n. Web实时通信（Web Real-Time Communication）：一种允许网页浏览器进行实时音视频通话和数据共享的开放源代码项目。通过使用简单的JavaScript API，开发人员可以在不需要插件或第三方软件的情况下，在浏览器之间建立点对点（P2P）连接。",
+    "phonetic": "/ˈdʌbljuː iː biː ɑː tiː siː/"
   },
   {
     "word": "web server",
-    "phonetic_full": "//",
+    "phonetic_full": "/web ˈsɜːvə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=web%20server&type=1",
-    "phonetic_parts": [],
-    "meaning": "网络服务器：一种软件，用于向浏览器传递网页和其他文档的服务器。"
+    "phonetic_parts": [
+      "w",
+      "e",
+      "b",
+      "s",
+      "ɜː",
+      "v",
+      "ə"
+    ],
+    "meaning": "网络服务器：一种软件，用于向浏览器传递网页和其他文档的服务器。",
+    "phonetic": "/web ˈsɜːvə/"
   },
   {
     "word": "web service",
-    "phonetic_full": "//",
+    "phonetic_full": "/web ˈsɜːvɪs/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=web%20service&type=1",
-    "phonetic_parts": [],
-    "meaning": "网络服务：一种通过网络提供的软件系统，可以通过标准化的协议进行访问和交互。"
+    "phonetic_parts": [
+      "w",
+      "e",
+      "b",
+      "s",
+      "ɜː",
+      "v",
+      "ɪ",
+      "s"
+    ],
+    "meaning": "网络服务：一种通过网络提供的软件系统，可以通过标准化的协议进行访问和交互。",
+    "phonetic": "/web ˈsɜːvɪs/"
   },
   {
     "word": "XHTML",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌeks eɪtʃ tiː em ˈel/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=XHTML&type=1",
-    "phonetic_parts": [],
-    "meaning": "abbr. 扩展超文本标识语言（The Extensible HyperText Markup Language）；结构层代码"
+    "phonetic_parts": [
+      "e",
+      "k",
+      "s",
+      "eɪ",
+      "tʃ",
+      "t",
+      "iː",
+      "e",
+      "m",
+      "e",
+      "l"
+    ],
+    "meaning": "abbr. 扩展超文本标识语言（The Extensible HyperText Markup Language）；结构层代码",
+    "phonetic": "/ˌeks eɪtʃ tiː em ˈel/"
   },
   {
     "word": "XML",
@@ -3399,10 +4639,19 @@
   },
   {
     "word": "YAML",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌwaɪ eɪ em ˈel/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=YAML&type=1",
-    "phonetic_parts": [],
-    "meaning": "另一种标记语言（Yet Another Markup Language）"
+    "phonetic_parts": [
+      "w",
+      "aɪ",
+      "eɪ",
+      "e",
+      "m",
+      "e",
+      "l"
+    ],
+    "meaning": "另一种标记语言（Yet Another Markup Language）",
+    "phonetic": "/ˌwaɪ eɪ em ˈel/"
   },
   {
     "word": "yarn",
@@ -4813,17 +6062,48 @@
   },
   {
     "word": "caveats",
-    "phonetic_full": "//",
+    "phonetic_full": "/siː eɪ viː iː eɪ tiː es/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=caveats&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 警告；说明（caveat 的复数）"
+    "phonetic_parts": [
+      "s",
+      "iː",
+      "eɪ",
+      "v",
+      "iː",
+      "iː",
+      "eɪ",
+      "t",
+      "iː",
+      "e",
+      "s"
+    ],
+    "meaning": "n. 警告；说明（caveat 的复数）",
+    "phonetic": "/siː eɪ viː iː eɪ tiː es/"
   },
   {
     "word": "catastrophic failover",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˌkætəˈstrɒfɪk ˈfeɪləʊvə/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=catastrophic%20failover&type=1",
-    "phonetic_parts": [],
-    "meaning": "暂无释义"
+    "phonetic_parts": [
+      "k",
+      "æ",
+      "t",
+      "ə",
+      "s",
+      "tr",
+      "ɒ",
+      "f",
+      "ɪ",
+      "k",
+      "f",
+      "eɪ",
+      "l",
+      "əʊ",
+      "v",
+      "ə"
+    ],
+    "meaning": "暂无释义",
+    "phonetic": "/ˌkætəˈstrɒfɪk ˈfeɪləʊvə/"
   },
   {
     "word": "colon",
@@ -4947,10 +6227,22 @@
   },
   {
     "word": "curly brackets",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈkɜːli ˈbrækɪts/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=curly%20brackets&type=1",
-    "phonetic_parts": [],
-    "meaning": "花括号：一种用于表示集合、数组、代码块等的符号，通常由左右两个弯曲的大括号组成。"
+    "phonetic_parts": [
+      "k",
+      "ɜː",
+      "l",
+      "i",
+      "b",
+      "r",
+      "æ",
+      "k",
+      "ɪ",
+      "ts"
+    ],
+    "meaning": "花括号：一种用于表示集合、数组、代码块等的符号，通常由左右两个弯曲的大括号组成。",
+    "phonetic": "/ˈkɜːli ˈbrækɪts/"
   },
   {
     "word": "customized",
@@ -4971,10 +6263,28 @@
   },
   {
     "word": "data sovereignty",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdeɪtə; ˈdɑːtə ˈsɒvrənti/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=data%20sovereignty&type=1",
-    "phonetic_parts": [],
-    "meaning": "数据主权：指一个国家或组织对其所产生、收集、存储、处理的数据拥有完全的控制权和所有权。"
+    "phonetic_parts": [
+      "d",
+      "eɪ",
+      "t",
+      "ə",
+      "d",
+      "ɑː",
+      "t",
+      "ə",
+      "s",
+      "ɒ",
+      "v",
+      "r",
+      "ə",
+      "n",
+      "t",
+      "i"
+    ],
+    "meaning": "数据主权：指一个国家或组织对其所产生、收集、存储、处理的数据拥有完全的控制权和所有权。",
+    "phonetic": "/ˈdeɪtə; ˈdɑːtə ˈsɒvrənti/"
   },
   {
     "word": "cost efficient",
@@ -5007,10 +6317,23 @@
   },
   {
     "word": "dead letter queue",
-    "phonetic_full": "//",
+    "phonetic_full": "/ded ˈletə(r) kjuː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=dead%20letter%20queue&type=1",
-    "phonetic_parts": [],
-    "meaning": "死信队列：在消息队列中，死信队列（DLQ）是一种服务实现，用于存储消息，这些消息无法或不应该被消息系统传递。"
+    "phonetic_parts": [
+      "d",
+      "e",
+      "d",
+      "l",
+      "e",
+      "t",
+      "ə",
+      "r",
+      "k",
+      "j",
+      "uː"
+    ],
+    "meaning": "死信队列：在消息队列中，死信队列（DLQ）是一种服务实现，用于存储消息，这些消息无法或不应该被消息系统传递。",
+    "phonetic": "/ded ˈletə(r) kjuː/"
   },
   {
     "word": "decouple",
@@ -5180,24 +6503,63 @@
   },
   {
     "word": "dollar sign",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdɒlə(r) saɪn/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=dollar%20sign&type=1",
-    "phonetic_parts": [],
-    "meaning": "美元符号：放在数字前面表示代表美元的符号。"
+    "phonetic_parts": [
+      "d",
+      "ɒ",
+      "l",
+      "ə",
+      "r",
+      "s",
+      "aɪ",
+      "n"
+    ],
+    "meaning": "美元符号：放在数字前面表示代表美元的符号。",
+    "phonetic": "/ˈdɒlə(r) saɪn/"
   },
   {
     "word": "double quotation mark",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdʌb(ə)l kwəʊˈteɪʃ(ə)n mɑːk/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=double%20quotation%20mark&type=1",
-    "phonetic_parts": [],
-    "meaning": "双引号"
+    "phonetic_parts": [
+      "d",
+      "ʌ",
+      "b",
+      "ə",
+      "l",
+      "k",
+      "w",
+      "əʊ",
+      "t",
+      "eɪ",
+      "ʃ",
+      "ə",
+      "n",
+      "m",
+      "ɑː",
+      "k"
+    ],
+    "meaning": "双引号",
+    "phonetic": "/ˈdʌb(ə)l kwəʊˈteɪʃ(ə)n mɑːk/"
   },
   {
     "word": "downwards arrow",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈdaʊnwədz ˈærəʊ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=downwards%20arrow&type=1",
-    "phonetic_parts": [],
-    "meaning": "向下箭头"
+    "phonetic_parts": [
+      "d",
+      "aʊ",
+      "n",
+      "w",
+      "ə",
+      "dz",
+      "æ",
+      "r",
+      "əʊ"
+    ],
+    "meaning": "向下箭头",
+    "phonetic": "/ˈdaʊnwədz ˈærəʊ/"
   },
   {
     "word": "efficiency",
@@ -5370,10 +6732,22 @@
   },
   {
     "word": "faceted search",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈfæsɪtɪd sɜːtʃ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=faceted%20search&type=1",
-    "phonetic_parts": [],
-    "meaning": "多维搜索：一种允许用户通过多个筛选条件对搜索结果进行筛选的搜索技术，以便更快速地找到所需信息。"
+    "phonetic_parts": [
+      "f",
+      "æ",
+      "s",
+      "ɪ",
+      "t",
+      "ɪ",
+      "d",
+      "s",
+      "ɜː",
+      "tʃ"
+    ],
+    "meaning": "多维搜索：一种允许用户通过多个筛选条件对搜索结果进行筛选的搜索技术，以便更快速地找到所需信息。",
+    "phonetic": "/ˈfæsɪtɪd sɜːtʃ/"
   },
   {
     "word": "failover",
@@ -5391,17 +6765,44 @@
   },
   {
     "word": "false positive",
-    "phonetic_full": "//",
+    "phonetic_full": "/fɔːls ˈpɒzətɪv/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=false%20positive&type=1",
-    "phonetic_parts": [],
-    "meaning": "假阳性：在检测或诊断过程中，错误地将不存在的问题或病状判断为存在的现象。"
+    "phonetic_parts": [
+      "f",
+      "ɔː",
+      "l",
+      "s",
+      "p",
+      "ɒ",
+      "z",
+      "ə",
+      "t",
+      "ɪ",
+      "v"
+    ],
+    "meaning": "假阳性：在检测或诊断过程中，错误地将不存在的问题或病状判断为存在的现象。",
+    "phonetic": "/fɔːls ˈpɒzətɪv/"
   },
   {
     "word": "fault tolerance",
-    "phonetic_full": "//",
+    "phonetic_full": "/fɔːlt ˈtɒlərəns/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=fault%20tolerance&type=1",
-    "phonetic_parts": [],
-    "meaning": "容错性：与计算机或程序相关的具有自包含备份系统的设备或程序，当主要组件发生故障时，可以继续运行的能力。"
+    "phonetic_parts": [
+      "f",
+      "ɔː",
+      "l",
+      "t",
+      "t",
+      "ɒ",
+      "l",
+      "ə",
+      "r",
+      "ə",
+      "n",
+      "s"
+    ],
+    "meaning": "容错性：与计算机或程序相关的具有自包含备份系统的设备或程序，当主要组件发生故障时，可以继续运行的能力。",
+    "phonetic": "/fɔːlt ˈtɒlərəns/"
   },
   {
     "word": "federation",
@@ -5469,17 +6870,46 @@
   },
   {
     "word": "failback",
-    "phonetic_full": "//",
+    "phonetic_full": "/ef eɪ aɪ el biː eɪ siː keɪ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=failback&type=1",
-    "phonetic_parts": [],
-    "meaning": "出故障时自动恢复"
+    "phonetic_parts": [
+      "e",
+      "f",
+      "eɪ",
+      "aɪ",
+      "e",
+      "l",
+      "b",
+      "iː",
+      "eɪ",
+      "s",
+      "iː",
+      "k",
+      "eɪ"
+    ],
+    "meaning": "出故障时自动恢复",
+    "phonetic": "/ef eɪ aɪ el biː eɪ siː keɪ/"
   },
   {
     "word": "greater than",
-    "phonetic_full": "//",
+    "phonetic_full": "/greɪtə(r) ðæn; ðən/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=greater%20than&type=1",
-    "phonetic_parts": [],
-    "meaning": "大于：表示一个数值或数量比另一个数值或数量大。"
+    "phonetic_parts": [
+      "g",
+      "r",
+      "eɪ",
+      "t",
+      "ə",
+      "r",
+      "ð",
+      "æ",
+      "n",
+      "ð",
+      "ə",
+      "n"
+    ],
+    "meaning": "大于：表示一个数值或数量比另一个数值或数量大。",
+    "phonetic": "/greɪtə(r) ðæn; ðən/"
   },
   {
     "word": "guid",
@@ -5788,10 +7218,19 @@
   },
   {
     "word": "left arrow",
-    "phonetic_full": "//",
+    "phonetic_full": "/left ˈærəʊ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=left%20arrow&type=1",
-    "phonetic_parts": [],
-    "meaning": "左箭头：指向左边的箭头符号。"
+    "phonetic_parts": [
+      "l",
+      "e",
+      "f",
+      "t",
+      "æ",
+      "r",
+      "əʊ"
+    ],
+    "meaning": "左箭头：指向左边的箭头符号。",
+    "phonetic": "/left ˈærəʊ/"
   },
   {
     "word": "less than",
@@ -6004,10 +7443,20 @@
   },
   {
     "word": "on premise",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɒn ˈpremɪs/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=on%20premise&type=1",
-    "phonetic_parts": [],
-    "meaning": "企业预置型"
+    "phonetic_parts": [
+      "ɒ",
+      "n",
+      "p",
+      "r",
+      "e",
+      "m",
+      "ɪ",
+      "s"
+    ],
+    "meaning": "企业预置型",
+    "phonetic": "/ɒn ˈpremɪs/"
   },
   {
     "word": "optimize",
@@ -6148,10 +7597,26 @@
   },
   {
     "word": "polyfill",
-    "phonetic_full": "//",
+    "phonetic_full": "/piː əʊ el waɪ ef aɪ el el/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=polyfill&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 一种用于衣物、床具等的聚酯填充材料，使这些物品更加温暖舒适"
+    "phonetic_parts": [
+      "p",
+      "iː",
+      "əʊ",
+      "e",
+      "l",
+      "w",
+      "aɪ",
+      "e",
+      "f",
+      "aɪ",
+      "e",
+      "l",
+      "e",
+      "l"
+    ],
+    "meaning": "n. 一种用于衣物、床具等的聚酯填充材料，使这些物品更加温暖舒适",
+    "phonetic": "/piː əʊ el waɪ ef aɪ el el/"
   },
   {
     "word": "populate",
@@ -6296,10 +7761,24 @@
   },
   {
     "word": "redacted",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɑː iː diː eɪ siː tiː iː diː/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=redacted&type=1",
-    "phonetic_parts": [],
-    "meaning": "adj. 经过编辑的；有修改的；v. 编辑，修改（文本）；审查（redact 的过去式和过去分词）"
+    "phonetic_parts": [
+      "ɑː",
+      "iː",
+      "d",
+      "iː",
+      "eɪ",
+      "s",
+      "iː",
+      "t",
+      "iː",
+      "iː",
+      "d",
+      "iː"
+    ],
+    "meaning": "adj. 经过编辑的；有修改的；v. 编辑，修改（文本）；审查（redact 的过去式和过去分词）",
+    "phonetic": "/ɑː iː diː eɪ siː tiː iː diː/"
   },
   {
     "word": "reliability",
@@ -6339,10 +7818,24 @@
   },
   {
     "word": "replicas",
-    "phonetic_full": "//",
+    "phonetic_full": "/ɑː iː piː el aɪ siː eɪ es/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=replicas&type=1",
-    "phonetic_parts": [],
-    "meaning": "[古] 复制品；复型"
+    "phonetic_parts": [
+      "ɑː",
+      "iː",
+      "p",
+      "iː",
+      "e",
+      "l",
+      "aɪ",
+      "s",
+      "iː",
+      "eɪ",
+      "e",
+      "s"
+    ],
+    "meaning": "[古] 复制品；复型",
+    "phonetic": "/ɑː iː piː el aɪ siː eɪ es/"
   },
   {
     "word": "resilient",
@@ -6441,10 +7934,17 @@
   },
   {
     "word": "roll off",
-    "phonetic_full": "//",
+    "phonetic_full": "/rəʊl ɒf/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=roll%20off&type=1",
-    "phonetic_parts": [],
-    "meaning": "转降，辗轧；印出，复印出；从…复印出"
+    "phonetic_parts": [
+      "r",
+      "əʊ",
+      "l",
+      "ɒ",
+      "f"
+    ],
+    "meaning": "转降，辗轧；印出，复印出；从…复印出",
+    "phonetic": "/rəʊl ɒf/"
   },
   {
     "word": "roll out",
@@ -6586,17 +8086,49 @@
   },
   {
     "word": "single quotation mark",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈsɪŋɡ(ə)l kwəʊˈteɪʃ(ə)n mɑːk/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=single%20quotation%20mark&type=1",
-    "phonetic_parts": [],
-    "meaning": "单引号"
+    "phonetic_parts": [
+      "s",
+      "ɪ",
+      "ŋ",
+      "ɡ",
+      "ə",
+      "l",
+      "k",
+      "w",
+      "əʊ",
+      "t",
+      "eɪ",
+      "ʃ",
+      "ə",
+      "n",
+      "m",
+      "ɑː",
+      "k"
+    ],
+    "meaning": "单引号",
+    "phonetic": "/ˈsɪŋɡ(ə)l kwəʊˈteɪʃ(ə)n mɑːk/"
   },
   {
     "word": "square brackets",
-    "phonetic_full": "//",
+    "phonetic_full": "/skweə(r) ˈbrækɪts/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=square%20brackets&type=1",
-    "phonetic_parts": [],
-    "meaning": "方括号：指形状像两半个正方形的括号。"
+    "phonetic_parts": [
+      "s",
+      "k",
+      "w",
+      "eə",
+      "r",
+      "b",
+      "r",
+      "æ",
+      "k",
+      "ɪ",
+      "ts"
+    ],
+    "meaning": "方括号：指形状像两半个正方形的括号。",
+    "phonetic": "/skweə(r) ˈbrækɪts/"
   },
   {
     "word": "sit",
@@ -6628,10 +8160,25 @@
   },
   {
     "word": "strangler pattern",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈstræŋɡlə(r) ˈpæt(ə)n/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=strangler%20pattern&type=1",
-    "phonetic_parts": [],
-    "meaning": "暂无释义"
+    "phonetic_parts": [
+      "s",
+      "tr",
+      "æ",
+      "ŋ",
+      "ɡ",
+      "l",
+      "ə",
+      "r",
+      "p",
+      "æ",
+      "t",
+      "ə",
+      "n"
+    ],
+    "meaning": "暂无释义",
+    "phonetic": "/ˈstræŋɡlə(r) ˈpæt(ə)n/"
   },
   {
     "word": "streamline",
@@ -6876,10 +8423,24 @@
   },
   {
     "word": "under the hood",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈʌndə(r) ðə; ði hʊd/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=under%20the%20hood&type=1",
-    "phonetic_parts": [],
-    "meaning": "在表面之下：指在某物的内部工作过程中。"
+    "phonetic_parts": [
+      "ʌ",
+      "n",
+      "d",
+      "ə",
+      "r",
+      "ð",
+      "ə",
+      "ð",
+      "i",
+      "h",
+      "ʊ",
+      "d"
+    ],
+    "meaning": "在表面之下：指在某物的内部工作过程中。",
+    "phonetic": "/ˈʌndə(r) ðə; ði hʊd/"
   },
   {
     "word": "underlying",
@@ -6915,10 +8476,20 @@
   },
   {
     "word": "upwards arrow",
-    "phonetic_full": "//",
+    "phonetic_full": "/ˈʌpwədz ˈærəʊ/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=upwards%20arrow&type=1",
-    "phonetic_parts": [],
-    "meaning": "上箭头：指向上方的箭头符号，也称为上箭头、向上箭头或上升箭头。"
+    "phonetic_parts": [
+      "ʌ",
+      "p",
+      "w",
+      "ə",
+      "dz",
+      "æ",
+      "r",
+      "əʊ"
+    ],
+    "meaning": "上箭头：指向上方的箭头符号，也称为上箭头、向上箭头或上升箭头。",
+    "phonetic": "/ˈʌpwədz ˈærəʊ/"
   },
   {
     "word": "utilization",
@@ -7000,10 +8571,24 @@
   },
   {
     "word": "design partten",
-    "phonetic_full": "//",
+    "phonetic_full": "/dɪˈzaɪn partten/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=design%20partten&type=1",
-    "phonetic_parts": [],
-    "meaning": "工厂模式"
+    "phonetic_parts": [
+      "d",
+      "ɪ",
+      "z",
+      "aɪ",
+      "n",
+      "p",
+      "a",
+      "r",
+      "t",
+      "t",
+      "e",
+      "n"
+    ],
+    "meaning": "工厂模式",
+    "phonetic": "/dɪˈzaɪn partten/"
   },
   {
     "word": "bios",
@@ -7827,10 +9412,24 @@
   },
   {
     "word": "bayesian",
-    "phonetic_full": "//",
+    "phonetic_full": "/biː eɪ waɪ iː es aɪ eɪ en/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=bayesian&type=1",
-    "phonetic_parts": [],
-    "meaning": "adj. 贝叶斯定理的"
+    "phonetic_parts": [
+      "b",
+      "iː",
+      "eɪ",
+      "w",
+      "aɪ",
+      "iː",
+      "e",
+      "s",
+      "aɪ",
+      "eɪ",
+      "e",
+      "n"
+    ],
+    "meaning": "adj. 贝叶斯定理的",
+    "phonetic": "/biː eɪ waɪ iː es aɪ eɪ en/"
   },
   {
     "word": "binomial",
@@ -11729,10 +13328,30 @@
   },
   {
     "word": "simulations",
-    "phonetic_full": "//",
+    "phonetic_full": "/es aɪ em juː el eɪ tiː aɪ əʊ en es/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=simulations&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. [计]模拟（simulation 的复数）；[计]仿真"
+    "phonetic_parts": [
+      "e",
+      "s",
+      "aɪ",
+      "e",
+      "m",
+      "j",
+      "uː",
+      "e",
+      "l",
+      "eɪ",
+      "t",
+      "iː",
+      "aɪ",
+      "əʊ",
+      "e",
+      "n",
+      "e",
+      "s"
+    ],
+    "meaning": "n. [计]模拟（simulation 的复数）；[计]仿真",
+    "phonetic": "/es aɪ em juː el eɪ tiː aɪ əʊ en es/"
   },
   {
     "word": "simultaneous",
