@@ -6043,10 +6043,24 @@
   },
   {
     "word": "actuals",
-    "phonetic_full": "//",
+    "phonetic_full": "/eɪ siː tiː juː eɪ el es/",
     "word_audio_url": "https://dict.youdao.com/dictvoice?audio=actuals&type=1",
-    "phonetic_parts": [],
-    "meaning": "n. 实际数据；实际货物，现货"
+    "phonetic_parts": [
+      "eɪ",
+      "s",
+      "iː",
+      "t",
+      "iː",
+      "j",
+      "uː",
+      "eɪ",
+      "e",
+      "l",
+      "e",
+      "s"
+    ],
+    "meaning": "n. 实际数据；实际货物，现货",
+    "phonetic": "/eɪ siː tiː juː eɪ el es/"
   },
   {
     "word": "claimant",
