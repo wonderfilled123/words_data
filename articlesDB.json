@@ -1,5 +1,219 @@
 [
   {
+    "title": "Is the US government's Anthropic ban accidentally helping the brand?",
+    "title_zh": "美国政府的Anthropic禁令是否意外地帮助了这个品牌？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
+            "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员 allegedly（据称）找到了绕过Fable 5安全护栏的方法。",
+            "grammar": "【语法要点】现在分词短语作状语，citing...表示原因",
+            "words": [
+              {
+                "word": "allegedly",
+                "meaning": "adv. 据称，据说",
+                "phonetic": "/əˈledʒɪdli/"
+              },
+              {
+                "word": "bypass",
+                "meaning": "v. 绕过，回避",
+                "phonetic": "/baɪˈpæs/"
+              },
+              {
+                "word": "guardrails",
+                "meaning": "n. 安全护栏，防护措施",
+                "phonetic": "/ˈɡɑːrdreɪlz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
+            "zh": "网络安全研究人员随后签署了一封公开信，称此举危险，而Anthropic公司本身也指出同样的越狱方法存在于其他模型中。",
+            "grammar": "【语法要点】现在分词短语作后置定语，calling...修饰letter",
+            "words": [
+              {
+                "word": "jailbreaks",
+                "meaning": "n. 越狱（此处指突破AI安全限制）",
+                "phonetic": "/ˈdʒeɪlbreɪks/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "So is [...]",
+            "zh": "那么这是否 [...]",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why did the US government force Anthropic to pull its newest models?",
+        "options": [
+          "A. Because the models were performing poorly",
+          "B. Due to national security concerns",
+          "C. Because Amazon wanted to acquire Anthropic",
+          "D. Due to public complaints about the models"
+        ],
+        "answer": 1,
+        "hint": "提示：查找文章中关于美国政府行动原因的直接表述。"
+      },
+      "translation_task": {
+        "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
+        "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员据称找到了绕过Fable 5安全护栏的方法。",
+        "valuable_point": "考察了英语中时间状语从句、被动语态以及现在分词短语作状语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "Why did the US government force Anthropic to pull its newest models?",
+        "options": [
+          "A. Because the models were performing poorly",
+          "B. Due to national security concerns",
+          "C. Because Amazon wanted to acquire Anthropic",
+          "D. Due to public complaints about the models"
+        ],
+        "answer": 1,
+        "hint": "提示：查找文章中关于美国政府行动原因的直接表述。"
+      }
+    },
+    "id": "article_1781975178679_k3h1",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "If You Haven't Reserved A Steam Controller Yet, You'll Have To Wait Until Next Year",
+    "title_zh": "如果你还没有预订Steam手柄，你可能要等到明年了",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply.",
+            "zh": "上个月，Valve公司发布了其Steam手柄，但需求远远超过了供应量。",
+            "grammar": "【现在完成时】表示过去发生但与现在有联系的动作",
+            "words": [
+              {
+                "word": "outweighed",
+                "meaning": "v. 超过，比...更重要",
+                "phonetic": "/ˌaʊtˈweɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the earliest.",
+            "zh": "情况如此严重，以至于从今天起，Valve最早也要到2027年才能完成新的Steam手柄订单。",
+            "grammar": "【结果状语从句】表示前面情况的严重程度导致的结果",
+            "words": [
+              {
+                "word": "fulfilled",
+                "meaning": "v. 履行，完成",
+                "phonetic": "/fʊlˈfɪld/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Valve shared the news on its site, where it noted that it has \"no plans to stop making Steam Controller.\"",
+            "zh": "Valve在其网站上公布了这一消息，并表示他们\"没有停止生产Steam手柄的计划\"。",
+            "grammar": "【定语从句】where引导的定语从句修饰site",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "But the company also stated that the response to the controller has \"exceeded our expectations.\"",
+            "zh": "但该公司也表示，这款手柄的市场反响\"超出了我们的预期\"。",
+            "grammar": "【宾语从句】that引导的宾语从句作stated的宾语",
+            "words": [
+              {
+                "word": "exceeded",
+                "meaning": "v. 超过，超越",
+                "phonetic": "/ɪkˈsiːd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders.",
+            "zh": "为了清晰起见，Valve现在将根据客户下单的时间，提供三个预计的Steam手柄交付窗口。",
+            "grammar": "【介词短语作目的状语】In the interest of clarity表示目的",
+            "words": [
+              {
+                "word": "clarity",
+                "meaning": "n. 清晰，明了",
+                "phonetic": "/ˈklærəti/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Players who have already placed their orders can log into their Steam account to see their order window.",
+            "zh": "已经下单的玩家可以登录他们的Steam账户查看他们的订单交付时间窗口。",
+            "grammar": "【定语从句】who引导的定语从句修饰Players",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "When will Valve fulfill new orders for Steam Controller according to the article?",
+        "options": [
+          "A. Immediately after placing the order",
+          "B. By the end of this year",
+          "C. At least until 2027",
+          "D. Only for existing customers"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了最早完成新订单的时间。"
+      },
+      "translation_task": {
+        "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders.",
+        "zh": "为了清晰起见，Valve现在将根据客户下单的时间，提供三个预计的Steam手柄交付窗口。",
+        "valuable_point": "考察了介词短语作目的状语(In the interest of clarity)和过去分词作定语(based on when they placed their orders)的翻译技巧。"
+      },
+      "quiz": {
+        "question": "When will Valve fulfill new orders for Steam Controller according to the article?",
+        "options": [
+          "A. Immediately after placing the order",
+          "B. By the end of this year",
+          "C. At least until 2027",
+          "D. Only for existing customers"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了最早完成新订单的时间。"
+      }
+    },
+    "id": "article_1781975191183_1ho1",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "id": "article_001",
     "title": "Why OpenAI Released GPT-6: The Future of AGI",
     "category": "🤖 人工智能",
