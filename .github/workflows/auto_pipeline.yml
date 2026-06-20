@@ -1,0 +1,35 @@
+name: Daily Article Generation Pipeline
+
+on:
+  schedule:
+    # 每天 UTC 时间 22:00 触发 (对应北京时间次日早晨 06:00)，为用户提供新鲜的“今日早报”
+    - cron: '0 22 * * *'
+  workflow_dispatch: # 允许在 GitHub Actions 页面上手动点击触发，方便随时调试
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository code
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v3
+      with:
+        node-node: '18'
+        cache: 'npm'
+        cache-dependency-path: 'pipeline/package.json'
+
+    - name: Install dependencies
+      run: |
+        cd pipeline
+        npm install
+
+    - name: Run Auto Generation Pipeline
+      env:
+        ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }} # 使用存在 Github Secret 中的个人访问令牌，具有 gist 写入权限
+      run: |
+        cd pipeline
+        node index.js

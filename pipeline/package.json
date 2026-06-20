@@ -1,0 +1,14 @@
+{
+  "name": "reading-feed-pipeline",
+  "version": "1.0.0",
+  "description": "Auto-fetch RSS and generate dynamic vocabulary analysis article database using LLM.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "rss-parser": "^3.13.0"
+  }
+}
