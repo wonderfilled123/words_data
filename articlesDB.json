@@ -1,0 +1,1273 @@
+[
+  {
+    "id": "article_001",
+    "title": "Why OpenAI Released GPT-6: The Future of AGI",
+    "category": "🤖 人工智能",
+    "icon": "⚡",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "OpenAI has released a new artificial intelligence model called GPT-6.",
+            "zh": "OpenAI 发布了一个名为 GPT-6 的新人工智能模型。",
+            "grammar": "【现在完成时】has released 表示过去发生的动作对现在造成了影响（即新模型现在已经可用了）。",
+            "words": [
+              {
+                "word": "released",
+                "meaning": "v. 发布，释放",
+                "phonetic": "/rɪˈliːst/"
+              },
+              {
+                "word": "artificial",
+                "meaning": "adj. 人工的",
+                "phonetic": "/ˌɑːrtɪˈfɪʃl/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "This model marks a significant step towards artificial general intelligence.",
+            "zh": "该模型标志着迈向通用人工智能（AGI）的重要一步。",
+            "grammar": "【动词短语】marks a significant step 结合介词短语 towards AGI，意为朝着 AGI 迈出了重要一步。",
+            "words": [
+              {
+                "word": "significant",
+                "meaning": "adj. 重大的，显著的",
+                "phonetic": "/sɪɡˈnɪfɪkənt/"
+              },
+              {
+                "word": "intelligence",
+                "meaning": "n. 智能，智慧",
+                "phonetic": "/ɪnˈtelɪdʒəns/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the primary significance of the GPT-6 release according to the text?",
+        "options": [
+          "A. It is OpenAI's cheapest model",
+          "B. It marks a significant step towards AGI",
+          "C. It is designed only for mobile phones",
+          "D. It replaces human programmers completely"
+        ],
+        "answer": 1,
+        "hint": "提示：关注文章中关于 GPT-6 与 AGI（通用人工智能）之间关系的阐述。"
+      },
+      "translation_task": {
+        "en": "This model marks a significant step towards artificial general intelligence.",
+        "zh": "该模型标志着迈向通用人工智能（AGI）的重要一步。",
+        "valuable_point: ": "考察了名词短语 a significant step 以及介词 towards 的翻译处理。"
+      }
+    },
+    "title_zh": "为什么 OpenAI 发布 GPT-6：通用人工智能的未来"
+  },
+  {
+    "id": "article_002",
+    "title": "Tactical Depth: Inside the Swiss-System Brackets of Competitive CS2",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯",
+    "level": "⭐⭐⭐ 高级",
+    "time": "5 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id: ": "2-1",
+            "en": "The Swiss-system format has become a staple of competitive CS2 tournaments, creating high-stakes match-ups.",
+            "zh": "瑞士轮赛制已成为 CS2 职业比赛的常客，创造了极高悬念的强强对决。",
+            "grammar: ": "【现在完成时】has become 表示过去开始并延续至今的动作或状态影响；分词短语 creating... 作伴随状语。",
+            "words": [
+              {
+                "word": "staple",
+                "meaning": "n. 主要部分，主力",
+                "phonetic": "/ˈsteɪpl/"
+              },
+              {
+                "word": "competitive",
+                "meaning: ": "adj. 竞争的，职业的",
+                "phonetic": "/kəmˈpetətɪv/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "In this system, teams with identical Win-Loss records face each other in every round.",
+            "zh": "在此赛制下，每一轮中胜负战绩相同的战队都会相互交手。",
+            "grammar": "【主谓一致】teams with identical records 为复数，主语中心词为 teams，谓语动词为原形 face。",
+            "words: ": [
+              {
+                "word": "identical",
+                "meaning": "adj. 完全相同的",
+                "phonetic": "/aɪˈdentɪkl/"
+              },
+              {
+                "word": "round",
+                "meaning": "n. 轮次",
+                "phonetic": "/raʊnd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-3",
+            "en": "Team Spirit has dominated the scene, largely driven by the explosive entries of their prodigy, donk.",
+            "zh": "Team Spirit 战队统治了赛场，这主要得益于他们的天才选手 donk 的爆发性突破能力。",
+            "grammar": "【过去分词短语作状语】driven by... 表示被动和原因，说明战队主导地位是由 donk 推动的。",
+            "words": [
+              {
+                "word": "dominated",
+                "meaning": "v. 统治，称霸",
+                "phonetic": "/ˈdɒmɪneɪtɪd/"
+              },
+              {
+                "word": "prodigy",
+                "meaning": "n. 神童，天才",
+                "phonetic": "/ˈprɒdədʒi/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-4",
+            "en": "His unparalleled mechanical skill allows him to secure space and break through solid defensive setups.",
+            "zh": "他无与伦比的枪法和操作控制力使他能够夺取空间并突破稳固的防守站位。",
+            "grammar": "【动词不定式】allows sb to do sth 意为允许/使某人能够做某事，to secure 和 break 为并列不定式后置。",
+            "words": [
+              {
+                "word": "unparalleled",
+                "meaning": "adj. 无与伦比的，空前的",
+                "phonetic": "/ʌnˈpærəleld/"
+              },
+              {
+                "word": "secure",
+                "meaning": "v. 获得，确保，夺取",
+                "phonetic": "/sɪˈkjʊə(r)/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What format has become a staple of competitive CS2 tournaments?",
+        "options": [
+          "A. Single-elimination format",
+          "B. Round-robin format",
+          "C. Swiss-system format",
+          "D. Double-elimination format"
+        ],
+        "answer": 2,
+        "hint": "提示：寻找第一段中修饰 CS2 职业锦标赛主力赛制（staple）的那个复合词词组。"
+      },
+      "translation_task": {
+        "en": "Team Spirit has dominated the scene, largely driven by the explosive entries of their prodigy, donk.",
+        "zh": "Team Spirit 战队统治了赛场，这主要得益于他们的天才选手 donk 的爆发性突破能力。",
+        "valuable_point": "考察了过去分词短语作状语 driven by... 表达的被动和原因关系。"
+      }
+    },
+    "title_zh": "战术深度：剖析 CS2 职业比赛的瑞士轮赛制"
+  },
+  {
+    "id": "article_003",
+    "title": "The Resonance of Chinese Indie Rock: An Analysis of 'Electric Girl'",
+    "category": "🎵 独立音乐",
+    "icon": "🎸",
+    "level": "⭐ 初级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en: ": "Chinese Football, an indie rock band from Wuhan, captures the nostalgic essence of youth through their melodic emo rock.",
+            "zh": "来自武汉的独立摇滚乐队 Chinese Football 通过他们充满旋律感的 emo 摇滚，捕捉到了青春的怀旧本质。",
+            "grammar": "【同位语】an indie rock band from Wuhan 作为主语 Chinese Football 的同位语进行补充解释。",
+            "words": [
+              {
+                "word": "nostalgic",
+                "meaning": "adj. 怀旧的，忧伤的",
+                "phonetic": "/nɒˈstældʒɪk/"
+              },
+              {
+                "word: ": "essence",
+                "meaning": "n. 本质，精髓",
+                "phonetic": "/ˈesns/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Their instruments weave intricate guitar riffs, conveying both melancholy and warmth.",
+            "zh": "他们的乐器编织出复杂的吉他双声部旋律，传递着忧郁与温暖。",
+            "grammar": "【现在分词短语作伴随状语】conveying... 伴随谓语动作 weave 发生，表示伴随状态和结果。",
+            "words": [
+              {
+                "word": "intricate",
+                "meaning": "adj. 错综复杂的",
+                "phonetic": "/ˈɪntrɪkət/"
+              },
+              {
+                "word": "melancholy",
+                "meaning": "n. 忧郁，悲哀",
+                "phonetic": "/ˈmelənkɒli/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "3-3",
+            "en": "The hit single 'Electric Girl' stands out for its driving bassline and bittersweet emotional expression.",
+            "zh": "热门单曲《霓虹甜心》因其动感十足的贝斯线条与苦乐参半的情感表达而脱颖而出。",
+            "grammar": "【介词短语表示原因】stands out for... 意为“因...而引人注目/脱颖而出”。",
+            "words": [
+              {
+                "word": "single",
+                "meaning": "n. 单曲",
+                "phonetic": "/ˈsɪŋɡl/"
+              },
+              {
+                "word": "bittersweet",
+                "meaning": "adj. 苦乐参半的",
+                "phonetic": "/ˌbɪtəˈswiːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-4",
+            "en": "Listeners are instantly transported to a dreamlike city pop landscape filled with neon lights.",
+            "zh": "听众会瞬间被带入一个充满霓虹灯光的梦幻 City Pop 景象中。",
+            "grammar": "【过去分词短语作后置定语】filled with neon lights 装饰前面的名词 landscape，表示“被霓虹灯光充满的”。",
+            "words": [
+              {
+                "word": "transported",
+                "meaning": "v. 传送，带入",
+                "phonetic": "/trænˈspɔːtɪd/"
+              },
+              {
+                "word": "dreamlike",
+                "meaning": "adj. 梦境般的",
+                "phonetic": "/ˈdriːmlaɪk/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What kind of atmosphere does Chinese Football's single 'Electric Girl' project?",
+        "options": [
+          "A. Cyberpunk and techno beats",
+          "B. Intense post-punk anger",
+          "C. Dreamlike City Pop filled with neon lights",
+          "D. Traditional folk storytelling"
+        ],
+        "answer": 2,
+        "hint": "提示：注意文章第二段最后一句关于霓虹灯（neon lights）和 City Pop 梦幻画面的描写。"
+      },
+      "translation_task": {
+        "en": "Chinese Football, an indie rock band from Wuhan, captures the nostalgic essence of youth through their melodic emo rock.",
+        "zh": "来自武汉的独立摇滚乐队 Chinese Football 通过他们充满旋律感的 emo 摇滚，捕捉到了青春的怀旧本质。",
+        "valuable_point": "考察了同位语作插入语的翻译整合以及 nostalgic 的词义处理。"
+      }
+    },
+    "title_zh": "中国独立摇滚的共鸣：解析《霓虹甜心》"
+  },
+  {
+    "id": "article_004",
+    "title": "Echoes of Independence: The Evolution of Indie Music Genres",
+    "category": "🎵 独立音乐",
+    "icon": "🎹",
+    "level": "⭐⭐ 中级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "4-1",
+            "en": "During the 1980s, underground cassette cultures and independent record labels bypassed mainstream distribution channels.",
+            "zh": "在 20 世纪 80 年代，地下磁带文化和独立唱片公司绕过了主流发行渠道。",
+            "grammar": "【时间状语与并列主语】During the 1980s 作时间状语，cultures 和 labels 为并列主语，谓语 bypassed 意为“绕过”。",
+            "words": [
+              {
+                "word": "cassette",
+                "meaning": "n. 盒式磁带",
+                "phonetic": "/kəˈset/"
+              },
+              {
+                "word": "mainstream",
+                "meaning": "adj. 主流的",
+                "phonetic": "/ˈmeɪnstriːm/"
+              }
+            ]
+          },
+          {
+            "s_id": "4-2",
+            "en": "This DIY ethos allowed diverse genres like post-punk, dream pop, and lo-fi to flourish in obscurity.",
+            "zh: ": "这种 DIY（自己动手）的精神让后朋克、梦幻流行和低保真等多种流派在默默无闻中蓬勃发展。",
+            "grammar": "【动词不定式】allowed sb/sth to do sth 允许某物做某事，to flourish 作宾语补足语。",
+            "words": [
+              {
+                "word": "ethos",
+                "meaning": "n. 精神特质，风气",
+                "phonetic": "/ˈiːθɒs/"
+              },
+              {
+                "word": "flourish",
+                "meaning": "v. 蓬勃发展，繁荣",
+                "phonetic": "/ˈflʌrɪʃ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "4-3",
+            "en": "The rise of digital streaming platforms has democratized music production, allowing independent artists to reach global audiences.",
+            "zh": "数字流媒体平台的兴起使音乐制作走向大众化，让独立艺术家能够触及全球听众。",
+            "grammar": "【现在分词短语作伴随状语】allowing... 伴随着主句的 has democratized 动作，表示其带来的影响与结果。",
+            "words": [
+              {
+                "word": "democratized",
+                "meaning": "v. 使民主化，使大众化",
+                "phonetic": "/dɪˈmɒkrətaɪzd/"
+              },
+              {
+                "word": "independent",
+                "meaning": "adj. 独立的",
+                "phonetic": "/ˌɪndɪˈpendənt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What allowed diverse music genres to flourish in obscurity during the 80s?",
+        "options": [
+          "A. TV talent competitions",
+          "B. Massive corporate funding",
+          "C. The DIY ethos and underground cassette cultures",
+          "D. Strict copyright regulations"
+        ],
+        "answer": 2,
+        "hint": "提示：注意第一段提到的“DIY精神（ethos）”和“地下磁带文化（cassette cultures）”。"
+      },
+      "translation_task": {
+        "en": "The rise of digital streaming platforms has democratized music production, allowing independent artists to reach global audiences.",
+        "zh": "数字流媒体平台的兴起使音乐制作走向大众化，让独立艺术家能够触及全球听众。",
+        "valuable_point": "考察了动词 democratize (大众化) 翻译处理及现在分词作伴随状语的句型转换。"
+      }
+    },
+    "title_zh": "独立的回响：独立音乐流派的演变"
+  },
+  {
+    "id": "article_005",
+    "title": "Shift in Syntax: The Vibe Coding Workflow in the LLM Era",
+    "category": "🤖 人工智能",
+    "icon": "💻",
+    "level": "⭐⭐⭐ 高级",
+    "time": "5 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "5-1",
+            "en": "Software engineering is undergoing a tectonic shift, moving towards a paradigm known as 'vibe coding'.",
+            "zh": "软件工程正在经历一场剧变，向一种被称为“氛围编程（vibe coding）”的范式演进。",
+            "grammar": "【分词短语修饰与同位语】moving towards... 作伴随状语，补充说明 shift 的演进方向；paradigms 后面接过去分词作后置定语。",
+            "words": [
+              {
+                "word": "tectonic",
+                "meaning": "adj. 地壳构造的，剧烈的",
+                "phonetic": "/tekˈtɒnɪk/"
+              },
+              {
+                "word": "paradigm",
+                "meaning": "n. 范式，典范",
+                "phonetic: ": "/ˈpærədaɪm/"
+              }
+            ]
+          },
+          {
+            "s_id": "5-2",
+            "en": "In this era, developers specify system behaviors in natural language rather than writing boilerplate syntax manually.",
+            "zh": "在这个时代，开发人员用自然语言指定系统行为，而不是手动编写样板语法。",
+            "grammar": "【对比结构】specify... rather than writing... 意为“指定...而不是编写...”，rather than 后面接动名词作对比。",
+            "words": [
+              {
+                "word": "specify",
+                "meaning": "v. 详细说明，指定",
+                "phonetic": "/ˈspesɪfaɪ/"
+              },
+              {
+                "word": "boilerplate",
+                "meaning": "n. (编程)样板代码，常用模板",
+                "phonetic": "/ˈbɔɪləpleɪt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "5-3",
+            "en": "Instead of focusing on syntax errors, developers now act as system architects, orchestrating AI agents to assemble complex applications.",
+            "zh": "开发人员现在不再关注语法错误，而是充当系统架构师，编排 AI 智能体来组装复杂的应用程序。",
+            "grammar": "【介词短语前置】Instead of focusing on... 引入让步状语；orchestrating... 作为伴随状语，解释说明 act as system architects 的工作方式。",
+            "words": [
+              {
+                "word": "orchestrating",
+                "meaning": "v. 编排，协调，管弦乐编曲",
+                "phonetic": "/ˈɔːkɪstreɪtɪŋ/"
+              },
+              {
+                "word": "assemble",
+                "meaning": "v. 组装，聚集",
+                "phonetic": "/əˈsembl/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "How do developers work in the 'vibe coding' paradigm?",
+        "options": [
+          "A. By writing raw assembly instructions",
+          "B. By specifying behaviors in natural language while AI generates code",
+          "C. By copy-pasting code from paper books",
+          "D. By avoiding computer systems entirely"
+        ],
+        "answer": 1,
+        "hint": "提示：关注第一段第二句，开发人员只需使用自然语言（natural language）描述系统行为。"
+      },
+      "translation_task": {
+        "en": "Instead of focusing on syntax errors, developers now act as system architects, orchestrating AI agents to assemble complex applications.",
+        "zh": "开发人员现在不再关注语法错误，而是充当系统架构师，编排 AI 智能体来组装复杂的应用程序。",
+        "valuable_point": "考察了 instead of (而不是) 让步关系处理以及 orchestrate (编排) 词义的技术化翻译。"
+      }
+    },
+    "title_zh": "语法切换：大语言模型时代的 Vibe Coding 工作流"
+  },
+  {
+    "id": "article_006",
+    "title": "Neon and Numbers: The Modern Business Rhythm of Shanghai Lujiazui",
+    "category": "💼 金融商业",
+    "icon": "🏢",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "6-1",
+            "en": "Shanghai Lujiazui stands as the financial heartbeat of China, where glitzy skyscrapers pierce the sky.",
+            "zh": "上海陆家嘴作为中国的金融心脉耸立，耀眼的摩天大楼直插云霄。",
+            "grammar": "【定语从句】where... 引导非限制性定语从句，在从句中作地点状语，修饰前面的 financial heartbeat (金融心脉/金融区)。",
+            "words": [
+              {
+                "word": "heartbeat",
+                "meaning": "n. 心跳，中心枢纽",
+                "phonetic": "/ˈhɑːtbiːt/"
+              },
+              {
+                "word": "glitzy",
+                "meaning": "adj. 耀眼的，奢华的",
+                "phonetic": "/ˈɡlɪtsi/"
+              }
+            ]
+          },
+          {
+            "s_id": "6-2",
+            "en": "Every morning, millions of professionals navigate the underground metro lines to populate these vertical offices.",
+            "zh": "每天清晨，数以百万计的职场人士穿梭于地下地铁线，涌入这些垂直的办公楼宇中。",
+            "grammar": "【动词不定式】to populate... 作目的状语，表示他们搭乘地铁的目的。",
+            "words": [
+              {
+                "word": "professionals",
+                "meaning": "n. 专业人士，白领",
+                "phonetic": "/prəˈfeʃənlz/"
+              },
+              {
+                "word": "populate",
+                "meaning": "v. 居住于，填充，涌入",
+                "phonetic": "/ˈpɒpjuleɪt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "6-3",
+            "en": "Under the towering facade of skyscrapers, high-frequency trading and strategic decisions shape the pulse of global financial markets daily.",
+            "zh": "在摩天大楼高耸的外表下，高频交易和战略决策每天都在塑造着全球金融市场的脉搏。",
+            "grammar": "【介词短语修饰与主谓结构】Under the towering facade... 作为地点状语置于句首，主语为 trading and decisions，谓语为 shape。",
+            "words": [
+              {
+                "word": "facade",
+                "meaning": "n. (建筑物的)正面，外表",
+                "phonetic": "/fəˈsɑːd/"
+              },
+              {
+                "word": "pulse",
+                "meaning": "n. 脉搏，节奏",
+                "phonetic": "/pʌls/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What daily activities shape the pulse of global financial markets in Lujiazui?",
+        "options": [
+          "A. Traditional agricultural trade",
+          "B. High-frequency trading and strategic business decisions",
+          "C. Tourism and local handicraft selling",
+          "D. Residential housing construction projects"
+        ],
+        "answer": 1,
+        "hint": "提示：注意文章第二段关于“高频交易（high-frequency trading）”和“战略决策（strategic decisions）”的描述。"
+      },
+      "translation_task": {
+        "en": "Under the towering facade of skyscrapers, high-frequency trading and strategic decisions shape the pulse of global financial markets daily.",
+        "zh": "在摩天大楼高耸的外表下，高频交易和战略决策每天都在塑造着全球金融市场的脉搏。",
+        "valuable_point": "考察了 shape the pulse (塑造脉搏/节奏) 的意译以及 towering facade 的修饰语翻译。"
+      }
+    },
+    "title_zh": "霓虹与数字：上海陆家嘴的现代商业节奏"
+  },
+  {
+    "id": "article_007",
+    "title": "Global Leaders Announce Historic Carbon Reduction Treaty",
+    "category": "📰 时事新闻",
+    "icon": "📰",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "7-1",
+            "en": "At the international climate summit, representatives from over one hundred nations signed a historic treaty.",
+            "zh": "在国际气候峰会上，来自一百多个国家的代表签署了一份具有历史意义的条约。",
+            "grammar": "【介词短语作地点状语】At the summit 作为地点状语，主语为 representatives，谓语为 signed。",
+            "words": [
+              {
+                "word": "summit",
+                "meaning": "n. 峰会，顶点",
+                "phonetic": "/ˈsʌmɪt/"
+              },
+              {
+                "word": "treaty",
+                "meaning": "n. 条约，协定",
+                "phonetic": "/ˈtiːti/"
+              }
+            ]
+          },
+          {
+            "s_id": "7-2",
+            "en": "The agreement pledges to accelerate transition to renewable energy sources and phase out fossil fuels.",
+            "zh": "该协议承诺加速向可再生能源的转型并逐步淘汰化石燃料。",
+            "grammar": "【动词不定式】pledges to do sth 承诺做某事；and 连接并列的动词不定式 to accelerate 和 (to) phase out。",
+            "words": [
+              {
+                "word": "renewable",
+                "meaning": "adj. 可再生的",
+                "phonetic": "/rɪˈnjuːəbl/"
+              },
+              {
+                "word": "transition",
+                "meaning": "n. 过渡，转型",
+                "phonetic": "/trænˈzɪʃn/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What did the representatives sign at the climate summit?",
+        "options": [
+          "A. A trade agreement for spices",
+          "B. A historic carbon reduction treaty",
+          "C. A local tourism promotion deal",
+          "D. A new technology licensing contract"
+        ],
+        "answer": 1,
+        "hint": "提示：第一段提到来自一百多个国家的代表在气候峰会上签署了一个 historic treaty（历史性的条约）。"
+      },
+      "translation_task": {
+        "en": "The agreement pledges to accelerate transition to renewable energy sources and phase out fossil fuels.",
+        "zh": "该协议承诺加速向可再生能源的转型并逐步淘汰化石燃料。",
+        "valuable_point": "考察了 pledge to do (承诺做) 以及 phase out (逐步淘汰) 的固定搭配和句型翻译。"
+      }
+    },
+    "title_zh": "全球领导人宣布具历史意义的碳减排条约"
+  },
+  {
+    "id": "article_008",
+    "title": "SpaceX Successfully Launches Next-Generation Satellite Constellation",
+    "category": "📰 时事新闻",
+    "icon": "🚀",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "8-1",
+            "en": "The reusable rocket deployed sixty communication satellites into low Earth orbit.",
+            "zh": "这枚可重复使用的火箭将60颗通信卫星送入了近地轨道。",
+            "grammar": "【主谓宾结构】主语为 rocket，动词为 deployed，宾语为 satellites，后接地点状语 into orbit。",
+            "words": [
+              {
+                "word": "reusable",
+                "meaning": "adj. 可重复使用的",
+                "phonetic": "/ˌriːˈjuːzəbl/"
+              },
+              {
+                "word": "deployed",
+                "meaning": "v. 部署，调度，配置",
+                "phonetic": "/dɪˈplɔɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "8-2",
+            "en": "This mission aims to provide high-speed global internet access to remote regions.",
+            "zh": "该任务旨在为偏远地区提供高速的全球互联网接入。",
+            "grammar": "【不定式作宾语】aims to do sth 旨在做某事，to provide 作为 aims 的宾语补足方向。",
+            "words": [
+              {
+                "word": "mission",
+                "meaning": "n. 任务，使命",
+                "phonetic": "/ˈmɪʃn/"
+              },
+              {
+                "word": "remote",
+                "meaning": "adj. 偏远的，遥远的",
+                "phonetic": "/rɪˈməʊt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the primary goal of the satellite constellation mission?",
+        "options": [
+          "A. To research soil quality on Mars",
+          "B. To provide high-speed global internet to remote regions",
+          "C. To build a giant telescope in space",
+          "D. To monitor underwater ocean currents"
+        ],
+        "answer": 1,
+        "hint": "提示：关注第二句中“provide high-speed global internet access to remote regions”（为偏远地区提供高速全球互联网服务）。"
+      },
+      "translation_task": {
+        "en": "This mission aims to provide high-speed global internet access to remote regions.",
+        "zh": "该任务旨在为偏远地区提供高速的全球互联网接入。",
+        "valuable_point": "考察了 aim to do (旨在做) 的翻译以及 internet access (互联网接入/访问) 的技术化词汇处理。"
+      }
+    },
+    "title_zh": "SpaceX 成功发射下一代通信卫星星群"
+  },
+  {
+    "id": "article_009",
+    "title": "The Legacy of the Silk Road: Bridging Ancient Worlds",
+    "category": "🏛️ 历史文明",
+    "icon": "🐪",
+    "level": "⭐⭐ 中级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "9-1",
+            "en": "The Silk Road was not just a trade route for physical goods, but also a highway for ideas.",
+            "zh": "丝绸之路不仅是实体商品的贸易路线，也是思想交流的公路。",
+            "grammar": "【并列对比结构】not just... but also... 意为“不仅...而且...”，并列了 route 和 highway 两个表语。",
+            "words": [
+              {
+                "word": "route",
+                "meaning": "n. 路线，路径",
+                "phonetic": "/ruːt/"
+              },
+              {
+                "word": "highway",
+                "meaning": "n. 公路，捷径",
+                "phonetic": "/ˈhaɪweɪ/"
+              }
+            ]
+          },
+          {
+            "s_id": "9-2",
+            "en": "It facilitated cultural exchanges between China, Persia, and the Roman Empire for centuries.",
+            "zh": "几个世纪以来，它促进了中国、波斯和罗马帝国之间的文化交流。",
+            "grammar": "【主谓宾结构】It (代指丝绸之路) 作主语，动词 facilitated 意为“促进”，后接介词短语 between... 作后置修饰。",
+            "words": [
+              {
+                "word": "facilitated",
+                "meaning": "v. 促进，使便利",
+                "phonetic": "/fəˈsɪlɪteɪtɪd/"
+              },
+              {
+                "word": "Persia",
+                "meaning": "n. 波斯",
+                "phonetic": "/ˈpɜːʒə/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Besides trade goods, what did the Silk Road primarily transport?",
+        "options": [
+          "A. Heavy military vehicles",
+          "B. Ideas and cultural exchanges",
+          "C. Modern financial stocks",
+          "D. Steam-powered engines"
+        ],
+        "answer": 1,
+        "hint": "提示：关注第一句的后半句“but also a highway for ideas”（也是思想交流的公路）。"
+      },
+      "translation_task": {
+        "en": "The Silk Road was not just a trade route for physical goods, but also a highway for ideas.",
+        "zh": "丝绸之路不仅是实体商品的贸易路线，也是思想交流的公路。",
+        "valuable_point": "考察了 not just... but also... 的句型翻译，以及 highway (公路/渠道) 在文化语境下的抽象化翻译。"
+      }
+    },
+    "title_zh": "丝绸之路的遗产：连接古代世界"
+  },
+  {
+    "id": "article_010",
+    "title": "Engineering the Empire: The Marvel of Roman Aqueducts",
+    "category": "🏛️ 历史文明",
+    "icon": "🏛️",
+    "level": "⭐⭐⭐ 高级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "10-1",
+            "en": "Ancient Romans built massive stone aqueducts to transport fresh water to bustling cities.",
+            "zh": "古罗马人建造了巨大的石质输水道，将淡水输送到繁忙的城市。",
+            "grammar": "【不定式作目的状语】to transport... 为动词不定式引导的短语，作目的状语，修饰谓语动词 built 的目的。",
+            "words": [
+              {
+                "word": "aqueducts",
+                "meaning": "n. 输水道，高架渠",
+                "phonetic": "/ˈækwɪdʌkts/"
+              },
+              {
+                "word": "bustling",
+                "meaning": "adj. 繁忙的，熙熙攘攘的",
+                "phonetic": "/ˈbʌslɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "10-2",
+            "en": "These gravity-powered structures showcased advanced hydraulic engineering skills.",
+            "zh": "这些靠重力驱动的结构展示了先进的水力工程技术。",
+            "grammar": "【过去分词作定语】gravity-powered 作为合成形容词（过去分词形式），作前置定语修饰 structures。",
+            "words": [
+              {
+                "word": "hydraulic",
+                "meaning": "adj. 水力的，液压的",
+                "phonetic": "/haɪˈdrɔːlɪk/"
+              },
+              {
+                "word": "showcased",
+                "meaning": "v. 展示，展现",
+                "phonetic": "/ˈʃəʊkeɪst/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "How did Roman aqueducts transport water to cities?",
+        "options": [
+          "A. By using high-pressure steam pumps",
+          "B. By relying on wind-powered turbines",
+          "C. By leveraging gravity-powered structures",
+          "D. By using deep electrical conduits"
+        ],
+        "answer": 2,
+        "hint": "提示：寻找第二句中修饰 structures（结构）的物理动力来源单词（gravity-powered）。"
+      },
+      "translation_task": {
+        "en": "These gravity-powered structures showcased advanced hydraulic engineering skills.",
+        "zh": "这些靠重力驱动的结构展示了先进的水力工程技术。",
+        "valuable_point": "考察了 gravity-powered (重力驱动的) 的合成词翻译以及 hydraulic (水力的) 专业词汇的精确表述。"
+      }
+    },
+    "title_zh": "帝国工程：古罗马高架输水道奇迹"
+  },
+  {
+    "id": "article_011",
+    "title": "Capturing Light: The Birth of Impressionist Art",
+    "category": "🎨 人文艺术",
+    "icon": "🎨",
+    "level": "⭐⭐ 中级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "11-1",
+            "en": "In nineteenth-century France, a group of painters rejected traditional studio techniques.",
+            "zh": "在19世纪的法国，一群画家拒绝了传统的画室技术。",
+            "grammar": "【主谓宾结构】主语为 a group of painters，谓语动词为 rejected，宾语为 techniques，时间状语位于句首。",
+            "words": [
+              {
+                "word": "rejected",
+                "meaning": "v. 拒绝，排斥",
+                "phonetic": "/rɪˈdʒektɪd/"
+              },
+              {
+                "word": "studio",
+                "meaning": "n. 画室，工作室",
+                "phonetic": "/ˈstjuːdiəʊ/"
+              }
+            ]
+          },
+          {
+            "s_id": "11-2",
+            "en": "They painted outdoors to capture the fleeting effects of natural light and atmospheric changes.",
+            "zh": "他们在户外作画，以捕捉自然光线和大气变化的瞬息效果。",
+            "grammar": "【不定式作目的状语】to capture... 引导目的状语，fleeting 作形容词修饰 effects，of 引导介词短语修饰 effects 的内容。",
+            "words": [
+              {
+                "word": "fleeting",
+                "meaning": "adj. 瞬息的，飞逝的",
+                "phonetic": "/ˈfliːtɪŋ/"
+              },
+              {
+                "word": "atmospheric",
+                "meaning": "adj. 大气的，有艺术氛围的",
+                "phonetic": "/ˌætməsˈferɪk/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What did the Impressionist painters reject?",
+        "options": [
+          "A. Traditional studio techniques",
+          "B. Painting with oil colors",
+          "C. Selling art in public markets",
+          "D. Outdoor sketching entirely"
+        ],
+        "answer": 0,
+        "hint": "提示：关注第一句“rejected traditional studio techniques”（拒绝了传统的画室画法）。"
+      },
+      "translation_task": {
+        "en": "They painted outdoors to capture the fleeting effects of natural light and atmospheric changes.",
+        "zh": "他们在户外作画，以捕捉自然光线和大气变化的瞬息效果。",
+        "valuable_point": "考察了 fleeting (转瞬即逝的/瞬息的) 词义的拿捏，以及 to capture 目的状语的自然衔接。"
+      }
+    },
+    "title_zh": "捕捉光影：印象派艺术的诞生"
+  },
+  {
+    "id": "article_012",
+    "title": "Stoicism: Finding Inner Peace in a Chaotic World",
+    "category": "🧠 哲学智慧",
+    "icon": "🧠",
+    "level": "⭐⭐⭐ 高级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "12-1",
+            "en": "Stoic philosophy teaches individuals to focus only on what they can control.",
+            "zh": "斯多葛哲学教导个人只关注他们能够控制的事情。",
+            "grammar": "【动词不定式与宾语从句】teaches sb to do sth (教导某人做某事)；what they can control 为宾语从句，作介词 on 的宾语。",
+            "words": [
+              {
+                "word": "Stoic",
+                "meaning": "adj. 斯多葛学派的，坚忍的",
+                "phonetic": "/ˈstəʊɪk/"
+              },
+              {
+                "word": "control",
+                "meaning": "v./n. 控制",
+                "phonetic": "/kənˈtrəʊl/"
+              }
+            ]
+          },
+          {
+            "s_id": "12-2",
+            "en": "By accepting external events with composure, one can achieve emotional resilience.",
+            "zh": "通过沉着地接受外部事件，人们可以获得情感上的韧性。",
+            "grammar": "【方式状语与情态动词】By accepting... 引导方式状语，用介词短语 with composure 补充说明接受的态度，谓语为 can achieve。",
+            "words": [
+              {
+                "word": "composure",
+                "meaning": "n. 沉着，冷静",
+                "phonetic": "/kəmˈpəʊʒə(r)/"
+              },
+              {
+                "word": "resilience",
+                "meaning": "n. 韧性，恢复力",
+                "phonetic": "/rɪˈzɪliəns/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is a core teaching of Stoic philosophy?",
+        "options": [
+          "A. To control external events and other people",
+          "B. To focus only on what you can control",
+          "C. To reject emotional happiness completely",
+          "D. To avoid public activities and work"
+        ],
+        "answer": 1,
+        "hint": "提示：关注第一句“focus only on what they can control”（只关注他们能够控制的事物）。"
+      },
+      "translation_task": {
+        "en": "By accepting external events with composure, one can achieve emotional resilience.",
+        "zh": "通过沉着地接受外部事件，人们可以获得情感上的韧性。",
+        "valuable_point": "考察了 with composure (沉着地/从容地) 翻译成状语，以及 resilience (韧性/抗挫折能力) 的哲学语境意译。"
+      }
+    },
+    "title_zh": "斯多葛哲学：在混乱的世界中寻找内心平静"
+  },
+  {
+    "id": "article_013",
+    "title": "Navigating the Future: The Evolution of Autonomous Vehicles",
+    "category": "🤖 人工智能",
+    "icon": "🚗",
+    "level": "⭐⭐⭐ 高级",
+    "time": "5 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "13-1",
+            "en": "Self-driving cars utilize a combination of lidar, radar, and deep learning algorithms.",
+            "zh": "自动驾驶汽车结合使用了激光雷达、雷达和深度学习算法。",
+            "grammar": "【主谓宾结构】主语为 self-driving cars，谓语为 utilize，宾语为 combination，后接 of 引导的三个并列修饰成分。",
+            "words": [
+              {
+                "word": "lidar",
+                "meaning": "n. 激光雷达",
+                "phonetic": "/ˈlaɪdɑːr/"
+              },
+              {
+                "word": "algorithms",
+                "meaning": "n. 算法",
+                "phonetic": "/ˈælɡərɪðəmz/"
+              }
+            ]
+          },
+          {
+            "s_id": "13-2",
+            "en": "Although safety concerns persist, developers believe autonomy will reduce traffic accidents.",
+            "zh": "尽管安全隐患仍然存在，开发人员相信自动驾驶将减少交通事故。",
+            "grammar": "【让步状语从句与宾语从句】Although 引导让步状语从句，主句谓语 believe 后面接一个省略了 that 的宾语从句。",
+            "words": [
+              {
+                "word": "persist",
+                "meaning": "v. 持续存在，坚持",
+                "phonetic": "/pəˈsɪst/"
+              },
+              {
+                "word": "autonomy",
+                "meaning": "n. 自主性，自动驾驶，自治",
+                "phonetic": "/ɔːˈtɒnəmi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What technologies do self-driving cars combine?",
+        "options": [
+          "A. Steam valves, gears, and coal boilers",
+          "B. Lidar, radar, and deep learning algorithms",
+          "C. Manual hydraulic gears and mechanical cables",
+          "D. Analogue radios and mechanical dials"
+        ],
+        "answer": 1,
+        "hint": "提示：第一句列举了三个核心技术：lidar (激光雷达), radar (雷达) 和 deep learning algorithms (深度学习算法)。"
+      },
+      "translation_task": {
+        "en": "Although safety concerns persist, developers believe autonomy will reduce traffic accidents.",
+        "zh": "尽管安全隐患仍然存在，开发人员相信自动驾驶将减少交通事故。",
+        "valuable_point": "考察了 although 引导的让步关系，以及 autonomy (自主/自动驾驶) 的专业技术背景意译。"
+      }
+    },
+    "title_zh": "驶向未来：自动驾驶汽车的演变"
+  },
+  {
+    "id": "article_014",
+    "title": "Brewing Success: The Rapid Rise of China's Boutique Coffee Markets",
+    "category": "💼 金融商业",
+    "icon": "☕",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "14-1",
+            "en": "Independent coffee shops are booming in Chinese cities, challenging global giants.",
+            "zh": "独立咖啡店在中国城市蓬勃发展，挑战着全球巨头。",
+            "grammar": "【现在分词作伴随状语】challenging... 作为现在分词短语作伴随状语，补充说明 booming 的状态和对市场的影响。",
+            "words": [
+              {
+                "word": "booming",
+                "meaning": "adj. 蓬勃发展的，繁荣的",
+                "phonetic": "/ˈbuːmɪŋ/"
+              },
+              {
+                "word": "giants",
+                "meaning": "n. 巨头，巨人",
+                "phonetic": "/ˈdʒaɪənts/"
+              }
+            ]
+          },
+          {
+            "s_id": "14-2",
+            "en": "These local brands win customers by offering customized flavors and stylish designs.",
+            "zh": "这些本地品牌通过提供定制的口味和时尚的设计赢得了顾客。",
+            "grammar": "【方式状语结构】by offering... 介词短语引导方式状语，解释说明 win customers 的具体途径。",
+            "words": [
+              {
+                "word": "customized",
+                "meaning": "adj. 定制的，个性化的",
+                "phonetic": "/ˈkʌstəmaɪzd/"
+              },
+              {
+                "word": "flavors",
+                "meaning": "n. 口味，风味",
+                "phonetic": "/ˈfleɪvəz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "How do local Chinese coffee brands win customers?",
+        "options": [
+          "A. By offering imported instant coffee powder",
+          "B. By offering customized flavors and stylish designs",
+          "C. By relying strictly on heavy television advertisements",
+          "D. By selling cheap plastic cups only"
+        ],
+        "answer": 1,
+        "hint": "提示：关注第二句“by offering customized flavors and stylish designs”（通过提供定制风味和设计感来吸引顾客）。"
+      },
+      "translation_task": {
+        "en": "These local brands win customers by offering customized flavors and stylish designs.",
+        "zh": "这些本地品牌通过提供定制的口味和时尚的设计赢得了顾客。",
+        "valuable_point": "考察了 by doing 方式状语的汉化，以及 customized (定制的/个性化的) 在商业语境下的正确表达。"
+      }
+    },
+    "title_zh": "酝酿成功：中国精品咖啡市场的迅速崛起"
+  },
+  {
+    "id": "article_015",
+    "title": "Storytelling Redefined: Narrative Depth in Modern Video Games",
+    "category": "🎮 游戏电竞",
+    "icon": "🎮",
+    "level": "⭐⭐ 中级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "15-1",
+            "en": "Video games have evolved from simple arcade amusements into a complex artistic medium.",
+            "zh": "电子游戏已经从简单的街机娱乐演变成复杂的艺术媒介。",
+            "grammar": "【完成时与介词结构】have evolved from... into... 表示“从...演变为...”，描述了历史变迁。",
+            "words": [
+              {
+                "word": "evolved",
+                "meaning": "v. 进化，演变",
+                "phonetic": "/ɪˈvɒlvd/"
+              },
+              {
+                "word": "medium",
+                "meaning": "n. 媒介，方法，媒体",
+                "phonetic": "/ˈmiːdiəm/"
+              }
+            ]
+          },
+          {
+            "s_id": "15-2",
+            "en": "Interactive storytelling allows players to make choices that shape the plot's outcome.",
+            "zh": "互动叙事允许玩家做出塑造剧情走向的选择。",
+            "grammar": "【动词不定式与定语从句】allows sb to do sth (允许做某事)；that shape... 引导限制性定语从句，修饰 choices。",
+            "words": [
+              {
+                "word": "narrative",
+                "meaning": "n. 叙事，故事",
+                "phonetic": "/ˈnærətɪv/"
+              },
+              {
+                "word": "interactive",
+                "meaning": "adj. 互动式的",
+                "phonetic": "/ˌɪntərˈæktɪv/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What does interactive storytelling in games allow players to do?",
+        "options": [
+          "A. To write raw computer code manually",
+          "B. To make choices that shape the plot's outcome",
+          "C. To buy physical items at public storefronts",
+          "D. To skip reading text overlays entirely"
+        ],
+        "answer": 1,
+        "hint": "提示：第二句提到“make choices that shape the plot's outcome”（做出决定以影响剧情的最终走向）。"
+      },
+      "translation_task": {
+        "en": "Interactive storytelling allows players to make choices that shape the plot's outcome.",
+        "zh": "互动叙事允许玩家做出塑造剧情走向的选择。",
+        "valuable_point": "考察了 shape the plot's outcome (塑造/影响剧情最终走向) 的习惯性翻译表达。"
+      }
+    },
+    "title_zh": "重新定义叙事：现代电子游戏的故事深度"
+  },
+  {
+    "id": "article_016",
+    "title": "The Vinyl Revival: Why Analog Sound Still Captivates Music Lovers",
+    "category": "🎵 独立音乐",
+    "icon": "📻",
+    "level": "⭐⭐ 中级",
+    "time": "4 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "16-1",
+            "en": "Despite the dominance of streaming services, sales of physical vinyl records have surged.",
+            "zh": "尽管流媒体服务占据主导地位，但实体黑胶唱片的销量却大幅飙升。",
+            "grammar": "【让步介词短语与主谓结构】Despite 后面接名词短语，引导让步状语；主语为 sales，谓语为 have surged，of 引导后置定语。",
+            "words": [
+              {
+                "word": "dominance",
+                "meaning": "n. 控制，主导地位",
+                "phonetic": "/ˈdɒmɪnəns/"
+              },
+              {
+                "word": "surged",
+                "meaning": "v. 汹涌，狂飙，剧增",
+                "phonetic": "/sɜːdʒd/"
+              }
+            ]
+          },
+          {
+            "s_id": "16-2",
+            "en": "Audiophiles cherish the warm, rich sound texture that digital files cannot replicate.",
+            "zh": "音响发烧友珍视数字文件无法复制的温暖、丰富的声音质感。",
+            "grammar": "【定语从句】that digital files... 引导限制性定语从句，在从句中作 replicate 的宾语，修饰 sound texture。",
+            "words": [
+              {
+                "word": "audiophiles",
+                "meaning": "n. 音响发烧友",
+                "phonetic": "/ˈɔːdiəʊfaɪlz/"
+              },
+              {
+                "word": "replicate",
+                "meaning": "v. 复制，重做",
+                "phonetic": "/ˈreplɪkeɪt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why do audiophiles cherish vinyl records?",
+        "options": [
+          "A. Because they are cheap and easy to store",
+          "B. Because of the warm, rich sound texture that digital files cannot replicate",
+          "C. Because streaming services are shut down worldwide",
+          "D. Because they don't require any record player"
+        ],
+        "answer": 1,
+        "hint": "提示：第二句提到发烧友喜欢的是“warm, rich sound texture”（温暖、丰富的音质感）。"
+      },
+      "translation_task": {
+        "en": "Audiophiles cherish the warm, rich sound texture that digital files cannot replicate.",
+        "zh": "音响发烧友珍视数字文件无法复制的温暖、丰富的声音质感。",
+        "valuable_point": "考察了 audiophiles (发烧友) 以及 sound texture (声音质感) 行业名词的精细汉化。"
+      }
+    },
+    "title_zh": "黑胶唱片复兴：为什么模拟之声依然令乐迷陶醉"
+  }
+]

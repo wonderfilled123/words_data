@@ -6,6 +6,9 @@ on:
     - cron: '0 22 * * *'
   workflow_dispatch: # 允许在 GitHub Actions 页面上手动点击触发，方便随时调试
 
+permissions:
+  contents: write # 声明拥有对当前仓库的写入推送权限
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
@@ -13,11 +16,13 @@ jobs:
     steps:
     - name: Checkout repository code
       uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # 获取完整提交历史以便推送
 
     - name: Setup Node.js environment
       uses: actions/setup-node@v3
       with:
-        node-node: '18'
+        node-version: '18'
         cache: 'npm'
         cache-dependency-path: 'pipeline/package.json'
 
@@ -29,7 +34,14 @@ jobs:
     - name: Run Auto Generation Pipeline
       env:
         ZHIPU_API_KEY: ${{ secrets.ZHIPU_API_KEY }}
-        GITHUB_TOKEN: ${{ secrets.GIST_TOKEN }} # 使用存在 Github Secret 中的个人访问令牌，具有 gist 写入权限
       run: |
         cd pipeline
         node index.js
+
+    - name: Commit and push updated articles database
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add articlesDB.json
+        git commit -m "auto: update articles database via pipeline [skip ci]" || exit 0
+        git push

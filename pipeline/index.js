@@ -1,80 +1,43 @@
 require('dotenv').config();
-const axios = require('axios');
-const { GIST_ID, GIST_FILE_NAME, RSS_SOURCES } = require('./config');
+const fs = require('fs');
+const path = require('path');
+const { RSS_SOURCES } = require('./config');
 const { fetchAllRSS } = require('./rss');
 const { parseArticleWithLLM } = require('./llm');
 
 const ZHIPU_API_KEY = process.env.ZHIPU_API_KEY;
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // 需具备 gist 权限
+const dbPath = path.join(__dirname, '../articlesDB.json');
 
-// 从 GitHub Gist 获取当前已有的文章库
-async function fetchCurrentDB() {
-  console.log(`[Database] 正在拉取云端 Gist 数据库: ${GIST_ID}`);
-  const url = `https://api.github.com/gists/${GIST_ID}`;
+// 读取本地文章数据库
+function readLocalDB() {
+  console.log(`[Database] 正在读取本地数据库: ${dbPath}`);
   try {
-    const headers = {};
-    if (GITHUB_TOKEN) {
-      headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+    if (fs.existsSync(dbPath)) {
+      return JSON.parse(fs.readFileSync(dbPath, 'utf8'));
     }
-    const response = await axios.get(url, { headers });
-    const file = response.data?.files?.[GIST_FILE_NAME];
-    if (file && file.content) {
-      return JSON.parse(file.content);
-    }
-    console.warn(`[Database] 在 Gist 中未找到文件 ${GIST_FILE_NAME}，准备创建新数据库。`);
-    return [];
   } catch (error) {
-    console.error(`[Database] 拉取 Gist 失败:`, error.message);
-    // 降级使用本地静态文章数据库做兜底，防止冷启动没有数据源
-    try {
-      const fallback = require('../../miniprogram-1/miniprogram/data/articlesDB.js');
-      console.log(`[Database] 已成功载入本地静态 articlesDB 作为备份种子数据`);
-      return fallback;
-    } catch (e) {
-      console.error('[Database] 本地兜底数据载入失败，返回空数据库', e.message);
-      return [];
-    }
+    console.error(`[Database] 读取本地数据库失败:`, error.message);
+  }
+  // 降级使用本地静态文章数据库做兜底，防止冷启动没有数据源
+  try {
+    const fallback = require('../../miniprogram-1/miniprogram/data/articlesDB.js');
+    console.log(`[Database] 已成功载入备份种子数据`);
+    return fallback;
+  } catch (e) {
+    console.error('[Database] 兜底数据载入失败，返回空数据库', e.message);
+    return [];
   }
 }
 
-// 将更新后的文章库推送到云端 Gist
-async function saveToGist(updatedDB) {
-  if (!GITHUB_TOKEN) {
-    console.warn('[Database] 未配置 GITHUB_TOKEN，跳过更新云端 Gist 步骤，打印部分数据以供预览：');
-    console.log(JSON.stringify(updatedDB.slice(0, 1), null, 2));
-    return false;
-  }
-
-  console.log(`[Database] 正在推送更新到 GitHub Gist: ${GIST_ID}`);
-  const url = `https://api.github.com/gists/${GIST_ID}`;
-  const patchData = {
-    description: 'Auto-generated English Learning Articles DB - Unmanned Engine',
-    files: {
-      [GIST_FILE_NAME]: {
-        "content": JSON.stringify(updatedDB, null, 2)
-      }
-    }
-  };
-
+// 将更新后的文章数据库保存回本地
+function saveLocalDB(updatedDB) {
+  console.log(`[Database] 正在保存更新到本地数据库: ${dbPath}`);
   try {
-    const response = await axios.patch(url, patchData, {
-      headers: {
-        'Accept': 'application/vnd.github+json',
-        'Authorization': `token ${GITHUB_TOKEN}`,
-        'X-GitHub-Api-Version': '2022-11-28'
-      }
-    });
-
-    if (response.status === 200) {
-      console.log('[Database] 云端 Gist 数据库热更新成功！');
-      return true;
-    }
-    throw new Error(`HTTP 状态码: ${response.status}`);
+    fs.writeFileSync(dbPath, JSON.stringify(updatedDB, null, 2), 'utf8');
+    console.log('[Database] 本地数据库保存成功！');
+    return true;
   } catch (error) {
-    console.error('[Database] 云端 Gist 更新失败:', error.message);
-    if (error.response?.data) {
-      console.error(`[Database] Gist 错误详情:`, JSON.stringify(error.response.data));
-    }
+    console.error('[Database] 本地数据库更新失败:', error.message);
     return false;
   }
 }
@@ -90,7 +53,7 @@ async function runPipeline() {
   }
 
   // 1. 获取已存在的文章数据库
-  const currentDB = await fetchCurrentDB();
+  const currentDB = readLocalDB();
   console.log(`[Pipeline] 当前库中已有文章数: ${currentDB.length}`);
 
   // 2. 抓取最新的 RSS 资讯
@@ -134,8 +97,8 @@ async function runPipeline() {
       console.log(`[Pipeline] 数据库已超出 25 篇最大容量上限，执行修剪过滤。`);
     }
 
-    // 5. 写入 Gist 云端发布
-    await saveToGist(newDB);
+    // 5. 写入本地发布
+    saveLocalDB(newDB);
   } else {
     console.log('[Pipeline] 今日无新增可用文章或抓取去重，数据库保持原样。');
   }
