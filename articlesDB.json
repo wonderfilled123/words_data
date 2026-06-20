@@ -1,6 +1,99 @@
 [
   {
     "title": "Is the US government's Anthropic ban accidentally helping the brand?",
+    "title_zh": "美国政府禁止Anthropic的行为是否意外地帮助了这个品牌？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
+            "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员 allegedly 发现了一种绕过Fable 5防护栏的方法。",
+            "grammar": "【语法要点】现在分词短语作状语，citing表示原因",
+            "words": [
+              {
+                "word": "allegedly",
+                "meaning": "adv. 据称，据说",
+                "phonetic": "/əˈledʒɪdli/"
+              },
+              {
+                "word": "bypass",
+                "meaning": "v. 绕过，回避",
+                "phonetic": "/baɪˈpɑːs/"
+              },
+              {
+                "word": "guardrails",
+                "meaning": "n. 防护栏，安全措施",
+                "phonetic": "/ˈɡɑːrdreɪlz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
+            "zh": "网络安全研究人员随后签署了一封公开信，称这一举动危险，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
+            "grammar": "【语法要点】现在分词短语作后置定语，并列结构",
+            "words": [
+              {
+                "word": "jailbreaks",
+                "meaning": "n. 越狱，破解（系统限制）",
+                "phonetic": "/ˈdʒeɪlbreɪks/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "So is [...]",
+            "zh": "那么这是否 [...]",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why did the US government force Anthropic to pull its newest models?",
+        "options": [
+          "A. Because the models were performing poorly",
+          "B. Due to national security concerns",
+          "C. Because Amazon wanted to acquire Anthropic",
+          "D. Due to copyright infringement issues"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确提到了政府行动的原因。"
+      },
+      "translation_task": {
+        "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
+        "zh": "网络安全研究人员随后签署了一封公开信，称这一举动危险，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
+        "valuable_point": "考察了现在分词短语作后置定语和并列结构的翻译处理。"
+      },
+      "quiz": {
+        "question": "Why did the US government force Anthropic to pull its newest models?",
+        "options": [
+          "A. Because the models were performing poorly",
+          "B. Due to national security concerns",
+          "C. Because Amazon wanted to acquire Anthropic",
+          "D. Due to copyright infringement issues"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确提到了政府行动的原因。"
+      }
+    },
+    "id": "article_1781996212545_q3u4",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Is the US government's Anthropic ban accidentally helping the brand?",
     "title_zh": "美国政府的Anthropic禁令是否意外地帮助了这个品牌？",
     "level": "⭐⭐ 中级",
     "time": "3 分钟阅读",
