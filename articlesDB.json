@@ -1,6 +1,220 @@
 [
   {
     "title": "Is the US government's Anthropic ban accidentally helping the brand?",
+    "title_zh": "美国政府对Anthropic的禁令是否意外地帮助了这个品牌？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
+            "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员 allegedly（据称）找到了绕过Fable 5防护栏的方法。",
+            "grammar": "【语法要点】现在分词短语作状语，citing表示原因",
+            "words": [
+              {
+                "word": "allegedly",
+                "meaning": "adv. 据称",
+                "phonetic": "/əˈledʒɪdli/"
+              },
+              {
+                "word": "bypass",
+                "meaning": "v. 绕过，回避",
+                "phonetic": "/baɪˈpɑːs/"
+              },
+              {
+                "word": "guardrails",
+                "meaning": "n. 防护栏，安全措施",
+                "phonetic": "/ˈɡɑːrdreɪlz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
+            "zh": "网络安全研究人员随后签署了一封公开信，称这一举动是危险的，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
+            "grammar": "【语法要点】现在分词短语作后置定语，calling修饰letter",
+            "words": [
+              {
+                "word": "jailbreaks",
+                "meaning": "n. 越狱，破解",
+                "phonetic": "/ˈdʒeɪlbreɪks/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "So is [...]",
+            "zh": "那么是否 [...]",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why did the US government force Anthropic to pull its newest models?",
+        "options": [
+          "A. Because the models were performing poorly",
+          "B. Due to national security concerns after alleged bypass methods were found",
+          "C. Because Anthropic violated cybersecurity regulations",
+          "D. As requested by Amazon researchers"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了禁令的原因，与国家安全和研究人员发现的绕过方法有关。"
+      },
+      "translation_task": {
+        "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
+        "zh": "网络安全研究人员随后签署了一封公开信，称这一举动是危险的，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
+        "valuable_point": "考察了现在分词短语作后置定语的翻译技巧，以及并列复合句的处理方式。"
+      },
+      "quiz": {
+        "question": "Why did the US government force Anthropic to pull its newest models?",
+        "options": [
+          "A. Because the models were performing poorly",
+          "B. Due to national security concerns after alleged bypass methods were found",
+          "C. Because Anthropic violated cybersecurity regulations",
+          "D. As requested by Amazon researchers"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了禁令的原因，与国家安全和研究人员发现的绕过方法有关。"
+      }
+    },
+    "id": "article_1782082730755_x7b3",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "If You Haven't Reserved A Steam Controller Yet, You'll Have To Wait Until Next Year",
+    "title_zh": "如果你还没有预订Steam手柄，你可能要等到明年了",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply.",
+            "zh": "上个月，Valve公司发布了其Steam手柄，但需求远远超过了供应量。",
+            "grammar": "现在完成时与一般过去时的对比使用",
+            "words": [
+              {
+                "word": "outweighed",
+                "meaning": "v. 超过，比...更重要",
+                "phonetic": "/ˌaʊtˈweɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the earliest.",
+            "zh": "情况如此严重，以至于截至今天，Valve最早要到2027年才能完成新的Steam手柄订单。",
+            "grammar": "结果状语从句与被动语态的结合使用",
+            "words": [
+              {
+                "word": "fulfilled",
+                "meaning": "v. 履行，完成",
+                "phonetic": "/fʊlˈfɪld/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Valve shared the news on its site, where it noted that it has \"no plans to stop making Steam Controller.\"",
+            "zh": "Valve在其网站上公布了这一消息，并表示他们\"没有停止生产Steam手柄的计划\"。",
+            "grammar": "定语从句的使用",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "But the company also stated that the response to the controller has \"exceeded our expectations.\"",
+            "zh": "但该公司也表示，消费者对该手柄的反应\"超出了我们的预期\"。",
+            "grammar": "宾语从句的使用",
+            "words": [
+              {
+                "word": "exceeded",
+                "meaning": "v. 超过，超越",
+                "phonetic": "/ɪkˈsiːd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders: September 2026, December 2026, and a vague 2027 that came with a promise for more specific info down the line.",
+            "zh": "为了清晰起见，Valve现在将根据客户下单的时间提供三个预计的交货窗口：2026年9月、2026年12月，以及一个模糊的2027年，并承诺稍后会提供更具体的信息。",
+            "grammar": "复杂句结构，包含多个修饰成分",
+            "words": [
+              {
+                "word": "vague",
+                "meaning": "adj. 模糊的，不明确的",
+                "phonetic": "/veɪɡ/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Players who have already placed their orders can log into their Steam account to see their order window.",
+            "zh": "已经下单的玩家可以登录他们的Steam账户查看他们的订单交货窗口。",
+            "grammar": "定语从句的使用",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the article, when will Valve fulfill new orders for Steam Controller?",
+        "options": [
+          "A. Immediately after placing the order",
+          "B. By the end of this year",
+          "C. Not until 2027 at the earliest",
+          "D. Only for customers who pre-ordered"
+        ],
+        "answer": 2,
+        "hint": "提示：文章明确提到了新订单的最早完成时间，请查找相关信息。"
+      },
+      "translation_task": {
+        "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders: September 2026, December 2026, and a vague 2027 that came with a promise for more specific info down the line.",
+        "zh": "为了清晰起见，Valve现在将根据客户下单的时间提供三个预计的交货窗口：2026年9月、2026年12月，以及一个模糊的2027年，并承诺稍后会提供更具体的信息。",
+        "valuable_point": "考察了复杂长句的翻译技巧，特别是包含多个修饰成分和插入语的句子结构处理。"
+      },
+      "quiz": {
+        "question": "According to the article, when will Valve fulfill new orders for Steam Controller?",
+        "options": [
+          "A. Immediately after placing the order",
+          "B. By the end of this year",
+          "C. Not until 2027 at the earliest",
+          "D. Only for customers who pre-ordered"
+        ],
+        "answer": 2,
+        "hint": "提示：文章明确提到了新订单的最早完成时间，请查找相关信息。"
+      }
+    },
+    "id": "article_1782082746071_rl25",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
+    "title": "Is the US government's Anthropic ban accidentally helping the brand?",
     "title_zh": "美国政府禁止Anthropic的行为是否意外地帮助了这个品牌？",
     "level": "⭐⭐ 中级",
     "time": "3 分钟阅读",
