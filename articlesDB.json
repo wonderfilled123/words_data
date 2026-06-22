@@ -1,5 +1,218 @@
 [
   {
+    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "title_zh": "SpaceX与开源AI实验室Reflection AI签署计算协议",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+            "zh": "Reflection AI将从2026年7月1日起至2029年，每月支付1.5亿美元，以立即获得位于田纳西州孟菲斯附近的SpaceX Colossus 2数据中心内Nvidia最新的GB300 AI芯片及相关硬件的使用权限。",
+            "grammar": "【语法要点】本句包含时间状语(beginning July 1, 2026 through 2029)和目的状语(for immediate access...)，结构复杂但清晰。",
+            "words": [
+              {
+                "word": "compute",
+                "meaning": "v. 计算，处理",
+                "phonetic": "/kəmˈpjuːt/"
+              },
+              {
+                "word": "chips",
+                "meaning": "n. 芯片",
+                "phonetic": "/tʃɪps/"
+              },
+              {
+                "word": "hardware",
+                "meaning": "n. 硬件",
+                "phonetic": "/ˈhɑːdweər/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the monthly payment amount from Reflection AI to SpaceX for the compute deal?",
+        "options": [
+          "A. $150 million",
+          "B. $150 billion",
+          "C. $15 million",
+          "D. $1.5 billion"
+        ],
+        "answer": 0,
+        "hint": "提示：文章中明确提到了每月支付的金额，请仔细查找数字部分。"
+      },
+      "translation_task": {
+        "en": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
+        "zh": "Reflection AI将从2026年7月1日起至2029年，每月支付1.5亿美元，以立即获得位于田纳西州孟菲斯附近的SpaceX Colossus 2数据中心内Nvidia最新的GB300 AI芯片及相关硬件的使用权限。",
+        "valuable_point": "考察了长句中时间状语(beginning...through...)和目的状语(for...)的翻译处理，以及专业术语(compute deal, AI chips, data center)的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is the monthly payment amount from Reflection AI to SpaceX for the compute deal?",
+        "options": [
+          "A. $150 million",
+          "B. $150 billion",
+          "C. $15 million",
+          "D. $1.5 billion"
+        ],
+        "answer": 0,
+        "hint": "提示：文章中明确提到了每月支付的金额，请仔细查找数字部分。"
+      }
+    },
+    "id": "article_1782169849779_gbdi",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "AMD's FSR Upscaling 4.1 Comes To Older GPUs, Steam Machine And Xbox ROG Ally Support On The Way",
+    "title_zh": "AMD的FSR 4.1技术支持旧显卡，Steam主机和Xbox ROG Ally适配即将到来",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "AMD has announced that owners of RDNA 3 GPUs can now enjoy the benefits offered by its latest version of AI-powered upscaling, FSR 4.1.",
+            "zh": "AMD宣布，RDNA 3显卡的现在可以享受到其最新版本的AI驱动超分辨率技术FSR 4.1带来的好处。",
+            "grammar": "【语法要点】现在完成时态表示最近发生且持续影响现在的事件",
+            "words": [
+              {
+                "word": "upscaling",
+                "meaning": "n. 超分辨率技术",
+                "phonetic": "/ˈʌpˌskeɪlɪŋ/"
+              },
+              {
+                "word": "RDNA",
+                "meaning": "n. AMD显卡架构名称",
+                "phonetic": "/ˌɑːr di ˌen ˈeɪ/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "This comes a few weeks earlier than its July estimate, with the promise for more devices down the line, too.",
+            "zh": "这项技术的发布比AMD七月份的预计时间提前了几周，并且未来还将支持更多设备。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "estimate",
+                "meaning": "n. 估计；预测",
+                "phonetic": "/ˈestɪmət/"
+              },
+              {
+                "word": "down the line",
+                "meaning": "phr. 未来；将来",
+                "phonetic": "/ˌdaʊn ðə laɪn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "FSR Upscaling 4.1 functions similarly to other upscaling technologies on the market, and comes much closer to the performance and quality of Nvidia's market-leading DLSS than previous iterations.",
+            "zh": "FSR 4.1技术的功能与市场上其他超分辨率技术相似，但在性能和质量上比之前的版本更接近NVIDIA市场领先的DLSS技术。",
+            "grammar": "【语法要点】比较级结构，表示与竞争对手技术的对比",
+            "words": [
+              {
+                "word": "iterations",
+                "meaning": "n. 迭代版本；更新版本",
+                "phonetic": "/ˌɪtəˈreɪʃənz/"
+              },
+              {
+                "word": "market-leading",
+                "meaning": "adj. 市场领先的",
+                "phonetic": "/ˈmɑːrkɪt ˌliːdɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "It's the same technology that underpins the PlayStation 5 Pro's PSSR 2, with Sony layering on its own work on top of what AMD has engineering here.",
+            "zh": "这项技术是PS5 Pro的PSSR 2技术的基础，索尼在此基础上添加了自己的工作成果。",
+            "grammar": "【语法要点】定语从句和with复合结构",
+            "words": [
+              {
+                "word": "underpins",
+                "meaning": "v. 作为...的基础；支撑",
+                "phonetic": "/ˌʌndərˈpɪnz/"
+              },
+              {
+                "word": "layering",
+                "meaning": "v. 分层添加；叠加",
+                "phonetic": "/ˈleɪərɪŋ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "The upscaling suite was previously exclusive to the company's latest GPUs, the RX 9070 and 9070 XT, but will now be available to many, many more RDNA 3 G...",
+            "zh": "这套超分辨率技术之前仅限于公司的最新显卡RX 9070和9070 XT，但现在将适用于更多RDNA 3显卡...",
+            "grammar": "【语法要点】被动语态和对比结构",
+            "words": [
+              {
+                "word": "exclusive",
+                "meaning": "adj. 独有的；专用的",
+                "phonetic": "/ɪkˈskluːsɪv/"
+              },
+              {
+                "word": "suite",
+                "meaning": "n. 套件；系列",
+                "phonetic": "/swiːt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main advantage of FSR 4.1 compared to previous versions?",
+        "options": [
+          "A. It's now available for more RDNA 3 GPUs",
+          "B. It offers performance and quality closer to Nvidia's DLSS",
+          "C. It will support Steam Machine and Xbox ROG Ally",
+          "D. It was released earlier than AMD's July estimate"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了FSR 4.1与竞争对手技术的对比。"
+      },
+      "translation_task": {
+        "en": "It's the same technology that underpins the PlayStation 5 Pro's PSSR 2, with Sony layering on its own work on top of what AMD has engineering here.",
+        "zh": "这项技术是PS5 Pro的PSSR 2技术的基础，索尼在此基础上添加了自己的工作成果。",
+        "valuable_point": "考察了定语从句和with复合结构的翻译，以及专业术语的准确表达。"
+      },
+      "quiz": {
+        "question": "What is the main advantage of FSR 4.1 compared to previous versions?",
+        "options": [
+          "A. It's now available for more RDNA 3 GPUs",
+          "B. It offers performance and quality closer to Nvidia's DLSS",
+          "C. It will support Steam Machine and Xbox ROG Ally",
+          "D. It was released earlier than AMD's July estimate"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了FSR 4.1与竞争对手技术的对比。"
+      }
+    },
+    "id": "article_1782169863489_hgm8",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Is the US government's Anthropic ban accidentally helping the brand?",
     "title_zh": "美国政府对Anthropic的禁令是否意外地帮助了这个品牌？",
     "level": "⭐⭐ 中级",
