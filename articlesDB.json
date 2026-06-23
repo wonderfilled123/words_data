@@ -1,5 +1,112 @@
 [
   {
+    "title": "Sonic's New Chaos Hunt Game Includes Some Fine Print You Shouldn't Skip",
+    "title_zh": "索尼克新游戏《混沌狩猎》包含不应忽视的细则",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The 35th anniversary of Sonic the Hedgehog is arriving later this year, and one of the ways that Sega is celebrating the event is a new ARG game called Chaos Hunt.",
+            "zh": "刺猬索尼克35周年庆典将于今年晚些时候举行，世嘉庆祝这一活动的方式之一是一款名为《混沌狩猎》的新ARG游戏。",
+            "grammar": "【复合句】包含两个并列分句，由and连接，描述了两个相关事实。",
+            "words": [
+              {
+                "word": "anniversary",
+                "meaning": "n. 周年纪念",
+                "phonetic": "/ˌænɪˈvɜːrsəri/"
+              },
+              {
+                "word": "celebrating",
+                "meaning": "v. 庆祝",
+                "phonetic": "/ˈselɪbreɪtɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Fans have been invited to hunt for some missing Chaos Emeralds, but players should probably check out the fine print before they take part in it.",
+            "zh": "粉丝们被邀请去寻找一些失踪的混沌翡翠，但玩家在参与前最好先查看细则。",
+            "grammar": "【复合句】包含由but连接的两个转折关系的分句，使用了现在完成时被动语态。",
+            "words": [
+              {
+                "word": "fine print",
+                "meaning": "n. 细则，小字印刷的条款",
+                "phonetic": "/faɪn prɪnt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "As noted by user Luna Leo on social media, the terms of service for Chaos Hunt requires players to agree to AI model training and to sharing their details with third-party AI vendors.",
+            "zh": "正如社交媒体用户Luna Leo所指出的，《混沌狩猎》的服务条款要求玩家同意AI模型训练，并与第三方AI供应商共享他们的详细信息。",
+            "grammar": "【复杂句】包含由as引导的状语从句，主语是the terms of service，谓语是requires，后面接两个并列的宾语。",
+            "words": [
+              {
+                "word": "vendors",
+                "meaning": "n. 供应商，销售商",
+                "phonetic": "/ˈvendərz/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The terms note that \"We use reasonable efforts to prohibit [third-party] providers from using any of your personal information for the purposes of developing and improving their AI models.\"",
+            "zh": "条款中写道：\"我们会尽合理努力禁止[第三方]供应商使用您的任何个人信息来开发和改进他们的AI模型。\"",
+            "grammar": "【间接引语】包含一个直接引语，使用了引号，引语中包含目的状语for the purposes of...",
+            "words": [
+              {
+                "word": "prohibit",
+                "meaning": "v. 禁止，阻止",
+                "phonetic": "/prəˈhɪbɪt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What do players need to agree to according to the terms of service for Chaos Hunt?",
+        "options": [
+          "A. Sharing their gaming achievements with other players",
+          "B. Participating in AI model training and sharing details with third-party AI vendors",
+          "C. Paying additional fees for special in-game items",
+          "D. Creating their own content based on Sonic characters"
+        ],
+        "answer": 1,
+        "hint": "提示：请仔细阅读第二段第一句，其中明确提到了服务条款的要求。"
+      },
+      "translation_task": {
+        "en": "As noted by user Luna Leo on social media, the terms of service for Chaos Hunt requires players to agree to AI model training and to sharing their details with third-party AI vendors.",
+        "zh": "正如社交媒体用户Luna Leo所指出的，《混沌狩猎》的服务条款要求玩家同意AI模型训练，并与第三方AI供应商共享他们的详细信息。",
+        "valuable_point": "考察了英语中被动语态的使用（have been invited）以及复杂句式结构，特别是包含多个并列成分的句子翻译技巧。"
+      },
+      "quiz": {
+        "question": "What do players need to agree to according to the terms of service for Chaos Hunt?",
+        "options": [
+          "A. Sharing their gaming achievements with other players",
+          "B. Participating in AI model training and sharing details with third-party AI vendors",
+          "C. Paying additional fees for special in-game items",
+          "D. Creating their own content based on Sonic characters"
+        ],
+        "answer": 1,
+        "hint": "提示：请仔细阅读第二段第一句，其中明确提到了服务条款的要求。"
+      }
+    },
+    "id": "article_1782255479774_c8m6",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
     "title_zh": "SpaceX与开源AI实验室Reflection AI签署计算协议",
     "level": "⭐⭐ 中级",
