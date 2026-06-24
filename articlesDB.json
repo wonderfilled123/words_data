@@ -1,5 +1,91 @@
 [
   {
+    "title": "Anthropic's Claude Tag is learning your company, one Slack message at a time",
+    "title_zh": "Anthropic的Claude标签正在通过Slack消息逐步了解您的公司",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Anthropic's new Claude Tag brings an always-on AI teammate to Slack.",
+            "zh": "Anthropic的新Claude标签为Slack带来了一个全天候的AI队友。",
+            "grammar": "【语法要点】现在分词短语作定语，'always-on'作为复合形容词修饰'AI teammate'",
+            "words": [
+              {
+                "word": "anthropic",
+                "meaning": "adj. 人类学的，与人类有关的",
+                "phonetic": "/ˈænθrɒpɪk/"
+              },
+              {
+                "word": "teammate",
+                "meaning": "n. 队友，团队成员",
+                "phonetic": "/ˈtiːmmeɪt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+            "zh": "但除了提高生产力外，该功能是一项战略举措，旨在捕捉组织背景、机构知识和企业工作流程。",
+            "grammar": "【语法要点】'beyond'作介词短语表示'除...外'，'strategic play'是商业术语，'to capture'作目的状语",
+            "words": [
+              {
+                "word": "strategic",
+                "meaning": "adj. 战略的，战略性的",
+                "phonetic": "/strəˈtiːdʒɪk/"
+              },
+              {
+                "word": "institutional",
+                "meaning": "adj. 机构的，制度上的",
+                "phonetic": "/ˌɪnstɪˈtjuːʃənl/"
+              },
+              {
+                "word": "workflows",
+                "meaning": "n. 工作流程，工作流",
+                "phonetic": "/ˈwɜːkfləʊz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the primary strategic purpose of Anthropic's Claude Tag feature?",
+        "options": [
+          "A. To increase individual productivity",
+          "B. To capture organizational context and knowledge",
+          "C. To replace human teammates in Slack",
+          "D. To provide customer support"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第二句明确指出了该功能的战略目的，请仔细阅读'But beyond productivity...'后面的内容。"
+      },
+      "translation_task": {
+        "en": "But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+        "zh": "但除了提高生产力外，该功能是一项战略举措，旨在捕捉组织背景、机构知识和企业工作流程。",
+        "valuable_point": "考察了'beyond'的引申义表达，以及'capture'在商业语境中的特殊含义，同时处理了三个并列名词短语的翻译。"
+      },
+      "quiz": {
+        "question": "What is the primary strategic purpose of Anthropic's Claude Tag feature?",
+        "options": [
+          "A. To increase individual productivity",
+          "B. To capture organizational context and knowledge",
+          "C. To replace human teammates in Slack",
+          "D. To provide customer support"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第二句明确指出了该功能的战略目的，请仔细阅读'But beyond productivity...'后面的内容。"
+      }
+    },
+    "id": "article_1782341895974_i4el",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Sonic's New Chaos Hunt Game Includes Some Fine Print You Shouldn't Skip",
     "title_zh": "索尼克新游戏《混沌狩猎》包含不应忽视的细则",
     "level": "⭐⭐ 中级",
