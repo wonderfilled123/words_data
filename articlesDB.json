@@ -1,5 +1,182 @@
 [
   {
+    "title": "Europe is pushing back on Washington's chip war",
+    "title_zh": "欧洲对华盛顿的芯片战争发起反击",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+            "zh": "正如ASML首席执行官克里斯托夫·福凯在5月告诉TechCrunch的那样，中国目前能够购买的是老一代深紫外光工具——这些设备大约在十年前首次发货——而这些正是《MATCH法案》现在将禁止的机器。",
+            "grammar": "【语法要点】本句使用了复杂的主语从句和插入语结构，包含破折号补充说明。",
+            "words": [
+              {
+                "word": "ultraviolet",
+                "meaning": "adj. 紫外线的",
+                "phonetic": "/ˌʌltrəˈvaɪələt/"
+              },
+              {
+                "word": "off-limits",
+                "meaning": "adj. 禁止进入的，禁止使用的",
+                "phonetic": "/ˌɔːf ˈlɪmɪts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the article, what type of chip-making equipment can China currently purchase?",
+        "options": [
+          "A. State-of-the-art extreme ultraviolet lithography machines",
+          "B. Older-generation deep ultraviolet tools",
+          "C. Next-generation semiconductor fabrication equipment",
+          "D. Advanced quantum computing processors"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确提到中国目前能购买的是哪一代设备，以及这些设备何时首次发货。"
+      },
+      "translation_task": {
+        "en": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
+        "zh": "正如ASML首席执行官克里斯托夫·福凯在5月告诉TechCrunch的那样，中国目前能够购买的是老一代深紫外光工具——这些设备大约在十年前首次发货——而这些正是《MATCH法案》现在将禁止的机器。",
+        "valuable_point": "考察了复杂长句的翻译技巧，包括处理插入语、破折号补充说明以及专业术语的准确翻译。"
+      },
+      "quiz": {
+        "question": "According to the article, what type of chip-making equipment can China currently purchase?",
+        "options": [
+          "A. State-of-the-art extreme ultraviolet lithography machines",
+          "B. Older-generation deep ultraviolet tools",
+          "C. Next-generation semiconductor fabrication equipment",
+          "D. Advanced quantum computing processors"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确提到中国目前能购买的是哪一代设备，以及这些设备何时首次发货。"
+      }
+    },
+    "id": "article_1782428766977_ch8r",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Xbox Series S, The \"Cheap\" Option, Now Costs As Much As Series X Did Six Years Ago",
+    "title_zh": "Xbox Series S，这款\"廉价\"选项，现在的价格与六年前Series X首发时相同",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper.",
+            "zh": "当Xbox Series S与Series X和PS5同时发布时，它提出了一个令人信服的论点：以便宜得多的价格玩到所有与其他平台相同的游戏，尽管性能和视觉效果较差。",
+            "grammar": "【语法要点】although引导的让步状语从句，破折号后的补充说明结构",
+            "words": [
+              {
+                "word": "compelling",
+                "meaning": "adj. 令人信服的，引人入胜的",
+                "phonetic": "/kəmˈpɛlɪŋ/"
+              },
+              {
+                "word": "albeit",
+                "meaning": "conj. 尽管，虽然",
+                "phonetic": "/ˌɔːlˈbiːɪt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "$300 felt surprisingly reasonable, giving you a way to save $100 compared to the cheapest PS5 and $200 compared to the more premium PS5 and Series X models.",
+            "zh": "300美元的价格感觉出奇地合理，让你比最便宜的PS5节省100美元，比更高端的PS5和Series X型号节省200美元。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "reasonable",
+                "meaning": "adj. 合理的，公道的",
+                "phonetic": "/ˈriːznəbəl/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "With the Series S turning six later this year, you'd expect it--like every other console--to get cheaper over time, as has always been the case.",
+            "zh": "随着Series S在今年晚些时候迎来六周年，你会期望它像其他所有游戏机一样随时间推移而降价，这向来是行业惯例。",
+            "grammar": "【语法要点】破折号插入语，as引导的定语从句",
+            "words": [
+              {
+                "word": "console",
+                "meaning": "n. 游戏机，控制台",
+                "phonetic": "/ˈkɒnsoʊl/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "But this is 2026, baby. Welcome to hell.",
+            "zh": "但这是2026年，宝贝。欢迎来到地狱。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-3",
+            "en": "Beginning August 1, Xbox Series S will cost as much as Xbox Series X did at launch in November 2020 : $500.",
+            "zh": "从8月1日开始，Xbox Series S的价格将与2020年11月首发时的Xbox Series X相同：500美元。",
+            "grammar": "【语法要点】as...as比较结构，did替代cost避免重复",
+            "words": [
+              {
+                "word": "launch",
+                "meaning": "n. 首发发布，上市",
+                "phonetic": "/lɔːntʃ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main point of the article?",
+        "options": [
+          "A. Xbox Series S is cheaper than other gaming consoles",
+          "B. Xbox Series S price has increased significantly over time",
+          "C. Xbox Series S will be discontinued in 2026",
+          "D. PS5 is better value than Xbox Series S"
+        ],
+        "answer": 1,
+        "hint": "提示：文章重点讨论了Xbox Series S价格的变化情况，特别是与首发价格的对比。"
+      },
+      "translation_task": {
+        "en": "Beginning August 1, Xbox Series S will cost as much as Xbox Series X did at launch in November 2020 : $500.",
+        "zh": "从8月1日开始，Xbox Series S的价格将与2020年11月首发时的Xbox Series X相同：500美元。",
+        "valuable_point": "考察了as...as比较结构的使用，以及did替代cost避免重复的技巧，同时展示了时间状语的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is the main point of the article?",
+        "options": [
+          "A. Xbox Series S is cheaper than other gaming consoles",
+          "B. Xbox Series S price has increased significantly over time",
+          "C. Xbox Series S will be discontinued in 2026",
+          "D. PS5 is better value than Xbox Series S"
+        ],
+        "answer": 1,
+        "hint": "提示：文章重点讨论了Xbox Series S价格的变化情况，特别是与首发价格的对比。"
+      }
+    },
+    "id": "article_1782428794996_a6zi",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Anthropic's Claude Tag is learning your company, one Slack message at a time",
     "title_zh": "Anthropic的Claude标签正在通过Slack消息逐步了解您的公司",
     "level": "⭐⭐ 中级",
@@ -2056,145 +2233,5 @@
       }
     },
     "title_zh": "酝酿成功：中国精品咖啡市场的迅速崛起"
-  },
-  {
-    "id": "article_015",
-    "title": "Storytelling Redefined: Narrative Depth in Modern Video Games",
-    "category": "🎮 游戏电竞",
-    "icon": "🎮",
-    "level": "⭐⭐ 中级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "15-1",
-            "en": "Video games have evolved from simple arcade amusements into a complex artistic medium.",
-            "zh": "电子游戏已经从简单的街机娱乐演变成复杂的艺术媒介。",
-            "grammar": "【完成时与介词结构】have evolved from... into... 表示“从...演变为...”，描述了历史变迁。",
-            "words": [
-              {
-                "word": "evolved",
-                "meaning": "v. 进化，演变",
-                "phonetic": "/ɪˈvɒlvd/"
-              },
-              {
-                "word": "medium",
-                "meaning": "n. 媒介，方法，媒体",
-                "phonetic": "/ˈmiːdiəm/"
-              }
-            ]
-          },
-          {
-            "s_id": "15-2",
-            "en": "Interactive storytelling allows players to make choices that shape the plot's outcome.",
-            "zh": "互动叙事允许玩家做出塑造剧情走向的选择。",
-            "grammar": "【动词不定式与定语从句】allows sb to do sth (允许做某事)；that shape... 引导限制性定语从句，修饰 choices。",
-            "words": [
-              {
-                "word": "narrative",
-                "meaning": "n. 叙事，故事",
-                "phonetic": "/ˈnærətɪv/"
-              },
-              {
-                "word": "interactive",
-                "meaning": "adj. 互动式的",
-                "phonetic": "/ˌɪntərˈæktɪv/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What does interactive storytelling in games allow players to do?",
-        "options": [
-          "A. To write raw computer code manually",
-          "B. To make choices that shape the plot's outcome",
-          "C. To buy physical items at public storefronts",
-          "D. To skip reading text overlays entirely"
-        ],
-        "answer": 1,
-        "hint": "提示：第二句提到“make choices that shape the plot's outcome”（做出决定以影响剧情的最终走向）。"
-      },
-      "translation_task": {
-        "en": "Interactive storytelling allows players to make choices that shape the plot's outcome.",
-        "zh": "互动叙事允许玩家做出塑造剧情走向的选择。",
-        "valuable_point": "考察了 shape the plot's outcome (塑造/影响剧情最终走向) 的习惯性翻译表达。"
-      }
-    },
-    "title_zh": "重新定义叙事：现代电子游戏的故事深度"
-  },
-  {
-    "id": "article_016",
-    "title": "The Vinyl Revival: Why Analog Sound Still Captivates Music Lovers",
-    "category": "🎵 独立音乐",
-    "icon": "📻",
-    "level": "⭐⭐ 中级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "16-1",
-            "en": "Despite the dominance of streaming services, sales of physical vinyl records have surged.",
-            "zh": "尽管流媒体服务占据主导地位，但实体黑胶唱片的销量却大幅飙升。",
-            "grammar": "【让步介词短语与主谓结构】Despite 后面接名词短语，引导让步状语；主语为 sales，谓语为 have surged，of 引导后置定语。",
-            "words": [
-              {
-                "word": "dominance",
-                "meaning": "n. 控制，主导地位",
-                "phonetic": "/ˈdɒmɪnəns/"
-              },
-              {
-                "word": "surged",
-                "meaning": "v. 汹涌，狂飙，剧增",
-                "phonetic": "/sɜːdʒd/"
-              }
-            ]
-          },
-          {
-            "s_id": "16-2",
-            "en": "Audiophiles cherish the warm, rich sound texture that digital files cannot replicate.",
-            "zh": "音响发烧友珍视数字文件无法复制的温暖、丰富的声音质感。",
-            "grammar": "【定语从句】that digital files... 引导限制性定语从句，在从句中作 replicate 的宾语，修饰 sound texture。",
-            "words": [
-              {
-                "word": "audiophiles",
-                "meaning": "n. 音响发烧友",
-                "phonetic": "/ˈɔːdiəʊfaɪlz/"
-              },
-              {
-                "word": "replicate",
-                "meaning": "v. 复制，重做",
-                "phonetic": "/ˈreplɪkeɪt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why do audiophiles cherish vinyl records?",
-        "options": [
-          "A. Because they are cheap and easy to store",
-          "B. Because of the warm, rich sound texture that digital files cannot replicate",
-          "C. Because streaming services are shut down worldwide",
-          "D. Because they don't require any record player"
-        ],
-        "answer": 1,
-        "hint": "提示：第二句提到发烧友喜欢的是“warm, rich sound texture”（温暖、丰富的音质感）。"
-      },
-      "translation_task": {
-        "en": "Audiophiles cherish the warm, rich sound texture that digital files cannot replicate.",
-        "zh": "音响发烧友珍视数字文件无法复制的温暖、丰富的声音质感。",
-        "valuable_point": "考察了 audiophiles (发烧友) 以及 sound texture (声音质感) 行业名词的精细汉化。"
-      }
-    },
-    "title_zh": "黑胶唱片复兴：为什么模拟之声依然令乐迷陶醉"
   }
 ]
