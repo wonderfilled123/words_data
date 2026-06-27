@@ -1,5 +1,122 @@
 [
   {
+    "title": "Steam Machine Preorders Are About To Begin, So Of Course They're Already on eBay",
+    "title_zh": "Steam Machine预售即将开始，当然它们已经出现在eBay上",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The Steam Machine isn't even out yet, though Valve has begun sending out confusing emails about whether people are in the \"queue\" or on the \"waitlist\" for the device.",
+            "zh": "尽管Steam Machine尚未发布，但Valve已经开始发送令人困惑的电子邮件，告知人们他们是否在该设备的\"队列\"中或处于\"等待名单\"上。",
+            "grammar": "【语法要点】though引导的让步状语从句，表示尽管；引号用于表示特定术语。",
+            "words": [
+              {
+                "word": "queue",
+                "meaning": "n. 队列，排队",
+                "phonetic": "/kjuː/"
+              },
+              {
+                "word": "waitlist",
+                "meaning": "n. 等待名单",
+                "phonetic": "/ˈweɪtlɪst/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "That hasn't stopped netizens from doing the inevitable, though: listing their reservations on eBay to make a quick buck.",
+            "zh": "然而，这并没有阻止网民们做不可避免的事情：在eBay上列出他们的预订，以快速赚钱。",
+            "grammar": "【语法要点】though位于句首表示转折；冒号用于引出解释；make a quick buck是习语，表示快速赚钱。",
+            "words": [
+              {
+                "word": "inevitable",
+                "meaning": "adj. 不可避免的，必然发生的",
+                "phonetic": "/ɪnˈevɪtəbl/"
+              },
+              {
+                "word": "reservations",
+                "meaning": "n. 预订，预约",
+                "phonetic": "/ˌrezərˈveɪʃənz/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
+            "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
+            "grammar": "【语法要点】if引导的条件状语从句；破折号之间的内容是插入语；you'll see是将来时。",
+            "words": [
+              {
+                "word": "handful",
+                "meaning": "n. 少数，少量",
+                "phonetic": "/ˈhændfʊl/"
+              },
+              {
+                "word": "postings",
+                "meaning": "n. 帖子，公告",
+                "phonetic": "/ˈpoʊstɪŋz/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The system is already expensive, running between $1050 and $1430 depending on the model, but these listings go for about double the regular price.",
+            "zh": "该系统已经很昂贵，根据型号不同价格在1050美元到1430美元之间，但这些挂牌价格大约是常规价格的两倍。",
+            "grammar": "【语法要点】现在分词短语作伴随状语；but表示转折；go for表示售价为。",
+            "words": [
+              {
+                "word": "depending",
+                "meaning": "v. 取决于，依靠",
+                "phonetic": "/dɪˈpendɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why are people listing their Steam Machine reservations on eBay?",
+        "options": [
+          "A. Because they don't want the product anymore",
+          "B. To make a quick profit",
+          "C. Because Valve asked them to",
+          "D. Because the system is defective"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了人们这样做的原因，与快速赚钱有关。"
+      },
+      "translation_task": {
+        "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
+        "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
+        "valuable_point": "考察了包含插入语和条件状语从句的复杂句翻译，以及专有名词的处理。"
+      },
+      "quiz": {
+        "question": "Why are people listing their Steam Machine reservations on eBay?",
+        "options": [
+          "A. Because they don't want the product anymore",
+          "B. To make a quick profit",
+          "C. Because Valve asked them to",
+          "D. Because the system is defective"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了人们这样做的原因，与快速赚钱有关。"
+      }
+    },
+    "id": "article_1782600770735_9hdq",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Europe is pushing back on Washington's chip war",
     "title_zh": "欧洲对华盛顿的芯片战争发起反击",
     "level": "⭐⭐ 中级",
@@ -2163,75 +2280,5 @@
       }
     },
     "title_zh": "驶向未来：自动驾驶汽车的演变"
-  },
-  {
-    "id": "article_014",
-    "title": "Brewing Success: The Rapid Rise of China's Boutique Coffee Markets",
-    "category": "💼 金融商业",
-    "icon": "☕",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "14-1",
-            "en": "Independent coffee shops are booming in Chinese cities, challenging global giants.",
-            "zh": "独立咖啡店在中国城市蓬勃发展，挑战着全球巨头。",
-            "grammar": "【现在分词作伴随状语】challenging... 作为现在分词短语作伴随状语，补充说明 booming 的状态和对市场的影响。",
-            "words": [
-              {
-                "word": "booming",
-                "meaning": "adj. 蓬勃发展的，繁荣的",
-                "phonetic": "/ˈbuːmɪŋ/"
-              },
-              {
-                "word": "giants",
-                "meaning": "n. 巨头，巨人",
-                "phonetic": "/ˈdʒaɪənts/"
-              }
-            ]
-          },
-          {
-            "s_id": "14-2",
-            "en": "These local brands win customers by offering customized flavors and stylish designs.",
-            "zh": "这些本地品牌通过提供定制的口味和时尚的设计赢得了顾客。",
-            "grammar": "【方式状语结构】by offering... 介词短语引导方式状语，解释说明 win customers 的具体途径。",
-            "words": [
-              {
-                "word": "customized",
-                "meaning": "adj. 定制的，个性化的",
-                "phonetic": "/ˈkʌstəmaɪzd/"
-              },
-              {
-                "word": "flavors",
-                "meaning": "n. 口味，风味",
-                "phonetic": "/ˈfleɪvəz/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "How do local Chinese coffee brands win customers?",
-        "options": [
-          "A. By offering imported instant coffee powder",
-          "B. By offering customized flavors and stylish designs",
-          "C. By relying strictly on heavy television advertisements",
-          "D. By selling cheap plastic cups only"
-        ],
-        "answer": 1,
-        "hint": "提示：关注第二句“by offering customized flavors and stylish designs”（通过提供定制风味和设计感来吸引顾客）。"
-      },
-      "translation_task": {
-        "en": "These local brands win customers by offering customized flavors and stylish designs.",
-        "zh": "这些本地品牌通过提供定制的口味和时尚的设计赢得了顾客。",
-        "valuable_point": "考察了 by doing 方式状语的汉化，以及 customized (定制的/个性化的) 在商业语境下的正确表达。"
-      }
-    },
-    "title_zh": "酝酿成功：中国精品咖啡市场的迅速崛起"
   }
 ]
