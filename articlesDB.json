@@ -1,5 +1,153 @@
 [
   {
+    "title": "Steam Machine Preorders Are About To Begin, So Of Course They're Already On eBay",
+    "title_zh": "Steam Machine预售即将开始，当然它们已经出现在eBay上",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The Steam Machine isn't even out yet, though Valve has begun sending out confusing emails about whether people are in the \"queue\" or on the \"waitlist\" for the device.",
+            "zh": "尽管Steam Machine尚未发布，但Valve已经开始发送令人困惑的电子邮件，询问人们是否在设备的\"队列\"中或处于\"等待名单\"上。",
+            "grammar": "【语法要点】though引导的让步状语从句，主句使用现在完成进行时",
+            "words": [
+              {
+                "word": "queue",
+                "meaning": "n. 队列，排队",
+                "phonetic": "/kjuː/"
+              },
+              {
+                "word": "waitlist",
+                "meaning": "n. 等待名单",
+                "phonetic": "/ˈweɪtlɪst/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "That hasn't stopped netizens from doing the inevitable, though: listing their reservations on eBay to make a quick buck.",
+            "zh": "然而，这并没有阻止网民们做不可避免的事情：在eBay上列出他们的预订，以快速赚钱。",
+            "grammar": "【语法要点】though置于句首表示转折，冒号后面解释前面的内容",
+            "words": [
+              {
+                "word": "inevitable",
+                "meaning": "adj. 不可避免的，必然发生的",
+                "phonetic": "/ɪnˈevɪtəbl/"
+              },
+              {
+                "word": "reservations",
+                "meaning": "n. 预订，预约",
+                "phonetic": "/ˌrezərˈveɪʃənz/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
+            "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
+            "grammar": "【语法要点】if引导的条件状语从句，破折号之间的插入语补充说明",
+            "words": [
+              {
+                "word": "handful",
+                "meaning": "n. 少数，少量",
+                "phonetic": "/ˈhændfʊl/"
+              },
+              {
+                "word": "postings",
+                "meaning": "n. 帖子，公告",
+                "phonetic": "/ˈpoʊstɪŋz/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The system is already expensive, running between $1050 and $1430 depending on the model, but these listings go for about double the regular price.",
+            "zh": "该系统已经很昂贵，根据型号不同价格在1050美元到1430美元之间，但这些挂牌价格大约是正常价格的两倍。",
+            "grammar": "【语法要点】现在分词短语作伴随状语，but表示转折",
+            "words": [
+              {
+                "word": "depending",
+                "meaning": "v. 取决于",
+                "phonetic": "/dɪˈpendɪŋ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "The Steam Machine listings GameSpot has viewed so far are all for \"confirmed reservations.\"",
+            "zh": "GameSpot迄今为止查看的Steam Machine挂牌都是针对\"已确认的预订\"。",
+            "grammar": "【语法要点】定语从句修饰listings，引号表示特定术语",
+            "words": [
+              {
+                "word": "confirmed",
+                "meaning": "adj. 已确认的，已证实的",
+                "phonetic": "/kənˈfɜːrmd/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "This means that the eBay seller received one of those perplexing emails...",
+            "zh": "这意味着eBay卖家收到了那些令人困惑的电子邮件之一...",
+            "grammar": "【语法要点】that引导的宾语从句，省略了表示继续的省略号",
+            "words": [
+              {
+                "word": "perplexing",
+                "meaning": "adj. 令人困惑的，复杂的",
+                "phonetic": "/pərˈpleksɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What are the eBay listings for Steam Machines primarily based on?",
+        "options": [
+          "A. The actual devices that are already available",
+          "B. Confirmed reservations for the upcoming device",
+          "C. Marketing materials from Valve",
+          "D. Previous models of Steam Machines"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到eBay上的挂牌是什么类型的。"
+      },
+      "translation_task": {
+        "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
+        "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
+        "valuable_point": "考察了破折号之间的插入语翻译和专有名词的处理方式。"
+      },
+      "quiz": {
+        "question": "What are the eBay listings for Steam Machines primarily based on?",
+        "options": [
+          "A. The actual devices that are already available",
+          "B. Confirmed reservations for the upcoming device",
+          "C. Marketing materials from Valve",
+          "D. Previous models of Steam Machines"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到eBay上的挂牌是什么类型的。"
+      }
+    },
+    "id": "article_1782687156356_7013",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Steam Machine Preorders Are About To Begin, So Of Course They're Already on eBay",
     "title_zh": "Steam Machine预售即将开始，当然它们已经出现在eBay上",
     "level": "⭐⭐ 中级",
@@ -2210,75 +2358,5 @@
       }
     },
     "title_zh": "斯多葛哲学：在混乱的世界中寻找内心平静"
-  },
-  {
-    "id": "article_013",
-    "title": "Navigating the Future: The Evolution of Autonomous Vehicles",
-    "category": "🤖 人工智能",
-    "icon": "🚗",
-    "level": "⭐⭐⭐ 高级",
-    "time": "5 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "13-1",
-            "en": "Self-driving cars utilize a combination of lidar, radar, and deep learning algorithms.",
-            "zh": "自动驾驶汽车结合使用了激光雷达、雷达和深度学习算法。",
-            "grammar": "【主谓宾结构】主语为 self-driving cars，谓语为 utilize，宾语为 combination，后接 of 引导的三个并列修饰成分。",
-            "words": [
-              {
-                "word": "lidar",
-                "meaning": "n. 激光雷达",
-                "phonetic": "/ˈlaɪdɑːr/"
-              },
-              {
-                "word": "algorithms",
-                "meaning": "n. 算法",
-                "phonetic": "/ˈælɡərɪðəmz/"
-              }
-            ]
-          },
-          {
-            "s_id": "13-2",
-            "en": "Although safety concerns persist, developers believe autonomy will reduce traffic accidents.",
-            "zh": "尽管安全隐患仍然存在，开发人员相信自动驾驶将减少交通事故。",
-            "grammar": "【让步状语从句与宾语从句】Although 引导让步状语从句，主句谓语 believe 后面接一个省略了 that 的宾语从句。",
-            "words": [
-              {
-                "word": "persist",
-                "meaning": "v. 持续存在，坚持",
-                "phonetic": "/pəˈsɪst/"
-              },
-              {
-                "word": "autonomy",
-                "meaning": "n. 自主性，自动驾驶，自治",
-                "phonetic": "/ɔːˈtɒnəmi/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What technologies do self-driving cars combine?",
-        "options": [
-          "A. Steam valves, gears, and coal boilers",
-          "B. Lidar, radar, and deep learning algorithms",
-          "C. Manual hydraulic gears and mechanical cables",
-          "D. Analogue radios and mechanical dials"
-        ],
-        "answer": 1,
-        "hint": "提示：第一句列举了三个核心技术：lidar (激光雷达), radar (雷达) 和 deep learning algorithms (深度学习算法)。"
-      },
-      "translation_task": {
-        "en": "Although safety concerns persist, developers believe autonomy will reduce traffic accidents.",
-        "zh": "尽管安全隐患仍然存在，开发人员相信自动驾驶将减少交通事故。",
-        "valuable_point": "考察了 although 引导的让步关系，以及 autonomy (自主/自动驾驶) 的专业技术背景意译。"
-      }
-    },
-    "title_zh": "驶向未来：自动驾驶汽车的演变"
   }
 ]
