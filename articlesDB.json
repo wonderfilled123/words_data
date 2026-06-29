@@ -1,5 +1,127 @@
 [
   {
+    "title": "Xbox Devs Call For Worker Protections Ahead Of Likely Layoffs",
+    "title_zh": "Xbox开发者呼吁在可能裁员前加强员工保护",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Earlier this month, rumors began to spread about potentially massive layoffs coming to Microsoft's Xbox gaming division this summer.",
+            "zh": "本月早些时候，有关微软Xbox游戏部门今年夏天可能进行大规模裁员的谣言开始传播。",
+            "grammar": "【时态与情态】使用一般过去时描述已发生事件，'potentially'表示可能性",
+            "words": [
+              {
+                "word": "rumors",
+                "meaning": "n. 谣言，传闻",
+                "phonetic": "/ˈruːmərz/"
+              },
+              {
+                "word": "massive",
+                "meaning": "adj. 大规模的，大量的",
+                "phonetic": "/ˈmæsɪv/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "While the majority of those cuts don't appear to have happened yet, game developers under Xbox have come together to push for more layoff protections for their members.",
+            "zh": "尽管大部分裁员似乎尚未发生，但Xbox旗下的游戏开发者已经团结起来，为其成员争取更多的裁员保护。",
+            "grammar": "【让步状语从句】'While'引导的让步状语从句，表示尽管...",
+            "words": [
+              {
+                "word": "majority",
+                "meaning": "n. 大多数，多数",
+                "phonetic": "/məˈdʒɒrəti/"
+              },
+              {
+                "word": "protections",
+                "meaning": "n. 保护措施，保障",
+                "phonetic": "/prəˈtekʃənz/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Members of the United Video Game Workers and representatives from workers at Microsoft's first-party studios--including Bethesda's parent company Zenimax, as well as Activision Blizzard--were present at a press conference conducted by the Communications Workers of America.",
+            "zh": "美国视频游戏工会成员以及微软第一方工作室的工人代表——包括贝塞斯达的母公司ZeniMax，以及动视暴雪——都参加了由美国通信工会举办的新闻发布会。",
+            "grammar": "【插入语】破折号之间的内容为插入语，提供补充信息",
+            "words": [
+              {
+                "word": "representatives",
+                "meaning": "n. 代表，代理人",
+                "phonetic": "/ˌreprɪˈzentətɪvz/"
+              },
+              {
+                "word": "studios",
+                "meaning": "n. 工作室（studio的复数形式）",
+                "phonetic": "/ˈstuːdiəʊz/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Collectively, they pushed for enhanced layoff protections for all Xbox workers, including advance warning of impending layoffs, temporary hiring freezes to give the remaining devs a chance to advance internally, and tw...",
+            "zh": "他们集体呼吁为所有Xbox员工加强裁员保护，包括提前预警即将到来的裁员、临时冻结招聘以让剩余的开发人员有机会内部晋升，以及...",
+            "grammar": "【并列结构】'including'引导的并列结构，列举具体措施",
+            "words": [
+              {
+                "word": "enhanced",
+                "meaning": "adj. 增强的，加强的",
+                "phonetic": "/ɪnˈhɑːnst/"
+              },
+              {
+                "word": "impending",
+                "meaning": "adj. 即将发生的，迫近的",
+                "phonetic": "/ɪmˈpendɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What specific protections are Xbox developers pushing for according to the article?",
+        "options": [
+          "A. Higher salaries and better working conditions",
+          "B. Advance warning of layoffs, temporary hiring freezes, and internal advancement opportunities",
+          "C. Stock options and profit-sharing plans",
+          "D. Union recognition and collective bargaining rights"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第二段明确提到了开发者们呼吁的具体保护措施。"
+      },
+      "translation_task": {
+        "en": "Members of the United Video Game Workers and representatives from workers at Microsoft's first-party studios--including Bethesda's parent company Zenimax, as well as Activision Blizzard--were present at a press conference conducted by the Communications Workers of America.",
+        "zh": "美国视频游戏工会成员以及微软第一方工作室的工人代表——包括贝塞斯达的母公司ZeniMax，以及动视暴雪——都参加了由美国通信工会举办的新闻发布会。",
+        "valuable_point": "考察了长句中插入语的处理技巧，以及专业名词的准确翻译。"
+      },
+      "quiz": {
+        "question": "What specific protections are Xbox developers pushing for according to the article?",
+        "options": [
+          "A. Higher salaries and better working conditions",
+          "B. Advance warning of layoffs, temporary hiring freezes, and internal advancement opportunities",
+          "C. Stock options and profit-sharing plans",
+          "D. Union recognition and collective bargaining rights"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第二段明确提到了开发者们呼吁的具体保护措施。"
+      }
+    },
+    "id": "article_1782773134340_grw7",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Steam Machine Preorders Are About To Begin, So Of Course They're Already On eBay",
     "title_zh": "Steam Machine预售即将开始，当然它们已经出现在eBay上",
     "level": "⭐⭐ 中级",
@@ -2288,75 +2410,5 @@
       }
     },
     "title_zh": "捕捉光影：印象派艺术的诞生"
-  },
-  {
-    "id": "article_012",
-    "title": "Stoicism: Finding Inner Peace in a Chaotic World",
-    "category": "🧠 哲学智慧",
-    "icon": "🧠",
-    "level": "⭐⭐⭐ 高级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "12-1",
-            "en": "Stoic philosophy teaches individuals to focus only on what they can control.",
-            "zh": "斯多葛哲学教导个人只关注他们能够控制的事情。",
-            "grammar": "【动词不定式与宾语从句】teaches sb to do sth (教导某人做某事)；what they can control 为宾语从句，作介词 on 的宾语。",
-            "words": [
-              {
-                "word": "Stoic",
-                "meaning": "adj. 斯多葛学派的，坚忍的",
-                "phonetic": "/ˈstəʊɪk/"
-              },
-              {
-                "word": "control",
-                "meaning": "v./n. 控制",
-                "phonetic": "/kənˈtrəʊl/"
-              }
-            ]
-          },
-          {
-            "s_id": "12-2",
-            "en": "By accepting external events with composure, one can achieve emotional resilience.",
-            "zh": "通过沉着地接受外部事件，人们可以获得情感上的韧性。",
-            "grammar": "【方式状语与情态动词】By accepting... 引导方式状语，用介词短语 with composure 补充说明接受的态度，谓语为 can achieve。",
-            "words": [
-              {
-                "word": "composure",
-                "meaning": "n. 沉着，冷静",
-                "phonetic": "/kəmˈpəʊʒə(r)/"
-              },
-              {
-                "word": "resilience",
-                "meaning": "n. 韧性，恢复力",
-                "phonetic": "/rɪˈzɪliəns/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is a core teaching of Stoic philosophy?",
-        "options": [
-          "A. To control external events and other people",
-          "B. To focus only on what you can control",
-          "C. To reject emotional happiness completely",
-          "D. To avoid public activities and work"
-        ],
-        "answer": 1,
-        "hint": "提示：关注第一句“focus only on what they can control”（只关注他们能够控制的事物）。"
-      },
-      "translation_task": {
-        "en": "By accepting external events with composure, one can achieve emotional resilience.",
-        "zh": "通过沉着地接受外部事件，人们可以获得情感上的韧性。",
-        "valuable_point": "考察了 with composure (沉着地/从容地) 翻译成状语，以及 resilience (韧性/抗挫折能力) 的哲学语境意译。"
-      }
-    },
-    "title_zh": "斯多葛哲学：在混乱的世界中寻找内心平静"
   }
 ]
