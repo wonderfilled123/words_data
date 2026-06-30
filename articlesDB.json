@@ -1,5 +1,117 @@
 [
   {
+    "title": "Love And Deepspace Cancels Its New Love Interest After Fan Backlash",
+    "title_zh": "《爱与深空》因粉丝反对取消新角色恋情线",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Shortly after developer Papergames announced the addition of Valko--a new love interest in the mobile action dating sim Love and Deepspace --the backlash from fans has spilled into the real world.",
+            "zh": "在开发商Papergames宣布在手机动作恋爱模拟游戏《爱与深空》中新增角色Valko后不久，来自粉丝的反对声浪已经蔓延到现实世界。",
+            "grammar": "【语法要点】破折号的使用，插入语结构",
+            "words": [
+              {
+                "word": "backlash",
+                "meaning": "n. 强烈反对，强烈反应",
+                "phonetic": "/ˈbæklæʃ/"
+              },
+              {
+                "word": "dating sim",
+                "meaning": "n. 恋爱模拟游戏",
+                "phonetic": "/ˈdeɪtɪŋ sɪm/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Now, Papergames is reversing course by canceling Valko's debut and pledging to focus on the five other love interests who are already in the game.",
+            "zh": "现在，Papergames已经改变决定，取消了Valko的登场，并承诺专注于游戏中已有的五位恋爱角色。",
+            "grammar": "【语法要点】现在进行时表示当前正在发生的变化，by doing sth.方式状语",
+            "words": [
+              {
+                "word": "reversing course",
+                "meaning": "phr. 改变决定，改变方向",
+                "phonetic": "/rɪˈvɜːrsɪŋ kɔːrs/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "\"We recognize that we moved forward with the introduction of Valko before we were truly ready,\" reads the statement posted to Love and Deepspace's Instagram account.",
+            "zh": "发布在《爱与深空》Instagram账号上的声明写道：\"我们意识到在真正准备好之前就推出了Valko角色。\"",
+            "grammar": "【语法要点】引述句结构，主谓倒装（reads the statement）",
+            "words": [
+              {
+                "word": "recognize",
+                "meaning": "v. 认识到，承认",
+                "phonetic": "/ˈrekəɡnaɪz/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"In doing so, we let down the players who have supported us from the start, and we also fell short of delivering the experience that players anticipating Valko deserved.\"",
+            "zh": "\"这样做我们辜负了从一开始就支持我们的玩家，也未能达到期待Valko的玩家应得的游戏体验。\"",
+            "grammar": "【语法要点】现在完成时表示持续到现在的动作，fall short of doing sth.结构",
+            "words": [
+              {
+                "word": "let down",
+                "meaning": "phr. 使失望，辜负",
+                "phonetic": "/let daʊn/"
+              },
+              {
+                "word": "fell short",
+                "meaning": "phr. 未达到，未能满足",
+                "phonetic": "/fel ʃɔːrt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why did Papergames decide to cancel Valko's debut?",
+        "options": [
+          "A. Because they didn't have enough resources to develop the character.",
+          "B. Because fans strongly opposed the addition of a new love interest.",
+          "C. Because they realized they weren't ready to introduce Valko properly.",
+          "D. Because they wanted to focus on other game features instead."
+        ],
+        "answer": 2,
+        "hint": "提示：查看声明中提到的关于准备工作的内容。"
+      },
+      "translation_task": {
+        "en": "\"In doing so, we let down the players who have supported us from the start, and we also fell short of delivering the experience that players anticipating Valko deserved.\"",
+        "zh": "\"这样做我们辜负了从一开始就支持我们的玩家，也未能达到期待Valko的玩家应得的游戏体验。\"",
+        "valuable_point": "考察了英语中fall short of doing sth.的表达方式，以及现在分词短语作后置定语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "Why did Papergames decide to cancel Valko's debut?",
+        "options": [
+          "A. Because they didn't have enough resources to develop the character.",
+          "B. Because fans strongly opposed the addition of a new love interest.",
+          "C. Because they realized they weren't ready to introduce Valko properly.",
+          "D. Because they wanted to focus on other game features instead."
+        ],
+        "answer": 2,
+        "hint": "提示：查看声明中提到的关于准备工作的内容。"
+      }
+    },
+    "id": "article_1782860547524_y8hz",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Xbox Devs Call For Worker Protections Ahead Of Likely Layoffs",
     "title_zh": "Xbox开发者呼吁在可能裁员前加强员工保护",
     "level": "⭐⭐ 中级",
@@ -2340,75 +2452,5 @@
       }
     },
     "title_zh": "帝国工程：古罗马高架输水道奇迹"
-  },
-  {
-    "id": "article_011",
-    "title": "Capturing Light: The Birth of Impressionist Art",
-    "category": "🎨 人文艺术",
-    "icon": "🎨",
-    "level": "⭐⭐ 中级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "11-1",
-            "en": "In nineteenth-century France, a group of painters rejected traditional studio techniques.",
-            "zh": "在19世纪的法国，一群画家拒绝了传统的画室技术。",
-            "grammar": "【主谓宾结构】主语为 a group of painters，谓语动词为 rejected，宾语为 techniques，时间状语位于句首。",
-            "words": [
-              {
-                "word": "rejected",
-                "meaning": "v. 拒绝，排斥",
-                "phonetic": "/rɪˈdʒektɪd/"
-              },
-              {
-                "word": "studio",
-                "meaning": "n. 画室，工作室",
-                "phonetic": "/ˈstjuːdiəʊ/"
-              }
-            ]
-          },
-          {
-            "s_id": "11-2",
-            "en": "They painted outdoors to capture the fleeting effects of natural light and atmospheric changes.",
-            "zh": "他们在户外作画，以捕捉自然光线和大气变化的瞬息效果。",
-            "grammar": "【不定式作目的状语】to capture... 引导目的状语，fleeting 作形容词修饰 effects，of 引导介词短语修饰 effects 的内容。",
-            "words": [
-              {
-                "word": "fleeting",
-                "meaning": "adj. 瞬息的，飞逝的",
-                "phonetic": "/ˈfliːtɪŋ/"
-              },
-              {
-                "word": "atmospheric",
-                "meaning": "adj. 大气的，有艺术氛围的",
-                "phonetic": "/ˌætməsˈferɪk/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What did the Impressionist painters reject?",
-        "options": [
-          "A. Traditional studio techniques",
-          "B. Painting with oil colors",
-          "C. Selling art in public markets",
-          "D. Outdoor sketching entirely"
-        ],
-        "answer": 0,
-        "hint": "提示：关注第一句“rejected traditional studio techniques”（拒绝了传统的画室画法）。"
-      },
-      "translation_task": {
-        "en": "They painted outdoors to capture the fleeting effects of natural light and atmospheric changes.",
-        "zh": "他们在户外作画，以捕捉自然光线和大气变化的瞬息效果。",
-        "valuable_point": "考察了 fleeting (转瞬即逝的/瞬息的) 词义的拿捏，以及 to capture 目的状语的自然衔接。"
-      }
-    },
-    "title_zh": "捕捉光影：印象派艺术的诞生"
   }
 ]
