@@ -1,5 +1,195 @@
 [
   {
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "title_zh": "艾什顿·库彻离开声创投，与摩根·贝勒共同创立新风投公司",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs.",
+            "zh": "声创投通过在行业领先的AI实验室进行集中、高信念的投资建立了其声誉。",
+            "grammar": "【语法要点】过去完成时态表示过去某时已经完成的动作，介词短语'on...'表示方式或基础。",
+            "words": [
+              {
+                "word": "reputation",
+                "meaning": "n. 名声，声誉",
+                "phonetic": "/ˌrepjuˈteɪʃən/"
+              },
+              {
+                "word": "conviction",
+                "meaning": "n. 信念，确信",
+                "phonetic": "/kənˈvɪkʃən/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+            "zh": "而库彻的新基金似乎正在追逐那些公司之下的层面——为它们提供动力和支持的基础设施和能源。",
+            "grammar": "【语法要点】while引导的对比状语从句，破折号后的内容是对'layer'的具体解释。",
+            "words": [
+              {
+                "word": "infrastructure",
+                "meaning": "n. 基础设施",
+                "phonetic": "/ˈɪnfrəstrʌktʃər/"
+              },
+              {
+                "word": "chasing",
+                "meaning": "v. 追逐，追求",
+                "phonetic": "/ˈtʃeɪsɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main difference between Sound Ventures and Kutcher's new fund according to the article?",
+        "options": [
+          "A. Sound Ventures focuses on AI labs while Kutcher's fund focuses on infrastructure",
+          "B. Sound Ventures has a larger investment portfolio",
+          "C. Kutcher's fund only invests in energy companies",
+          "D. Sound Ventures is newer than Kutcher's fund"
+        ],
+        "answer": 0,
+        "hint": "提示：文章明确指出了两家投资公司在投资重点上的差异，请关注'while'引导的对比句。"
+      },
+      "translation_task": {
+        "en": "while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+        "zh": "而库彻的新基金似乎正在追逐那些公司之下的层面——为它们提供动力和支持的基础设施和能源。",
+        "valuable_point": "考察了破折号作为解释性插入语的翻译技巧，以及'chasing'在商业语境中的引申义翻译。"
+      },
+      "quiz": {
+        "question": "What is the main difference between Sound Ventures and Kutcher's new fund according to the article?",
+        "options": [
+          "A. Sound Ventures focuses on AI labs while Kutcher's fund focuses on infrastructure",
+          "B. Sound Ventures has a larger investment portfolio",
+          "C. Kutcher's fund only invests in energy companies",
+          "D. Sound Ventures is newer than Kutcher's fund"
+        ],
+        "answer": 0,
+        "hint": "提示：文章明确指出了两家投资公司在投资重点上的差异，请关注'while'引导的对比句。"
+      }
+    },
+    "id": "article_1782946835341_84iy",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Profoundly Disappointed: Companies Respond To Sony's Decision To End Disc Support",
+    "title_zh": "深感失望：各公司回应索尼停止光盘支持的决定",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "A number of companies have responded to the news that Sony will no longer support physical PlayStation discs beginning in 2028.",
+            "zh": "多家公司已对索尼将于2028年起不再支持PlayStation实体光盘的消息作出回应。",
+            "grammar": "【语法要点】现在完成时与将来时的结合使用，表示对将来事件的反应。",
+            "words": [
+              {
+                "word": "physical",
+                "meaning": "adj. 实体的，物质的",
+                "phonetic": "/ˈfɪzɪkl/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "That includes iam8bit, a company known for its physical gaming collectibles, which said it is \"profoundly disappointed\" by the news.",
+            "zh": "其中包括iam8bit公司，该公司以实体游戏收藏品闻名，并表示对这一消息\"深感失望\"。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "profoundly",
+                "meaning": "adv. 深刻地，极其",
+                "phonetic": "/prəˈfaʊndli/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "\"Physical games are vital to games preservation, ownership, and consumer choice, values that have guided iam8bit since our first physical release in 2016,\" the company said.",
+            "zh": "该公司表示：\"实体游戏对游戏保存、所有权和消费者选择至关重要，这些价值观自2016年我们首次发布实体产品以来一直指导着iam8bit的发展。\"",
+            "grammar": "【语法要点】包含插入语和定语从句的复杂句结构。",
+            "words": [
+              {
+                "word": "vital",
+                "meaning": "adj. 至关重要的，必不可少的",
+                "phonetic": "/ˈvaɪtl/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The company added that it remains committed to these values.",
+            "zh": "该公司补充说，它仍然致力于这些价值观。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-3",
+            "en": "\"Long live physical media,\" iam8bit said in its sign-off.",
+            "zh": "iam8bit在结束语中表示：\"实体媒体万岁。\"",
+            "grammar": "",
+            "words": [
+              {
+                "word": "media",
+                "meaning": "n. 媒体，媒介",
+                "phonetic": "/ˈmiːdiə/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is iam8bit's main concern about Sony's decision to end disc support?",
+        "options": [
+          "A. It will increase the cost of games",
+          "B. It threatens game preservation, ownership, and consumer choice",
+          "C. It will reduce collaboration with other companies",
+          "D. It will affect the release of vinyl soundtracks"
+        ],
+        "answer": 1,
+        "hint": "提示：查看iam8bit公司声明中提到的核心价值观。"
+      },
+      "translation_task": {
+        "en": "\"Physical games are vital to games preservation, ownership, and consumer choice, values that have guided iam8bit since our first physical release in 2016,\" the company said.",
+        "zh": "该公司表示：\"实体游戏对游戏保存、所有权和消费者选择至关重要，这些价值观自2016年我们首次发布实体产品以来一直指导着iam8bit的发展。\"",
+        "valuable_point": "考察了包含插入语和定语从句的复杂句翻译，以及专业术语的准确表达。"
+      },
+      "quiz": {
+        "question": "What is iam8bit's main concern about Sony's decision to end disc support?",
+        "options": [
+          "A. It will increase the cost of games",
+          "B. It threatens game preservation, ownership, and consumer choice",
+          "C. It will reduce collaboration with other companies",
+          "D. It will affect the release of vinyl soundtracks"
+        ],
+        "answer": 1,
+        "hint": "提示：查看iam8bit公司声明中提到的核心价值观。"
+      }
+    },
+    "id": "article_1782946847089_45ul",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Love And Deepspace Cancels Its New Love Interest After Fan Backlash",
     "title_zh": "《爱与深空》因粉丝反对取消新角色恋情线",
     "level": "⭐⭐ 中级",
@@ -2312,145 +2502,5 @@
       }
     },
     "title_zh": "SpaceX 成功发射下一代通信卫星星群"
-  },
-  {
-    "id": "article_009",
-    "title": "The Legacy of the Silk Road: Bridging Ancient Worlds",
-    "category": "🏛️ 历史文明",
-    "icon": "🐪",
-    "level": "⭐⭐ 中级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "9-1",
-            "en": "The Silk Road was not just a trade route for physical goods, but also a highway for ideas.",
-            "zh": "丝绸之路不仅是实体商品的贸易路线，也是思想交流的公路。",
-            "grammar": "【并列对比结构】not just... but also... 意为“不仅...而且...”，并列了 route 和 highway 两个表语。",
-            "words": [
-              {
-                "word": "route",
-                "meaning": "n. 路线，路径",
-                "phonetic": "/ruːt/"
-              },
-              {
-                "word": "highway",
-                "meaning": "n. 公路，捷径",
-                "phonetic": "/ˈhaɪweɪ/"
-              }
-            ]
-          },
-          {
-            "s_id": "9-2",
-            "en": "It facilitated cultural exchanges between China, Persia, and the Roman Empire for centuries.",
-            "zh": "几个世纪以来，它促进了中国、波斯和罗马帝国之间的文化交流。",
-            "grammar": "【主谓宾结构】It (代指丝绸之路) 作主语，动词 facilitated 意为“促进”，后接介词短语 between... 作后置修饰。",
-            "words": [
-              {
-                "word": "facilitated",
-                "meaning": "v. 促进，使便利",
-                "phonetic": "/fəˈsɪlɪteɪtɪd/"
-              },
-              {
-                "word": "Persia",
-                "meaning": "n. 波斯",
-                "phonetic": "/ˈpɜːʒə/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Besides trade goods, what did the Silk Road primarily transport?",
-        "options": [
-          "A. Heavy military vehicles",
-          "B. Ideas and cultural exchanges",
-          "C. Modern financial stocks",
-          "D. Steam-powered engines"
-        ],
-        "answer": 1,
-        "hint": "提示：关注第一句的后半句“but also a highway for ideas”（也是思想交流的公路）。"
-      },
-      "translation_task": {
-        "en": "The Silk Road was not just a trade route for physical goods, but also a highway for ideas.",
-        "zh": "丝绸之路不仅是实体商品的贸易路线，也是思想交流的公路。",
-        "valuable_point": "考察了 not just... but also... 的句型翻译，以及 highway (公路/渠道) 在文化语境下的抽象化翻译。"
-      }
-    },
-    "title_zh": "丝绸之路的遗产：连接古代世界"
-  },
-  {
-    "id": "article_010",
-    "title": "Engineering the Empire: The Marvel of Roman Aqueducts",
-    "category": "🏛️ 历史文明",
-    "icon": "🏛️",
-    "level": "⭐⭐⭐ 高级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "10-1",
-            "en": "Ancient Romans built massive stone aqueducts to transport fresh water to bustling cities.",
-            "zh": "古罗马人建造了巨大的石质输水道，将淡水输送到繁忙的城市。",
-            "grammar": "【不定式作目的状语】to transport... 为动词不定式引导的短语，作目的状语，修饰谓语动词 built 的目的。",
-            "words": [
-              {
-                "word": "aqueducts",
-                "meaning": "n. 输水道，高架渠",
-                "phonetic": "/ˈækwɪdʌkts/"
-              },
-              {
-                "word": "bustling",
-                "meaning": "adj. 繁忙的，熙熙攘攘的",
-                "phonetic": "/ˈbʌslɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "10-2",
-            "en": "These gravity-powered structures showcased advanced hydraulic engineering skills.",
-            "zh": "这些靠重力驱动的结构展示了先进的水力工程技术。",
-            "grammar": "【过去分词作定语】gravity-powered 作为合成形容词（过去分词形式），作前置定语修饰 structures。",
-            "words": [
-              {
-                "word": "hydraulic",
-                "meaning": "adj. 水力的，液压的",
-                "phonetic": "/haɪˈdrɔːlɪk/"
-              },
-              {
-                "word": "showcased",
-                "meaning": "v. 展示，展现",
-                "phonetic": "/ˈʃəʊkeɪst/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "How did Roman aqueducts transport water to cities?",
-        "options": [
-          "A. By using high-pressure steam pumps",
-          "B. By relying on wind-powered turbines",
-          "C. By leveraging gravity-powered structures",
-          "D. By using deep electrical conduits"
-        ],
-        "answer": 2,
-        "hint": "提示：寻找第二句中修饰 structures（结构）的物理动力来源单词（gravity-powered）。"
-      },
-      "translation_task": {
-        "en": "These gravity-powered structures showcased advanced hydraulic engineering skills.",
-        "zh": "这些靠重力驱动的结构展示了先进的水力工程技术。",
-        "valuable_point": "考察了 gravity-powered (重力驱动的) 的合成词翻译以及 hydraulic (水力的) 专业词汇的精确表述。"
-      }
-    },
-    "title_zh": "帝国工程：古罗马高架输水道奇迹"
   }
 ]
