@@ -1,5 +1,202 @@
 [
   {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "title_zh": "OpenAI提议向美国主权财富基金捐赠5%股权",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company's equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+            "zh": "据报道，OpenAI首席执行官萨姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的经济收益的讨论。",
+            "grammar": "【语法要点】现在完成时态与现在分词作状语结构",
+            "words": [
+              {
+                "word": "reportedly",
+                "meaning": "adv. 据报道",
+                "phonetic": "/rɪˈpɔːrtɪdli/"
+              },
+              {
+                "word": "equity",
+                "meaning": "n. 股权；股票",
+                "phonetic": "/ˈekwəti/"
+              },
+              {
+                "word": "sovereign",
+                "meaning": "adj. 主权的；至高无上的",
+                "phonetic": "/ˈsɑːvrən/"
+              },
+              {
+                "word": "reviving",
+                "meaning": "v. 使复苏；重新唤起（revive的现在分词）",
+                "phonetic": "/rɪˈvaɪvɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What percentage of equity did OpenAI CEO Sam Altman propose to donate to a U.S. sovereign wealth fund?",
+        "options": [
+          "A. 3%",
+          "B. 5%",
+          "C. 10%",
+          "D. 15%"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确提到了具体的百分比数字。"
+      },
+      "translation_task": {
+        "en": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company's equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+        "zh": "据报道，OpenAI首席执行官萨姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的经济收益的讨论。",
+        "valuable_point": "考察了长句中现在分词作结果状语的结构，以及专业术语'equity'和'sovereign wealth fund'的准确翻译。"
+      },
+      "quiz": {
+        "question": "What percentage of equity did OpenAI CEO Sam Altman propose to donate to a U.S. sovereign wealth fund?",
+        "options": [
+          "A. 3%",
+          "B. 5%",
+          "C. 10%",
+          "D. 15%"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确提到了具体的百分比数字。"
+      }
+    },
+    "id": "article_1783032922934_ylk9",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "$2.50 Steam Sale Has Everyone Smashing The Surveillance State",
+    "title_zh": "2.5美元Steam促销活动让众人纷纷对抗监控国家",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "One of Ubisoft's most underrated games, Watch Dogs 2, is on a super steep sale on Steam right now.",
+            "zh": "育碧公司最被低估的游戏之一《看门狗2》目前正在Steam上进行超级大幅度的促销。",
+            "grammar": "【语法要点】同位语结构介绍游戏名称",
+            "words": [
+              {
+                "word": "underrated",
+                "meaning": "adj. 被低估的",
+                "phonetic": "/ˌʌndərˈreɪtɪd/"
+              },
+              {
+                "word": "steep",
+                "meaning": "adj. (价格等)过高的；陡峭的",
+                "phonetic": "/stiːp/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "So steep, in fact, that it seems to have inspired a new crop of folks to trawl through the technocratic world of digitized San Francisco to put an end to the surveillance state at a time when we're all under some sort of surveillance IRL.",
+            "zh": "事实上，折扣幅度如此之大，以至于似乎激励了一批新人去探索数字化旧金山的技术官僚世界，终结监控国家，而此时我们在现实生活中都处于某种监控之下。",
+            "grammar": "【语法要点】结果状语从句，at a time when引导的时间状语从句",
+            "words": [
+              {
+                "word": "technocratic",
+                "meaning": "adj. 技术官僚的",
+                "phonetic": "/ˌteknoʊˈkrætɪk/"
+              },
+              {
+                "word": "surveillance",
+                "meaning": "n. 监视；监控",
+                "phonetic": "/sərˈveɪləns/"
+              },
+              {
+                "word": "IRL",
+                "meaning": "abbr. In Real Life (现实生活中)",
+                "phonetic": "/ˌaɪˌɑːrˈɛl/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Over on the game's Steam store page, you can pick Watch Dogs 2 for just $2.50 until Thursday, July 9.",
+            "zh": "在该游戏的Steam商店页面，你可以以仅2.50美元的价格购买《看门狗2》，促销将持续到7月9日星期四。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "That's a 95% discount for a game that normally retails for $50.",
+            "zh": "这款游戏原价50美元，现在相当于打了95折。",
+            "grammar": "【语法要点】定语从句修饰游戏",
+            "words": [
+              {
+                "word": "retail",
+                "meaning": "v. 零售；以...价格出售",
+                "phonetic": "/ˈriːteɪl/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-3",
+            "en": "And that's just the base game! If you wanted to grab the DLC--which includes new cars, co-op adventures, outfits, weapons, world missions, and more--then you can snatch up either the Deluxe Edition for $3 or the Gold Edition for $4.",
+            "zh": "这还只是基础游戏！如果你想下载DLC（包括新汽车、合作冒险、服装、武器、世界任务等），那么你可以花3美元购买豪华版或4美元购买黄金版。",
+            "grammar": "【语法要点】破折号插入语解释DLC内容",
+            "words": [
+              {
+                "word": "snatch",
+                "meaning": "v. 迅速抓住；抢购",
+                "phonetic": "/snætʃ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the special offer for Watch Dogs 2 on Steam?",
+        "options": [
+          "A. 50% discount on the base game",
+          "B. 95% discount on the base game",
+          "C. Free DLC with the base game",
+          "D. Buy one get one free offer"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了折扣百分比，请查找相关信息。"
+      },
+      "translation_task": {
+        "en": "So steep, in fact, that it seems to have inspired a new crop of folks to trawl through the technocratic world of digitized San Francisco to put an end to the surveillance state at a time when we're all under some sort of surveillance IRL.",
+        "zh": "事实上，折扣幅度如此之大，以至于似乎激励了一批新人去探索数字化旧金山的技术官僚世界，终结监控国家，而此时我们在现实生活中都处于某种监控之下。",
+        "valuable_point": "考察了结果状语从句、同位语结构以及破折号插入语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What is the special offer for Watch Dogs 2 on Steam?",
+        "options": [
+          "A. 50% discount on the base game",
+          "B. 95% discount on the base game",
+          "C. Free DLC with the base game",
+          "D. Buy one get one free offer"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了折扣百分比，请查找相关信息。"
+      }
+    },
+    "id": "article_1783032936620_vqlj",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
     "title_zh": "艾什顿·库彻离开声创投，与摩根·贝勒共同创立新风投公司",
     "level": "⭐⭐ 中级",
@@ -2362,145 +2559,5 @@
       }
     },
     "title_zh": "霓虹与数字：上海陆家嘴的现代商业节奏"
-  },
-  {
-    "id": "article_007",
-    "title": "Global Leaders Announce Historic Carbon Reduction Treaty",
-    "category": "📰 时事新闻",
-    "icon": "📰",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "7-1",
-            "en": "At the international climate summit, representatives from over one hundred nations signed a historic treaty.",
-            "zh": "在国际气候峰会上，来自一百多个国家的代表签署了一份具有历史意义的条约。",
-            "grammar": "【介词短语作地点状语】At the summit 作为地点状语，主语为 representatives，谓语为 signed。",
-            "words": [
-              {
-                "word": "summit",
-                "meaning": "n. 峰会，顶点",
-                "phonetic": "/ˈsʌmɪt/"
-              },
-              {
-                "word": "treaty",
-                "meaning": "n. 条约，协定",
-                "phonetic": "/ˈtiːti/"
-              }
-            ]
-          },
-          {
-            "s_id": "7-2",
-            "en": "The agreement pledges to accelerate transition to renewable energy sources and phase out fossil fuels.",
-            "zh": "该协议承诺加速向可再生能源的转型并逐步淘汰化石燃料。",
-            "grammar": "【动词不定式】pledges to do sth 承诺做某事；and 连接并列的动词不定式 to accelerate 和 (to) phase out。",
-            "words": [
-              {
-                "word": "renewable",
-                "meaning": "adj. 可再生的",
-                "phonetic": "/rɪˈnjuːəbl/"
-              },
-              {
-                "word": "transition",
-                "meaning": "n. 过渡，转型",
-                "phonetic": "/trænˈzɪʃn/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What did the representatives sign at the climate summit?",
-        "options": [
-          "A. A trade agreement for spices",
-          "B. A historic carbon reduction treaty",
-          "C. A local tourism promotion deal",
-          "D. A new technology licensing contract"
-        ],
-        "answer": 1,
-        "hint": "提示：第一段提到来自一百多个国家的代表在气候峰会上签署了一个 historic treaty（历史性的条约）。"
-      },
-      "translation_task": {
-        "en": "The agreement pledges to accelerate transition to renewable energy sources and phase out fossil fuels.",
-        "zh": "该协议承诺加速向可再生能源的转型并逐步淘汰化石燃料。",
-        "valuable_point": "考察了 pledge to do (承诺做) 以及 phase out (逐步淘汰) 的固定搭配和句型翻译。"
-      }
-    },
-    "title_zh": "全球领导人宣布具历史意义的碳减排条约"
-  },
-  {
-    "id": "article_008",
-    "title": "SpaceX Successfully Launches Next-Generation Satellite Constellation",
-    "category": "📰 时事新闻",
-    "icon": "🚀",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "8-1",
-            "en": "The reusable rocket deployed sixty communication satellites into low Earth orbit.",
-            "zh": "这枚可重复使用的火箭将60颗通信卫星送入了近地轨道。",
-            "grammar": "【主谓宾结构】主语为 rocket，动词为 deployed，宾语为 satellites，后接地点状语 into orbit。",
-            "words": [
-              {
-                "word": "reusable",
-                "meaning": "adj. 可重复使用的",
-                "phonetic": "/ˌriːˈjuːzəbl/"
-              },
-              {
-                "word": "deployed",
-                "meaning": "v. 部署，调度，配置",
-                "phonetic": "/dɪˈplɔɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "8-2",
-            "en": "This mission aims to provide high-speed global internet access to remote regions.",
-            "zh": "该任务旨在为偏远地区提供高速的全球互联网接入。",
-            "grammar": "【不定式作宾语】aims to do sth 旨在做某事，to provide 作为 aims 的宾语补足方向。",
-            "words": [
-              {
-                "word": "mission",
-                "meaning": "n. 任务，使命",
-                "phonetic": "/ˈmɪʃn/"
-              },
-              {
-                "word": "remote",
-                "meaning": "adj. 偏远的，遥远的",
-                "phonetic": "/rɪˈməʊt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the primary goal of the satellite constellation mission?",
-        "options": [
-          "A. To research soil quality on Mars",
-          "B. To provide high-speed global internet to remote regions",
-          "C. To build a giant telescope in space",
-          "D. To monitor underwater ocean currents"
-        ],
-        "answer": 1,
-        "hint": "提示：关注第二句中“provide high-speed global internet access to remote regions”（为偏远地区提供高速全球互联网服务）。"
-      },
-      "translation_task": {
-        "en": "This mission aims to provide high-speed global internet access to remote regions.",
-        "zh": "该任务旨在为偏远地区提供高速的全球互联网接入。",
-        "valuable_point": "考察了 aim to do (旨在做) 的翻译以及 internet access (互联网接入/访问) 的技术化词汇处理。"
-      }
-    },
-    "title_zh": "SpaceX 成功发射下一代通信卫星星群"
   }
 ]
