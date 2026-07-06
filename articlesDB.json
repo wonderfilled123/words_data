@@ -1,5 +1,185 @@
 [
   {
+    "title": "If you use Google, you're training its AI. Here's how to opt out.",
+    "title_zh": "如果你使用谷歌，你正在训练其人工智能。以下是退出方法。",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Consider this a belated PSA: A recent change to Google's privacy settings is allowing the company to store more of your data, including media such as \"images, files, and audio and video recordings,\" to improve its AI models.",
+            "zh": "请将此视为一则迟来的公共服务公告：谷歌最近对其隐私设置进行了一项更改，允许公司存储更多您的数据，包括\"图像、文件以及音频和视频录音\"等媒体内容，以改进其人工智能模型。",
+            "grammar": "【语法要点】冒号后的句子结构复杂，包含现在分词短语作目的状语(to improve its AI models)。",
+            "words": [
+              {
+                "word": "belated",
+                "meaning": "adj. 迟来的，延误的",
+                "phonetic": "/bɪˈleɪtɪd/"
+              },
+              {
+                "word": "privacy",
+                "meaning": "n. 隐私，私密",
+                "phonetic": "/ˈprɪvəsi/"
+              },
+              {
+                "word": "recordings",
+                "meaning": "n. 录音，录像",
+                "phonetic": "/rɪˈkɔːrdɪŋz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is Google storing to improve its AI models according to the article?",
+        "options": [
+          "A. User search history",
+          "B. Personal data including media files",
+          "C. Location information",
+          "D. Email contacts"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了谷歌存储的数据类型，包括\"images, files, and audio and video recordings\"。"
+      },
+      "translation_task": {
+        "en": "Consider this a belated PSA: A recent change to Google's privacy settings is allowing the company to store more of your data, including media such as \"images, files, and audio and video recordings,\" to improve its AI models.",
+        "zh": "请将此视为一则迟来的公共服务公告：谷歌最近对其隐私设置进行了一项更改，允许公司存储更多您的数据，包括\"图像、文件以及音频和视频录音\"等媒体内容，以改进其人工智能模型。",
+        "valuable_point": "考察了复杂句型的翻译，特别是包含引号和列举内容的句子结构，以及专业术语如\"PSA\"和\"AI models\"的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is Google storing to improve its AI models according to the article?",
+        "options": [
+          "A. User search history",
+          "B. Personal data including media files",
+          "C. Location information",
+          "D. Email contacts"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了谷歌存储的数据类型，包括\"images, files, and audio and video recordings\"。"
+      }
+    },
+    "id": "article_1783378528867_ahr8",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Diablo 4's Massive Mythic Item Changes Aren't Finding Many Fans",
+    "title_zh": "《暗黑破坏神4》的重大神话装备改动并未获得玩家青睐",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Diablo 4 Season 14 dramatically reworked Mythic items in Blizzard's ARPG going forward, and judging from early feedback, it's a change that isn't going over well.",
+            "zh": "《暗黑破坏神4》第14赛季对暴雪的ARPG游戏中的神话装备进行了彻底重做，根据早期反馈来看，这一改动并未获得玩家青睐。",
+            "grammar": "【现在进行时与将来时结合】使用'going forward'表示从现在开始持续到将来的动作，'isn't going over well'表示当前状态。",
+            "words": [
+              {
+                "word": "dramatically",
+                "meaning": "adv. 戏剧性地；剧烈地",
+                "phonetic": "/drəˈmætɪkli/"
+              },
+              {
+                "word": "reworked",
+                "meaning": "v. 重新加工；彻底修改",
+                "phonetic": "/ˌriːˈwɜːrkt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Season of Death Awakening launched on June 30 and introduced what Blizzard coined Mythic Uniques 3.0, a new system where any of the game's hundreds of Unique items could be found (or turned into) even stronger Mythic versions.",
+            "zh": "死亡觉醒赛季于6月30日上线，推出了暴雪称之为'神话装备3.0'的新系统，在这个系统中，游戏中的数百件独特装备都可以被找到（或转化）为更强大的神话版本。",
+            "grammar": "【过去分词作后置定语】'what Blizzard coined'作为'what'引导的名词性从句，'launched'和'introduced'为并列谓语。",
+            "words": [
+              {
+                "word": "coined",
+                "meaning": "v. 创造（新词或短语）",
+                "phonetic": "/kɔɪnd/"
+              },
+              {
+                "word": "versions",
+                "meaning": "n. 版本；变体",
+                "phonetic": "/ˈvɜːrʒnz/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "In theory, it would open up the game's endgame build options and give players more choices when it comes to outfitting their characters.",
+            "zh": "理论上，这一系统将开放游戏的后期构筑选项，让玩家在装备角色时有更多选择。",
+            "grammar": "【情态动词would表示推测】'would'在此处表示对未来的推测或假设，'when it comes to'是固定表达，意为'当涉及...时'。",
+            "words": [
+              {
+                "word": "outfitting",
+                "meaning": "v. 装备；配备",
+                "phonetic": "/ˈaʊtfɪtɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Far from just a temporary seasonal change, Blizzard stated it intended for Mythic Uniques 3.0 to be a permanent part of the game going forward.",
+            "zh": "这绝非仅仅是暂时的赛季改动，暴雪表示他们打算让神话装备3.0成为游戏从现在开始永久的一部分。",
+            "grammar": "【'Far from'表示否定】'Far from'后接名词或动名词，表示'远非，绝非'，与后面的意思形成对比。",
+            "words": [
+              {
+                "word": "permanent",
+                "meaning": "adj. 永久的；持久的",
+                "phonetic": "/ˈpɜːrmənənt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main issue with the new Mythic Uniques 3.0 system according to the article?",
+        "options": [
+          "A. It was only available for a limited time during Season 14",
+          "B. It reduced the number of unique items in the game",
+          "C. It added more randomness to Mythics",
+          "D. It completely removed all previous unique items"
+        ],
+        "answer": 2,
+        "hint": "提示：文章提到新系统的缺点是增加了神话装备的随机性，请查找相关描述。"
+      },
+      "translation_task": {
+        "en": "Far from just a temporary seasonal change, Blizzard stated it intended for Mythic Uniques 3.0 to be a permanent part of the game going forward.",
+        "zh": "这绝非仅仅是暂时的赛季改动，暴雪表示他们打算让神话装备3.0成为游戏从现在开始永久的一部分。",
+        "valuable_point": "考察了'Far from'表示否定的用法以及'intend for'表示'打算让...'的句型结构。"
+      },
+      "quiz": {
+        "question": "What is the main issue with the new Mythic Uniques 3.0 system according to the article?",
+        "options": [
+          "A. It was only available for a limited time during Season 14",
+          "B. It reduced the number of unique items in the game",
+          "C. It added more randomness to Mythics",
+          "D. It completely removed all previous unique items"
+        ],
+        "answer": 2,
+        "hint": "提示：文章提到新系统的缺点是增加了神话装备的随机性，请查找相关描述。"
+      }
+    },
+    "id": "article_1783378540554_9lmb",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "title_zh": "OpenAI提议向美国主权财富基金捐赠5%股权",
     "level": "⭐⭐ 中级",
@@ -2373,191 +2553,5 @@
       }
     },
     "title_zh": "独立的回响：独立音乐流派的演变"
-  },
-  {
-    "id": "article_005",
-    "title": "Shift in Syntax: The Vibe Coding Workflow in the LLM Era",
-    "category": "🤖 人工智能",
-    "icon": "💻",
-    "level": "⭐⭐⭐ 高级",
-    "time": "5 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "5-1",
-            "en": "Software engineering is undergoing a tectonic shift, moving towards a paradigm known as 'vibe coding'.",
-            "zh": "软件工程正在经历一场剧变，向一种被称为“氛围编程（vibe coding）”的范式演进。",
-            "grammar": "【分词短语修饰与同位语】moving towards... 作伴随状语，补充说明 shift 的演进方向；paradigms 后面接过去分词作后置定语。",
-            "words": [
-              {
-                "word": "tectonic",
-                "meaning": "adj. 地壳构造的，剧烈的",
-                "phonetic": "/tekˈtɒnɪk/"
-              },
-              {
-                "word": "paradigm",
-                "meaning": "n. 范式，典范",
-                "phonetic: ": "/ˈpærədaɪm/"
-              }
-            ]
-          },
-          {
-            "s_id": "5-2",
-            "en": "In this era, developers specify system behaviors in natural language rather than writing boilerplate syntax manually.",
-            "zh": "在这个时代，开发人员用自然语言指定系统行为，而不是手动编写样板语法。",
-            "grammar": "【对比结构】specify... rather than writing... 意为“指定...而不是编写...”，rather than 后面接动名词作对比。",
-            "words": [
-              {
-                "word": "specify",
-                "meaning": "v. 详细说明，指定",
-                "phonetic": "/ˈspesɪfaɪ/"
-              },
-              {
-                "word": "boilerplate",
-                "meaning": "n. (编程)样板代码，常用模板",
-                "phonetic": "/ˈbɔɪləpleɪt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "5-3",
-            "en": "Instead of focusing on syntax errors, developers now act as system architects, orchestrating AI agents to assemble complex applications.",
-            "zh": "开发人员现在不再关注语法错误，而是充当系统架构师，编排 AI 智能体来组装复杂的应用程序。",
-            "grammar": "【介词短语前置】Instead of focusing on... 引入让步状语；orchestrating... 作为伴随状语，解释说明 act as system architects 的工作方式。",
-            "words": [
-              {
-                "word": "orchestrating",
-                "meaning": "v. 编排，协调，管弦乐编曲",
-                "phonetic": "/ˈɔːkɪstreɪtɪŋ/"
-              },
-              {
-                "word": "assemble",
-                "meaning": "v. 组装，聚集",
-                "phonetic": "/əˈsembl/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "How do developers work in the 'vibe coding' paradigm?",
-        "options": [
-          "A. By writing raw assembly instructions",
-          "B. By specifying behaviors in natural language while AI generates code",
-          "C. By copy-pasting code from paper books",
-          "D. By avoiding computer systems entirely"
-        ],
-        "answer": 1,
-        "hint": "提示：关注第一段第二句，开发人员只需使用自然语言（natural language）描述系统行为。"
-      },
-      "translation_task": {
-        "en": "Instead of focusing on syntax errors, developers now act as system architects, orchestrating AI agents to assemble complex applications.",
-        "zh": "开发人员现在不再关注语法错误，而是充当系统架构师，编排 AI 智能体来组装复杂的应用程序。",
-        "valuable_point": "考察了 instead of (而不是) 让步关系处理以及 orchestrate (编排) 词义的技术化翻译。"
-      }
-    },
-    "title_zh": "语法切换：大语言模型时代的 Vibe Coding 工作流"
-  },
-  {
-    "id": "article_006",
-    "title": "Neon and Numbers: The Modern Business Rhythm of Shanghai Lujiazui",
-    "category": "💼 金融商业",
-    "icon": "🏢",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "6-1",
-            "en": "Shanghai Lujiazui stands as the financial heartbeat of China, where glitzy skyscrapers pierce the sky.",
-            "zh": "上海陆家嘴作为中国的金融心脉耸立，耀眼的摩天大楼直插云霄。",
-            "grammar": "【定语从句】where... 引导非限制性定语从句，在从句中作地点状语，修饰前面的 financial heartbeat (金融心脉/金融区)。",
-            "words": [
-              {
-                "word": "heartbeat",
-                "meaning": "n. 心跳，中心枢纽",
-                "phonetic": "/ˈhɑːtbiːt/"
-              },
-              {
-                "word": "glitzy",
-                "meaning": "adj. 耀眼的，奢华的",
-                "phonetic": "/ˈɡlɪtsi/"
-              }
-            ]
-          },
-          {
-            "s_id": "6-2",
-            "en": "Every morning, millions of professionals navigate the underground metro lines to populate these vertical offices.",
-            "zh": "每天清晨，数以百万计的职场人士穿梭于地下地铁线，涌入这些垂直的办公楼宇中。",
-            "grammar": "【动词不定式】to populate... 作目的状语，表示他们搭乘地铁的目的。",
-            "words": [
-              {
-                "word": "professionals",
-                "meaning": "n. 专业人士，白领",
-                "phonetic": "/prəˈfeʃənlz/"
-              },
-              {
-                "word": "populate",
-                "meaning": "v. 居住于，填充，涌入",
-                "phonetic": "/ˈpɒpjuleɪt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "6-3",
-            "en": "Under the towering facade of skyscrapers, high-frequency trading and strategic decisions shape the pulse of global financial markets daily.",
-            "zh": "在摩天大楼高耸的外表下，高频交易和战略决策每天都在塑造着全球金融市场的脉搏。",
-            "grammar": "【介词短语修饰与主谓结构】Under the towering facade... 作为地点状语置于句首，主语为 trading and decisions，谓语为 shape。",
-            "words": [
-              {
-                "word": "facade",
-                "meaning": "n. (建筑物的)正面，外表",
-                "phonetic": "/fəˈsɑːd/"
-              },
-              {
-                "word": "pulse",
-                "meaning": "n. 脉搏，节奏",
-                "phonetic": "/pʌls/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What daily activities shape the pulse of global financial markets in Lujiazui?",
-        "options": [
-          "A. Traditional agricultural trade",
-          "B. High-frequency trading and strategic business decisions",
-          "C. Tourism and local handicraft selling",
-          "D. Residential housing construction projects"
-        ],
-        "answer": 1,
-        "hint": "提示：注意文章第二段关于“高频交易（high-frequency trading）”和“战略决策（strategic decisions）”的描述。"
-      },
-      "translation_task": {
-        "en": "Under the towering facade of skyscrapers, high-frequency trading and strategic decisions shape the pulse of global financial markets daily.",
-        "zh": "在摩天大楼高耸的外表下，高频交易和战略决策每天都在塑造着全球金融市场的脉搏。",
-        "valuable_point": "考察了 shape the pulse (塑造脉搏/节奏) 的意译以及 towering facade 的修饰语翻译。"
-      }
-    },
-    "title_zh": "霓虹与数字：上海陆家嘴的现代商业节奏"
   }
 ]
