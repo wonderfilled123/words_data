@@ -1,5 +1,111 @@
 [
   {
+    "title": "Arc Raiders' Matchmaking Update Gives Players What They've Always Wanted",
+    "title_zh": "《Arc Raiders》匹配系统更新满足玩家长期期待",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The latest Arc Raiders update is out now, and alongside the opening of the Expedition 4 window and an upcoming crossover event with Embark's first-person shooter The Finals, the extraction game is getting a matchmaking overhaul that fulfills one of players' biggest wishlist items.",
+            "zh": "最新的《Arc Raiders》更新现已发布，除了开启第4次远征窗口和即将与Embark的第一人称射击游戏《The Finals》联动活动外，这款提取类游戏还进行了一次匹配系统大更新，满足了玩家最期待的愿望之一。",
+            "grammar": "【复合句】包含多个并列成分的复合句，使用了'alongside'和'and'连接多个更新内容",
+            "words": [
+              {
+                "word": "overhaul",
+                "meaning": "n. 彻底改革，全面检修",
+                "phonetic": "/ˈəʊvəhɔːl/"
+              },
+              {
+                "word": "wishlist",
+                "meaning": "n. 愿望清单，期待列表",
+                "phonetic": "/ˈwɪʃlɪst/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Starting today, Arc Raiders offers separate matchmaking buckets for solo, duo, and trio queues.",
+            "zh": "从今天开始，《Arc Raiders》为单人、双人和三人队列提供独立的匹配分组。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "This means that players who may prefer to express different playstyles depending on their team size can now find lobbies that suit their needs.",
+            "zh": "这意味着那些可能根据队伍大小而偏好不同游戏风格的玩家现在可以找到适合自己需求的游戏房间。",
+            "grammar": "【定语从句】包含两个定语从句，修饰'players'和'lobbies'",
+            "words": [
+              {
+                "word": "playstyle",
+                "meaning": "n. 游戏风格，玩法风格",
+                "phonetic": "/ˈpleɪstaɪl/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Arc Raiders' \"aggression-based matchmaking\" has been a story surrounding the game since it debuted last October, with players debating how it should work and, initially, whether it truly existed at all.",
+            "zh": "自去年10月发布以来，基于攻击性的匹配系统一直是《Arc Raiders》游戏的热议话题，玩家们争论它应该如何工作，以及最初它是否真的存在。",
+            "grammar": "【现在完成进行时】使用现在完成进行时表示从过去持续到现在的状态",
+            "words": [
+              {
+                "word": "aggression-based",
+                "meaning": "adj. 基于攻击性的",
+                "phonetic": "/əˈɡreʃn ˈbeɪst/"
+              },
+              {
+                "word": "debating",
+                "meaning": "v. 争论，讨论",
+                "phonetic": "/dɪˈbeɪtɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main feature of the latest Arc Raiders update?",
+        "options": [
+          "A. The opening of Expedition 4",
+          "B. A crossover event with The Finals",
+          "C. Separate matchmaking for different team sizes",
+          "D. Improved aggression-based matchmaking"
+        ],
+        "answer": 2,
+        "hint": "提示：文章开头提到更新包含多个内容，但重点在于满足玩家长期期待的匹配系统改进。"
+      },
+      "translation_task": {
+        "en": "This means that players who may prefer to express different playstyles depending on their team size can now find lobbies that suit their needs.",
+        "zh": "这意味着那些可能根据队伍大小而偏好不同游戏风格的玩家现在可以找到适合自己需求的游戏房间。",
+        "valuable_point": "考察了包含两个定语从句的复合句翻译，以及'playstyle'和'suit their needs'等游戏术语的准确表达。"
+      },
+      "quiz": {
+        "question": "What is the main feature of the latest Arc Raiders update?",
+        "options": [
+          "A. The opening of Expedition 4",
+          "B. A crossover event with The Finals",
+          "C. Separate matchmaking for different team sizes",
+          "D. Improved aggression-based matchmaking"
+        ],
+        "answer": 2,
+        "hint": "提示：文章开头提到更新包含多个内容，但重点在于满足玩家长期期待的匹配系统改进。"
+      }
+    },
+    "id": "article_1783464621636_fdnw",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "If you use Google, you're training its AI. Here's how to opt out.",
     "title_zh": "如果你使用谷歌，你正在训练其人工智能。以下是退出方法。",
     "level": "⭐⭐ 中级",
@@ -2460,98 +2566,5 @@
       }
     },
     "title_zh": "中国独立摇滚的共鸣：解析《霓虹甜心》"
-  },
-  {
-    "id": "article_004",
-    "title": "Echoes of Independence: The Evolution of Indie Music Genres",
-    "category": "🎵 独立音乐",
-    "icon": "🎹",
-    "level": "⭐⭐ 中级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "4-1",
-            "en": "During the 1980s, underground cassette cultures and independent record labels bypassed mainstream distribution channels.",
-            "zh": "在 20 世纪 80 年代，地下磁带文化和独立唱片公司绕过了主流发行渠道。",
-            "grammar": "【时间状语与并列主语】During the 1980s 作时间状语，cultures 和 labels 为并列主语，谓语 bypassed 意为“绕过”。",
-            "words": [
-              {
-                "word": "cassette",
-                "meaning": "n. 盒式磁带",
-                "phonetic": "/kəˈset/"
-              },
-              {
-                "word": "mainstream",
-                "meaning": "adj. 主流的",
-                "phonetic": "/ˈmeɪnstriːm/"
-              }
-            ]
-          },
-          {
-            "s_id": "4-2",
-            "en": "This DIY ethos allowed diverse genres like post-punk, dream pop, and lo-fi to flourish in obscurity.",
-            "zh: ": "这种 DIY（自己动手）的精神让后朋克、梦幻流行和低保真等多种流派在默默无闻中蓬勃发展。",
-            "grammar": "【动词不定式】allowed sb/sth to do sth 允许某物做某事，to flourish 作宾语补足语。",
-            "words": [
-              {
-                "word": "ethos",
-                "meaning": "n. 精神特质，风气",
-                "phonetic": "/ˈiːθɒs/"
-              },
-              {
-                "word": "flourish",
-                "meaning": "v. 蓬勃发展，繁荣",
-                "phonetic": "/ˈflʌrɪʃ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "4-3",
-            "en": "The rise of digital streaming platforms has democratized music production, allowing independent artists to reach global audiences.",
-            "zh": "数字流媒体平台的兴起使音乐制作走向大众化，让独立艺术家能够触及全球听众。",
-            "grammar": "【现在分词短语作伴随状语】allowing... 伴随着主句的 has democratized 动作，表示其带来的影响与结果。",
-            "words": [
-              {
-                "word": "democratized",
-                "meaning": "v. 使民主化，使大众化",
-                "phonetic": "/dɪˈmɒkrətaɪzd/"
-              },
-              {
-                "word": "independent",
-                "meaning": "adj. 独立的",
-                "phonetic": "/ˌɪndɪˈpendənt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What allowed diverse music genres to flourish in obscurity during the 80s?",
-        "options": [
-          "A. TV talent competitions",
-          "B. Massive corporate funding",
-          "C. The DIY ethos and underground cassette cultures",
-          "D. Strict copyright regulations"
-        ],
-        "answer": 2,
-        "hint": "提示：注意第一段提到的“DIY精神（ethos）”和“地下磁带文化（cassette cultures）”。"
-      },
-      "translation_task": {
-        "en": "The rise of digital streaming platforms has democratized music production, allowing independent artists to reach global audiences.",
-        "zh": "数字流媒体平台的兴起使音乐制作走向大众化，让独立艺术家能够触及全球听众。",
-        "valuable_point": "考察了动词 democratize (大众化) 翻译处理及现在分词作伴随状语的句型转换。"
-      }
-    },
-    "title_zh": "独立的回响：独立音乐流派的演变"
   }
 ]
