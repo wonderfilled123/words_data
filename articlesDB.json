@@ -1,5 +1,238 @@
 [
   {
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "title_zh": "Meta推出Muse Spark 1.1，加入拥挤的AI编程竞争",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations.",
+            "zh": "Meta向用户推销的是Spark能够处理大型代理工作负载、修复错误以及协助大型代码迁移的能力。",
+            "grammar": "【语法要点】本句使用了并列结构，列举了Spark的三个主要能力，由and连接最后一个项目。",
+            "words": [
+              {
+                "word": "pitch",
+                "meaning": "n. 推销；推销的产品",
+                "phonetic": "/pɪtʃ/"
+              },
+              {
+                "word": "agentic",
+                "meaning": "adj. 代理的；智能体的",
+                "phonetic": "/ˈeɪdʒəntɪk/"
+              },
+              {
+                "word": "workloads",
+                "meaning": "n. 工作量",
+                "phonetic": "/ˈwɜːrkləʊdz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+            "zh": "这种自动化正是企业日益转向AI公司寻求提供的类型。",
+            "grammar": "【语法要点】本句是定语从句，修饰前面的automation，关系代词that在从句中作provide的宾语。",
+            "words": [
+              {
+                "word": "automation",
+                "meaning": "n. 自动化",
+                "phonetic": "/ˌɔːtəˈmeɪʃən/"
+              },
+              {
+                "word": "enterprises",
+                "meaning": "n. 企业；公司",
+                "phonetic": "/ˈentərpraɪzɪz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is Meta's main selling point for Spark according to the article?",
+        "options": [
+          "A. Its ability to create new programming languages",
+          "B. Its capacity to handle large workloads and fix bugs",
+          "C. Its low cost compared to competitors",
+          "D. Its focus on small business solutions"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了Meta向用户推销的Spark的主要能力。"
+      },
+      "translation_task": {
+        "en": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations.",
+        "zh": "Meta向用户推销的是Spark能够处理大型代理工作负载、修复错误以及协助大型代码迁移的能力。",
+        "valuable_point": "考察了英语中pitch作为名词的用法，以及并列结构的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What is Meta's main selling point for Spark according to the article?",
+        "options": [
+          "A. Its ability to create new programming languages",
+          "B. Its capacity to handle large workloads and fix bugs",
+          "C. Its low cost compared to competitors",
+          "D. Its focus on small business solutions"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了Meta向用户推销的Spark的主要能力。"
+      }
+    },
+    "id": "article_1783638071503_a5gw",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Call Of Duty: Black Ops 1 And 2 Ports Are Out Now On PS5, But DLC Costs Extra",
+    "title_zh": "《使命召唤：黑色行动1》和《黑色行动2》现已登陆PS5，但DLC需额外付费",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The ports of Call of Duty: Black Ops (2010) and Black Ops 2 (2012) are available now.",
+            "zh": "《使命召唤：黑色行动》(2010年)和《黑色行动2》(2012年)的移植版现已推出。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "ports",
+                "meaning": "n. 移植版",
+                "phonetic": "/pɔːrts/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The ports, which were confirmed in June, are developed by Iron Galaxy in conjunction with Activision.",
+            "zh": "这些移植版已于六月确认，由Iron Galaxy与动视联合开发。",
+            "grammar": "【定语从句】which引导的非限制性定语从句，修饰ports",
+            "words": [
+              {
+                "word": "in conjunction with",
+                "meaning": "phr. 与...合作",
+                "phonetic": "/ɪn kənˈdʒʌŋkʃn wɪð/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-3",
+            "en": "As announced previously, these are not remasters or remakes--if you enjoyed the games in their original states, that's what you're getting here.",
+            "zh": "如先前宣布，这些不是重制版或重做版——如果你喜欢游戏的原始状态，那么你在这里得到的正是那个版本。",
+            "grammar": "【条件状语从句】if引导的条件状语从句",
+            "words": [
+              {
+                "word": "remasters",
+                "meaning": "n. 重制版",
+                "phonetic": "/ˈriːmɑːstərz/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The games cost $40, but PlayStation Plus members can get each for $20 through August 6.",
+            "zh": "这些游戏售价40美元，但PlayStation Plus会员可在8月6日前以20美元的价格购买每款游戏。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "There is no bundle that puts them together.",
+            "zh": "没有将这两款游戏捆绑在一起的套装。",
+            "grammar": "【定语从句】that引导的定语从句，修饰bundle",
+            "words": [
+              {
+                "word": "bundle",
+                "meaning": "n. 套装，捆绑包",
+                "phonetic": "/ˈbʌndl/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-3",
+            "en": "Black Ops 1 and 2 are out now on PS4 and PS5.",
+            "zh": "《黑色行动1》和《黑色行动2》现已登陆PS4和PS5平台。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "The descriptions for each state that the games offer \"a classic Call of Duty experience,\" and as such, cross-platform multiplayer is not supported.",
+            "zh": "每款游戏的描述都表示它们提供\"经典的使命召唤体验\"，因此不支持跨平台多人游戏。",
+            "grammar": "【结果状语】as such表示因此，所以",
+            "words": [
+              {
+                "word": "cross-platform",
+                "meaning": "adj. 跨平台的",
+                "phonetic": "/ˈkrɔːs ˈplætfɔːrm/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Beyond the base games, Activision is also selling each game's season pass for $30 (or $10 through August 6 for PlayStation Plus members).",
+            "zh": "除了基础游戏外，动视还以30美元的价格出售每款游戏的季票（PlayStation Plus会员可在8月6日前以10美元购买）。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "season pass",
+                "meaning": "n. 季票（游戏DLC通行证）",
+                "phonetic": "/ˈsiːzn pæs/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the difference between the new Call of Duty: Black Ops ports and remasters?",
+        "options": [
+          "A. The ports have better graphics than remasters",
+          "B. The ports are not remasters or remakes, they offer the original game experience",
+          "C. The ports only work on PS5 while remasters work on multiple platforms",
+          "D. The ports include additional content not found in the original games"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确说明了这些移植版不是重制版或重做版，保留了原始游戏状态。"
+      },
+      "translation_task": {
+        "en": "As announced previously, these are not remasters or remakes--if you enjoyed the games in their original states, that's what you're getting here.",
+        "zh": "如先前宣布，这些不是重制版或重做版——如果你喜欢游戏的原始状态，那么你在这里得到的正是那个版本。",
+        "valuable_point": "考察了破折号的使用和条件状语从句的翻译，以及\"in their original states\"的准确表达。"
+      },
+      "quiz": {
+        "question": "What is the difference between the new Call of Duty: Black Ops ports and remasters?",
+        "options": [
+          "A. The ports have better graphics than remasters",
+          "B. The ports are not remasters or remakes, they offer the original game experience",
+          "C. The ports only work on PS5 while remasters work on multiple platforms",
+          "D. The ports include additional content not found in the original games"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确说明了这些移植版不是重制版或重做版，保留了原始游戏状态。"
+      }
+    },
+    "id": "article_1783638110532_uhzg",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Arc Raiders' Matchmaking Update Gives Players What They've Always Wanted",
     "title_zh": "《Arc Raiders》匹配系统更新满足玩家长期期待",
     "level": "⭐⭐ 中级",
@@ -2344,227 +2577,5 @@
       }
     },
     "title_zh": "为什么 OpenAI 发布 GPT-6：通用人工智能的未来"
-  },
-  {
-    "id": "article_002",
-    "title": "Tactical Depth: Inside the Swiss-System Brackets of Competitive CS2",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯",
-    "level": "⭐⭐⭐ 高级",
-    "time": "5 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id: ": "2-1",
-            "en": "The Swiss-system format has become a staple of competitive CS2 tournaments, creating high-stakes match-ups.",
-            "zh": "瑞士轮赛制已成为 CS2 职业比赛的常客，创造了极高悬念的强强对决。",
-            "grammar: ": "【现在完成时】has become 表示过去开始并延续至今的动作或状态影响；分词短语 creating... 作伴随状语。",
-            "words": [
-              {
-                "word": "staple",
-                "meaning": "n. 主要部分，主力",
-                "phonetic": "/ˈsteɪpl/"
-              },
-              {
-                "word": "competitive",
-                "meaning: ": "adj. 竞争的，职业的",
-                "phonetic": "/kəmˈpetətɪv/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "In this system, teams with identical Win-Loss records face each other in every round.",
-            "zh": "在此赛制下，每一轮中胜负战绩相同的战队都会相互交手。",
-            "grammar": "【主谓一致】teams with identical records 为复数，主语中心词为 teams，谓语动词为原形 face。",
-            "words: ": [
-              {
-                "word": "identical",
-                "meaning": "adj. 完全相同的",
-                "phonetic": "/aɪˈdentɪkl/"
-              },
-              {
-                "word": "round",
-                "meaning": "n. 轮次",
-                "phonetic": "/raʊnd/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-3",
-            "en": "Team Spirit has dominated the scene, largely driven by the explosive entries of their prodigy, donk.",
-            "zh": "Team Spirit 战队统治了赛场，这主要得益于他们的天才选手 donk 的爆发性突破能力。",
-            "grammar": "【过去分词短语作状语】driven by... 表示被动和原因，说明战队主导地位是由 donk 推动的。",
-            "words": [
-              {
-                "word": "dominated",
-                "meaning": "v. 统治，称霸",
-                "phonetic": "/ˈdɒmɪneɪtɪd/"
-              },
-              {
-                "word": "prodigy",
-                "meaning": "n. 神童，天才",
-                "phonetic": "/ˈprɒdədʒi/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-4",
-            "en": "His unparalleled mechanical skill allows him to secure space and break through solid defensive setups.",
-            "zh": "他无与伦比的枪法和操作控制力使他能够夺取空间并突破稳固的防守站位。",
-            "grammar": "【动词不定式】allows sb to do sth 意为允许/使某人能够做某事，to secure 和 break 为并列不定式后置。",
-            "words": [
-              {
-                "word": "unparalleled",
-                "meaning": "adj. 无与伦比的，空前的",
-                "phonetic": "/ʌnˈpærəleld/"
-              },
-              {
-                "word": "secure",
-                "meaning": "v. 获得，确保，夺取",
-                "phonetic": "/sɪˈkjʊə(r)/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What format has become a staple of competitive CS2 tournaments?",
-        "options": [
-          "A. Single-elimination format",
-          "B. Round-robin format",
-          "C. Swiss-system format",
-          "D. Double-elimination format"
-        ],
-        "answer": 2,
-        "hint": "提示：寻找第一段中修饰 CS2 职业锦标赛主力赛制（staple）的那个复合词词组。"
-      },
-      "translation_task": {
-        "en": "Team Spirit has dominated the scene, largely driven by the explosive entries of their prodigy, donk.",
-        "zh": "Team Spirit 战队统治了赛场，这主要得益于他们的天才选手 donk 的爆发性突破能力。",
-        "valuable_point": "考察了过去分词短语作状语 driven by... 表达的被动和原因关系。"
-      }
-    },
-    "title_zh": "战术深度：剖析 CS2 职业比赛的瑞士轮赛制"
-  },
-  {
-    "id": "article_003",
-    "title": "The Resonance of Chinese Indie Rock: An Analysis of 'Electric Girl'",
-    "category": "🎵 独立音乐",
-    "icon": "🎸",
-    "level": "⭐ 初级",
-    "time": "4 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en: ": "Chinese Football, an indie rock band from Wuhan, captures the nostalgic essence of youth through their melodic emo rock.",
-            "zh": "来自武汉的独立摇滚乐队 Chinese Football 通过他们充满旋律感的 emo 摇滚，捕捉到了青春的怀旧本质。",
-            "grammar": "【同位语】an indie rock band from Wuhan 作为主语 Chinese Football 的同位语进行补充解释。",
-            "words": [
-              {
-                "word": "nostalgic",
-                "meaning": "adj. 怀旧的，忧伤的",
-                "phonetic": "/nɒˈstældʒɪk/"
-              },
-              {
-                "word: ": "essence",
-                "meaning": "n. 本质，精髓",
-                "phonetic": "/ˈesns/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Their instruments weave intricate guitar riffs, conveying both melancholy and warmth.",
-            "zh": "他们的乐器编织出复杂的吉他双声部旋律，传递着忧郁与温暖。",
-            "grammar": "【现在分词短语作伴随状语】conveying... 伴随谓语动作 weave 发生，表示伴随状态和结果。",
-            "words": [
-              {
-                "word": "intricate",
-                "meaning": "adj. 错综复杂的",
-                "phonetic": "/ˈɪntrɪkət/"
-              },
-              {
-                "word": "melancholy",
-                "meaning": "n. 忧郁，悲哀",
-                "phonetic": "/ˈmelənkɒli/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "3-3",
-            "en": "The hit single 'Electric Girl' stands out for its driving bassline and bittersweet emotional expression.",
-            "zh": "热门单曲《霓虹甜心》因其动感十足的贝斯线条与苦乐参半的情感表达而脱颖而出。",
-            "grammar": "【介词短语表示原因】stands out for... 意为“因...而引人注目/脱颖而出”。",
-            "words": [
-              {
-                "word": "single",
-                "meaning": "n. 单曲",
-                "phonetic": "/ˈsɪŋɡl/"
-              },
-              {
-                "word": "bittersweet",
-                "meaning": "adj. 苦乐参半的",
-                "phonetic": "/ˌbɪtəˈswiːt/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-4",
-            "en": "Listeners are instantly transported to a dreamlike city pop landscape filled with neon lights.",
-            "zh": "听众会瞬间被带入一个充满霓虹灯光的梦幻 City Pop 景象中。",
-            "grammar": "【过去分词短语作后置定语】filled with neon lights 装饰前面的名词 landscape，表示“被霓虹灯光充满的”。",
-            "words": [
-              {
-                "word": "transported",
-                "meaning": "v. 传送，带入",
-                "phonetic": "/trænˈspɔːtɪd/"
-              },
-              {
-                "word": "dreamlike",
-                "meaning": "adj. 梦境般的",
-                "phonetic": "/ˈdriːmlaɪk/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What kind of atmosphere does Chinese Football's single 'Electric Girl' project?",
-        "options": [
-          "A. Cyberpunk and techno beats",
-          "B. Intense post-punk anger",
-          "C. Dreamlike City Pop filled with neon lights",
-          "D. Traditional folk storytelling"
-        ],
-        "answer": 2,
-        "hint": "提示：注意文章第二段最后一句关于霓虹灯（neon lights）和 City Pop 梦幻画面的描写。"
-      },
-      "translation_task": {
-        "en": "Chinese Football, an indie rock band from Wuhan, captures the nostalgic essence of youth through their melodic emo rock.",
-        "zh": "来自武汉的独立摇滚乐队 Chinese Football 通过他们充满旋律感的 emo 摇滚，捕捉到了青春的怀旧本质。",
-        "valuable_point": "考察了同位语作插入语的翻译整合以及 nostalgic 的词义处理。"
-      }
-    },
-    "title_zh": "中国独立摇滚的共鸣：解析《霓虹甜心》"
   }
 ]
