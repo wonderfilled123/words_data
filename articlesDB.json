@@ -1,5 +1,229 @@
 [
   {
+    "title": "Open source AI matters more than ever, according to Hugging Face's Clem Delangue",
+    "title_zh": "根据Hugging Face的Clem Delangue，开源AI比以往任何时候都重要",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Open source AI is booming, according to Hugging Face CEO Clem Delangue.",
+            "zh": "根据Hugging Face的首席执行官Clem Delangue的说法，开源AI正在蓬勃发展。",
+            "grammar": "【语法要点】介词短语作状语，主系表结构",
+            "words": [
+              {
+                "word": "booming",
+                "meaning": "adj. 迅速发展的，繁荣的",
+                "phonetic": "/ˈbuːmɪŋ/"
+              },
+              {
+                "word": "according to",
+                "meaning": "prep. 根据，按照",
+                "phonetic": "/əˈkɔːdɪŋ tuː/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets.",
+            "zh": "近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在那里分享和下载开源模型和数据集。",
+            "grammar": "【语法要点】定语从句，现在完成时",
+            "words": [
+              {
+                "word": "dataset",
+                "meaning": "n. 数据集",
+                "phonetic": "/ˈdeɪtəsɛt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "now used by roughly half the Fortune 500.",
+            "zh": "现在已被约一半的财富500强公司使用。",
+            "grammar": "【语法要点】过去分词短语作后置定语",
+            "words": [
+              {
+                "word": "roughly",
+                "meaning": "adv. 大约，粗略地",
+                "phonetic": "/ˈrʌfli/"
+              },
+              {
+                "word": "Fortune 500",
+                "meaning": "n. 财富500强（美国最大500家公司的年度排名）",
+                "phonetic": "/ˈfɔːrtʃʌn faɪv hʌndrəd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Delangue has seen the same story play out again and again: companies start [...]",
+            "zh": "Delangue已经多次看到同样的故事上演：公司开始[...]",
+            "grammar": "【语法要点】现在完成时，冒号引导解释说明",
+            "words": [
+              {
+                "word": "play out",
+                "meaning": "phr. 演变，展开",
+                "phonetic": "/pleɪ aʊt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What has Hugging Face become according to the article?",
+        "options": [
+          "A. A company that creates AI models",
+          "B. A platform similar to GitHub for AI",
+          "C. A dataset provider for Fortune 500 companies",
+          "D. A competitor to open source AI"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确描述了Hugging Face的发展方向和功能。"
+      },
+      "translation_task": {
+        "en": "The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets.",
+        "zh": "近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在那里分享和下载开源模型和数据集。",
+        "valuable_point": "考察了定语从句的翻译技巧，以及'grown into something like'的灵活表达。"
+      },
+      "quiz": {
+        "question": "What has Hugging Face become according to the article?",
+        "options": [
+          "A. A company that creates AI models",
+          "B. A platform similar to GitHub for AI",
+          "C. A dataset provider for Fortune 500 companies",
+          "D. A competitor to open source AI"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确描述了Hugging Face的发展方向和功能。"
+      }
+    },
+    "id": "article_1783723702057_mu64",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Microsoft Refutes Notion That Foreign-Worker Visas Were Behind Mass Xbox Layoffs",
+    "title_zh": "微软驳斥外国员工签证导致大规模Xbox裁员的说法",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Since news broke of Microsoft's recent round of mass layoffs --which affected 1,600 people immediately and will reach double that number over the next year--a number of reports have claimed that mass approvals of foreign-worker visas were behind the decision.",
+            "zh": "自微软最近一轮大规模裁员的消息传出以来——这一裁员立即影响了1600人，并在未来一年内将影响人数翻倍——一些报道称，大量批准的外国员工签证是这一决定背后的原因。",
+            "grammar": "【语法要点】主句使用了现在完成时，包含一个由which引导的非限制性定语从句，破折号用于补充说明裁员规模。",
+            "words": [
+              {
+                "word": "layoffs",
+                "meaning": "n. 裁员，解雇",
+                "phonetic": "/ˈleɪɒfs/"
+              },
+              {
+                "word": "approvals",
+                "meaning": "n. 批准，认可",
+                "phonetic": "/əˈpruːvəlz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Now, Microsoft communications lead Frank X. Shaw has refuted what he calls \"bad information.\"",
+            "zh": "现在，微软通讯主管弗兰克·X·肖驳斥了他所谓的\"错误信息\"。",
+            "grammar": "【语法要点】句子使用了现在完成时，what引导的名词性从句作为refuted的宾语。",
+            "words": [
+              {
+                "word": "refuted",
+                "meaning": "v. 驳斥，反驳",
+                "phonetic": "/rɪˈfjuːtɪd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "In a Twitter post, Shaw said that while there are Microsoft workers using H-1B visas, they are \"not specific to Xbox and represent a small percentage of Microsoft's overall workforce.\"",
+            "zh": "肖在一条Twitter帖子中表示，虽然确实有微软员工使用H-1B签证，但这些员工\"并非特定于Xbox部门，仅占微软总劳动力的很小一部分\"。",
+            "grammar": "【语法要点】while引导的让步状语从句，引出主句内容，引号内为直接引语。",
+            "words": [
+              {
+                "word": "specific",
+                "meaning": "adj. 特定的，明确的",
+                "phonetic": "/spəˈsɪfɪk/"
+              },
+              {
+                "word": "percentage",
+                "meaning": "n. 百分比，比例",
+                "phonetic": "/pəˈsentɪdʒ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"And the majority of the roles impacted were not American roles.\"",
+            "zh": "\"而且受影响的大多数职位并非美国本土员工的职位。\"",
+            "grammar": "【语法要点】被动语态were impacted，表示职位受到影响，not American roles强调国籍因素。",
+            "words": [
+              {
+                "word": "majority",
+                "meaning": "n. 大多数，多数",
+                "phonetic": "/məˈdʒɒrəti/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to Microsoft's Frank X. Shaw, what was the real reason for the Xbox layoffs?",
+        "options": [
+          "A. Mass approvals of foreign-worker visas",
+          "B. Restructuring the unhealthy Xbox business",
+          "C. Replacing American employees with foreign workers",
+          "D. Reducing the overall workforce percentage"
+        ],
+        "answer": 1,
+        "hint": "提示：肖在Twitter中明确表示裁员是为了重组Xbox业务，并否认了与外国员工签证有关。"
+      },
+      "translation_task": {
+        "en": "In a Twitter post, Shaw said that while there are Microsoft workers using H-1B visas, they are \"not specific to Xbox and represent a small percentage of Microsoft's overall workforce.\"",
+        "zh": "肖在一条Twitter帖子中表示，虽然确实有微软员工使用H-1B签证，但这些员工\"并非特定于Xbox部门，仅占微软总劳动力的很小一部分\"。",
+        "valuable_point": "考察了while引导的让步状语从句的翻译技巧，以及引号内直接引语的准确传达。"
+      },
+      "quiz": {
+        "question": "According to Microsoft's Frank X. Shaw, what was the real reason for the Xbox layoffs?",
+        "options": [
+          "A. Mass approvals of foreign-worker visas",
+          "B. Restructuring the unhealthy Xbox business",
+          "C. Replacing American employees with foreign workers",
+          "D. Reducing the overall workforce percentage"
+        ],
+        "answer": 1,
+        "hint": "提示：肖在Twitter中明确表示裁员是为了重组Xbox业务，并否认了与外国员工签证有关。"
+      }
+    },
+    "id": "article_1783723712799_kgi6",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "title_zh": "Meta推出Muse Spark 1.1，加入拥挤的AI编程竞争",
     "level": "⭐⭐ 中级",
@@ -2386,196 +2610,5 @@
     "id": "article_1781975178679_k3h1",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "If You Haven't Reserved A Steam Controller Yet, You'll Have To Wait Until Next Year",
-    "title_zh": "如果你还没有预订Steam手柄，你可能要等到明年了",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply.",
-            "zh": "上个月，Valve公司发布了其Steam手柄，但需求远远超过了供应量。",
-            "grammar": "【现在完成时】表示过去发生但与现在有联系的动作",
-            "words": [
-              {
-                "word": "outweighed",
-                "meaning": "v. 超过，比...更重要",
-                "phonetic": "/ˌaʊtˈweɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the earliest.",
-            "zh": "情况如此严重，以至于从今天起，Valve最早也要到2027年才能完成新的Steam手柄订单。",
-            "grammar": "【结果状语从句】表示前面情况的严重程度导致的结果",
-            "words": [
-              {
-                "word": "fulfilled",
-                "meaning": "v. 履行，完成",
-                "phonetic": "/fʊlˈfɪld/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Valve shared the news on its site, where it noted that it has \"no plans to stop making Steam Controller.\"",
-            "zh": "Valve在其网站上公布了这一消息，并表示他们\"没有停止生产Steam手柄的计划\"。",
-            "grammar": "【定语从句】where引导的定语从句修饰site",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "But the company also stated that the response to the controller has \"exceeded our expectations.\"",
-            "zh": "但该公司也表示，这款手柄的市场反响\"超出了我们的预期\"。",
-            "grammar": "【宾语从句】that引导的宾语从句作stated的宾语",
-            "words": [
-              {
-                "word": "exceeded",
-                "meaning": "v. 超过，超越",
-                "phonetic": "/ɪkˈsiːd/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders.",
-            "zh": "为了清晰起见，Valve现在将根据客户下单的时间，提供三个预计的Steam手柄交付窗口。",
-            "grammar": "【介词短语作目的状语】In the interest of clarity表示目的",
-            "words": [
-              {
-                "word": "clarity",
-                "meaning": "n. 清晰，明了",
-                "phonetic": "/ˈklærəti/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Players who have already placed their orders can log into their Steam account to see their order window.",
-            "zh": "已经下单的玩家可以登录他们的Steam账户查看他们的订单交付时间窗口。",
-            "grammar": "【定语从句】who引导的定语从句修饰Players",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "When will Valve fulfill new orders for Steam Controller according to the article?",
-        "options": [
-          "A. Immediately after placing the order",
-          "B. By the end of this year",
-          "C. At least until 2027",
-          "D. Only for existing customers"
-        ],
-        "answer": 2,
-        "hint": "提示：文章中明确提到了最早完成新订单的时间。"
-      },
-      "translation_task": {
-        "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders.",
-        "zh": "为了清晰起见，Valve现在将根据客户下单的时间，提供三个预计的Steam手柄交付窗口。",
-        "valuable_point": "考察了介词短语作目的状语(In the interest of clarity)和过去分词作定语(based on when they placed their orders)的翻译技巧。"
-      },
-      "quiz": {
-        "question": "When will Valve fulfill new orders for Steam Controller according to the article?",
-        "options": [
-          "A. Immediately after placing the order",
-          "B. By the end of this year",
-          "C. At least until 2027",
-          "D. Only for existing customers"
-        ],
-        "answer": 2,
-        "hint": "提示：文章中明确提到了最早完成新订单的时间。"
-      }
-    },
-    "id": "article_1781975191183_1ho1",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "id": "article_001",
-    "title": "Why OpenAI Released GPT-6: The Future of AGI",
-    "category": "🤖 人工智能",
-    "icon": "⚡",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "OpenAI has released a new artificial intelligence model called GPT-6.",
-            "zh": "OpenAI 发布了一个名为 GPT-6 的新人工智能模型。",
-            "grammar": "【现在完成时】has released 表示过去发生的动作对现在造成了影响（即新模型现在已经可用了）。",
-            "words": [
-              {
-                "word": "released",
-                "meaning": "v. 发布，释放",
-                "phonetic": "/rɪˈliːst/"
-              },
-              {
-                "word": "artificial",
-                "meaning": "adj. 人工的",
-                "phonetic": "/ˌɑːrtɪˈfɪʃl/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "This model marks a significant step towards artificial general intelligence.",
-            "zh": "该模型标志着迈向通用人工智能（AGI）的重要一步。",
-            "grammar": "【动词短语】marks a significant step 结合介词短语 towards AGI，意为朝着 AGI 迈出了重要一步。",
-            "words": [
-              {
-                "word": "significant",
-                "meaning": "adj. 重大的，显著的",
-                "phonetic": "/sɪɡˈnɪfɪkənt/"
-              },
-              {
-                "word": "intelligence",
-                "meaning": "n. 智能，智慧",
-                "phonetic": "/ɪnˈtelɪdʒəns/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the primary significance of the GPT-6 release according to the text?",
-        "options": [
-          "A. It is OpenAI's cheapest model",
-          "B. It marks a significant step towards AGI",
-          "C. It is designed only for mobile phones",
-          "D. It replaces human programmers completely"
-        ],
-        "answer": 1,
-        "hint": "提示：关注文章中关于 GPT-6 与 AGI（通用人工智能）之间关系的阐述。"
-      },
-      "translation_task": {
-        "en": "This model marks a significant step towards artificial general intelligence.",
-        "zh": "该模型标志着迈向通用人工智能（AGI）的重要一步。",
-        "valuable_point: ": "考察了名词短语 a significant step 以及介词 towards 的翻译处理。"
-      }
-    },
-    "title_zh": "为什么 OpenAI 发布 GPT-6：通用人工智能的未来"
   }
 ]
