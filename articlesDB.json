@@ -1,5 +1,86 @@
 [
   {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "title_zh": "Meta在遭遇强烈反对后移除Instagram上有争议的AI功能",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post.",
+            "zh": "该公司在博客文章中表示：'我们的意图是提供一个有用的创意工具，让人们能够控制他们的公开内容是否可以以这种方式被引用。'",
+            "grammar": "【语法要点】直接引语结构，使用双引号标示，包含目的状语从句和条件状语从句",
+            "words": [
+              {
+                "word": "intent",
+                "meaning": "n. 意图，目的",
+                "phonetic": "/ɪnˈtɛnt/"
+              },
+              {
+                "word": "referenced",
+                "meaning": "v. 被引用，被提及",
+                "phonetic": "/ˈrɛfərənst/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "\"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
+            "zh": "'我们已经收到了反馈，认为这个功能没有达到预期效果，因此它已不再可用。'",
+            "grammar": "【语法要点】包含结果状语从句，使用现在完成时表示已完成动作",
+            "words": [
+              {
+                "word": "feedback",
+                "meaning": "n. 反馈，意见",
+                "phonetic": "/ˈfiːdbæk/"
+              },
+              {
+                "word": "missed the mark",
+                "meaning": "习语. 未达到预期效果，不成功",
+                "phonetic": "/mɪst ðə mɑːrk/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why did Meta remove the AI feature from Instagram?",
+        "options": [
+          "A. Because the feature was too expensive to maintain",
+          "B. Because users complained it didn't work as intended",
+          "C. Because it violated Instagram's terms of service",
+          "D. Because Meta wanted to replace it with a better version"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注文章中关于用户反馈和功能效果的描述。"
+      },
+      "translation_task": {
+        "en": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post.",
+        "zh": "该公司在博客文章中表示：'我们的意图是提供一个有用的创意工具，让人们能够控制他们的公开内容是否可以以这种方式被引用。'",
+        "valuable_point": "考察了英语中目的状语从句和条件状语从句的翻译技巧，以及专业术语'creative tool'和'referenced'的准确表达。"
+      },
+      "quiz": {
+        "question": "Why did Meta remove the AI feature from Instagram?",
+        "options": [
+          "A. Because the feature was too expensive to maintain",
+          "B. Because users complained it didn't work as intended",
+          "C. Because it violated Instagram's terms of service",
+          "D. Because Meta wanted to replace it with a better version"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注文章中关于用户反馈和功能效果的描述。"
+      }
+    },
+    "id": "article_1783809353544_8i1y",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Open source AI matters more than ever, according to Hugging Face's Clem Delangue",
     "title_zh": "根据Hugging Face的Clem Delangue，开源AI比以往任何时候都重要",
     "level": "⭐⭐ 中级",
@@ -2515,99 +2596,6 @@
       }
     },
     "id": "article_1781996212545_q3u4",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Is the US government's Anthropic ban accidentally helping the brand?",
-    "title_zh": "美国政府的Anthropic禁令是否意外地帮助了这个品牌？",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
-            "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员 allegedly（据称）找到了绕过Fable 5安全护栏的方法。",
-            "grammar": "【语法要点】现在分词短语作状语，citing...表示原因",
-            "words": [
-              {
-                "word": "allegedly",
-                "meaning": "adv. 据称，据说",
-                "phonetic": "/əˈledʒɪdli/"
-              },
-              {
-                "word": "bypass",
-                "meaning": "v. 绕过，回避",
-                "phonetic": "/baɪˈpæs/"
-              },
-              {
-                "word": "guardrails",
-                "meaning": "n. 安全护栏，防护措施",
-                "phonetic": "/ˈɡɑːrdreɪlz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
-            "zh": "网络安全研究人员随后签署了一封公开信，称此举危险，而Anthropic公司本身也指出同样的越狱方法存在于其他模型中。",
-            "grammar": "【语法要点】现在分词短语作后置定语，calling...修饰letter",
-            "words": [
-              {
-                "word": "jailbreaks",
-                "meaning": "n. 越狱（此处指突破AI安全限制）",
-                "phonetic": "/ˈdʒeɪlbreɪks/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "So is [...]",
-            "zh": "那么这是否 [...]",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why did the US government force Anthropic to pull its newest models?",
-        "options": [
-          "A. Because the models were performing poorly",
-          "B. Due to national security concerns",
-          "C. Because Amazon wanted to acquire Anthropic",
-          "D. Due to public complaints about the models"
-        ],
-        "answer": 1,
-        "hint": "提示：查找文章中关于美国政府行动原因的直接表述。"
-      },
-      "translation_task": {
-        "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
-        "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员据称找到了绕过Fable 5安全护栏的方法。",
-        "valuable_point": "考察了英语中时间状语从句、被动语态以及现在分词短语作状语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "Why did the US government force Anthropic to pull its newest models?",
-        "options": [
-          "A. Because the models were performing poorly",
-          "B. Due to national security concerns",
-          "C. Because Amazon wanted to acquire Anthropic",
-          "D. Due to public complaints about the models"
-        ],
-        "answer": 1,
-        "hint": "提示：查找文章中关于美国政府行动原因的直接表述。"
-      }
-    },
-    "id": "article_1781975178679_k3h1",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
