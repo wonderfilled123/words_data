@@ -1,5 +1,153 @@
 [
   {
+    "title": "LA Noire Could Have Featured A Different, Very Famous, And More Expensive Lead Actor",
+    "title_zh": "《黑色洛城》本可能由另一位更著名的昂贵主演出演",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The 2011 detective game LA Noire, which was published by GTA company Rockstar Games, starred Mad Men actor Aaron Staton as the lead character, Cole Phelps.",
+            "zh": "2011年的侦探游戏《黑色洛城》由《侠盗猎车手》开发商Rockstar Games发行，由《广告狂人》演员Aaron Staton饰演主角Cole Phelps。",
+            "grammar": "【定语从句】which引导的非限制性定语从句修饰LA Noire",
+            "words": [
+              {
+                "word": "detective",
+                "meaning": "n. 侦探",
+                "phonetic": "/dɪˈtɛktɪv/"
+              },
+              {
+                "word": "starred",
+                "meaning": "v. 由...主演",
+                "phonetic": "/stɑːrd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "A writer on the game has now revealed that a different Mad Men actor, Jon Hamm, was considered for the role as well.",
+            "zh": "该游戏的一位编剧现在透露，另一位《广告狂人》演员Jon Hamm也曾被考虑出演该角色。",
+            "grammar": "【宾语从句】that引导的宾语从句作为revealed的宾语",
+            "words": [
+              {
+                "word": "revealed",
+                "meaning": "v. 揭示，透露",
+                "phonetic": "/rɪˈviːld/"
+              },
+              {
+                "word": "considered",
+                "meaning": "v. 考虑，认为",
+                "phonetic": "/kənˈsɪdərd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Staton portrayed Ken Cosgrove on Mad Men, with Hamm playing the show's leading role, Don Draper.",
+            "zh": "Staton在《广告狂人》中饰演Ken Cosgrove，而Hamm则扮演该剧的主角Don Draper。",
+            "grammar": "【with复合结构】with+名词+分词构成独立主格结构",
+            "words": [
+              {
+                "word": "portrayed",
+                "meaning": "v. 饰演，描绘",
+                "phonetic": "/pɔːrˈtreɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Daniel McMahon told IGN that Mad Men and LA Noire had the same casting director, and that Hamm was \"discussed as a possibility for the role of Cole Phelps.\"",
+            "zh": "Daniel McMahon告诉IGN，《广告狂人》和《黑色洛城》有同一位选角导演，而且Hamm曾\"被讨论作为Cole Phelps这一角色的可能性\"。",
+            "grammar": "【并列宾语从句】that...and that...连接两个并列的宾语从句",
+            "words": [
+              {
+                "word": "casting",
+                "meaning": "n. 选角，演员阵容",
+                "phonetic": "/ˈkæstɪŋ/"
+              },
+              {
+                "word": "possibility",
+                "meaning": "n. 可能性",
+                "phonetic": "/ˌpɑːsəˈbɪləti/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "\"It was never said at the time, but now, I understand the vision which was Jon Hamm is a wonderful actor, but he's not Cole Phelps,\" McMahon said.",
+            "zh": "\"当时从未有人说过，但现在我明白了那个构想——Jon Hamm是一位出色的演员，但他不是Cole Phelps，\"McMahon说道。",
+            "grammar": "【插入语】破折号之间的内容是对vision的解释说明",
+            "words": [
+              {
+                "word": "vision",
+                "meaning": "n. 构想，愿景",
+                "phonetic": "/ˈvɪʒən/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "McMahon went on to say that Staton was \"much better at portraying Cole's fragility.\"",
+            "zh": "McMahon继续说道，Staton\"在表现Cole的脆弱性方面要好得多\"。",
+            "grammar": "【比较级】much better than...的比较结构",
+            "words": [
+              {
+                "word": "fragility",
+                "meaning": "n. 脆弱，易碎",
+                "phonetic": "/frəˈdʒɪləti/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why was Jon Hamm not chosen for the role of Cole Phelps in LA Noire?",
+        "options": [
+          "A. He was too expensive for the budget",
+          "B. The casting director preferred Aaron Staton",
+          "C. He didn't have the right qualities for the character",
+          "D. He was already committed to another project"
+        ],
+        "answer": 1,
+        "hint": "提示：注意McMahon对两位演员的评价，特别是关于角色特质的描述。"
+      },
+      "translation_task": {
+        "en": "\"It was never said at the time, but now, I understand the vision which was Jon Hamm is a wonderful actor, but he's not Cole Phelps,\" McMahon said.",
+        "zh": "\"当时从未有人说过，但现在我明白了那个构想——Jon Hamm是一位出色的演员，但他不是Cole Phelps，\"McMahon说道。",
+        "valuable_point": "考察了破折号作为插入语解释说明的用法，以及which引导的非限制性定语从句的翻译技巧。"
+      },
+      "quiz": {
+        "question": "Why was Jon Hamm not chosen for the role of Cole Phelps in LA Noire?",
+        "options": [
+          "A. He was too expensive for the budget",
+          "B. The casting director preferred Aaron Staton",
+          "C. He didn't have the right qualities for the character",
+          "D. He was already committed to another project"
+        ],
+        "answer": 1,
+        "hint": "提示：注意McMahon对两位演员的评价，特别是关于角色特质的描述。"
+      }
+    },
+    "id": "article_1783982603678_zdyq",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "title_zh": "Meta在遭遇强烈反对后移除Instagram上有争议的AI功能",
     "level": "⭐⭐ 中级",
@@ -2505,98 +2653,5 @@
     "id": "article_1782082746071_rl25",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Is the US government's Anthropic ban accidentally helping the brand?",
-    "title_zh": "美国政府禁止Anthropic的行为是否意外地帮助了这个品牌？",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
-            "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员 allegedly 发现了一种绕过Fable 5防护栏的方法。",
-            "grammar": "【语法要点】现在分词短语作状语，citing表示原因",
-            "words": [
-              {
-                "word": "allegedly",
-                "meaning": "adv. 据称，据说",
-                "phonetic": "/əˈledʒɪdli/"
-              },
-              {
-                "word": "bypass",
-                "meaning": "v. 绕过，回避",
-                "phonetic": "/baɪˈpɑːs/"
-              },
-              {
-                "word": "guardrails",
-                "meaning": "n. 防护栏，安全措施",
-                "phonetic": "/ˈɡɑːrdreɪlz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
-            "zh": "网络安全研究人员随后签署了一封公开信，称这一举动危险，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
-            "grammar": "【语法要点】现在分词短语作后置定语，并列结构",
-            "words": [
-              {
-                "word": "jailbreaks",
-                "meaning": "n. 越狱，破解（系统限制）",
-                "phonetic": "/ˈdʒeɪlbreɪks/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "So is [...]",
-            "zh": "那么这是否 [...]",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why did the US government force Anthropic to pull its newest models?",
-        "options": [
-          "A. Because the models were performing poorly",
-          "B. Due to national security concerns",
-          "C. Because Amazon wanted to acquire Anthropic",
-          "D. Due to copyright infringement issues"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确提到了政府行动的原因。"
-      },
-      "translation_task": {
-        "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
-        "zh": "网络安全研究人员随后签署了一封公开信，称这一举动危险，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
-        "valuable_point": "考察了现在分词短语作后置定语和并列结构的翻译处理。"
-      },
-      "quiz": {
-        "question": "Why did the US government force Anthropic to pull its newest models?",
-        "options": [
-          "A. Because the models were performing poorly",
-          "B. Due to national security concerns",
-          "C. Because Amazon wanted to acquire Anthropic",
-          "D. Due to copyright infringement issues"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确提到了政府行动的原因。"
-      }
-    },
-    "id": "article_1781996212545_q3u4",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
