@@ -1,5 +1,212 @@
 [
   {
+    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+    "title_zh": "苹果通过iOS 27公开测试版向所有人开放其新版Siri人工智能",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "If you've been waiting to try Apple's revamped Siri without installing a developer beta, you now can.",
+            "zh": "如果你一直想尝试苹果公司重新设计的Siri，但又不想安装开发者测试版，现在你就可以做到了。",
+            "grammar": "【条件状语从句】使用if引导的条件句，表达假设情况下的结果",
+            "words": [
+              {
+                "word": "revamped",
+                "meaning": "v. 改造；革新",
+                "phonetic": "/rɪˈvæmpt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software's official launch this fall.",
+            "zh": "该公司周二发布了iOS 27公开测试版，让iPhone用户能够在软件今年秋季正式发布前，提前体验其人工智能助手和其他新功能。",
+            "grammar": "【现在分词作结果状语】giving引导的分词短语表示前文动作带来的结果",
+            "words": [
+              {
+                "word": "beta",
+                "meaning": "n. 测试版；β",
+                "phonetic": "/ˈbeɪtə/"
+              },
+              {
+                "word": "AI-powered",
+                "meaning": "adj. 人工智能驱动的",
+                "phonetic": "/ˌeɪ aɪ ˈpaʊərd/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main purpose of the iOS 27 public beta release?",
+        "options": [
+          "A. To fix bugs in the previous iOS version",
+          "B. To allow iPhone users to try new features early",
+          "C. To replace the developer beta program",
+          "D. To announce the official launch date"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了测试版的目的和用户能获得的体验。"
+      },
+      "translation_task": {
+        "en": "The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software's official launch this fall.",
+        "zh": "该公司周二发布了iOS 27公开测试版，让iPhone用户能够在软件今年秋季正式发布前，提前体验其人工智能助手和其他新功能。",
+        "valuable_point": "考察了现在分词短语作结果状语的翻译技巧，以及长句中时间状语的处理方式。"
+      },
+      "quiz": {
+        "question": "What is the main purpose of the iOS 27 public beta release?",
+        "options": [
+          "A. To fix bugs in the previous iOS version",
+          "B. To allow iPhone users to try new features early",
+          "C. To replace the developer beta program",
+          "D. To announce the official launch date"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了测试版的目的和用户能获得的体验。"
+      }
+    },
+    "id": "article_1784069086213_l0e5",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "GOG Wants You To Make Your Own Physical Games",
+    "title_zh": "GOG希望您制作自己的实体游戏",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "In the wake of the news that Sony will end PlayStation disc production by 2028, a lot of folks are expressing their disgust at the idea of a digital-only game library.",
+            "zh": "随着索尼宣布将在2028年前停止PlayStation光盘生产的消息，许多人表达了对纯数字游戏库这一想法的反感。",
+            "grammar": "【语法要点】介词短语作状语，表达时间背景；现在进行时表达正在发生的动作。",
+            "words": [
+              {
+                "word": "in the wake of",
+                "meaning": "prep. 在...之后，紧随",
+                "phonetic": "/ɪn ðə weɪk əv/"
+              },
+              {
+                "word": "disgust",
+                "meaning": "n. 厌恶，反感",
+                "phonetic": "/dɪsˈɡʌst/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "But players aren't the only ones sharing their frustration--today, GOG.com joined the conversation with a short tutorial showing players how to physically preserve their digital games.",
+            "zh": "但玩家并不是唯一表达挫败感的人——今天，GOG.com加入讨论，发布了一个简短教程，教玩家如何将数字游戏实体化保存。",
+            "grammar": "【语法要点】破折号用于补充说明；现在分词短语作后置定语。",
+            "words": [
+              {
+                "word": "frustration",
+                "meaning": "n. 挫败感，沮丧",
+                "phonetic": "/frʌˈstreɪʃən/"
+              },
+              {
+                "word": "preserve",
+                "meaning": "v. 保存，保护",
+                "phonetic": "/prɪˈzɜːrv/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "\"Download the offline installer of any of your games on GOG, save it to a disc, and it's yours forever,\" the digital gaming storefront shared in an X post.",
+            "zh": "\"下载您在GOG上任何游戏的离线安装程序，将其保存到光盘上，它就永远属于你了，\"这家数字游戏商店在X平台上分享道。",
+            "grammar": "【语法要点】直接引语；祈使句结构；it's的缩写形式。",
+            "words": [
+              {
+                "word": "installer",
+                "meaning": "n. 安装程序",
+                "phonetic": "/ɪnˈstɔːlər/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"You don't need a storefront's permission to play what you bought.\"",
+            "zh": "\"您不需要商店的许可来玩您购买的游戏。\"",
+            "grammar": "【语法要点】不定式作目的状语；what引导的名词性从句作宾语。",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Of course, this doesn't perfectly solve the problem.",
+            "zh": "当然，这并不能完美解决问题。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "3-2",
+            "en": "Not every game is available on PC, not every game is available for purchase on GOG (like Ubisoft's game catalogue, ...",
+            "zh": "并非所有游戏都有PC版本，也并非所有游戏都可以在GOG上购买（如育碧的游戏目录，...",
+            "grammar": "【语法要点】双重否定结构；括号内的补充说明。",
+            "words": [
+              {
+                "word": "catalogue",
+                "meaning": "n. 目录，产品目录",
+                "phonetic": "/ˈkætəlɔːɡ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is GOG.com suggesting players do to preserve their digital games?",
+        "options": [
+          "A. Buy physical copies from Sony",
+          "B. Download offline installers and save them to discs",
+          "C. Only purchase games from Ubisoft",
+          "D. Wait for PlayStation to continue disc production"
+        ],
+        "answer": 1,
+        "hint": "提示：查看GOG在X平台上的分享内容，他们具体建议了什么方法。"
+      },
+      "translation_task": {
+        "en": "\"Download the offline installer of any of your games on GOG, save it to a disc, and it's yours forever,\" the digital gaming storefront shared in an X post.",
+        "zh": "\"下载您在GOG上任何游戏的离线安装程序，将其保存到光盘上，它就永远属于你了，\"这家数字游戏商店在X平台上分享道。",
+        "valuable_point": "考察了直接引语的翻译技巧，以及如何将英语的简洁表达转换为符合中文习惯的流畅表达。"
+      },
+      "quiz": {
+        "question": "What is GOG.com suggesting players do to preserve their digital games?",
+        "options": [
+          "A. Buy physical copies from Sony",
+          "B. Download offline installers and save them to discs",
+          "C. Only purchase games from Ubisoft",
+          "D. Wait for PlayStation to continue disc production"
+        ],
+        "answer": 1,
+        "hint": "提示：查看GOG在X平台上的分享内容，他们具体建议了什么方法。"
+      }
+    },
+    "id": "article_1784069101602_xsfp",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "LA Noire Could Have Featured A Different, Very Famous, And More Expensive Lead Actor",
     "title_zh": "《黑色洛城》本可能由另一位更著名的昂贵主演出演",
     "level": "⭐⭐ 中级",
@@ -2437,220 +2644,6 @@
       }
     },
     "id": "article_1782169863489_hgm8",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Is the US government's Anthropic ban accidentally helping the brand?",
-    "title_zh": "美国政府对Anthropic的禁令是否意外地帮助了这个品牌？",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5's guardrails.",
-            "zh": "就在上周即将结束时，美国政府迫使Anthropic撤回其两个最新模型Fable 5和Mythos 5，理由是国家安全问题，此前亚马逊研究人员 allegedly（据称）找到了绕过Fable 5防护栏的方法。",
-            "grammar": "【语法要点】现在分词短语作状语，citing表示原因",
-            "words": [
-              {
-                "word": "allegedly",
-                "meaning": "adv. 据称",
-                "phonetic": "/əˈledʒɪdli/"
-              },
-              {
-                "word": "bypass",
-                "meaning": "v. 绕过，回避",
-                "phonetic": "/baɪˈpɑːs/"
-              },
-              {
-                "word": "guardrails",
-                "meaning": "n. 防护栏，安全措施",
-                "phonetic": "/ˈɡɑːrdreɪlz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
-            "zh": "网络安全研究人员随后签署了一封公开信，称这一举动是危险的，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
-            "grammar": "【语法要点】现在分词短语作后置定语，calling修饰letter",
-            "words": [
-              {
-                "word": "jailbreaks",
-                "meaning": "n. 越狱，破解",
-                "phonetic": "/ˈdʒeɪlbreɪks/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "So is [...]",
-            "zh": "那么是否 [...]",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why did the US government force Anthropic to pull its newest models?",
-        "options": [
-          "A. Because the models were performing poorly",
-          "B. Due to national security concerns after alleged bypass methods were found",
-          "C. Because Anthropic violated cybersecurity regulations",
-          "D. As requested by Amazon researchers"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了禁令的原因，与国家安全和研究人员发现的绕过方法有关。"
-      },
-      "translation_task": {
-        "en": "Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models.",
-        "zh": "网络安全研究人员随后签署了一封公开信，称这一举动是危险的，而Anthropic本身也指出同样的越狱方法存在于其他模型中。",
-        "valuable_point": "考察了现在分词短语作后置定语的翻译技巧，以及并列复合句的处理方式。"
-      },
-      "quiz": {
-        "question": "Why did the US government force Anthropic to pull its newest models?",
-        "options": [
-          "A. Because the models were performing poorly",
-          "B. Due to national security concerns after alleged bypass methods were found",
-          "C. Because Anthropic violated cybersecurity regulations",
-          "D. As requested by Amazon researchers"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了禁令的原因，与国家安全和研究人员发现的绕过方法有关。"
-      }
-    },
-    "id": "article_1782082730755_x7b3",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "If You Haven't Reserved A Steam Controller Yet, You'll Have To Wait Until Next Year",
-    "title_zh": "如果你还没有预订Steam手柄，你可能要等到明年了",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply.",
-            "zh": "上个月，Valve公司发布了其Steam手柄，但需求远远超过了供应量。",
-            "grammar": "现在完成时与一般过去时的对比使用",
-            "words": [
-              {
-                "word": "outweighed",
-                "meaning": "v. 超过，比...更重要",
-                "phonetic": "/ˌaʊtˈweɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the earliest.",
-            "zh": "情况如此严重，以至于截至今天，Valve最早要到2027年才能完成新的Steam手柄订单。",
-            "grammar": "结果状语从句与被动语态的结合使用",
-            "words": [
-              {
-                "word": "fulfilled",
-                "meaning": "v. 履行，完成",
-                "phonetic": "/fʊlˈfɪld/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Valve shared the news on its site, where it noted that it has \"no plans to stop making Steam Controller.\"",
-            "zh": "Valve在其网站上公布了这一消息，并表示他们\"没有停止生产Steam手柄的计划\"。",
-            "grammar": "定语从句的使用",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "But the company also stated that the response to the controller has \"exceeded our expectations.\"",
-            "zh": "但该公司也表示，消费者对该手柄的反应\"超出了我们的预期\"。",
-            "grammar": "宾语从句的使用",
-            "words": [
-              {
-                "word": "exceeded",
-                "meaning": "v. 超过，超越",
-                "phonetic": "/ɪkˈsiːd/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders: September 2026, December 2026, and a vague 2027 that came with a promise for more specific info down the line.",
-            "zh": "为了清晰起见，Valve现在将根据客户下单的时间提供三个预计的交货窗口：2026年9月、2026年12月，以及一个模糊的2027年，并承诺稍后会提供更具体的信息。",
-            "grammar": "复杂句结构，包含多个修饰成分",
-            "words": [
-              {
-                "word": "vague",
-                "meaning": "adj. 模糊的，不明确的",
-                "phonetic": "/veɪɡ/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Players who have already placed their orders can log into their Steam account to see their order window.",
-            "zh": "已经下单的玩家可以登录他们的Steam账户查看他们的订单交货窗口。",
-            "grammar": "定语从句的使用",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the article, when will Valve fulfill new orders for Steam Controller?",
-        "options": [
-          "A. Immediately after placing the order",
-          "B. By the end of this year",
-          "C. Not until 2027 at the earliest",
-          "D. Only for customers who pre-ordered"
-        ],
-        "answer": 2,
-        "hint": "提示：文章明确提到了新订单的最早完成时间，请查找相关信息。"
-      },
-      "translation_task": {
-        "en": "In the interest of clarity, Valve will now provide customers with three estimated delivery windows for Steam Controller based on when they placed their orders: September 2026, December 2026, and a vague 2027 that came with a promise for more specific info down the line.",
-        "zh": "为了清晰起见，Valve现在将根据客户下单的时间提供三个预计的交货窗口：2026年9月、2026年12月，以及一个模糊的2027年，并承诺稍后会提供更具体的信息。",
-        "valuable_point": "考察了复杂长句的翻译技巧，特别是包含多个修饰成分和插入语的句子结构处理。"
-      },
-      "quiz": {
-        "question": "According to the article, when will Valve fulfill new orders for Steam Controller?",
-        "options": [
-          "A. Immediately after placing the order",
-          "B. By the end of this year",
-          "C. Not until 2027 at the earliest",
-          "D. Only for customers who pre-ordered"
-        ],
-        "answer": 2,
-        "hint": "提示：文章明确提到了新订单的最早完成时间，请查找相关信息。"
-      }
-    },
-    "id": "article_1782082746071_rl25",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
