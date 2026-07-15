@@ -1,5 +1,119 @@
 [
   {
+    "title": "Your First Chance To Play The Duskbloods Early Is Next Month",
+    "title_zh": "下月你将首次有机会提前体验《暗血》",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "From Software's upcoming game The Duskbloods looks be quite the departure from the studio's previous work, and if you want a chance to play it ahead of its official launch, you'll soon have your chance.",
+            "zh": "From Software即将推出的游戏《暗血》似乎与该工作室以往的作品有很大不同，如果你想有机会在官方发布前体验这款游戏，你很快就会有这个机会。",
+            "grammar": "【语法要点】复合句，包含if引导的条件状语从句",
+            "words": [
+              {
+                "word": "departure",
+                "meaning": "n. 背离，差异",
+                "phonetic": "/dɪˈpɑːrtʃər/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The game will be running a closed network test in August, with registration for a chance to participate starting very soon.",
+            "zh": "这款游戏将于8月进行封闭网络测试，参与测试的注册即将很快开始。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The Duskbloods' closed network test will run from August 21-23, and will feature support for eight-player multiplayer sessions.",
+            "zh": "《暗血》的封闭网络测试将于8月21日至23日进行，并将支持八人多人游戏会话。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "multiplayer",
+                "meaning": "adj. 多人游戏的",
+                "phonetic": "/ˈmʌltipleɪər/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "An application period will run from July 22-28, and participation requires a Nintendo Switch 2 system and an active Nintendo Switch Online subscription.",
+            "zh": "申请期将从7月22日持续到28日，参与测试需要拥有任天堂Switch 2系统和有效的任天堂Switch在线订阅服务。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "subscription",
+                "meaning": "n. 订阅，订阅服务",
+                "phonetic": "/səbˈskrɪpʃn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "From Software says the closed network test will be focused on a few key areas: server load, multiplayer problem-solving, and game balance.",
+            "zh": "From Software表示，封闭网络测试将专注于几个关键领域：服务器负载、多人游戏问题解决和游戏平衡性。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "balance",
+                "meaning": "n. 平衡，均衡",
+                "phonetic": "/ˈbæləns/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What are the key focus areas of The Duskbloods' closed network test?",
+        "options": [
+          "A. Graphics quality, sound design, and story elements",
+          "B. Server load, multiplayer problem-solving, and game balance",
+          "C. Character customization, weapon variety, and level design",
+          "D. Online connectivity, user interface, and controller compatibility"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看文章中明确提到的测试重点内容。"
+      },
+      "translation_task": {
+        "en": "From Software's upcoming game The Duskbloods looks be quite the departure from the studio's previous work, and if you want a chance to play it ahead of its official launch, you'll soon have your chance.",
+        "zh": "From Software即将推出的游戏《暗血》似乎与该工作室以往的作品有很大不同，如果你想有机会在官方发布前体验这款游戏，你很快就会有这个机会。",
+        "valuable_point": "考察了复合句的翻译，特别是if引导的条件状语从句的翻译技巧，以及departure一词在游戏语境下的准确表达。"
+      },
+      "quiz": {
+        "question": "What are the key focus areas of The Duskbloods' closed network test?",
+        "options": [
+          "A. Graphics quality, sound design, and story elements",
+          "B. Server load, multiplayer problem-solving, and game balance",
+          "C. Character customization, weapon variety, and level design",
+          "D. Online connectivity, user interface, and controller compatibility"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看文章中明确提到的测试重点内容。"
+      }
+    },
+    "id": "article_1784155577278_0s56",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
     "title_zh": "苹果通过iOS 27公开测试版向所有人开放其新版Siri人工智能",
     "level": "⭐⭐ 中级",
@@ -2501,150 +2615,5 @@
     "id": "article_1782169849779_gbdi",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "AMD's FSR Upscaling 4.1 Comes To Older GPUs, Steam Machine And Xbox ROG Ally Support On The Way",
-    "title_zh": "AMD的FSR 4.1技术支持旧显卡，Steam主机和Xbox ROG Ally适配即将到来",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "AMD has announced that owners of RDNA 3 GPUs can now enjoy the benefits offered by its latest version of AI-powered upscaling, FSR 4.1.",
-            "zh": "AMD宣布，RDNA 3显卡的现在可以享受到其最新版本的AI驱动超分辨率技术FSR 4.1带来的好处。",
-            "grammar": "【语法要点】现在完成时态表示最近发生且持续影响现在的事件",
-            "words": [
-              {
-                "word": "upscaling",
-                "meaning": "n. 超分辨率技术",
-                "phonetic": "/ˈʌpˌskeɪlɪŋ/"
-              },
-              {
-                "word": "RDNA",
-                "meaning": "n. AMD显卡架构名称",
-                "phonetic": "/ˌɑːr di ˌen ˈeɪ/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "This comes a few weeks earlier than its July estimate, with the promise for more devices down the line, too.",
-            "zh": "这项技术的发布比AMD七月份的预计时间提前了几周，并且未来还将支持更多设备。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "estimate",
-                "meaning": "n. 估计；预测",
-                "phonetic": "/ˈestɪmət/"
-              },
-              {
-                "word": "down the line",
-                "meaning": "phr. 未来；将来",
-                "phonetic": "/ˌdaʊn ðə laɪn/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "FSR Upscaling 4.1 functions similarly to other upscaling technologies on the market, and comes much closer to the performance and quality of Nvidia's market-leading DLSS than previous iterations.",
-            "zh": "FSR 4.1技术的功能与市场上其他超分辨率技术相似，但在性能和质量上比之前的版本更接近NVIDIA市场领先的DLSS技术。",
-            "grammar": "【语法要点】比较级结构，表示与竞争对手技术的对比",
-            "words": [
-              {
-                "word": "iterations",
-                "meaning": "n. 迭代版本；更新版本",
-                "phonetic": "/ˌɪtəˈreɪʃənz/"
-              },
-              {
-                "word": "market-leading",
-                "meaning": "adj. 市场领先的",
-                "phonetic": "/ˈmɑːrkɪt ˌliːdɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "It's the same technology that underpins the PlayStation 5 Pro's PSSR 2, with Sony layering on its own work on top of what AMD has engineering here.",
-            "zh": "这项技术是PS5 Pro的PSSR 2技术的基础，索尼在此基础上添加了自己的工作成果。",
-            "grammar": "【语法要点】定语从句和with复合结构",
-            "words": [
-              {
-                "word": "underpins",
-                "meaning": "v. 作为...的基础；支撑",
-                "phonetic": "/ˌʌndərˈpɪnz/"
-              },
-              {
-                "word": "layering",
-                "meaning": "v. 分层添加；叠加",
-                "phonetic": "/ˈleɪərɪŋ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "The upscaling suite was previously exclusive to the company's latest GPUs, the RX 9070 and 9070 XT, but will now be available to many, many more RDNA 3 G...",
-            "zh": "这套超分辨率技术之前仅限于公司的最新显卡RX 9070和9070 XT，但现在将适用于更多RDNA 3显卡...",
-            "grammar": "【语法要点】被动语态和对比结构",
-            "words": [
-              {
-                "word": "exclusive",
-                "meaning": "adj. 独有的；专用的",
-                "phonetic": "/ɪkˈskluːsɪv/"
-              },
-              {
-                "word": "suite",
-                "meaning": "n. 套件；系列",
-                "phonetic": "/swiːt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main advantage of FSR 4.1 compared to previous versions?",
-        "options": [
-          "A. It's now available for more RDNA 3 GPUs",
-          "B. It offers performance and quality closer to Nvidia's DLSS",
-          "C. It will support Steam Machine and Xbox ROG Ally",
-          "D. It was released earlier than AMD's July estimate"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了FSR 4.1与竞争对手技术的对比。"
-      },
-      "translation_task": {
-        "en": "It's the same technology that underpins the PlayStation 5 Pro's PSSR 2, with Sony layering on its own work on top of what AMD has engineering here.",
-        "zh": "这项技术是PS5 Pro的PSSR 2技术的基础，索尼在此基础上添加了自己的工作成果。",
-        "valuable_point": "考察了定语从句和with复合结构的翻译，以及专业术语的准确表达。"
-      },
-      "quiz": {
-        "question": "What is the main advantage of FSR 4.1 compared to previous versions?",
-        "options": [
-          "A. It's now available for more RDNA 3 GPUs",
-          "B. It offers performance and quality closer to Nvidia's DLSS",
-          "C. It will support Steam Machine and Xbox ROG Ally",
-          "D. It was released earlier than AMD's July estimate"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了FSR 4.1与竞争对手技术的对比。"
-      }
-    },
-    "id": "article_1782169863489_hgm8",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
