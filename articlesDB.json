@@ -1,5 +1,86 @@
 [
   {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "title_zh": "Google Vids现在可以让你在AI视频中出演自己",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves.",
+            "zh": "Google正在为Vids添加个性化AI头像，让用户可以创建由自己数字版本出演的视频。",
+            "grammar": "【定语从句】that引导的定语从句修饰AIavatars，说明这些头像的功能",
+            "words": [
+              {
+                "word": "personalized",
+                "meaning": "adj. 个性化的",
+                "phonetic": "/ˈpɜːrsənəlaɪzd/"
+              },
+              {
+                "word": "avatars",
+                "meaning": "n. 头像，化身",
+                "phonetic": "/ˈævətɑːrz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "zh": "这些功能与Gemini Omni驱动的工具一起，可以根据提示和参考图像生成和编辑视频。",
+            "en": "alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+            "grammar": "【介词短语】alongside引导的介词短语，说明与AI头像功能同时存在的其他功能",
+            "words": [
+              {
+                "word": "prompts",
+                "meaning": "n. 提示，提示词",
+                "phonetic": "/prɑːmpts/"
+              },
+              {
+                "word": "reference",
+                "meaning": "n. 参考，参考资料",
+                "phonetic": "/ˈrefrəns/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What new features is Google adding to Vids?",
+        "options": [
+          "A. Only personalized AI avatars",
+          "B. Only Gemini Omni-powered tools",
+          "C. Both personalized AI avatars and Gemini Omni-powered tools",
+          "D. Video editing features only"
+        ],
+        "answer": 2,
+        "hint": "提示：文章第一句提到了AI头像，第二句提到了Gemini Omni工具，两者都是新功能。"
+      },
+      "translation_task": {
+        "en": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves.",
+        "zh": "Google正在为Vids添加个性化AI头像，让用户可以创建由自己数字版本出演的视频。",
+        "valuable_point": "考察了定语从句的翻译技巧，将that引导的定语从句处理为前置定语，使中文表达更流畅。"
+      },
+      "quiz": {
+        "question": "What new features is Google adding to Vids?",
+        "options": [
+          "A. Only personalized AI avatars",
+          "B. Only Gemini Omni-powered tools",
+          "C. Both personalized AI avatars and Gemini Omni-powered tools",
+          "D. Video editing features only"
+        ],
+        "answer": 2,
+        "hint": "提示：文章第一句提到了AI头像，第二句提到了Gemini Omni工具，两者都是新功能。"
+      }
+    },
+    "id": "article_1784241966416_2ixv",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Your First Chance To Play The Duskbloods Early Is Next Month",
     "title_zh": "下月你将首次有机会提前体验《暗血》",
     "level": "⭐⭐ 中级",
@@ -2547,73 +2628,5 @@
     "id": "article_1782255479774_c8m6",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "title_zh": "SpaceX与开源AI实验室Reflection AI签署计算协议",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-            "zh": "Reflection AI将从2026年7月1日起至2029年，每月支付1.5亿美元，以立即获得位于田纳西州孟菲斯附近的SpaceX Colossus 2数据中心内Nvidia最新的GB300 AI芯片及相关硬件的使用权限。",
-            "grammar": "【语法要点】本句包含时间状语(beginning July 1, 2026 through 2029)和目的状语(for immediate access...)，结构复杂但清晰。",
-            "words": [
-              {
-                "word": "compute",
-                "meaning": "v. 计算，处理",
-                "phonetic": "/kəmˈpjuːt/"
-              },
-              {
-                "word": "chips",
-                "meaning": "n. 芯片",
-                "phonetic": "/tʃɪps/"
-              },
-              {
-                "word": "hardware",
-                "meaning": "n. 硬件",
-                "phonetic": "/ˈhɑːdweər/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the monthly payment amount from Reflection AI to SpaceX for the compute deal?",
-        "options": [
-          "A. $150 million",
-          "B. $150 billion",
-          "C. $15 million",
-          "D. $1.5 billion"
-        ],
-        "answer": 0,
-        "hint": "提示：文章中明确提到了每月支付的金额，请仔细查找数字部分。"
-      },
-      "translation_task": {
-        "en": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center near Memphis, Tennessee.",
-        "zh": "Reflection AI将从2026年7月1日起至2029年，每月支付1.5亿美元，以立即获得位于田纳西州孟菲斯附近的SpaceX Colossus 2数据中心内Nvidia最新的GB300 AI芯片及相关硬件的使用权限。",
-        "valuable_point": "考察了长句中时间状语(beginning...through...)和目的状语(for...)的翻译处理，以及专业术语(compute deal, AI chips, data center)的准确翻译。"
-      },
-      "quiz": {
-        "question": "What is the monthly payment amount from Reflection AI to SpaceX for the compute deal?",
-        "options": [
-          "A. $150 million",
-          "B. $150 billion",
-          "C. $15 million",
-          "D. $1.5 billion"
-        ],
-        "answer": 0,
-        "hint": "提示：文章中明确提到了每月支付的金额，请仔细查找数字部分。"
-      }
-    },
-    "id": "article_1782169849779_gbdi",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
