@@ -1,5 +1,231 @@
 [
   {
+    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+    "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
+            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
+            "grammar": "【语法要点】现在完成时与一般过去时的对比使用，以及非正式表达\"not messing around\"的用法。",
+            "words": [
+              {
+                "word": "lawsuit",
+                "meaning": "n. 诉讼",
+                "phonetic": "/ˈlɔːsuːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+            "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
+            "grammar": "【语法要点】现在分词短语\"reaching all the way up to\"作为后置定语修饰\"pattern of misconduct\"，以及\"claims\"引导的宾语从句。",
+            "words": [
+              {
+                "word": "alleges",
+                "meaning": "v. 断言，指控",
+                "phonetic": "/əˈledʒz/"
+              },
+              {
+                "word": "misconduct",
+                "meaning": "n. 不当行为，渎职",
+                "phonetic": "/ˌmɪsˈkɒndʌkt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an IPO [...]",
+            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，因为据报道该公司正考虑进行IPO[...]",
+            "grammar": "【语法要点】\"couldn't be worse\"表示最高程度的负面评价，\"with + 名词 + 分词结构\"表示伴随情况。",
+            "words": [
+              {
+                "word": "hedged",
+                "meaning": "adj. 谨慎的，含糊的",
+                "phonetic": "/hedʒd/"
+              },
+              {
+                "word": "eyeing",
+                "meaning": "v. 注视，考虑",
+                "phonetic": "/ˈaɪɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
+        "options": [
+          "A. It has caused OpenAI to lose many of its employees",
+          "B. It has disrupted OpenAI's IPO plans at a critical time",
+          "C. It has led to the resignation of OpenAI's chief hardware officer",
+          "D. It has forced OpenAI to change its business model"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句提到了诉讼时机和IPO计划的关系。"
+      },
+      "translation_task": {
+        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+        "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
+        "valuable_point": "考察了英语长句的翻译技巧，特别是\"reaching all the way up to\"这个表示程度递进的短语翻译，以及\"claims\"引导的宾语从句的处理方式。"
+      },
+      "quiz": {
+        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
+        "options": [
+          "A. It has caused OpenAI to lose many of its employees",
+          "B. It has disrupted OpenAI's IPO plans at a critical time",
+          "C. It has led to the resignation of OpenAI's chief hardware officer",
+          "D. It has forced OpenAI to change its business model"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句提到了诉讼时机和IPO计划的关系。"
+      }
+    },
+    "id": "article_1784327853463_6zj7",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
+    "title_zh": "《马拉松》游戏总监在动荡时期离开Bungie",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.",
+            "zh": "《马拉松》游戏总监乔·齐格勒宣布他将离开Bungie去从事新工作，而他的离职正值该工作室的动荡时期。",
+            "grammar": "【现在完成时】使用现在完成时表示过去发生但与现在有联系的动作",
+            "words": [
+              {
+                "word": "tumultuous",
+                "meaning": "adj. 激烈的，动荡的",
+                "phonetic": "/tjuːˈmʌltʃuəs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Ziegler said in a note that taking over for him as game director on Marathon will be Del Chafe III, who was previously the assistant game director.",
+            "zh": "齐格勒在一份声明中表示，接替他担任《马拉松》游戏总监的是德尔·查夫三世，他此前担任助理游戏总监。",
+            "grammar": "【宾语从句】使用that引导的宾语从句作为said的宾语",
+            "words": [
+              {
+                "word": "director",
+                "meaning": "n. 总监，主任",
+                "phonetic": "/dəˈrektər/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Chafe III will work alongside creative director Julia Nardin to \"guide the game forward.\"",
+            "zh": "查夫三世将与创意总监朱莉娅·南丁合作，\"引导游戏向前发展\"。",
+            "grammar": "【介词短语】alongside表示\"与...一起\"，表示合作关系",
+            "words": [
+              {
+                "word": "alongside",
+                "meaning": "prep. 与...一起，在...旁边",
+                "phonetic": "/əˌlɔŋˈsaɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"Both of them have been operating in a strong leadership capacity for the team and are ready to guide Marathon into the next chapter with an even better and brighter future,\" Ziegler said.",
+            "zh": "齐格勒说：\"他们两人一直在团队中发挥强有力的领导作用，并准备好引导《马拉松》进入下一个篇章，拥有更美好、更光明的未来。\"",
+            "grammar": "【现在完成进行时】have been operating表示从过去开始一直持续到现在的动作",
+            "words": [
+              {
+                "word": "capacity",
+                "meaning": "n. 能力，职位",
+                "phonetic": "/kəˈpæsəti/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "\"I'm proud of them and I'm excited to see them helm the future of this crazy little world we've created together.\"",
+            "zh": "\"我为他们感到骄傲，并期待看到他们掌管我们共同创造的这个疯狂小世界的未来。\"",
+            "grammar": "【不定式】be excited to do sth表示\"对做某事感到兴奋\"",
+            "words": [
+              {
+                "word": "helm",
+                "meaning": "v. 掌管，领导",
+                "phonetic": "/helm/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Marathon has lost another game director.",
+            "zh": "《马拉松》又失去了一位游戏总监。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Who will replace Joe Ziegler as the game director for Marathon?",
+        "options": [
+          "A. Julia Nardin",
+          "B. Del Chafe III",
+          "C. The assistant game director",
+          "D. A new hire from outside Bungie"
+        ],
+        "answer": 1,
+        "hint": "提示：请查找文章中关于接替齐格勒担任游戏总监的具体人选。"
+      },
+      "translation_task": {
+        "en": "\"Both of them have been operating in a strong leadership capacity for the team and are ready to guide Marathon into the next chapter with an even better and brighter future,\" Ziegler said.",
+        "zh": "齐格勒说：\"他们两人一直在团队中发挥强有力的领导作用，并准备好引导《马拉松》进入下一个篇章，拥有更美好、更光明的未来。\"",
+        "valuable_point": "考察了现在完成进行时(have been operating)和介词短语(in a strong leadership capacity)的翻译，以及引语的完整转换。"
+      },
+      "quiz": {
+        "question": "Who will replace Joe Ziegler as the game director for Marathon?",
+        "options": [
+          "A. Julia Nardin",
+          "B. Del Chafe III",
+          "C. The assistant game director",
+          "D. A new hire from outside Bungie"
+        ],
+        "answer": 1,
+        "hint": "提示：请查找文章中关于接替齐格勒担任游戏总监的具体人选。"
+      }
+    },
+    "id": "article_1784327879578_8vc5",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Google Vids now lets you star in your own AI videos",
     "title_zh": "Google Vids现在可以让你在AI视频中出演自己",
     "level": "⭐⭐ 中级",
@@ -2433,199 +2659,6 @@
       }
     },
     "id": "article_1782428794996_a6zi",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Anthropic's Claude Tag is learning your company, one Slack message at a time",
-    "title_zh": "Anthropic的Claude标签正在通过Slack消息逐步了解您的公司",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Anthropic's new Claude Tag brings an always-on AI teammate to Slack.",
-            "zh": "Anthropic的新Claude标签为Slack带来了一个全天候的AI队友。",
-            "grammar": "【语法要点】现在分词短语作定语，'always-on'作为复合形容词修饰'AI teammate'",
-            "words": [
-              {
-                "word": "anthropic",
-                "meaning": "adj. 人类学的，与人类有关的",
-                "phonetic": "/ˈænθrɒpɪk/"
-              },
-              {
-                "word": "teammate",
-                "meaning": "n. 队友，团队成员",
-                "phonetic": "/ˈtiːmmeɪt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-            "zh": "但除了提高生产力外，该功能是一项战略举措，旨在捕捉组织背景、机构知识和企业工作流程。",
-            "grammar": "【语法要点】'beyond'作介词短语表示'除...外'，'strategic play'是商业术语，'to capture'作目的状语",
-            "words": [
-              {
-                "word": "strategic",
-                "meaning": "adj. 战略的，战略性的",
-                "phonetic": "/strəˈtiːdʒɪk/"
-              },
-              {
-                "word": "institutional",
-                "meaning": "adj. 机构的，制度上的",
-                "phonetic": "/ˌɪnstɪˈtjuːʃənl/"
-              },
-              {
-                "word": "workflows",
-                "meaning": "n. 工作流程，工作流",
-                "phonetic": "/ˈwɜːkfləʊz/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the primary strategic purpose of Anthropic's Claude Tag feature?",
-        "options": [
-          "A. To increase individual productivity",
-          "B. To capture organizational context and knowledge",
-          "C. To replace human teammates in Slack",
-          "D. To provide customer support"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第二句明确指出了该功能的战略目的，请仔细阅读'But beyond productivity...'后面的内容。"
-      },
-      "translation_task": {
-        "en": "But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
-        "zh": "但除了提高生产力外，该功能是一项战略举措，旨在捕捉组织背景、机构知识和企业工作流程。",
-        "valuable_point": "考察了'beyond'的引申义表达，以及'capture'在商业语境中的特殊含义，同时处理了三个并列名词短语的翻译。"
-      },
-      "quiz": {
-        "question": "What is the primary strategic purpose of Anthropic's Claude Tag feature?",
-        "options": [
-          "A. To increase individual productivity",
-          "B. To capture organizational context and knowledge",
-          "C. To replace human teammates in Slack",
-          "D. To provide customer support"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第二句明确指出了该功能的战略目的，请仔细阅读'But beyond productivity...'后面的内容。"
-      }
-    },
-    "id": "article_1782341895974_i4el",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Sonic's New Chaos Hunt Game Includes Some Fine Print You Shouldn't Skip",
-    "title_zh": "索尼克新游戏《混沌狩猎》包含不应忽视的细则",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The 35th anniversary of Sonic the Hedgehog is arriving later this year, and one of the ways that Sega is celebrating the event is a new ARG game called Chaos Hunt.",
-            "zh": "刺猬索尼克35周年庆典将于今年晚些时候举行，世嘉庆祝这一活动的方式之一是一款名为《混沌狩猎》的新ARG游戏。",
-            "grammar": "【复合句】包含两个并列分句，由and连接，描述了两个相关事实。",
-            "words": [
-              {
-                "word": "anniversary",
-                "meaning": "n. 周年纪念",
-                "phonetic": "/ˌænɪˈvɜːrsəri/"
-              },
-              {
-                "word": "celebrating",
-                "meaning": "v. 庆祝",
-                "phonetic": "/ˈselɪbreɪtɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Fans have been invited to hunt for some missing Chaos Emeralds, but players should probably check out the fine print before they take part in it.",
-            "zh": "粉丝们被邀请去寻找一些失踪的混沌翡翠，但玩家在参与前最好先查看细则。",
-            "grammar": "【复合句】包含由but连接的两个转折关系的分句，使用了现在完成时被动语态。",
-            "words": [
-              {
-                "word": "fine print",
-                "meaning": "n. 细则，小字印刷的条款",
-                "phonetic": "/faɪn prɪnt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "As noted by user Luna Leo on social media, the terms of service for Chaos Hunt requires players to agree to AI model training and to sharing their details with third-party AI vendors.",
-            "zh": "正如社交媒体用户Luna Leo所指出的，《混沌狩猎》的服务条款要求玩家同意AI模型训练，并与第三方AI供应商共享他们的详细信息。",
-            "grammar": "【复杂句】包含由as引导的状语从句，主语是the terms of service，谓语是requires，后面接两个并列的宾语。",
-            "words": [
-              {
-                "word": "vendors",
-                "meaning": "n. 供应商，销售商",
-                "phonetic": "/ˈvendərz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The terms note that \"We use reasonable efforts to prohibit [third-party] providers from using any of your personal information for the purposes of developing and improving their AI models.\"",
-            "zh": "条款中写道：\"我们会尽合理努力禁止[第三方]供应商使用您的任何个人信息来开发和改进他们的AI模型。\"",
-            "grammar": "【间接引语】包含一个直接引语，使用了引号，引语中包含目的状语for the purposes of...",
-            "words": [
-              {
-                "word": "prohibit",
-                "meaning": "v. 禁止，阻止",
-                "phonetic": "/prəˈhɪbɪt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What do players need to agree to according to the terms of service for Chaos Hunt?",
-        "options": [
-          "A. Sharing their gaming achievements with other players",
-          "B. Participating in AI model training and sharing details with third-party AI vendors",
-          "C. Paying additional fees for special in-game items",
-          "D. Creating their own content based on Sonic characters"
-        ],
-        "answer": 1,
-        "hint": "提示：请仔细阅读第二段第一句，其中明确提到了服务条款的要求。"
-      },
-      "translation_task": {
-        "en": "As noted by user Luna Leo on social media, the terms of service for Chaos Hunt requires players to agree to AI model training and to sharing their details with third-party AI vendors.",
-        "zh": "正如社交媒体用户Luna Leo所指出的，《混沌狩猎》的服务条款要求玩家同意AI模型训练，并与第三方AI供应商共享他们的详细信息。",
-        "valuable_point": "考察了英语中被动语态的使用（have been invited）以及复杂句式结构，特别是包含多个并列成分的句子翻译技巧。"
-      },
-      "quiz": {
-        "question": "What do players need to agree to according to the terms of service for Chaos Hunt?",
-        "options": [
-          "A. Sharing their gaming achievements with other players",
-          "B. Participating in AI model training and sharing details with third-party AI vendors",
-          "C. Paying additional fees for special in-game items",
-          "D. Creating their own content based on Sonic characters"
-        ],
-        "answer": 1,
-        "hint": "提示：请仔细阅读第二段第一句，其中明确提到了服务条款的要求。"
-      }
-    },
-    "id": "article_1782255479774_c8m6",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
