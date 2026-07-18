@@ -1,6 +1,105 @@
 [
   {
     "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+    "title_zh": "苹果的大规模诉讼可能如何扰乱OpenAI的IPO计划",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
+            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
+            "grammar": "【语法要点】现在完成时态表达近期发生且持续影响的事件；'not messing around'为非正式表达，表示'严肃对待，不闹着玩'",
+            "words": [
+              {
+                "word": "lawsuit",
+                "meaning": "n. 诉讼",
+                "phonetic": "/ˈlɔːsuːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+            "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在这家公司工作。",
+            "grammar": "【语法要点】现在分词短语'reaching all the way up to'作后置定语；'claims'在此处为动词，表示'声称'",
+            "words": [
+              {
+                "word": "alleges",
+                "meaning": "v. 断言，指控",
+                "phonetic": "/əˈledʒz/"
+              },
+              {
+                "word": "misconduct",
+                "meaning": "n. 不当行为，渎职",
+                "phonetic": "/ˌmɪsˈkɒndʌkt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an [...]",
+            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，因为据报道该公司正考虑进行IPO[...]",
+            "grammar": "【语法要点】'couldn't be worse'为最高级表达；'with'引导的独立主格结构表示伴随情况",
+            "words": [
+              {
+                "word": "hedged",
+                "meaning": "adj. 谨慎的，含糊的",
+                "phonetic": "/hedʒd/"
+              },
+              {
+                "word": "eyeing",
+                "meaning": "v. 看中，考虑",
+                "phonetic": "/ˈaɪɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
+        "options": [
+          "A. It has caused OpenAI to lose many of its employees",
+          "B. It has disrupted OpenAI's IPO plans at a critical time",
+          "C. It has led to the resignation of OpenAI's chief hardware officer",
+          "D. It has forced OpenAI to change its business model"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句提到了诉讼时机对OpenAI的IPO计划的影响。"
+      },
+      "translation_task": {
+        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+        "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在这家公司工作。",
+        "valuable_point": "考察了英语中长句的翻译技巧，特别是如何处理现在分词短语作后置定语和动词'claims'在不同语境下的含义。"
+      },
+      "quiz": {
+        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
+        "options": [
+          "A. It has caused OpenAI to lose many of its employees",
+          "B. It has disrupted OpenAI's IPO plans at a critical time",
+          "C. It has led to the resignation of OpenAI's chief hardware officer",
+          "D. It has forced OpenAI to change its business model"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句提到了诉讼时机对OpenAI的IPO计划的影响。"
+      }
+    },
+    "id": "article_1784414212647_fkgq",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
     "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
     "level": "⭐⭐ 中级",
     "time": "3 分钟阅读",
@@ -2547,119 +2646,5 @@
     "id": "article_1782428766977_ch8r",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Xbox Series S, The \"Cheap\" Option, Now Costs As Much As Series X Did Six Years Ago",
-    "title_zh": "Xbox Series S，这款\"廉价\"选项，现在的价格与六年前Series X首发时相同",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper.",
-            "zh": "当Xbox Series S与Series X和PS5同时发布时，它提出了一个令人信服的论点：以便宜得多的价格玩到所有与其他平台相同的游戏，尽管性能和视觉效果较差。",
-            "grammar": "【语法要点】although引导的让步状语从句，破折号后的补充说明结构",
-            "words": [
-              {
-                "word": "compelling",
-                "meaning": "adj. 令人信服的，引人入胜的",
-                "phonetic": "/kəmˈpɛlɪŋ/"
-              },
-              {
-                "word": "albeit",
-                "meaning": "conj. 尽管，虽然",
-                "phonetic": "/ˌɔːlˈbiːɪt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "$300 felt surprisingly reasonable, giving you a way to save $100 compared to the cheapest PS5 and $200 compared to the more premium PS5 and Series X models.",
-            "zh": "300美元的价格感觉出奇地合理，让你比最便宜的PS5节省100美元，比更高端的PS5和Series X型号节省200美元。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "reasonable",
-                "meaning": "adj. 合理的，公道的",
-                "phonetic": "/ˈriːznəbəl/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "With the Series S turning six later this year, you'd expect it--like every other console--to get cheaper over time, as has always been the case.",
-            "zh": "随着Series S在今年晚些时候迎来六周年，你会期望它像其他所有游戏机一样随时间推移而降价，这向来是行业惯例。",
-            "grammar": "【语法要点】破折号插入语，as引导的定语从句",
-            "words": [
-              {
-                "word": "console",
-                "meaning": "n. 游戏机，控制台",
-                "phonetic": "/ˈkɒnsoʊl/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "But this is 2026, baby. Welcome to hell.",
-            "zh": "但这是2026年，宝贝。欢迎来到地狱。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-3",
-            "en": "Beginning August 1, Xbox Series S will cost as much as Xbox Series X did at launch in November 2020 : $500.",
-            "zh": "从8月1日开始，Xbox Series S的价格将与2020年11月首发时的Xbox Series X相同：500美元。",
-            "grammar": "【语法要点】as...as比较结构，did替代cost避免重复",
-            "words": [
-              {
-                "word": "launch",
-                "meaning": "n. 首发发布，上市",
-                "phonetic": "/lɔːntʃ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main point of the article?",
-        "options": [
-          "A. Xbox Series S is cheaper than other gaming consoles",
-          "B. Xbox Series S price has increased significantly over time",
-          "C. Xbox Series S will be discontinued in 2026",
-          "D. PS5 is better value than Xbox Series S"
-        ],
-        "answer": 1,
-        "hint": "提示：文章重点讨论了Xbox Series S价格的变化情况，特别是与首发价格的对比。"
-      },
-      "translation_task": {
-        "en": "Beginning August 1, Xbox Series S will cost as much as Xbox Series X did at launch in November 2020 : $500.",
-        "zh": "从8月1日开始，Xbox Series S的价格将与2020年11月首发时的Xbox Series X相同：500美元。",
-        "valuable_point": "考察了as...as比较结构的使用，以及did替代cost避免重复的技巧，同时展示了时间状语的准确翻译。"
-      },
-      "quiz": {
-        "question": "What is the main point of the article?",
-        "options": [
-          "A. Xbox Series S is cheaper than other gaming consoles",
-          "B. Xbox Series S price has increased significantly over time",
-          "C. Xbox Series S will be discontinued in 2026",
-          "D. PS5 is better value than Xbox Series S"
-        ],
-        "answer": 1,
-        "hint": "提示：文章重点讨论了Xbox Series S价格的变化情况，特别是与首发价格的对比。"
-      }
-    },
-    "id": "article_1782428794996_a6zi",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
