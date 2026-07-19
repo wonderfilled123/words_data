@@ -1,6 +1,105 @@
 [
   {
     "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+    "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
+            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
+            "grammar": "【语法要点】现在完成时态表达近期发生的动作，'not messing around'为非正式表达，意为'不是闹着玩的/认真的'",
+            "words": [
+              {
+                "word": "lawsuit",
+                "meaning": "n. 诉讼",
+                "phonetic": "/ˈlɔːsuːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+            "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首任硬件官，并声称现在有超过400名前苹果员工在该公司工作。",
+            "grammar": "【语法要点】现在分词短语'reaching all the way up to'作后置定语，'claims'在此处为动词，意为'声称'",
+            "words": [
+              {
+                "word": "alleges",
+                "meaning": "v. 断言，指控",
+                "phonetic": "/əˈledʒz/"
+              },
+              {
+                "word": "misconduct",
+                "meaning": "n. 不当行为，渎职",
+                "phonetic": "/ˌmɪsˈkɒndʌkt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an IPO [...]",
+            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，因为据报道该公司正计划进行首次公开募股[...]",
+            "grammar": "【语法要点】'couldn't be worse'为最高级表达，意为'再糟糕不过了'，现在分词短语'eyeing an IPO'作伴随状语",
+            "words": [
+              {
+                "word": "hedged",
+                "meaning": "adj. 谨慎的，含糊的",
+                "phonetic": "/hedʒd/"
+              },
+              {
+                "word": "eyeing",
+                "meaning": "v. 注视，考虑",
+                "phonetic": "/ˈaɪɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
+        "options": [
+          "A. It has caused OpenAI to lose many of its employees",
+          "B. It has disrupted OpenAI's plans for an IPO",
+          "C. It has led to the resignation of OpenAI's chief hardware officer",
+          "D. It has forced OpenAI to change its business model"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句提到了诉讼时机对OpenAI的什么计划产生了负面影响？"
+      },
+      "translation_task": {
+        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+        "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首任硬件官，并声称现在有超过400名前苹果员工在该公司工作。",
+        "valuable_point": "考察了现在分词短语作后置定语和复合句的翻译技巧，特别是'reaching all the way up to'和'claims'在不同语境下的准确表达。"
+      },
+      "quiz": {
+        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
+        "options": [
+          "A. It has caused OpenAI to lose many of its employees",
+          "B. It has disrupted OpenAI's plans for an IPO",
+          "C. It has led to the resignation of OpenAI's chief hardware officer",
+          "D. It has forced OpenAI to change its business model"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句提到了诉讼时机对OpenAI的什么计划产生了负面影响？"
+      }
+    },
+    "id": "article_1784500792060_wihn",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
     "title_zh": "苹果的大规模诉讼可能如何扰乱OpenAI的IPO计划",
     "level": "⭐⭐ 中级",
     "time": "3 分钟阅读",
@@ -2583,68 +2682,5 @@
     "id": "article_1782600770735_9hdq",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Europe is pushing back on Washington's chip war",
-    "title_zh": "欧洲对华盛顿的芯片战争发起反击",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-            "zh": "正如ASML首席执行官克里斯托夫·福凯在5月告诉TechCrunch的那样，中国目前能够购买的是老一代深紫外光工具——这些设备大约在十年前首次发货——而这些正是《MATCH法案》现在将禁止的机器。",
-            "grammar": "【语法要点】本句使用了复杂的主语从句和插入语结构，包含破折号补充说明。",
-            "words": [
-              {
-                "word": "ultraviolet",
-                "meaning": "adj. 紫外线的",
-                "phonetic": "/ˌʌltrəˈvaɪələt/"
-              },
-              {
-                "word": "off-limits",
-                "meaning": "adj. 禁止进入的，禁止使用的",
-                "phonetic": "/ˌɔːf ˈlɪmɪts/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the article, what type of chip-making equipment can China currently purchase?",
-        "options": [
-          "A. State-of-the-art extreme ultraviolet lithography machines",
-          "B. Older-generation deep ultraviolet tools",
-          "C. Next-generation semiconductor fabrication equipment",
-          "D. Advanced quantum computing processors"
-        ],
-        "answer": 1,
-        "hint": "提示：文章明确提到中国目前能购买的是哪一代设备，以及这些设备何时首次发货。"
-      },
-      "translation_task": {
-        "en": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first shipped about a decade ago — the same machines the MATCH Act would now put off-limits.",
-        "zh": "正如ASML首席执行官克里斯托夫·福凯在5月告诉TechCrunch的那样，中国目前能够购买的是老一代深紫外光工具——这些设备大约在十年前首次发货——而这些正是《MATCH法案》现在将禁止的机器。",
-        "valuable_point": "考察了复杂长句的翻译技巧，包括处理插入语、破折号补充说明以及专业术语的准确翻译。"
-      },
-      "quiz": {
-        "question": "According to the article, what type of chip-making equipment can China currently purchase?",
-        "options": [
-          "A. State-of-the-art extreme ultraviolet lithography machines",
-          "B. Older-generation deep ultraviolet tools",
-          "C. Next-generation semiconductor fabrication equipment",
-          "D. Advanced quantum computing processors"
-        ],
-        "answer": 1,
-        "hint": "提示：文章明确提到中国目前能购买的是哪一代设备，以及这些设备何时首次发货。"
-      }
-    },
-    "id": "article_1782428766977_ch8r",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
