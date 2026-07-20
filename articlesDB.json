@@ -12,6 +12,110 @@
             "s_id": "1-1",
             "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
             "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
+            "grammar": "【语法要点】现在进行时表强调，表示苹果的行动是严肃的、非儿戏的。",
+            "words": [
+              {
+                "word": "lawsuit",
+                "meaning": "n. 诉讼",
+                "phonetic": "/ˈlɔːsuːt/"
+              },
+              {
+                "word": "messing around",
+                "meaning": "phr. 玩闹，不认真对待",
+                "phonetic": "/ˈmesɪŋ əˈraʊnd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+            "zh": "该投诉指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
+            "grammar": "【语法要点】复合句，包含两个并列谓语动词alleges和claims，现在分词短语reaching作后置修饰。",
+            "words": [
+              {
+                "word": "alleges",
+                "meaning": "v. 指控，声称",
+                "phonetic": "/əˈledʒz/"
+              },
+              {
+                "word": "misconduct",
+                "meaning": "n. 不当行为，渎职",
+                "phonetic": "/ˌmɪsˈkɒndʌkt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an [...]",
+            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，据报道该公司正考虑进行首次公开募股[...]",
+            "grammar": "【语法要点】并列句，第二个分句包含with复合结构，eyeing在此处为现在分词作后置修饰。",
+            "words": [
+              {
+                "word": "hedged",
+                "meaning": "adj. 谨慎的，含糊的",
+                "phonetic": "/hedʒd/"
+              },
+              {
+                "word": "eyeing",
+                "meaning": "v. 注视，考虑",
+                "phonetic": "/ˈaɪɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main issue between Apple and OpenAI according to the article?",
+        "options": [
+          "A. OpenAI has been using Apple's technology without permission",
+          "B. Apple is concerned about OpenAI's IPO timing",
+          "C. OpenAI has hired too many former Apple employees",
+          "D. Apple has filed a trade secrets lawsuit against OpenAI"
+        ],
+        "answer": 3,
+        "hint": "提示：文章第一句就明确指出了苹果对OpenAI采取的法律行动。"
+      },
+      "translation_task": {
+        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
+        "zh": "该投诉指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
+        "valuable_point": "考察了英语中复合句的翻译技巧，特别是现在分词短语作后置修饰和并列谓语的处理。"
+      },
+      "quiz": {
+        "question": "What is the main issue between Apple and OpenAI according to the article?",
+        "options": [
+          "A. OpenAI has been using Apple's technology without permission",
+          "B. Apple is concerned about OpenAI's IPO timing",
+          "C. OpenAI has hired too many former Apple employees",
+          "D. Apple has filed a trade secrets lawsuit against OpenAI"
+        ],
+        "answer": 3,
+        "hint": "提示：文章第一句就明确指出了苹果对OpenAI采取的法律行动。"
+      }
+    },
+    "id": "article_1784587478890_soqa",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
+    "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
+            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
             "grammar": "【语法要点】现在完成时态表达近期发生的动作，'not messing around'为非正式表达，意为'不是闹着玩的/认真的'",
             "words": [
               {
@@ -2563,123 +2667,6 @@
       }
     },
     "id": "article_1782687156356_7013",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Steam Machine Preorders Are About To Begin, So Of Course They're Already on eBay",
-    "title_zh": "Steam Machine预售即将开始，当然它们已经出现在eBay上",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The Steam Machine isn't even out yet, though Valve has begun sending out confusing emails about whether people are in the \"queue\" or on the \"waitlist\" for the device.",
-            "zh": "尽管Steam Machine尚未发布，但Valve已经开始发送令人困惑的电子邮件，告知人们他们是否在该设备的\"队列\"中或处于\"等待名单\"上。",
-            "grammar": "【语法要点】though引导的让步状语从句，表示尽管；引号用于表示特定术语。",
-            "words": [
-              {
-                "word": "queue",
-                "meaning": "n. 队列，排队",
-                "phonetic": "/kjuː/"
-              },
-              {
-                "word": "waitlist",
-                "meaning": "n. 等待名单",
-                "phonetic": "/ˈweɪtlɪst/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "That hasn't stopped netizens from doing the inevitable, though: listing their reservations on eBay to make a quick buck.",
-            "zh": "然而，这并没有阻止网民们做不可避免的事情：在eBay上列出他们的预订，以快速赚钱。",
-            "grammar": "【语法要点】though位于句首表示转折；冒号用于引出解释；make a quick buck是习语，表示快速赚钱。",
-            "words": [
-              {
-                "word": "inevitable",
-                "meaning": "adj. 不可避免的，必然发生的",
-                "phonetic": "/ɪnˈevɪtəbl/"
-              },
-              {
-                "word": "reservations",
-                "meaning": "n. 预订，预约",
-                "phonetic": "/ˌrezərˈveɪʃənz/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
-            "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
-            "grammar": "【语法要点】if引导的条件状语从句；破折号之间的内容是插入语；you'll see是将来时。",
-            "words": [
-              {
-                "word": "handful",
-                "meaning": "n. 少数，少量",
-                "phonetic": "/ˈhændfʊl/"
-              },
-              {
-                "word": "postings",
-                "meaning": "n. 帖子，公告",
-                "phonetic": "/ˈpoʊstɪŋz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The system is already expensive, running between $1050 and $1430 depending on the model, but these listings go for about double the regular price.",
-            "zh": "该系统已经很昂贵，根据型号不同价格在1050美元到1430美元之间，但这些挂牌价格大约是常规价格的两倍。",
-            "grammar": "【语法要点】现在分词短语作伴随状语；but表示转折；go for表示售价为。",
-            "words": [
-              {
-                "word": "depending",
-                "meaning": "v. 取决于，依靠",
-                "phonetic": "/dɪˈpendɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why are people listing their Steam Machine reservations on eBay?",
-        "options": [
-          "A. Because they don't want the product anymore",
-          "B. To make a quick profit",
-          "C. Because Valve asked them to",
-          "D. Because the system is defective"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了人们这样做的原因，与快速赚钱有关。"
-      },
-      "translation_task": {
-        "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
-        "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
-        "valuable_point": "考察了包含插入语和条件状语从句的复杂句翻译，以及专有名词的处理。"
-      },
-      "quiz": {
-        "question": "Why are people listing their Steam Machine reservations on eBay?",
-        "options": [
-          "A. Because they don't want the product anymore",
-          "B. To make a quick profit",
-          "C. Because Valve asked them to",
-          "D. Because the system is defective"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了人们这样做的原因，与快速赚钱有关。"
-      }
-    },
-    "id": "article_1782600770735_9hdq",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
