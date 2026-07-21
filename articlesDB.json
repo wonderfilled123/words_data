@@ -1,5 +1,91 @@
 [
   {
+    "title": "AI and the Rise of the Universal Entertainment App",
+    "title_zh": "人工智能与全能娱乐应用的崛起",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks.",
+            "zh": "在过去十年中，流媒体平台通过主导音乐、视频、播客或有声书等单一格式进行竞争。",
+            "grammar": "【语法要点】时间状语开头的句子，使用现在完成时表示从过去持续到现在的动作。",
+            "words": [
+              {
+                "word": "streaming",
+                "meaning": "adj. 流式的，流媒体的",
+                "phonetic": "/ˈstriːmɪŋ/"
+              },
+              {
+                "word": "dominating",
+                "meaning": "v. 主导，支配（dominate的现在分词）",
+                "phonetic": "/ˈdɒmɪneɪtɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+            "zh": "现在，随着人工智能使内容的创建、组织和推荐变得更加容易，这些界限正在逐渐消失，促使Spotify、Netflix、YouTube和TikTok等公司转变为全能娱乐目的地。",
+            "grammar": "【语法要点】as引导的时间状语从句，现在分词短语作结果状语。",
+            "words": [
+              {
+                "word": "distinctions",
+                "meaning": "n. 区别，差异",
+                "phonetic": "/dɪˈstɪŋkʃənz/"
+              },
+              {
+                "word": "fading",
+                "meaning": "v. 逐渐消失，褪色（fade的现在分词）",
+                "phonetic": "/ˈfeɪdɪŋ/"
+              },
+              {
+                "word": "all-purpose",
+                "meaning": "adj. 多功能的，万能的",
+                "phonetic": "/ˈɔːlˌpɜːpəs/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What change is AI bringing to entertainment platforms according to the article?",
+        "options": [
+          "A. Making them focus on single formats like music or video",
+          "B. Helping them become all-purpose entertainment destinations",
+          "C. Reducing competition between different platforms",
+          "D. Eliminating the need for content recommendation systems"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到随着AI的发展，不同娱乐平台之间的界限正在消失，促使它们成为全能娱乐目的地。"
+      },
+      "translation_task": {
+        "en": "Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+        "zh": "现在，随着人工智能使内容的创建、组织和推荐变得更加容易，这些界限正在逐渐消失，促使Spotify、Netflix、YouTube和TikTok等公司转变为全能娱乐目的地。",
+        "valuable_point": "考察了as引导的时间状语从句和现在分词短语作结果状语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What change is AI bringing to entertainment platforms according to the article?",
+        "options": [
+          "A. Making them focus on single formats like music or video",
+          "B. Helping them become all-purpose entertainment destinations",
+          "C. Reducing competition between different platforms",
+          "D. Eliminating the need for content recommendation systems"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到随着AI的发展，不同娱乐平台之间的界限正在消失，促使它们成为全能娱乐目的地。"
+      }
+    },
+    "id": "article_1784673798605_2tnx",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
     "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
     "level": "⭐⭐ 中级",
@@ -2519,154 +2605,6 @@
       }
     },
     "id": "article_1782773134340_grw7",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Steam Machine Preorders Are About To Begin, So Of Course They're Already On eBay",
-    "title_zh": "Steam Machine预售即将开始，当然它们已经出现在eBay上",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The Steam Machine isn't even out yet, though Valve has begun sending out confusing emails about whether people are in the \"queue\" or on the \"waitlist\" for the device.",
-            "zh": "尽管Steam Machine尚未发布，但Valve已经开始发送令人困惑的电子邮件，询问人们是否在设备的\"队列\"中或处于\"等待名单\"上。",
-            "grammar": "【语法要点】though引导的让步状语从句，主句使用现在完成进行时",
-            "words": [
-              {
-                "word": "queue",
-                "meaning": "n. 队列，排队",
-                "phonetic": "/kjuː/"
-              },
-              {
-                "word": "waitlist",
-                "meaning": "n. 等待名单",
-                "phonetic": "/ˈweɪtlɪst/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "That hasn't stopped netizens from doing the inevitable, though: listing their reservations on eBay to make a quick buck.",
-            "zh": "然而，这并没有阻止网民们做不可避免的事情：在eBay上列出他们的预订，以快速赚钱。",
-            "grammar": "【语法要点】though置于句首表示转折，冒号后面解释前面的内容",
-            "words": [
-              {
-                "word": "inevitable",
-                "meaning": "adj. 不可避免的，必然发生的",
-                "phonetic": "/ɪnˈevɪtəbl/"
-              },
-              {
-                "word": "reservations",
-                "meaning": "n. 预订，预约",
-                "phonetic": "/ˌrezərˈveɪʃənz/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
-            "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
-            "grammar": "【语法要点】if引导的条件状语从句，破折号之间的插入语补充说明",
-            "words": [
-              {
-                "word": "handful",
-                "meaning": "n. 少数，少量",
-                "phonetic": "/ˈhændfʊl/"
-              },
-              {
-                "word": "postings",
-                "meaning": "n. 帖子，公告",
-                "phonetic": "/ˈpoʊstɪŋz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The system is already expensive, running between $1050 and $1430 depending on the model, but these listings go for about double the regular price.",
-            "zh": "该系统已经很昂贵，根据型号不同价格在1050美元到1430美元之间，但这些挂牌价格大约是正常价格的两倍。",
-            "grammar": "【语法要点】现在分词短语作伴随状语，but表示转折",
-            "words": [
-              {
-                "word": "depending",
-                "meaning": "v. 取决于",
-                "phonetic": "/dɪˈpendɪŋ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "The Steam Machine listings GameSpot has viewed so far are all for \"confirmed reservations.\"",
-            "zh": "GameSpot迄今为止查看的Steam Machine挂牌都是针对\"已确认的预订\"。",
-            "grammar": "【语法要点】定语从句修饰listings，引号表示特定术语",
-            "words": [
-              {
-                "word": "confirmed",
-                "meaning": "adj. 已确认的，已证实的",
-                "phonetic": "/kənˈfɜːrmd/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "This means that the eBay seller received one of those perplexing emails...",
-            "zh": "这意味着eBay卖家收到了那些令人困惑的电子邮件之一...",
-            "grammar": "【语法要点】that引导的宾语从句，省略了表示继续的省略号",
-            "words": [
-              {
-                "word": "perplexing",
-                "meaning": "adj. 令人困惑的，复杂的",
-                "phonetic": "/pərˈpleksɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What are the eBay listings for Steam Machines primarily based on?",
-        "options": [
-          "A. The actual devices that are already available",
-          "B. Confirmed reservations for the upcoming device",
-          "C. Marketing materials from Valve",
-          "D. Previous models of Steam Machines"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到eBay上的挂牌是什么类型的。"
-      },
-      "translation_task": {
-        "en": "If you head over to eBay—or GameBay (?), since GameStop really wants to buy the online marketplace —and search for the Steam Machine, you'll see a handful of postings for Valve's upcoming living room PC.",
-        "zh": "如果你前往eBay——或者GameBay（？），因为GameStop真的想收购这个在线市场——并搜索Steam Machine，你会看到一些关于Valve即将推出的客厅电脑的帖子。",
-        "valuable_point": "考察了破折号之间的插入语翻译和专有名词的处理方式。"
-      },
-      "quiz": {
-        "question": "What are the eBay listings for Steam Machines primarily based on?",
-        "options": [
-          "A. The actual devices that are already available",
-          "B. Confirmed reservations for the upcoming device",
-          "C. Marketing materials from Valve",
-          "D. Previous models of Steam Machines"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到eBay上的挂牌是什么类型的。"
-      }
-    },
-    "id": "article_1782687156356_7013",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
