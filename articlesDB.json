@@ -1,5 +1,81 @@
 [
   {
+    "title": "How OpenAI's Human Mistake Led to the AI-Powered Hack on Hugging Face",
+    "title_zh": "OpenAI的人为失误如何导致对Hugging Face的AI攻击",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "OpenAI made a mistake setting up what it called a \"highly isolated\" testing environment and sandbox.",
+            "zh": "OpenAI在设置其所谓的\"高度隔离\"的测试环境和沙盒时犯了一个错误。",
+            "grammar": "【语法要点】what引导的名词性从句作setting up的宾语",
+            "words": [
+              {
+                "word": "isolated",
+                "meaning": "adj. 孤立的，隔离的",
+                "phonetic": "/ˈaɪsəleɪtɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+            "zh": "据网络安全专家称，正是这个人错误使得对Hugging Face的AI攻击成为可能。",
+            "grammar": "【语法要点】what引导的表语从句，强调原因",
+            "words": [
+              {
+                "word": "cybersecurity",
+                "meaning": "n. 网络安全",
+                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
+              },
+              {
+                "word": "AI-powered",
+                "meaning": "adj. AI驱动的",
+                "phonetic": "/ˌeɪˈaɪ ˈpaʊərd/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What was the main cause of the AI-powered attack on Hugging Face?",
+        "options": [
+          "A. A flaw in Hugging Face's security system",
+          "B. A human mistake by OpenAI in setting up testing environments",
+          "C. An intentional backdoor created by OpenAI",
+          "D. A vulnerability in AI technology itself"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确指出了导致攻击的根本原因，请关注第一段和第二段的关键信息。"
+      },
+      "translation_task": {
+        "en": "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "zh": "据网络安全专家称，正是这个人错误使得对Hugging Face的AI攻击成为可能。",
+        "valuable_point": "考察了what引导的表语从句的翻译，以及\"is what made...possible\"强调结构的处理方式。"
+      },
+      "quiz": {
+        "question": "What was the main cause of the AI-powered attack on Hugging Face?",
+        "options": [
+          "A. A flaw in Hugging Face's security system",
+          "B. A human mistake by OpenAI in setting up testing environments",
+          "C. An intentional backdoor created by OpenAI",
+          "D. A vulnerability in AI technology itself"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确指出了导致攻击的根本原因，请关注第一段和第二段的关键信息。"
+      }
+    },
+    "id": "article_1784760700817_j205",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "AI and the Rise of the Universal Entertainment App",
     "title_zh": "人工智能与全能娱乐应用的崛起",
     "level": "⭐⭐ 中级",
@@ -2483,128 +2559,6 @@
       }
     },
     "id": "article_1782860547524_y8hz",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Xbox Devs Call For Worker Protections Ahead Of Likely Layoffs",
-    "title_zh": "Xbox开发者呼吁在可能裁员前加强员工保护",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Earlier this month, rumors began to spread about potentially massive layoffs coming to Microsoft's Xbox gaming division this summer.",
-            "zh": "本月早些时候，有关微软Xbox游戏部门今年夏天可能进行大规模裁员的谣言开始传播。",
-            "grammar": "【时态与情态】使用一般过去时描述已发生事件，'potentially'表示可能性",
-            "words": [
-              {
-                "word": "rumors",
-                "meaning": "n. 谣言，传闻",
-                "phonetic": "/ˈruːmərz/"
-              },
-              {
-                "word": "massive",
-                "meaning": "adj. 大规模的，大量的",
-                "phonetic": "/ˈmæsɪv/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "While the majority of those cuts don't appear to have happened yet, game developers under Xbox have come together to push for more layoff protections for their members.",
-            "zh": "尽管大部分裁员似乎尚未发生，但Xbox旗下的游戏开发者已经团结起来，为其成员争取更多的裁员保护。",
-            "grammar": "【让步状语从句】'While'引导的让步状语从句，表示尽管...",
-            "words": [
-              {
-                "word": "majority",
-                "meaning": "n. 大多数，多数",
-                "phonetic": "/məˈdʒɒrəti/"
-              },
-              {
-                "word": "protections",
-                "meaning": "n. 保护措施，保障",
-                "phonetic": "/prəˈtekʃənz/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Members of the United Video Game Workers and representatives from workers at Microsoft's first-party studios--including Bethesda's parent company Zenimax, as well as Activision Blizzard--were present at a press conference conducted by the Communications Workers of America.",
-            "zh": "美国视频游戏工会成员以及微软第一方工作室的工人代表——包括贝塞斯达的母公司ZeniMax，以及动视暴雪——都参加了由美国通信工会举办的新闻发布会。",
-            "grammar": "【插入语】破折号之间的内容为插入语，提供补充信息",
-            "words": [
-              {
-                "word": "representatives",
-                "meaning": "n. 代表，代理人",
-                "phonetic": "/ˌreprɪˈzentətɪvz/"
-              },
-              {
-                "word": "studios",
-                "meaning": "n. 工作室（studio的复数形式）",
-                "phonetic": "/ˈstuːdiəʊz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Collectively, they pushed for enhanced layoff protections for all Xbox workers, including advance warning of impending layoffs, temporary hiring freezes to give the remaining devs a chance to advance internally, and tw...",
-            "zh": "他们集体呼吁为所有Xbox员工加强裁员保护，包括提前预警即将到来的裁员、临时冻结招聘以让剩余的开发人员有机会内部晋升，以及...",
-            "grammar": "【并列结构】'including'引导的并列结构，列举具体措施",
-            "words": [
-              {
-                "word": "enhanced",
-                "meaning": "adj. 增强的，加强的",
-                "phonetic": "/ɪnˈhɑːnst/"
-              },
-              {
-                "word": "impending",
-                "meaning": "adj. 即将发生的，迫近的",
-                "phonetic": "/ɪmˈpendɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What specific protections are Xbox developers pushing for according to the article?",
-        "options": [
-          "A. Higher salaries and better working conditions",
-          "B. Advance warning of layoffs, temporary hiring freezes, and internal advancement opportunities",
-          "C. Stock options and profit-sharing plans",
-          "D. Union recognition and collective bargaining rights"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第二段明确提到了开发者们呼吁的具体保护措施。"
-      },
-      "translation_task": {
-        "en": "Members of the United Video Game Workers and representatives from workers at Microsoft's first-party studios--including Bethesda's parent company Zenimax, as well as Activision Blizzard--were present at a press conference conducted by the Communications Workers of America.",
-        "zh": "美国视频游戏工会成员以及微软第一方工作室的工人代表——包括贝塞斯达的母公司ZeniMax，以及动视暴雪——都参加了由美国通信工会举办的新闻发布会。",
-        "valuable_point": "考察了长句中插入语的处理技巧，以及专业名词的准确翻译。"
-      },
-      "quiz": {
-        "question": "What specific protections are Xbox developers pushing for according to the article?",
-        "options": [
-          "A. Higher salaries and better working conditions",
-          "B. Advance warning of layoffs, temporary hiring freezes, and internal advancement opportunities",
-          "C. Stock options and profit-sharing plans",
-          "D. Union recognition and collective bargaining rights"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第二段明确提到了开发者们呼吁的具体保护措施。"
-      }
-    },
-    "id": "article_1782773134340_grw7",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
