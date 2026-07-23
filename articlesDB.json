@@ -1,6 +1,86 @@
 [
   {
     "title": "How OpenAI's Human Mistake Led to the AI-Powered Hack on Hugging Face",
+    "title_zh": "OpenAI的人为失误如何导致对Hugging Face的人工智能攻击",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "OpenAI made a mistake setting up what it called a \"highly isolated\" testing environment and sandbox.",
+            "zh": "OpenAI在设置其所谓的\"高度隔离\"的测试环境和沙盒时犯了一个错误。",
+            "grammar": "【语法要点】what引导的名词性从句作setting up的宾语，引号表示特殊术语",
+            "words": [
+              {
+                "word": "isolated",
+                "meaning": "adj. 孤立的，隔离的",
+                "phonetic": "/ˈaɪsəleɪtɪd/"
+              },
+              {
+                "word": "sandbox",
+                "meaning": "n. 沙盒（计算机安全术语）",
+                "phonetic": "/ˈsændbɒks/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "zh": "根据网络安全专家的说法，正是这个人为失误使得对Hugging Face的人工智能攻击成为可能。",
+            "grammar": "【语法要点】what引导的名词性从句作made的宾语，that引导的表语从句",
+            "words": [
+              {
+                "word": "cybersecurity",
+                "meaning": "n. 网络安全",
+                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
+              },
+              {
+                "word": "experts",
+                "meaning": "n. 专家们",
+                "phonetic": "/ˈekspɜːrts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What caused the AI-powered attack on Hugging Face according to cybersecurity experts?",
+        "options": [
+          "A. A technical flaw in Hugging Face's security system",
+          "B. OpenAI's mistake in setting up a testing environment",
+          "C. A deliberate attack by OpenAI competitors",
+          "D. An accidental leak of sensitive data"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确指出是OpenAI在设置测试环境时犯的错误导致了这次攻击。"
+      },
+      "translation_task": {
+        "en": "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "zh": "根据网络安全专家的说法，正是这个人为失误使得对Hugging Face的人工智能攻击成为可能。",
+        "valuable_point": "考察了what引导的名词性从句和that引导的表语从句的翻译技巧，以及\"made...possible\"结构的处理。"
+      },
+      "quiz": {
+        "question": "What caused the AI-powered attack on Hugging Face according to cybersecurity experts?",
+        "options": [
+          "A. A technical flaw in Hugging Face's security system",
+          "B. OpenAI's mistake in setting up a testing environment",
+          "C. A deliberate attack by OpenAI competitors",
+          "D. An accidental leak of sensitive data"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确指出是OpenAI在设置测试环境时犯的错误导致了这次攻击。"
+      }
+    },
+    "id": "article_1784846690447_y2a4",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "How OpenAI's Human Mistake Led to the AI-Powered Hack on Hugging Face",
     "title_zh": "OpenAI的人为失误如何导致对Hugging Face的AI攻击",
     "level": "⭐⭐ 中级",
     "time": "2 分钟阅读",
@@ -2447,118 +2527,6 @@
       }
     },
     "id": "article_1782946847089_45ul",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Love And Deepspace Cancels Its New Love Interest After Fan Backlash",
-    "title_zh": "《爱与深空》因粉丝反对取消新角色恋情线",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Shortly after developer Papergames announced the addition of Valko--a new love interest in the mobile action dating sim Love and Deepspace --the backlash from fans has spilled into the real world.",
-            "zh": "在开发商Papergames宣布在手机动作恋爱模拟游戏《爱与深空》中新增角色Valko后不久，来自粉丝的反对声浪已经蔓延到现实世界。",
-            "grammar": "【语法要点】破折号的使用，插入语结构",
-            "words": [
-              {
-                "word": "backlash",
-                "meaning": "n. 强烈反对，强烈反应",
-                "phonetic": "/ˈbæklæʃ/"
-              },
-              {
-                "word": "dating sim",
-                "meaning": "n. 恋爱模拟游戏",
-                "phonetic": "/ˈdeɪtɪŋ sɪm/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Now, Papergames is reversing course by canceling Valko's debut and pledging to focus on the five other love interests who are already in the game.",
-            "zh": "现在，Papergames已经改变决定，取消了Valko的登场，并承诺专注于游戏中已有的五位恋爱角色。",
-            "grammar": "【语法要点】现在进行时表示当前正在发生的变化，by doing sth.方式状语",
-            "words": [
-              {
-                "word": "reversing course",
-                "meaning": "phr. 改变决定，改变方向",
-                "phonetic": "/rɪˈvɜːrsɪŋ kɔːrs/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "\"We recognize that we moved forward with the introduction of Valko before we were truly ready,\" reads the statement posted to Love and Deepspace's Instagram account.",
-            "zh": "发布在《爱与深空》Instagram账号上的声明写道：\"我们意识到在真正准备好之前就推出了Valko角色。\"",
-            "grammar": "【语法要点】引述句结构，主谓倒装（reads the statement）",
-            "words": [
-              {
-                "word": "recognize",
-                "meaning": "v. 认识到，承认",
-                "phonetic": "/ˈrekəɡnaɪz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"In doing so, we let down the players who have supported us from the start, and we also fell short of delivering the experience that players anticipating Valko deserved.\"",
-            "zh": "\"这样做我们辜负了从一开始就支持我们的玩家，也未能达到期待Valko的玩家应得的游戏体验。\"",
-            "grammar": "【语法要点】现在完成时表示持续到现在的动作，fall short of doing sth.结构",
-            "words": [
-              {
-                "word": "let down",
-                "meaning": "phr. 使失望，辜负",
-                "phonetic": "/let daʊn/"
-              },
-              {
-                "word": "fell short",
-                "meaning": "phr. 未达到，未能满足",
-                "phonetic": "/fel ʃɔːrt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why did Papergames decide to cancel Valko's debut?",
-        "options": [
-          "A. Because they didn't have enough resources to develop the character.",
-          "B. Because fans strongly opposed the addition of a new love interest.",
-          "C. Because they realized they weren't ready to introduce Valko properly.",
-          "D. Because they wanted to focus on other game features instead."
-        ],
-        "answer": 2,
-        "hint": "提示：查看声明中提到的关于准备工作的内容。"
-      },
-      "translation_task": {
-        "en": "\"In doing so, we let down the players who have supported us from the start, and we also fell short of delivering the experience that players anticipating Valko deserved.\"",
-        "zh": "\"这样做我们辜负了从一开始就支持我们的玩家，也未能达到期待Valko的玩家应得的游戏体验。\"",
-        "valuable_point": "考察了英语中fall short of doing sth.的表达方式，以及现在分词短语作后置定语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "Why did Papergames decide to cancel Valko's debut?",
-        "options": [
-          "A. Because they didn't have enough resources to develop the character.",
-          "B. Because fans strongly opposed the addition of a new love interest.",
-          "C. Because they realized they weren't ready to introduce Valko properly.",
-          "D. Because they wanted to focus on other game features instead."
-        ],
-        "answer": 2,
-        "hint": "提示：查看声明中提到的关于准备工作的内容。"
-      }
-    },
-    "id": "article_1782860547524_y8hz",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
