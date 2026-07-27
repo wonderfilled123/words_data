@@ -1,5 +1,73 @@
 [
   {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "title_zh": "升级您的AI基础设施！TechCrunch Disrupt 2026智能系统议程初探",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+            "zh": "在TechCrunch Disrupt 2026大会上，智能系统舞台将成为能源、基础设施和技术碰撞的场所，内容涵盖从聚变突破到人工智能给整个经济带来的电网压力等方方面面。",
+            "grammar": "【语法要点】复合句结构，包含where引导的定语从句和现在分词短语作伴随状语。",
+            "words": [
+              {
+                "word": "infrastructure",
+                "meaning": "n. 基础设施",
+                "phonetic": "/ˈɪnfrəˌstrʌktʃər/"
+              },
+              {
+                "word": "collide",
+                "meaning": "v. 碰撞，冲突",
+                "phonetic": "/kəˈlaɪd/"
+              },
+              {
+                "word": "fusion",
+                "meaning": "n. 融合，聚变",
+                "phonetic": "/ˈfjuːʒən/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What topics will be covered at the Smart Systems Stage at TechCrunch Disrupt 2026?",
+        "options": [
+          "A. Only AI applications in business",
+          "B. Energy, infrastructure, and technology intersections",
+          "C. Renewable energy solutions only",
+          "D. Social media trends and marketing"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确提到了智能系统舞台将涵盖哪些领域的交叉内容。"
+      },
+      "translation_task": {
+        "en": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+        "zh": "在TechCrunch Disrupt 2026大会上，智能系统舞台将成为能源、基础设施和技术碰撞的场所，内容涵盖从聚变突破到人工智能给整个经济带来的电网压力等方方面面。",
+        "valuable_point": "考察了英语长句的翻译技巧，特别是包含多个名词短语和定语从句的复合句处理方法。"
+      },
+      "quiz": {
+        "question": "What topics will be covered at the Smart Systems Stage at TechCrunch Disrupt 2026?",
+        "options": [
+          "A. Only AI applications in business",
+          "B. Energy, infrastructure, and technology intersections",
+          "C. Renewable energy solutions only",
+          "D. Social media trends and marketing"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确提到了智能系统舞台将涵盖哪些领域的交叉内容。"
+      }
+    },
+    "id": "article_1785192548138_9tm8",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "title_zh": "为什么Cognition收购Poke：AI个性正成为竞争优势",
     "level": "⭐⭐ 中级",
@@ -2407,86 +2475,5 @@
     "id": "article_1783032936620_vqlj",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-    "title_zh": "艾什顿·库彻离开声创投，与摩根·贝勒共同创立新风投公司",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs.",
-            "zh": "声创投通过在行业领先的AI实验室进行集中、高信念的投资建立了其声誉。",
-            "grammar": "【语法要点】过去完成时态表示过去某时已经完成的动作，介词短语'on...'表示方式或基础。",
-            "words": [
-              {
-                "word": "reputation",
-                "meaning": "n. 名声，声誉",
-                "phonetic": "/ˌrepjuˈteɪʃən/"
-              },
-              {
-                "word": "conviction",
-                "meaning": "n. 信念，确信",
-                "phonetic": "/kənˈvɪkʃən/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-            "zh": "而库彻的新基金似乎正在追逐那些公司之下的层面——为它们提供动力和支持的基础设施和能源。",
-            "grammar": "【语法要点】while引导的对比状语从句，破折号后的内容是对'layer'的具体解释。",
-            "words": [
-              {
-                "word": "infrastructure",
-                "meaning": "n. 基础设施",
-                "phonetic": "/ˈɪnfrəstrʌktʃər/"
-              },
-              {
-                "word": "chasing",
-                "meaning": "v. 追逐，追求",
-                "phonetic": "/ˈtʃeɪsɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main difference between Sound Ventures and Kutcher's new fund according to the article?",
-        "options": [
-          "A. Sound Ventures focuses on AI labs while Kutcher's fund focuses on infrastructure",
-          "B. Sound Ventures has a larger investment portfolio",
-          "C. Kutcher's fund only invests in energy companies",
-          "D. Sound Ventures is newer than Kutcher's fund"
-        ],
-        "answer": 0,
-        "hint": "提示：文章明确指出了两家投资公司在投资重点上的差异，请关注'while'引导的对比句。"
-      },
-      "translation_task": {
-        "en": "while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-        "zh": "而库彻的新基金似乎正在追逐那些公司之下的层面——为它们提供动力和支持的基础设施和能源。",
-        "valuable_point": "考察了破折号作为解释性插入语的翻译技巧，以及'chasing'在商业语境中的引申义翻译。"
-      },
-      "quiz": {
-        "question": "What is the main difference between Sound Ventures and Kutcher's new fund according to the article?",
-        "options": [
-          "A. Sound Ventures focuses on AI labs while Kutcher's fund focuses on infrastructure",
-          "B. Sound Ventures has a larger investment portfolio",
-          "C. Kutcher's fund only invests in energy companies",
-          "D. Sound Ventures is newer than Kutcher's fund"
-        ],
-        "answer": 0,
-        "hint": "提示：文章明确指出了两家投资公司在投资重点上的差异，请关注'while'引导的对比句。"
-      }
-    },
-    "id": "article_1782946835341_84iy",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
