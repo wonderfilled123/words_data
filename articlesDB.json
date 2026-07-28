@@ -1,5 +1,141 @@
 [
   {
+    "title": "A Chance To Get Behind The Wheel Of Crazy Taxi: World Tour Is Coming Soon",
+    "title_zh": "疯狂出租车：世界巡回赛试驾机会即将到来",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Those itching to take Crazy Taxi: World Tour for a test drive can now sign up for their chance, as developer Sega has announced a multiplayer closed network test.",
+            "zh": "那些渴望试玩《疯狂出租车：世界巡回赛》的玩家现在可以报名参加测试，因为开发商世嘉已经宣布将进行多人封闭网络测试。",
+            "grammar": "【现在分词作定语】\"itching to take\" 表示\"渴望做某事\"的状态",
+            "words": [
+              {
+                "word": "itching",
+                "meaning": "adj. 渴望的，迫不及待的",
+                "phonetic": "/ˈɪtʃɪŋ/"
+              },
+              {
+                "word": "developer",
+                "meaning": "n. 开发商",
+                "phonetic": "/dɪˈveləpər/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Crazy Taxi: World Tour's closed network test will run September 11-13 in the US.",
+            "zh": "《疯狂出租车：世界巡回赛》的封闭网络测试将于9月11日至13日在美国进行。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Those interested will need to sign up on the game's website by August 31.",
+            "zh": "感兴趣的玩家需要在8月31日前在游戏官网上报名。",
+            "grammar": "【过去分词作定语】\"interested\" 表示\"感兴趣的\"",
+            "words": [
+              {
+                "word": "sign up",
+                "meaning": "phr. 报名，注册",
+                "phonetic": "/saɪn ʌp/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The test will be available on all of Crazy Taxi: World Tour's announced platforms (Xbox Series X|S, PC, and PlayStation 5), though Sega states on its website that certain platforms \"may have limited participant capacity.\"",
+            "zh": "测试将在《疯狂出租车：世界巡回赛》所有已公布的平台上提供（Xbox Series X|S、PC和PlayStation 5），但世嘉在其网站上表示某些平台\"可能参与人数有限制\"。",
+            "grammar": "【让步状语从句】\"though\"引导的从句表示\"尽管\"",
+            "words": [
+              {
+                "word": "platform",
+                "meaning": "n. 平台",
+                "phonetic": "/ˈplætfɔːrm/"
+              },
+              {
+                "word": "capacity",
+                "meaning": "n. 容量，能力",
+                "phonetic": "/kəˈpæsəti/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "The announcement of the network test comes alongside a new trailer highlighting the game's West Coast, a location that will look familiar to fans of Sega's manic driving franchise but will be just one of its playable locations.",
+            "zh": "网络测试的公告伴随着一段新的预告片，展示了游戏的西海岸场景，这个地点对世嘉疯狂驾驶系列粉丝来说会很熟悉，但只是游戏可游玩地点之一。",
+            "grammar": "【现在分词作后置定语】\"highlighting\"修饰\"trailer\"",
+            "words": [
+              {
+                "word": "manic",
+                "meaning": "adj. 狂热的，疯狂的",
+                "phonetic": "/ˈmænɪk/"
+              },
+              {
+                "word": "franchise",
+                "meaning": "n. 系列作品，特许经营权",
+                "phonetic": "/ˈfræntʃaɪz/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "It is called \"World Tour\" after ...",
+            "zh": "它被称为\"世界巡回赛\"是因为...",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "When will the closed network test for Crazy Taxi: World Tour take place?",
+        "options": [
+          "A. August 31",
+          "B. September 11-13",
+          "C. September 11-31",
+          "D. The article doesn't specify"
+        ],
+        "answer": 1,
+        "hint": "提示：请查找文章中明确提到的测试日期。"
+      },
+      "translation_task": {
+        "en": "The announcement of the network test comes alongside a new trailer highlighting the game's West Coast, a location that will look familiar to fans of Sega's manic driving franchise but will be just one of its playable locations.",
+        "zh": "网络测试的公告伴随着一段新的预告片，展示了游戏的西海岸场景，这个地点对世嘉疯狂驾驶系列粉丝来说会很熟悉，但只是游戏可游玩地点之一。",
+        "valuable_point": "考察了现在分词短语作后置定语和定语从句的翻译技巧。"
+      },
+      "quiz": {
+        "question": "When will the closed network test for Crazy Taxi: World Tour take place?",
+        "options": [
+          "A. August 31",
+          "B. September 11-13",
+          "C. September 11-31",
+          "D. The article doesn't specify"
+        ],
+        "answer": 1,
+        "hint": "提示：请查找文章中明确提到的测试日期。"
+      }
+    },
+    "id": "article_1785278988916_ned0",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
     "title_zh": "升级您的AI基础设施！TechCrunch Disrupt 2026智能系统议程初探",
     "level": "⭐⭐ 中级",
@@ -2351,129 +2487,5 @@
     "id": "article_1783032922934_ylk9",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "$2.50 Steam Sale Has Everyone Smashing The Surveillance State",
-    "title_zh": "2.5美元Steam促销活动让众人纷纷对抗监控国家",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "One of Ubisoft's most underrated games, Watch Dogs 2, is on a super steep sale on Steam right now.",
-            "zh": "育碧公司最被低估的游戏之一《看门狗2》目前正在Steam上进行超级大幅度的促销。",
-            "grammar": "【语法要点】同位语结构介绍游戏名称",
-            "words": [
-              {
-                "word": "underrated",
-                "meaning": "adj. 被低估的",
-                "phonetic": "/ˌʌndərˈreɪtɪd/"
-              },
-              {
-                "word": "steep",
-                "meaning": "adj. (价格等)过高的；陡峭的",
-                "phonetic": "/stiːp/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "So steep, in fact, that it seems to have inspired a new crop of folks to trawl through the technocratic world of digitized San Francisco to put an end to the surveillance state at a time when we're all under some sort of surveillance IRL.",
-            "zh": "事实上，折扣幅度如此之大，以至于似乎激励了一批新人去探索数字化旧金山的技术官僚世界，终结监控国家，而此时我们在现实生活中都处于某种监控之下。",
-            "grammar": "【语法要点】结果状语从句，at a time when引导的时间状语从句",
-            "words": [
-              {
-                "word": "technocratic",
-                "meaning": "adj. 技术官僚的",
-                "phonetic": "/ˌteknoʊˈkrætɪk/"
-              },
-              {
-                "word": "surveillance",
-                "meaning": "n. 监视；监控",
-                "phonetic": "/sərˈveɪləns/"
-              },
-              {
-                "word": "IRL",
-                "meaning": "abbr. In Real Life (现实生活中)",
-                "phonetic": "/ˌaɪˌɑːrˈɛl/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Over on the game's Steam store page, you can pick Watch Dogs 2 for just $2.50 until Thursday, July 9.",
-            "zh": "在该游戏的Steam商店页面，你可以以仅2.50美元的价格购买《看门狗2》，促销将持续到7月9日星期四。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "That's a 95% discount for a game that normally retails for $50.",
-            "zh": "这款游戏原价50美元，现在相当于打了95折。",
-            "grammar": "【语法要点】定语从句修饰游戏",
-            "words": [
-              {
-                "word": "retail",
-                "meaning": "v. 零售；以...价格出售",
-                "phonetic": "/ˈriːteɪl/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-3",
-            "en": "And that's just the base game! If you wanted to grab the DLC--which includes new cars, co-op adventures, outfits, weapons, world missions, and more--then you can snatch up either the Deluxe Edition for $3 or the Gold Edition for $4.",
-            "zh": "这还只是基础游戏！如果你想下载DLC（包括新汽车、合作冒险、服装、武器、世界任务等），那么你可以花3美元购买豪华版或4美元购买黄金版。",
-            "grammar": "【语法要点】破折号插入语解释DLC内容",
-            "words": [
-              {
-                "word": "snatch",
-                "meaning": "v. 迅速抓住；抢购",
-                "phonetic": "/snætʃ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the special offer for Watch Dogs 2 on Steam?",
-        "options": [
-          "A. 50% discount on the base game",
-          "B. 95% discount on the base game",
-          "C. Free DLC with the base game",
-          "D. Buy one get one free offer"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了折扣百分比，请查找相关信息。"
-      },
-      "translation_task": {
-        "en": "So steep, in fact, that it seems to have inspired a new crop of folks to trawl through the technocratic world of digitized San Francisco to put an end to the surveillance state at a time when we're all under some sort of surveillance IRL.",
-        "zh": "事实上，折扣幅度如此之大，以至于似乎激励了一批新人去探索数字化旧金山的技术官僚世界，终结监控国家，而此时我们在现实生活中都处于某种监控之下。",
-        "valuable_point": "考察了结果状语从句、同位语结构以及破折号插入语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What is the special offer for Watch Dogs 2 on Steam?",
-        "options": [
-          "A. 50% discount on the base game",
-          "B. 95% discount on the base game",
-          "C. Free DLC with the base game",
-          "D. Buy one get one free offer"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了折扣百分比，请查找相关信息。"
-      }
-    },
-    "id": "article_1783032936620_vqlj",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
