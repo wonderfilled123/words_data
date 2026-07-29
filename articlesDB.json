@@ -1,5 +1,73 @@
 [
   {
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "title_zh": "由玛莎·斯图尔特联合创立的新AI初创公司Hint为房主提供AI助手",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \"AI for your home,\" combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+            "zh": "由玛莎·斯图尔特联合创立的AI家庭管理初创公司Hint希望成为\"您家庭的AI助手\"，将房产记录、维护计划、家庭文件和AI助手整合到一个应用程序中。",
+            "grammar": "【语法要点】现在分词短语作定语，复合名词结构",
+            "words": [
+              {
+                "word": "startup",
+                "meaning": "n. 初创公司",
+                "phonetic": "/ˈstɑːrtʌp/"
+              },
+              {
+                "word": "co-founded",
+                "meaning": "v. 联合创立",
+                "phonetic": "/ˌkoʊˈfaʊndɪd/"
+              },
+              {
+                "word": "combining",
+                "meaning": "v. 结合，整合",
+                "phonetic": "/kəmˈbaɪnɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is Hint aiming to become according to the article?",
+        "options": [
+          "A. A property management company",
+          "B. An AI assistant for homes",
+          "C. A maintenance schedule provider",
+          "D. A document storage app"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Hint希望成为什么，请寻找包含\"AI for your home\"的句子。"
+      },
+      "translation_task": {
+        "en": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \"AI for your home,\" combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
+        "zh": "由玛莎·斯图尔特联合创立的AI家庭管理初创公司Hint希望成为\"您家庭的AI助手\"，将房产记录、维护计划、家庭文件和AI助手整合到一个应用程序中。",
+        "valuable_point": "考察了复合名词结构、现在分词短语作定语以及引语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What is Hint aiming to become according to the article?",
+        "options": [
+          "A. A property management company",
+          "B. An AI assistant for homes",
+          "C. A maintenance schedule provider",
+          "D. A document storage app"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Hint希望成为什么，请寻找包含\"AI for your home\"的句子。"
+      }
+    },
+    "id": "article_1785365150938_d9al",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "A Chance To Get Behind The Wheel Of Crazy Taxi: World Tour Is Coming Soon",
     "title_zh": "疯狂出租车：世界巡回赛试驾机会即将到来",
     "level": "⭐⭐ 中级",
@@ -2414,78 +2482,5 @@
     "id": "article_1783378540554_9lmb",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "title_zh": "OpenAI提议向美国主权财富基金捐赠5%股权",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company's equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-            "zh": "据报道，OpenAI首席执行官萨姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的经济收益的讨论。",
-            "grammar": "【语法要点】现在完成时态与现在分词作状语结构",
-            "words": [
-              {
-                "word": "reportedly",
-                "meaning": "adv. 据报道",
-                "phonetic": "/rɪˈpɔːrtɪdli/"
-              },
-              {
-                "word": "equity",
-                "meaning": "n. 股权；股票",
-                "phonetic": "/ˈekwəti/"
-              },
-              {
-                "word": "sovereign",
-                "meaning": "adj. 主权的；至高无上的",
-                "phonetic": "/ˈsɑːvrən/"
-              },
-              {
-                "word": "reviving",
-                "meaning": "v. 使复苏；重新唤起（revive的现在分词）",
-                "phonetic": "/rɪˈvaɪvɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What percentage of equity did OpenAI CEO Sam Altman propose to donate to a U.S. sovereign wealth fund?",
-        "options": [
-          "A. 3%",
-          "B. 5%",
-          "C. 10%",
-          "D. 15%"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确提到了具体的百分比数字。"
-      },
-      "translation_task": {
-        "en": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company's equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-        "zh": "据报道，OpenAI首席执行官萨姆·奥特曼提议将公司5%的股权捐赠给美国主权财富基金，这重新引发了关于让公众分享人工智能热潮带来的经济收益的讨论。",
-        "valuable_point": "考察了长句中现在分词作结果状语的结构，以及专业术语'equity'和'sovereign wealth fund'的准确翻译。"
-      },
-      "quiz": {
-        "question": "What percentage of equity did OpenAI CEO Sam Altman propose to donate to a U.S. sovereign wealth fund?",
-        "options": [
-          "A. 3%",
-          "B. 5%",
-          "C. 10%",
-          "D. 15%"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确提到了具体的百分比数字。"
-      }
-    },
-    "id": "article_1783032922934_ylk9",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
