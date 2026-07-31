@@ -1,5 +1,206 @@
 [
   {
+    "title": "Sam Altman isn't the only one who wants to pump the brakes on AI",
+    "title_zh": "山姆·奥特曼并非唯一希望放缓AI发展步伐的人",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
+            "zh": "在多年全力推进人工智能之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业\"放慢步伐\"了。",
+            "grammar": "【语法要点】\"After years of + 动名词\"表示在...之后，\"pace oneself\"是固定搭配，意为\"控制自己的节奏\"。",
+            "words": [
+              {
+                "word": "pace",
+                "meaning": "v. 控制节奏，放慢速度",
+                "phonetic": "/peɪs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face.",
+            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的。",
+            "grammar": "【语法要点】\"broke out of\"表示\"突破...的束缚\"，\"get tangled up in\"表示\"陷入...的困境\"。",
+            "words": [
+              {
+                "word": "tangled",
+                "meaning": "adj. 纠缠的，陷入困境的",
+                "phonetic": "/ˈtæŋɡəld/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity's hosts point out, sloppy security seems to have [...]",
+            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的——尽管Equity的主持人指出，松懈的安全措施似乎已经...",
+            "grammar": "【语法要点】破折号后的内容是对前文的补充说明，\"point out\"表示\"指出\"，\"sloppy\"表示\"马虎的，不严谨的\"。",
+            "words": [
+              {
+                "word": "sloppy",
+                "meaning": "adj. 马虎的，不严谨的",
+                "phonetic": "/ˈslɒpi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
+        "options": [
+          "A. Concerns about AI safety and security breaches",
+          "B. Government regulations requiring slower AI development",
+          "C. Competition from other AI companies",
+          "D. Technical limitations in current AI models"
+        ],
+        "answer": 0,
+        "hint": "提示：文章提到OpenAI自己的模型出现了安全问题，这可能是Altman呼吁放慢步伐的原因。"
+      },
+      "translation_task": {
+        "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
+        "zh": "在多年全力推进人工智能之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业\"放慢步伐\"了。",
+        "valuable_point": "考察了\"pushing full speed ahead\"和\"pace itself\"这两个表达速度变化的短语，以及引号在翻译中的处理方式。"
+      },
+      "quiz": {
+        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
+        "options": [
+          "A. Concerns about AI safety and security breaches",
+          "B. Government regulations requiring slower AI development",
+          "C. Competition from other AI companies",
+          "D. Technical limitations in current AI models"
+        ],
+        "answer": 0,
+        "hint": "提示：文章提到OpenAI自己的模型出现了安全问题，这可能是Altman呼吁放慢步伐的原因。"
+      }
+    },
+    "id": "article_1785538139414_j6xd",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "If You Were Excited About Stellar Blade: Blood Rain, Here's An AI-Slop Music Video To Fix That",
+    "title_zh": "如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有个AI垃圾音乐视频来拯救你",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Stellar Blade: Blood Rain is being promoted with an AI-slop music video created by developer Shift Up, and it's all about as soulless as you might expect.",
+            "zh": "《Stellar Blade: Blood Rain》正由开发商Shift Up制作的一个AI垃圾音乐视频进行宣传，而这视频正如你预期的那样毫无灵魂。",
+            "grammar": "【现在进行时被动语态】描述正在发生的被动动作",
+            "words": [
+              {
+                "word": "soulless",
+                "meaning": "adj. 没有灵魂的，空洞的",
+                "phonetic": "/ˈsoʊlləs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
+            "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏官方预告片中出现的反乌托邦赛博朋克城市中，演唱一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
+            "grammar": "【非限制性定语从句】补充说明视频的特征",
+            "words": [
+              {
+                "word": "dystopian",
+                "meaning": "adj. 反乌托邦的，反面乌托邦的",
+                "phonetic": "/dɪsˈtoʊpiən/"
+              },
+              {
+                "word": "cyberpunk",
+                "meaning": "n. 赛博朋克，网络朋克",
+                "phonetic": "/ˈsaɪbərpʌŋk/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "At one point while wandering the city, Evie picks up a KPop Demon Hunters keychain.",
+            "zh": "在城市漫游时，艾薇一度捡起了一个KPop恶魔猎人钥匙扣。",
+            "grammar": "【现在进行时】描述正在进行的动作",
+            "words": [
+              {
+                "word": "wandering",
+                "meaning": "v. 漫游，闲逛",
+                "phonetic": "/ˈwɑːndərɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Towards the end of the video, there is \"behind the scenes footage\" of Shift Up developers \"on set\" with Evie, giving her direction, doing her makeup, and high-fiving members of the team.",
+            "zh": "视频接近尾声时，有Shift Up开发人员与艾薇\"在片场\"的\"幕后花絮\"，包括给她指导、化妆以及与团队成员击掌。",
+            "grammar": "【there be句型】表示存在",
+            "words": [
+              {
+                "word": "footage",
+                "meaning": "n. (电影、电视等的)片段，镜头",
+                "phonetic": "/ˈfʊtɪdʒ/"
+              },
+              {
+                "word": "makeup",
+                "meaning": "n. 化妆，化妆品",
+                "phonetic": "/ˈmeɪkʌp/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main criticism of the AI music video for Stellar Blade: Blood Rain?",
+        "options": [
+          "A. It features too many KPop elements",
+          "B. It is completely AI generated and lacks soul",
+          "C. It doesn't show enough of the game's city",
+          "D. The developers are not featured enough"
+        ],
+        "answer": 1,
+        "hint": "提示：文章开头直接点明了视频的主要问题，请关注第一段第一句。"
+      },
+      "translation_task": {
+        "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
+        "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏官方预告片中出现的反乌托邦赛博朋克城市中，演唱一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
+        "valuable_point": "考察了非限制性定语从句的翻译处理，以及多个形容词的排列顺序。"
+      },
+      "quiz": {
+        "question": "What is the main criticism of the AI music video for Stellar Blade: Blood Rain?",
+        "options": [
+          "A. It features too many KPop elements",
+          "B. It is completely AI generated and lacks soul",
+          "C. It doesn't show enough of the game's city",
+          "D. The developers are not featured enough"
+        ],
+        "answer": 1,
+        "hint": "提示：文章开头直接点明了视频的主要问题，请关注第一段第一句。"
+      }
+    },
+    "id": "article_1785538157415_j81g",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "EA Says Saudi Takeover Deal Is Set To Close Next Week",
     "title_zh": "EA称沙特收购交易预计下周完成",
     "level": "⭐⭐ 中级",
@@ -2317,179 +2518,5 @@
     "id": "article_1783638110532_uhzg",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Arc Raiders' Matchmaking Update Gives Players What They've Always Wanted",
-    "title_zh": "《Arc Raiders》匹配系统更新满足玩家长期期待",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The latest Arc Raiders update is out now, and alongside the opening of the Expedition 4 window and an upcoming crossover event with Embark's first-person shooter The Finals, the extraction game is getting a matchmaking overhaul that fulfills one of players' biggest wishlist items.",
-            "zh": "最新的《Arc Raiders》更新现已发布，除了开启第4次远征窗口和即将与Embark的第一人称射击游戏《The Finals》联动活动外，这款提取类游戏还进行了一次匹配系统大更新，满足了玩家最期待的愿望之一。",
-            "grammar": "【复合句】包含多个并列成分的复合句，使用了'alongside'和'and'连接多个更新内容",
-            "words": [
-              {
-                "word": "overhaul",
-                "meaning": "n. 彻底改革，全面检修",
-                "phonetic": "/ˈəʊvəhɔːl/"
-              },
-              {
-                "word": "wishlist",
-                "meaning": "n. 愿望清单，期待列表",
-                "phonetic": "/ˈwɪʃlɪst/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Starting today, Arc Raiders offers separate matchmaking buckets for solo, duo, and trio queues.",
-            "zh": "从今天开始，《Arc Raiders》为单人、双人和三人队列提供独立的匹配分组。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "This means that players who may prefer to express different playstyles depending on their team size can now find lobbies that suit their needs.",
-            "zh": "这意味着那些可能根据队伍大小而偏好不同游戏风格的玩家现在可以找到适合自己需求的游戏房间。",
-            "grammar": "【定语从句】包含两个定语从句，修饰'players'和'lobbies'",
-            "words": [
-              {
-                "word": "playstyle",
-                "meaning": "n. 游戏风格，玩法风格",
-                "phonetic": "/ˈpleɪstaɪl/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Arc Raiders' \"aggression-based matchmaking\" has been a story surrounding the game since it debuted last October, with players debating how it should work and, initially, whether it truly existed at all.",
-            "zh": "自去年10月发布以来，基于攻击性的匹配系统一直是《Arc Raiders》游戏的热议话题，玩家们争论它应该如何工作，以及最初它是否真的存在。",
-            "grammar": "【现在完成进行时】使用现在完成进行时表示从过去持续到现在的状态",
-            "words": [
-              {
-                "word": "aggression-based",
-                "meaning": "adj. 基于攻击性的",
-                "phonetic": "/əˈɡreʃn ˈbeɪst/"
-              },
-              {
-                "word": "debating",
-                "meaning": "v. 争论，讨论",
-                "phonetic": "/dɪˈbeɪtɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main feature of the latest Arc Raiders update?",
-        "options": [
-          "A. The opening of Expedition 4",
-          "B. A crossover event with The Finals",
-          "C. Separate matchmaking for different team sizes",
-          "D. Improved aggression-based matchmaking"
-        ],
-        "answer": 2,
-        "hint": "提示：文章开头提到更新包含多个内容，但重点在于满足玩家长期期待的匹配系统改进。"
-      },
-      "translation_task": {
-        "en": "This means that players who may prefer to express different playstyles depending on their team size can now find lobbies that suit their needs.",
-        "zh": "这意味着那些可能根据队伍大小而偏好不同游戏风格的玩家现在可以找到适合自己需求的游戏房间。",
-        "valuable_point": "考察了包含两个定语从句的复合句翻译，以及'playstyle'和'suit their needs'等游戏术语的准确表达。"
-      },
-      "quiz": {
-        "question": "What is the main feature of the latest Arc Raiders update?",
-        "options": [
-          "A. The opening of Expedition 4",
-          "B. A crossover event with The Finals",
-          "C. Separate matchmaking for different team sizes",
-          "D. Improved aggression-based matchmaking"
-        ],
-        "answer": 2,
-        "hint": "提示：文章开头提到更新包含多个内容，但重点在于满足玩家长期期待的匹配系统改进。"
-      }
-    },
-    "id": "article_1783464621636_fdnw",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "If you use Google, you're training its AI. Here's how to opt out.",
-    "title_zh": "如果你使用谷歌，你正在训练其人工智能。以下是退出方法。",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Consider this a belated PSA: A recent change to Google's privacy settings is allowing the company to store more of your data, including media such as \"images, files, and audio and video recordings,\" to improve its AI models.",
-            "zh": "请将此视为一则迟来的公共服务公告：谷歌最近对其隐私设置进行了一项更改，允许公司存储更多您的数据，包括\"图像、文件以及音频和视频录音\"等媒体内容，以改进其人工智能模型。",
-            "grammar": "【语法要点】冒号后的句子结构复杂，包含现在分词短语作目的状语(to improve its AI models)。",
-            "words": [
-              {
-                "word": "belated",
-                "meaning": "adj. 迟来的，延误的",
-                "phonetic": "/bɪˈleɪtɪd/"
-              },
-              {
-                "word": "privacy",
-                "meaning": "n. 隐私，私密",
-                "phonetic": "/ˈprɪvəsi/"
-              },
-              {
-                "word": "recordings",
-                "meaning": "n. 录音，录像",
-                "phonetic": "/rɪˈkɔːrdɪŋz/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is Google storing to improve its AI models according to the article?",
-        "options": [
-          "A. User search history",
-          "B. Personal data including media files",
-          "C. Location information",
-          "D. Email contacts"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了谷歌存储的数据类型，包括\"images, files, and audio and video recordings\"。"
-      },
-      "translation_task": {
-        "en": "Consider this a belated PSA: A recent change to Google's privacy settings is allowing the company to store more of your data, including media such as \"images, files, and audio and video recordings,\" to improve its AI models.",
-        "zh": "请将此视为一则迟来的公共服务公告：谷歌最近对其隐私设置进行了一项更改，允许公司存储更多您的数据，包括\"图像、文件以及音频和视频录音\"等媒体内容，以改进其人工智能模型。",
-        "valuable_point": "考察了复杂句型的翻译，特别是包含引号和列举内容的句子结构，以及专业术语如\"PSA\"和\"AI models\"的准确翻译。"
-      },
-      "quiz": {
-        "question": "What is Google storing to improve its AI models according to the article?",
-        "options": [
-          "A. User search history",
-          "B. Personal data including media files",
-          "C. Location information",
-          "D. Email contacts"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了谷歌存储的数据类型，包括\"images, files, and audio and video recordings\"。"
-      }
-    },
-    "id": "article_1783378528867_ahr8",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
