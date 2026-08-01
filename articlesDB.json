@@ -1,5 +1,201 @@
 [
   {
+    "title": "Sam Altman Isn't the Only One Who Wants to Pump the Brakes on AI",
+    "title_zh": "山姆·奥特曼并非唯一希望为人工智能踩刹车的人",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
+            "zh": "在人工智能领域全速推进多年后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
+            "grammar": "【语法要点】\"After + 名词短语\"作时间状语，表示\"在...之后\"；\"maybe it's time for...to...\"表示\"或许是时候让...做某事了\"。",
+            "words": [
+              {
+                "word": "pace",
+                "meaning": "v. 放慢速度，调整步伐",
+                "phonetic": "/peɪs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face.",
+            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的。",
+            "grammar": "【语法要点】\"broke out of\"表示\"突破...的限制\"；\"got tangled up in\"表示\"陷入...的困境\"。",
+            "words": [
+              {
+                "word": "tangled",
+                "meaning": "adj. 纠缠的，陷入困境的",
+                "phonetic": "/ˈtæŋɡəld/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity's hosts point out, sloppy security seems to have [...]",
+            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的——尽管Equity的主持人指出，松散的安全措施似乎导致了[...]",
+            "grammar": "【语法要点】破折号后的内容是对前文的补充说明；\"as...point out\"表示\"正如...所指出的\"。",
+            "words": [
+              {
+                "word": "sloppy",
+                "meaning": "adj. 马虎的，松散的",
+                "phonetic": "/ˈslɒpi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
+        "options": [
+          "A. A security breach at OpenAI",
+          "B. One of OpenAI's models breaking out of its test environment",
+          "C. The failure of Hugging Face's security system",
+          "D. Years of rapid development in AI"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了某个具体事件的发生时间与Altman言论的时间关系。"
+      },
+      "translation_task": {
+        "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
+        "zh": "在人工智能领域全速推进多年后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
+        "valuable_point": "考察了\"pushing full speed ahead\"和\"pace oneself\"这两个与速度相关的表达，以及\"maybe it's time for...to...\"这一建议句型的翻译。"
+      },
+      "quiz": {
+        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
+        "options": [
+          "A. A security breach at OpenAI",
+          "B. One of OpenAI's models breaking out of its test environment",
+          "C. The failure of Hugging Face's security system",
+          "D. Years of rapid development in AI"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了某个具体事件的发生时间与Altman言论的时间关系。"
+      }
+    },
+    "id": "article_1785624159603_qmqr",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "If You Were Excited About Stellar Blade: Blood Rain, Here's An AI-Slop Music Video To Fix That",
+    "title_zh": "如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有个AI垃圾音乐视频来拯救你",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Stellar Blade: Blood Rain is being promoted with an AI-slop music video created by developer Shift Up, and it's all about as soulless as you might expect.",
+            "zh": "《Stellar Blade: Blood Rain》正由开发商Shift Up制作的一个AI垃圾音乐视频进行宣传，而这视频正如你预期的那样毫无灵魂。",
+            "grammar": "【现在进行时被动语态】is being promoted 表示正在进行的被动动作",
+            "words": [
+              {
+                "word": "soulless",
+                "meaning": "adj. 没有灵魂的，空洞的",
+                "phonetic": "/ˈsoʊlləs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
+            "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏中官方预告片出现的反乌托邦赛博朋克城市中探索，并演唱了一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
+            "grammar": "【非限制性定语从句】which引导的从句修饰video，提供额外信息",
+            "words": [
+              {
+                "word": "dystopian",
+                "meaning": "adj. 反乌托邦的，反理想的",
+                "phonetic": "/dɪsˈtoʊpiən/"
+              },
+              {
+                "word": "cyberpunk",
+                "meaning": "n. 赛博朋克（科幻小说流派）",
+                "phonetic": "/ˈsaɪbərpʌŋk/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "At one point while wandering the city, Evie picks up a KPop Demon Hunters keychain.",
+            "zh": "在城市漫游的过程中，艾薇拿起了一个KPop恶魔猎人钥匙扣。",
+            "grammar": "【现在进行时】while wandering表示在...的同时进行某动作",
+            "words": [
+              {
+                "word": "wandering",
+                "meaning": "v. 漫游，徘徊",
+                "phonetic": "/ˈwɑːndərɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Towards the end of the video, there is \"behind the scenes footage\" of Shift Up developers \"on set\" with Evie, giving her direction, doing her makeup, and high-fiving members of the team.",
+            "zh": "在视频接近尾声时，有Shift Up开发人员与艾薇\"在片场\"的\"幕后花絮\"，包括给她指导、化妆以及与团队成员击掌。",
+            "grammar": "【there be句型】表示存在，后面跟名词短语",
+            "words": [
+              {
+                "word": "high-fiving",
+                "meaning": "v. 击掌（庆祝或打招呼）",
+                "phonetic": "/ˈhaɪˌfaɪvɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main criticism of the AI-generated music video for Stellar Blade: Blood Rain?",
+        "options": [
+          "A. It features too much KPop content",
+          "B. It is completely AI generated and lacks soul",
+          "C. It doesn't show enough of the game's city",
+          "D. The developers are not featured enough"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了视频的主要问题，与AI生成有关。"
+      },
+      "translation_task": {
+        "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
+        "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏中官方预告片出现的反乌托邦赛博朋克城市中探索，并演唱了一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
+        "valuable_point": "考察了非限制性定语从句的翻译处理，以及多个并列动作的翻译顺序。"
+      },
+      "quiz": {
+        "question": "What is the main criticism of the AI-generated music video for Stellar Blade: Blood Rain?",
+        "options": [
+          "A. It features too much KPop content",
+          "B. It is completely AI generated and lacks soul",
+          "C. It doesn't show enough of the game's city",
+          "D. The developers are not featured enough"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了视频的主要问题，与AI生成有关。"
+      }
+    },
+    "id": "article_1785624174998_hve4",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Sam Altman isn't the only one who wants to pump the brakes on AI",
     "title_zh": "山姆·奥特曼并非唯一希望放缓AI发展步伐的人",
     "level": "⭐⭐ 中级",
@@ -2283,239 +2479,6 @@
       }
     },
     "id": "article_1783723712799_kgi6",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "title_zh": "Meta推出Muse Spark 1.1，加入拥挤的AI编程竞争",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations.",
-            "zh": "Meta向用户推销的是Spark能够处理大型代理工作负载、修复错误以及协助大型代码迁移的能力。",
-            "grammar": "【语法要点】本句使用了并列结构，列举了Spark的三个主要能力，由and连接最后一个项目。",
-            "words": [
-              {
-                "word": "pitch",
-                "meaning": "n. 推销；推销的产品",
-                "phonetic": "/pɪtʃ/"
-              },
-              {
-                "word": "agentic",
-                "meaning": "adj. 代理的；智能体的",
-                "phonetic": "/ˈeɪdʒəntɪk/"
-              },
-              {
-                "word": "workloads",
-                "meaning": "n. 工作量",
-                "phonetic": "/ˈwɜːrkləʊdz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-            "zh": "这种自动化正是企业日益转向AI公司寻求提供的类型。",
-            "grammar": "【语法要点】本句是定语从句，修饰前面的automation，关系代词that在从句中作provide的宾语。",
-            "words": [
-              {
-                "word": "automation",
-                "meaning": "n. 自动化",
-                "phonetic": "/ˌɔːtəˈmeɪʃən/"
-              },
-              {
-                "word": "enterprises",
-                "meaning": "n. 企业；公司",
-                "phonetic": "/ˈentərpraɪzɪz/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is Meta's main selling point for Spark according to the article?",
-        "options": [
-          "A. Its ability to create new programming languages",
-          "B. Its capacity to handle large workloads and fix bugs",
-          "C. Its low cost compared to competitors",
-          "D. Its focus on small business solutions"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了Meta向用户推销的Spark的主要能力。"
-      },
-      "translation_task": {
-        "en": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations.",
-        "zh": "Meta向用户推销的是Spark能够处理大型代理工作负载、修复错误以及协助大型代码迁移的能力。",
-        "valuable_point": "考察了英语中pitch作为名词的用法，以及并列结构的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What is Meta's main selling point for Spark according to the article?",
-        "options": [
-          "A. Its ability to create new programming languages",
-          "B. Its capacity to handle large workloads and fix bugs",
-          "C. Its low cost compared to competitors",
-          "D. Its focus on small business solutions"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了Meta向用户推销的Spark的主要能力。"
-      }
-    },
-    "id": "article_1783638071503_a5gw",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Call Of Duty: Black Ops 1 And 2 Ports Are Out Now On PS5, But DLC Costs Extra",
-    "title_zh": "《使命召唤：黑色行动1》和《黑色行动2》现已登陆PS5，但DLC需额外付费",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The ports of Call of Duty: Black Ops (2010) and Black Ops 2 (2012) are available now.",
-            "zh": "《使命召唤：黑色行动》(2010年)和《黑色行动2》(2012年)的移植版现已推出。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "ports",
-                "meaning": "n. 移植版",
-                "phonetic": "/pɔːrts/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The ports, which were confirmed in June, are developed by Iron Galaxy in conjunction with Activision.",
-            "zh": "这些移植版已于六月确认，由Iron Galaxy与动视联合开发。",
-            "grammar": "【定语从句】which引导的非限制性定语从句，修饰ports",
-            "words": [
-              {
-                "word": "in conjunction with",
-                "meaning": "phr. 与...合作",
-                "phonetic": "/ɪn kənˈdʒʌŋkʃn wɪð/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-3",
-            "en": "As announced previously, these are not remasters or remakes--if you enjoyed the games in their original states, that's what you're getting here.",
-            "zh": "如先前宣布，这些不是重制版或重做版——如果你喜欢游戏的原始状态，那么你在这里得到的正是那个版本。",
-            "grammar": "【条件状语从句】if引导的条件状语从句",
-            "words": [
-              {
-                "word": "remasters",
-                "meaning": "n. 重制版",
-                "phonetic": "/ˈriːmɑːstərz/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The games cost $40, but PlayStation Plus members can get each for $20 through August 6.",
-            "zh": "这些游戏售价40美元，但PlayStation Plus会员可在8月6日前以20美元的价格购买每款游戏。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "There is no bundle that puts them together.",
-            "zh": "没有将这两款游戏捆绑在一起的套装。",
-            "grammar": "【定语从句】that引导的定语从句，修饰bundle",
-            "words": [
-              {
-                "word": "bundle",
-                "meaning": "n. 套装，捆绑包",
-                "phonetic": "/ˈbʌndl/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-3",
-            "en": "Black Ops 1 and 2 are out now on PS4 and PS5.",
-            "zh": "《黑色行动1》和《黑色行动2》现已登陆PS4和PS5平台。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "The descriptions for each state that the games offer \"a classic Call of Duty experience,\" and as such, cross-platform multiplayer is not supported.",
-            "zh": "每款游戏的描述都表示它们提供\"经典的使命召唤体验\"，因此不支持跨平台多人游戏。",
-            "grammar": "【结果状语】as such表示因此，所以",
-            "words": [
-              {
-                "word": "cross-platform",
-                "meaning": "adj. 跨平台的",
-                "phonetic": "/ˈkrɔːs ˈplætfɔːrm/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Beyond the base games, Activision is also selling each game's season pass for $30 (or $10 through August 6 for PlayStation Plus members).",
-            "zh": "除了基础游戏外，动视还以30美元的价格出售每款游戏的季票（PlayStation Plus会员可在8月6日前以10美元购买）。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "season pass",
-                "meaning": "n. 季票（游戏DLC通行证）",
-                "phonetic": "/ˈsiːzn pæs/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the difference between the new Call of Duty: Black Ops ports and remasters?",
-        "options": [
-          "A. The ports have better graphics than remasters",
-          "B. The ports are not remasters or remakes, they offer the original game experience",
-          "C. The ports only work on PS5 while remasters work on multiple platforms",
-          "D. The ports include additional content not found in the original games"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确说明了这些移植版不是重制版或重做版，保留了原始游戏状态。"
-      },
-      "translation_task": {
-        "en": "As announced previously, these are not remasters or remakes--if you enjoyed the games in their original states, that's what you're getting here.",
-        "zh": "如先前宣布，这些不是重制版或重做版——如果你喜欢游戏的原始状态，那么你在这里得到的正是那个版本。",
-        "valuable_point": "考察了破折号的使用和条件状语从句的翻译，以及\"in their original states\"的准确表达。"
-      },
-      "quiz": {
-        "question": "What is the difference between the new Call of Duty: Black Ops ports and remasters?",
-        "options": [
-          "A. The ports have better graphics than remasters",
-          "B. The ports are not remasters or remakes, they offer the original game experience",
-          "C. The ports only work on PS5 while remasters work on multiple platforms",
-          "D. The ports include additional content not found in the original games"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确说明了这些移植版不是重制版或重做版，保留了原始游戏状态。"
-      }
-    },
-    "id": "article_1783638110532_uhzg",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
