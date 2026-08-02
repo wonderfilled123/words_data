@@ -1,5 +1,99 @@
 [
   {
+    "title": "Sam Altman isn't the only one who wants to pump the brakes on AI",
+    "title_zh": "山姆·奥特曼并非唯一希望为人工智能踩刹车的人",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
+            "zh": "在多年全力推动人工智能发展之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
+            "grammar": "【语法要点】\"After years of pushing...\"为时间状语前置结构，\"pace\"作为动词使用，意为\"控制速度\"。",
+            "words": [
+              {
+                "word": "pace",
+                "meaning": "v. 控制速度，调整步伐",
+                "phonetic": "/peɪs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face.",
+            "zh": "这番言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞事件发生几天后发表的。",
+            "grammar": "【语法要点】\"broke out of\"和\"got tangled up in\"为动词短语，分别表示\"突破\"和\"陷入\"。",
+            "words": [
+              {
+                "word": "tangled up",
+                "meaning": "phr. v. 陷入，卷入",
+                "phonetic": "/ˈtæŋɡld ʌp/"
+              },
+              {
+                "word": "breach",
+                "meaning": "n. 违反，漏洞，突破",
+                "phonetic": "/briːtʃ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity's hosts point out, sloppy security seems to have [...]",
+            "zh": "这番言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞事件发生几天后发表的——尽管Equity节目的主持人指出，松懈的安全措施似乎导致了[...]",
+            "grammar": "【语法要点】破折号后的内容为补充说明，\"point out\"为固定搭配，意为\"指出\"。",
+            "words": [
+              {
+                "word": "sloppy",
+                "meaning": "adj. 马虎的，松懈的",
+                "phonetic": "/ˈslɒpi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
+        "options": [
+          "A. A new breakthrough in AI technology",
+          "B. A security breach involving one of OpenAI's models",
+          "C. Government regulations on AI development",
+          "D. Public concerns about AI safety"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中提到奥特曼的言论是在某个特定事件发生后发表的，请关注第二段的内容。"
+      },
+      "translation_task": {
+        "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
+        "zh": "在多年全力推动人工智能发展之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
+        "valuable_point": "考察了\"pushing full speed ahead\"和\"pace oneself\"这两个与速度相关的表达，以及引号在英文中表示特定术语或强调的用法。"
+      },
+      "quiz": {
+        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
+        "options": [
+          "A. A new breakthrough in AI technology",
+          "B. A security breach involving one of OpenAI's models",
+          "C. Government regulations on AI development",
+          "D. Public concerns about AI safety"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中提到奥特曼的言论是在某个特定事件发生后发表的，请关注第二段的内容。"
+      }
+    },
+    "id": "article_1785710613541_wcl1",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Sam Altman Isn't the Only One Who Wants to Pump the Brakes on AI",
     "title_zh": "山姆·奥特曼并非唯一希望为人工智能踩刹车的人",
     "level": "⭐⭐ 中级",
@@ -2369,117 +2463,5 @@
     "id": "article_1783723702057_mu64",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Microsoft Refutes Notion That Foreign-Worker Visas Were Behind Mass Xbox Layoffs",
-    "title_zh": "微软驳斥外国员工签证导致大规模Xbox裁员的说法",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Since news broke of Microsoft's recent round of mass layoffs --which affected 1,600 people immediately and will reach double that number over the next year--a number of reports have claimed that mass approvals of foreign-worker visas were behind the decision.",
-            "zh": "自微软最近一轮大规模裁员的消息传出以来——这一裁员立即影响了1600人，并在未来一年内将影响人数翻倍——一些报道称，大量批准的外国员工签证是这一决定背后的原因。",
-            "grammar": "【语法要点】主句使用了现在完成时，包含一个由which引导的非限制性定语从句，破折号用于补充说明裁员规模。",
-            "words": [
-              {
-                "word": "layoffs",
-                "meaning": "n. 裁员，解雇",
-                "phonetic": "/ˈleɪɒfs/"
-              },
-              {
-                "word": "approvals",
-                "meaning": "n. 批准，认可",
-                "phonetic": "/əˈpruːvəlz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Now, Microsoft communications lead Frank X. Shaw has refuted what he calls \"bad information.\"",
-            "zh": "现在，微软通讯主管弗兰克·X·肖驳斥了他所谓的\"错误信息\"。",
-            "grammar": "【语法要点】句子使用了现在完成时，what引导的名词性从句作为refuted的宾语。",
-            "words": [
-              {
-                "word": "refuted",
-                "meaning": "v. 驳斥，反驳",
-                "phonetic": "/rɪˈfjuːtɪd/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "In a Twitter post, Shaw said that while there are Microsoft workers using H-1B visas, they are \"not specific to Xbox and represent a small percentage of Microsoft's overall workforce.\"",
-            "zh": "肖在一条Twitter帖子中表示，虽然确实有微软员工使用H-1B签证，但这些员工\"并非特定于Xbox部门，仅占微软总劳动力的很小一部分\"。",
-            "grammar": "【语法要点】while引导的让步状语从句，引出主句内容，引号内为直接引语。",
-            "words": [
-              {
-                "word": "specific",
-                "meaning": "adj. 特定的，明确的",
-                "phonetic": "/spəˈsɪfɪk/"
-              },
-              {
-                "word": "percentage",
-                "meaning": "n. 百分比，比例",
-                "phonetic": "/pəˈsentɪdʒ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"And the majority of the roles impacted were not American roles.\"",
-            "zh": "\"而且受影响的大多数职位并非美国本土员工的职位。\"",
-            "grammar": "【语法要点】被动语态were impacted，表示职位受到影响，not American roles强调国籍因素。",
-            "words": [
-              {
-                "word": "majority",
-                "meaning": "n. 大多数，多数",
-                "phonetic": "/məˈdʒɒrəti/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to Microsoft's Frank X. Shaw, what was the real reason for the Xbox layoffs?",
-        "options": [
-          "A. Mass approvals of foreign-worker visas",
-          "B. Restructuring the unhealthy Xbox business",
-          "C. Replacing American employees with foreign workers",
-          "D. Reducing the overall workforce percentage"
-        ],
-        "answer": 1,
-        "hint": "提示：肖在Twitter中明确表示裁员是为了重组Xbox业务，并否认了与外国员工签证有关。"
-      },
-      "translation_task": {
-        "en": "In a Twitter post, Shaw said that while there are Microsoft workers using H-1B visas, they are \"not specific to Xbox and represent a small percentage of Microsoft's overall workforce.\"",
-        "zh": "肖在一条Twitter帖子中表示，虽然确实有微软员工使用H-1B签证，但这些员工\"并非特定于Xbox部门，仅占微软总劳动力的很小一部分\"。",
-        "valuable_point": "考察了while引导的让步状语从句的翻译技巧，以及引号内直接引语的准确传达。"
-      },
-      "quiz": {
-        "question": "According to Microsoft's Frank X. Shaw, what was the real reason for the Xbox layoffs?",
-        "options": [
-          "A. Mass approvals of foreign-worker visas",
-          "B. Restructuring the unhealthy Xbox business",
-          "C. Replacing American employees with foreign workers",
-          "D. Reducing the overall workforce percentage"
-        ],
-        "answer": 1,
-        "hint": "提示：肖在Twitter中明确表示裁员是为了重组Xbox业务，并否认了与外国员工签证有关。"
-      }
-    },
-    "id": "article_1783723712799_kgi6",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
