@@ -1,5 +1,68 @@
 [
   {
+    "title": "Congress' favorite AI tool? ChatGPT",
+    "title_zh": "国会最喜爱的AI工具？ChatGPT",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+            "zh": "众议院支出记录显示，OpenAI的ChatGPT在国会山的付费AI使用中占据主导地位，国会办公室依赖该聊天机器人起草备忘录、总结立法和协助与选民的沟通。",
+            "grammar": "【语法要点】本句使用了现在时态，包含with引导的伴随状语结构，说明ChatGPT在国会山的广泛用途。",
+            "words": [
+              {
+                "word": "dominates",
+                "meaning": "v. 主导，支配",
+                "phonetic": "/ˈdɒmɪneɪts/"
+              },
+              {
+                "word": "constituent",
+                "meaning": "n. 选民， constituents的复数形式",
+                "phonetic": "/kənˈstɪtʃuənt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main finding about AI usage in congressional offices according to the article?",
+        "options": [
+          "A. Congressional offices are prohibited from using AI tools",
+          "B. ChatGPT is the most popular paid AI tool used by congressional offices",
+          "C. Congress has developed its own AI tool to replace ChatGPT",
+          "D. AI tools are only used for drafting legislation"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了ChatGPT在国会山的AI使用中的地位。"
+      },
+      "translation_task": {
+        "en": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+        "zh": "众议院支出记录显示，OpenAI的ChatGPT在国会山的付费AI使用中占据主导地位，国会办公室依赖该聊天机器人起草备忘录、总结立法和协助与选民的沟通。",
+        "valuable_point": "考察了长句的翻译技巧，特别是with引导的伴随状语结构的处理，以及专业术语如'Capitol Hill'(国会山)和'constituent communications'(与选民的沟通)的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is the main finding about AI usage in congressional offices according to the article?",
+        "options": [
+          "A. Congressional offices are prohibited from using AI tools",
+          "B. ChatGPT is the most popular paid AI tool used by congressional offices",
+          "C. Congress has developed its own AI tool to replace ChatGPT",
+          "D. AI tools are only used for drafting legislation"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了ChatGPT在国会山的AI使用中的地位。"
+      }
+    },
+    "id": "article_1785797388852_fgqj",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Sam Altman isn't the only one who wants to pump the brakes on AI",
     "title_zh": "山姆·奥特曼并非唯一希望为人工智能踩刹车的人",
     "level": "⭐⭐ 中级",
@@ -2349,118 +2412,6 @@
       }
     },
     "id": "article_1783809353544_8i1y",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Open source AI matters more than ever, according to Hugging Face's Clem Delangue",
-    "title_zh": "根据Hugging Face的Clem Delangue，开源AI比以往任何时候都重要",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Open source AI is booming, according to Hugging Face CEO Clem Delangue.",
-            "zh": "根据Hugging Face的首席执行官Clem Delangue的说法，开源AI正在蓬勃发展。",
-            "grammar": "【语法要点】介词短语作状语，主系表结构",
-            "words": [
-              {
-                "word": "booming",
-                "meaning": "adj. 迅速发展的，繁荣的",
-                "phonetic": "/ˈbuːmɪŋ/"
-              },
-              {
-                "word": "according to",
-                "meaning": "prep. 根据，按照",
-                "phonetic": "/əˈkɔːdɪŋ tuː/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets.",
-            "zh": "近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在那里分享和下载开源模型和数据集。",
-            "grammar": "【语法要点】定语从句，现在完成时",
-            "words": [
-              {
-                "word": "dataset",
-                "meaning": "n. 数据集",
-                "phonetic": "/ˈdeɪtəsɛt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "now used by roughly half the Fortune 500.",
-            "zh": "现在已被约一半的财富500强公司使用。",
-            "grammar": "【语法要点】过去分词短语作后置定语",
-            "words": [
-              {
-                "word": "roughly",
-                "meaning": "adv. 大约，粗略地",
-                "phonetic": "/ˈrʌfli/"
-              },
-              {
-                "word": "Fortune 500",
-                "meaning": "n. 财富500强（美国最大500家公司的年度排名）",
-                "phonetic": "/ˈfɔːrtʃʌn faɪv hʌndrəd/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Delangue has seen the same story play out again and again: companies start [...]",
-            "zh": "Delangue已经多次看到同样的故事上演：公司开始[...]",
-            "grammar": "【语法要点】现在完成时，冒号引导解释说明",
-            "words": [
-              {
-                "word": "play out",
-                "meaning": "phr. 演变，展开",
-                "phonetic": "/pleɪ aʊt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What has Hugging Face become according to the article?",
-        "options": [
-          "A. A company that creates AI models",
-          "B. A platform similar to GitHub for AI",
-          "C. A dataset provider for Fortune 500 companies",
-          "D. A competitor to open source AI"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确描述了Hugging Face的发展方向和功能。"
-      },
-      "translation_task": {
-        "en": "The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets.",
-        "zh": "近年来，该公司已发展成为类似AI领域的GitHub，AI开发者可以在那里分享和下载开源模型和数据集。",
-        "valuable_point": "考察了定语从句的翻译技巧，以及'grown into something like'的灵活表达。"
-      },
-      "quiz": {
-        "question": "What has Hugging Face become according to the article?",
-        "options": [
-          "A. A company that creates AI models",
-          "B. A platform similar to GitHub for AI",
-          "C. A dataset provider for Fortune 500 companies",
-          "D. A competitor to open source AI"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确描述了Hugging Face的发展方向和功能。"
-      }
-    },
-    "id": "article_1783723702057_mu64",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
