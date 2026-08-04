@@ -1,5 +1,187 @@
 [
   {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "title_zh": "开源AI模型正追赶前沿技术，安全差距依然存在",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+            "zh": "一份新的SaferAI报告发现，Z.ai的开源GLM-5.2模型接近前沿AI能力，但缺乏关键的安全缓解措施，重新引发了人们对强大的开源模型可能超越治理和安全保障的担忧。",
+            "grammar": "【语法要点】复合句结构，包含while引导的对比状语从句和that引导的宾语从句",
+            "words": [
+              {
+                "word": "open-weight",
+                "meaning": "adj. 开源权重的",
+                "phonetic": "/ˈoʊpən weɪt/"
+              },
+              {
+                "word": "mitigations",
+                "meaning": "n. 缓解措施，减轻手段",
+                "phonetic": "/ˌmɪtɪˈɡeɪʃənz/"
+              },
+              {
+                "word": "outpace",
+                "meaning": "v. 超越，跑在前面",
+                "phonetic": "/ˌaʊtˈpeɪs/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main concern raised by the SaferAI report?",
+        "options": [
+          "A. Open-weight AI models are becoming too expensive",
+          "B. Open models might surpass governance and safety measures",
+          "C. Frontier AI models are becoming obsolete",
+          "D. Z.ai's GLM-5.2 model has perfect safety features"
+        ],
+        "answer": 1,
+        "hint": "提示：关注报告中提到的担忧，特别是关于开源模型与治理和安全保障的关系。"
+      },
+      "translation_task": {
+        "en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+        "zh": "一份新的SaferAI报告发现，Z.ai的开源GLM-5.2模型接近前沿AI能力，但缺乏关键的安全缓解措施，重新引发了人们对强大的开源模型可能超越治理和安全保障的担忧。",
+        "valuable_point": "考察了英语长句的翻译技巧，特别是包含while引导的对比状语从句和that引导的宾语从句的复合句结构。"
+      },
+      "quiz": {
+        "question": "What is the main concern raised by the SaferAI report?",
+        "options": [
+          "A. Open-weight AI models are becoming too expensive",
+          "B. Open models might surpass governance and safety measures",
+          "C. Frontier AI models are becoming obsolete",
+          "D. Z.ai's GLM-5.2 model has perfect safety features"
+        ],
+        "answer": 1,
+        "hint": "提示：关注报告中提到的担忧，特别是关于开源模型与治理和安全保障的关系。"
+      }
+    },
+    "id": "article_1785883900534_7irr",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "EA Has Officially Been Sold, And What Comes Next Could Be Painful",
+    "title_zh": "EA正式被收购，未来可能面临痛苦",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The blockbuster buyout of Electronic Arts has been completed, with Saudi Arabia's Public Investment Fund taking ownership of the gaming giant in the biggest leveraged buyout (LBO) in the history of commerce.",
+            "zh": "电子艺界(EA)的巨额收购已经完成，沙特阿拉伯公共投资基金成为这家游戏巨头的所有者，这是商业史上最大的杠杆收购(LBO)。",
+            "grammar": "【语法要点】现在完成时被动语态，with复合结构作伴随状语",
+            "words": [
+              {
+                "word": "blockbuster",
+                "meaning": "n. 重磅炸弹；巨大的成功",
+                "phonetic": "/ˈblɒkbʌstər/"
+              },
+              {
+                "word": "leveraged",
+                "meaning": "adj. 利用杠杆的；举债经营的",
+                "phonetic": "/ˈliːvərɪdʒd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The $55 billion deal includes billions in debt for EA, which has prompted fears of massive cost-cutting with projected layoffs, studio closures, and game cancellations.",
+            "zh": "这笔550亿美元的交易包括EA数十亿美元的债务，这引发了人们对大规模裁减成本、预计裁员、工作室关闭和游戏取消的担忧。",
+            "grammar": "【语法要点】非限制性定语从句，with复合结构",
+            "words": [
+              {
+                "word": "projected",
+                "meaning": "adj. 预计的；投射的",
+                "phonetic": "/prəˈdʒektɪd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Nothing has been confirmed as of yet, however.",
+            "zh": "然而，截至目前还没有任何事情得到确认。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"This moment recognizes the extraordinary people whose creativity, ambition, and passion have made EA one of the world's leading interactive entertainment companies,\" said EA CEO Andrew Wilson in the official announcement.",
+            "zh": "EA首席执行官安德鲁·威尔逊在官方公告中表示：'这一时刻认可了那些非凡的人们，他们的创造力、雄心和热情使EA成为世界领先的互动娱乐公司之一。'",
+            "grammar": "【语法要点】定语从句whose引导，引出先行词people",
+            "words": [
+              {
+                "word": "extraordinary",
+                "meaning": "adj. 非凡的；特别的",
+                "phonetic": "/ɪkˈstrɔːdənri/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-3",
+            "en": "\"We're entering this next chapter from a position of strength with partners who share our vision and ambition. Together, we'll invest boldly, accelerat...",
+            "zh": "'我们正从强势地位进入下一章，与分享我们愿景和雄心的合作伙伴一起。我们将大胆投资，加速...'",
+            "grammar": "【语法要点】介词短语作状语，定语从句who引导",
+            "words": [
+              {
+                "word": "ambition",
+                "meaning": "n. 雄心；野心",
+                "phonetic": "/æmˈbɪʃən/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main concern following EA's acquisition by Saudi Arabia's Public Investment Fund?",
+        "options": [
+          "A. The company will expand its game development studios",
+          "B. Massive cost-cutting measures including layoffs and studio closures",
+          "C. Immediate cancellation of all current game projects",
+          "D. A complete rebranding of the company"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了收购后可能引发的担忧，请关注第二段第一句。"
+      },
+      "translation_task": {
+        "en": "This moment recognizes the extraordinary people whose creativity, ambition, and passion have made EA one of the world's leading interactive entertainment companies.",
+        "zh": "这一时刻认可了那些非凡的人们，他们的创造力、雄心和热情使EA成为世界领先的互动娱乐公司之一。",
+        "valuable_point": "考察了定语从句whose的翻译技巧，以及英语长句的拆分与重组能力。"
+      },
+      "quiz": {
+        "question": "What is the main concern following EA's acquisition by Saudi Arabia's Public Investment Fund?",
+        "options": [
+          "A. The company will expand its game development studios",
+          "B. Massive cost-cutting measures including layoffs and studio closures",
+          "C. Immediate cancellation of all current game projects",
+          "D. A complete rebranding of the company"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了收购后可能引发的担忧，请关注第二段第一句。"
+      }
+    },
+    "id": "article_1785883919511_2g7y",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Congress' favorite AI tool? ChatGPT",
     "title_zh": "国会最喜爱的AI工具？ChatGPT",
     "level": "⭐⭐ 中级",
@@ -2185,234 +2367,5 @@
     "id": "article_1784069101602_xsfp",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "LA Noire Could Have Featured A Different, Very Famous, And More Expensive Lead Actor",
-    "title_zh": "《黑色洛城》本可能由另一位更著名的昂贵主演出演",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The 2011 detective game LA Noire, which was published by GTA company Rockstar Games, starred Mad Men actor Aaron Staton as the lead character, Cole Phelps.",
-            "zh": "2011年的侦探游戏《黑色洛城》由《侠盗猎车手》开发商Rockstar Games发行，由《广告狂人》演员Aaron Staton饰演主角Cole Phelps。",
-            "grammar": "【定语从句】which引导的非限制性定语从句修饰LA Noire",
-            "words": [
-              {
-                "word": "detective",
-                "meaning": "n. 侦探",
-                "phonetic": "/dɪˈtɛktɪv/"
-              },
-              {
-                "word": "starred",
-                "meaning": "v. 由...主演",
-                "phonetic": "/stɑːrd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "A writer on the game has now revealed that a different Mad Men actor, Jon Hamm, was considered for the role as well.",
-            "zh": "该游戏的一位编剧现在透露，另一位《广告狂人》演员Jon Hamm也曾被考虑出演该角色。",
-            "grammar": "【宾语从句】that引导的宾语从句作为revealed的宾语",
-            "words": [
-              {
-                "word": "revealed",
-                "meaning": "v. 揭示，透露",
-                "phonetic": "/rɪˈviːld/"
-              },
-              {
-                "word": "considered",
-                "meaning": "v. 考虑，认为",
-                "phonetic": "/kənˈsɪdərd/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Staton portrayed Ken Cosgrove on Mad Men, with Hamm playing the show's leading role, Don Draper.",
-            "zh": "Staton在《广告狂人》中饰演Ken Cosgrove，而Hamm则扮演该剧的主角Don Draper。",
-            "grammar": "【with复合结构】with+名词+分词构成独立主格结构",
-            "words": [
-              {
-                "word": "portrayed",
-                "meaning": "v. 饰演，描绘",
-                "phonetic": "/pɔːrˈtreɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Daniel McMahon told IGN that Mad Men and LA Noire had the same casting director, and that Hamm was \"discussed as a possibility for the role of Cole Phelps.\"",
-            "zh": "Daniel McMahon告诉IGN，《广告狂人》和《黑色洛城》有同一位选角导演，而且Hamm曾\"被讨论作为Cole Phelps这一角色的可能性\"。",
-            "grammar": "【并列宾语从句】that...and that...连接两个并列的宾语从句",
-            "words": [
-              {
-                "word": "casting",
-                "meaning": "n. 选角，演员阵容",
-                "phonetic": "/ˈkæstɪŋ/"
-              },
-              {
-                "word": "possibility",
-                "meaning": "n. 可能性",
-                "phonetic": "/ˌpɑːsəˈbɪləti/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "\"It was never said at the time, but now, I understand the vision which was Jon Hamm is a wonderful actor, but he's not Cole Phelps,\" McMahon said.",
-            "zh": "\"当时从未有人说过，但现在我明白了那个构想——Jon Hamm是一位出色的演员，但他不是Cole Phelps，\"McMahon说道。",
-            "grammar": "【插入语】破折号之间的内容是对vision的解释说明",
-            "words": [
-              {
-                "word": "vision",
-                "meaning": "n. 构想，愿景",
-                "phonetic": "/ˈvɪʒən/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "McMahon went on to say that Staton was \"much better at portraying Cole's fragility.\"",
-            "zh": "McMahon继续说道，Staton\"在表现Cole的脆弱性方面要好得多\"。",
-            "grammar": "【比较级】much better than...的比较结构",
-            "words": [
-              {
-                "word": "fragility",
-                "meaning": "n. 脆弱，易碎",
-                "phonetic": "/frəˈdʒɪləti/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why was Jon Hamm not chosen for the role of Cole Phelps in LA Noire?",
-        "options": [
-          "A. He was too expensive for the budget",
-          "B. The casting director preferred Aaron Staton",
-          "C. He didn't have the right qualities for the character",
-          "D. He was already committed to another project"
-        ],
-        "answer": 1,
-        "hint": "提示：注意McMahon对两位演员的评价，特别是关于角色特质的描述。"
-      },
-      "translation_task": {
-        "en": "\"It was never said at the time, but now, I understand the vision which was Jon Hamm is a wonderful actor, but he's not Cole Phelps,\" McMahon said.",
-        "zh": "\"当时从未有人说过，但现在我明白了那个构想——Jon Hamm是一位出色的演员，但他不是Cole Phelps，\"McMahon说道。",
-        "valuable_point": "考察了破折号作为插入语解释说明的用法，以及which引导的非限制性定语从句的翻译技巧。"
-      },
-      "quiz": {
-        "question": "Why was Jon Hamm not chosen for the role of Cole Phelps in LA Noire?",
-        "options": [
-          "A. He was too expensive for the budget",
-          "B. The casting director preferred Aaron Staton",
-          "C. He didn't have the right qualities for the character",
-          "D. He was already committed to another project"
-        ],
-        "answer": 1,
-        "hint": "提示：注意McMahon对两位演员的评价，特别是关于角色特质的描述。"
-      }
-    },
-    "id": "article_1783982603678_zdyq",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "title_zh": "Meta在遭遇强烈反对后移除Instagram上有争议的AI功能",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post.",
-            "zh": "该公司在博客文章中表示：'我们的意图是提供一个有用的创意工具，让人们能够控制他们的公开内容是否可以以这种方式被引用。'",
-            "grammar": "【语法要点】直接引语结构，使用双引号标示，包含目的状语从句和条件状语从句",
-            "words": [
-              {
-                "word": "intent",
-                "meaning": "n. 意图，目的",
-                "phonetic": "/ɪnˈtɛnt/"
-              },
-              {
-                "word": "referenced",
-                "meaning": "v. 被引用，被提及",
-                "phonetic": "/ˈrɛfərənst/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "\"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
-            "zh": "'我们已经收到了反馈，认为这个功能没有达到预期效果，因此它已不再可用。'",
-            "grammar": "【语法要点】包含结果状语从句，使用现在完成时表示已完成动作",
-            "words": [
-              {
-                "word": "feedback",
-                "meaning": "n. 反馈，意见",
-                "phonetic": "/ˈfiːdbæk/"
-              },
-              {
-                "word": "missed the mark",
-                "meaning": "习语. 未达到预期效果，不成功",
-                "phonetic": "/mɪst ðə mɑːrk/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why did Meta remove the AI feature from Instagram?",
-        "options": [
-          "A. Because the feature was too expensive to maintain",
-          "B. Because users complained it didn't work as intended",
-          "C. Because it violated Instagram's terms of service",
-          "D. Because Meta wanted to replace it with a better version"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注文章中关于用户反馈和功能效果的描述。"
-      },
-      "translation_task": {
-        "en": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post.",
-        "zh": "该公司在博客文章中表示：'我们的意图是提供一个有用的创意工具，让人们能够控制他们的公开内容是否可以以这种方式被引用。'",
-        "valuable_point": "考察了英语中目的状语从句和条件状语从句的翻译技巧，以及专业术语'creative tool'和'referenced'的准确表达。"
-      },
-      "quiz": {
-        "question": "Why did Meta remove the AI feature from Instagram?",
-        "options": [
-          "A. Because the feature was too expensive to maintain",
-          "B. Because users complained it didn't work as intended",
-          "C. Because it violated Instagram's terms of service",
-          "D. Because Meta wanted to replace it with a better version"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注文章中关于用户反馈和功能效果的描述。"
-      }
-    },
-    "id": "article_1783809353544_8i1y",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
