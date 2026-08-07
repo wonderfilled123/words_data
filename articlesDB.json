@@ -1,5 +1,117 @@
 [
   {
+    "title": "OpenAI says Apple's own security practices undermine its trade secrets case",
+    "title_zh": "OpenAI称苹果自身安全做法削弱了其商业秘密案",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit.",
+            "zh": "新提交的法庭文件展示了OpenAI在苹果商业秘密诉讼中的法律策略。",
+            "grammar": "【语法要点】主谓宾结构，包含所有格名词和专有名词。",
+            "words": [
+              {
+                "word": "exhibits",
+                "meaning": "n. 展品；证据",
+                "phonetic": "/ɪɡˈzɪbɪts/"
+              },
+              {
+                "word": "lawsuit",
+                "meaning": "n. 诉讼；官司",
+                "phonetic": "/ˈlɔːsuːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "OpenAI aims to argue that Apple's own security and offboarding practices undermine its claims.",
+            "zh": "OpenAI旨在论证苹果自身的安全和离职做法削弱了其主张。",
+            "grammar": "【语法要点】复合句，包含目的状语从句和宾语从句。",
+            "words": [
+              {
+                "word": "offboarding",
+                "meaning": "n. 离职流程；员工离职管理",
+                "phonetic": "/ˌɒfˈbɔːdɪŋ/"
+              },
+              {
+                "word": "undermine",
+                "meaning": "v. 削弱；破坏",
+                "phonetic": "/ˌʌndərˈmaɪn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "These practices include allowing an Apple manager to access a former engineer's iCloud account after he left the company.",
+            "zh": "这些做法包括允许一位苹果经理在一位前工程师离职后访问其iCloud账户。",
+            "grammar": "【语法要点】现在分词短语作后置定语，修饰前面的名词短语。",
+            "words": [
+              {
+                "word": "allegedly",
+                "meaning": "adv. 据称；被指控地",
+                "phonetic": "/əˈledʒɪdli/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "OpenAI claims this demonstrates that the allegedly stolen information was not properly protected.",
+            "zh": "OpenAI声称这表明据称被盗的信息并未得到妥善保护。",
+            "grammar": "【语法要点】宾语从句，包含被动语态和情态动词。",
+            "words": [
+              {
+                "word": "allegedly",
+                "meaning": "adv. 据称；被指控地",
+                "phonetic": "/əˈledʒɪdli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is OpenAI's main argument in Apple's trade secrets lawsuit?",
+        "options": [
+          "A. That Apple's security practices are better than claimed",
+          "B. That Apple's own security practices undermine its claims",
+          "C. That the stolen information was properly protected",
+          "D. That Apple managers should not access iCloud accounts"
+        ],
+        "answer": 1,
+        "hint": "提示：关注文章中OpenAI的法律策略核心内容。"
+      },
+      "translation_task": {
+        "en": "Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit: argue that Apple's own security and offboarding practices — including allowing an Apple manager to access a former engineer's iCloud account after he left the company — undermine its claims that the allegedly stolen information was properly protected.",
+        "zh": "新提交的法庭文件展示了OpenAI在苹果商业秘密诉讼中的法律策略：论证苹果自身的安全和离职做法——包括允许一位苹果经理在一位前工程师离职后访问其iCloud账户——削弱了其关于据称被盗信息得到妥善保护的主张。",
+        "valuable_point": "考察了长句中的插入语结构、同位语从句以及专业术语的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is OpenAI's main argument in Apple's trade secrets lawsuit?",
+        "options": [
+          "A. That Apple's security practices are better than claimed",
+          "B. That Apple's own security practices undermine its claims",
+          "C. That the stolen information was properly protected",
+          "D. That Apple managers should not access iCloud accounts"
+        ],
+        "answer": 1,
+        "hint": "提示：关注文章中OpenAI的法律策略核心内容。"
+      }
+    },
+    "id": "article_1786066052947_t239",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
     "title_zh": "开源AI模型正追赶前沿技术，安全差距依然存在",
     "level": "⭐⭐ 中级",
@@ -2236,136 +2348,5 @@
     "id": "article_1784069086213_l0e5",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "GOG Wants You To Make Your Own Physical Games",
-    "title_zh": "GOG希望您制作自己的实体游戏",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "In the wake of the news that Sony will end PlayStation disc production by 2028, a lot of folks are expressing their disgust at the idea of a digital-only game library.",
-            "zh": "随着索尼宣布将在2028年前停止PlayStation光盘生产的消息，许多人表达了对纯数字游戏库这一想法的反感。",
-            "grammar": "【语法要点】介词短语作状语，表达时间背景；现在进行时表达正在发生的动作。",
-            "words": [
-              {
-                "word": "in the wake of",
-                "meaning": "prep. 在...之后，紧随",
-                "phonetic": "/ɪn ðə weɪk əv/"
-              },
-              {
-                "word": "disgust",
-                "meaning": "n. 厌恶，反感",
-                "phonetic": "/dɪsˈɡʌst/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "But players aren't the only ones sharing their frustration--today, GOG.com joined the conversation with a short tutorial showing players how to physically preserve their digital games.",
-            "zh": "但玩家并不是唯一表达挫败感的人——今天，GOG.com加入讨论，发布了一个简短教程，教玩家如何将数字游戏实体化保存。",
-            "grammar": "【语法要点】破折号用于补充说明；现在分词短语作后置定语。",
-            "words": [
-              {
-                "word": "frustration",
-                "meaning": "n. 挫败感，沮丧",
-                "phonetic": "/frʌˈstreɪʃən/"
-              },
-              {
-                "word": "preserve",
-                "meaning": "v. 保存，保护",
-                "phonetic": "/prɪˈzɜːrv/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "\"Download the offline installer of any of your games on GOG, save it to a disc, and it's yours forever,\" the digital gaming storefront shared in an X post.",
-            "zh": "\"下载您在GOG上任何游戏的离线安装程序，将其保存到光盘上，它就永远属于你了，\"这家数字游戏商店在X平台上分享道。",
-            "grammar": "【语法要点】直接引语；祈使句结构；it's的缩写形式。",
-            "words": [
-              {
-                "word": "installer",
-                "meaning": "n. 安装程序",
-                "phonetic": "/ɪnˈstɔːlər/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"You don't need a storefront's permission to play what you bought.\"",
-            "zh": "\"您不需要商店的许可来玩您购买的游戏。\"",
-            "grammar": "【语法要点】不定式作目的状语；what引导的名词性从句作宾语。",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "Of course, this doesn't perfectly solve the problem.",
-            "zh": "当然，这并不能完美解决问题。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "3-2",
-            "en": "Not every game is available on PC, not every game is available for purchase on GOG (like Ubisoft's game catalogue, ...",
-            "zh": "并非所有游戏都有PC版本，也并非所有游戏都可以在GOG上购买（如育碧的游戏目录，...",
-            "grammar": "【语法要点】双重否定结构；括号内的补充说明。",
-            "words": [
-              {
-                "word": "catalogue",
-                "meaning": "n. 目录，产品目录",
-                "phonetic": "/ˈkætəlɔːɡ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is GOG.com suggesting players do to preserve their digital games?",
-        "options": [
-          "A. Buy physical copies from Sony",
-          "B. Download offline installers and save them to discs",
-          "C. Only purchase games from Ubisoft",
-          "D. Wait for PlayStation to continue disc production"
-        ],
-        "answer": 1,
-        "hint": "提示：查看GOG在X平台上的分享内容，他们具体建议了什么方法。"
-      },
-      "translation_task": {
-        "en": "\"Download the offline installer of any of your games on GOG, save it to a disc, and it's yours forever,\" the digital gaming storefront shared in an X post.",
-        "zh": "\"下载您在GOG上任何游戏的离线安装程序，将其保存到光盘上，它就永远属于你了，\"这家数字游戏商店在X平台上分享道。",
-        "valuable_point": "考察了直接引语的翻译技巧，以及如何将英语的简洁表达转换为符合中文习惯的流畅表达。"
-      },
-      "quiz": {
-        "question": "What is GOG.com suggesting players do to preserve their digital games?",
-        "options": [
-          "A. Buy physical copies from Sony",
-          "B. Download offline installers and save them to discs",
-          "C. Only purchase games from Ubisoft",
-          "D. Wait for PlayStation to continue disc production"
-        ],
-        "answer": 1,
-        "hint": "提示：查看GOG在X平台上的分享内容，他们具体建议了什么方法。"
-      }
-    },
-    "id": "article_1784069101602_xsfp",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
