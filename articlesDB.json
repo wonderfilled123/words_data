@@ -1,5 +1,86 @@
 [
   {
+    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+    "title_zh": "Cloudflare推出Kitesurf，一款专为AI代理设计的浏览器",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people.",
+            "zh": "Kitesurf是一款云端浏览器，专为AI代理而非人类设计。",
+            "grammar": "【语法要点】过去分词短语作后置定语",
+            "words": [
+              {
+                "word": "cloud-hosted",
+                "meaning": "adj. 云端托管的",
+                "phonetic": "/ˈklaʊd hoʊstɪd/"
+              },
+              {
+                "word": "designed",
+                "meaning": "v. 设计的（过去分词）",
+                "phonetic": "/dɪˈzaɪnd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+            "zh": "与Chromium相比，它在常见的自动化任务中使用更少的计算能力，帮助开发者更高效地构建基于浏览器的AI代理。",
+            "grammar": "【语法要点】现在分词短语作结果状语",
+            "words": [
+              {
+                "word": "automation",
+                "meaning": "n. 自动化",
+                "phonetic": "/ˌɔːtəˈmeɪʃən/"
+              },
+              {
+                "word": "efficiently",
+                "meaning": "adv. 高效地",
+                "phonetic": "/ɪˈfɪʃəntli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main advantage of Kitesurf compared to Chromium?",
+        "options": [
+          "A. It has more features for human users",
+          "B. It uses less computing power for automation tasks",
+          "C. It works faster on all websites",
+          "D. It requires no internet connection"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Kitesurf与Chromium在计算资源使用方面的对比。"
+      },
+      "translation_task": {
+        "en": "It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+        "zh": "与Chromium相比，它在常见的自动化任务中使用更少的计算能力，帮助开发者更高效地构建基于浏览器的AI代理。",
+        "valuable_point": "考察了比较级结构\"less than\"和现在分词短语作结果状语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What is the main advantage of Kitesurf compared to Chromium?",
+        "options": [
+          "A. It has more features for human users",
+          "B. It uses less computing power for automation tasks",
+          "C. It works faster on all websites",
+          "D. It requires no internet connection"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Kitesurf与Chromium在计算资源使用方面的对比。"
+      }
+    },
+    "id": "article_1786141411132_vdmj",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "OpenAI says Apple's own security practices undermine its trade secrets case",
     "title_zh": "OpenAI称苹果自身安全做法削弱了其商业秘密案",
     "level": "⭐⭐ 中级",
@@ -2272,81 +2353,5 @@
     "id": "article_1784155577278_0s56",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "title_zh": "苹果通过iOS 27公开测试版向所有人开放其新版Siri人工智能",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "If you've been waiting to try Apple's revamped Siri without installing a developer beta, you now can.",
-            "zh": "如果你一直想尝试苹果公司重新设计的Siri，但又不想安装开发者测试版，现在你就可以做到了。",
-            "grammar": "【条件状语从句】使用if引导的条件句，表达假设情况下的结果",
-            "words": [
-              {
-                "word": "revamped",
-                "meaning": "v. 改造；革新",
-                "phonetic": "/rɪˈvæmpt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software's official launch this fall.",
-            "zh": "该公司周二发布了iOS 27公开测试版，让iPhone用户能够在软件今年秋季正式发布前，提前体验其人工智能助手和其他新功能。",
-            "grammar": "【现在分词作结果状语】giving引导的分词短语表示前文动作带来的结果",
-            "words": [
-              {
-                "word": "beta",
-                "meaning": "n. 测试版；β",
-                "phonetic": "/ˈbeɪtə/"
-              },
-              {
-                "word": "AI-powered",
-                "meaning": "adj. 人工智能驱动的",
-                "phonetic": "/ˌeɪ aɪ ˈpaʊərd/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main purpose of the iOS 27 public beta release?",
-        "options": [
-          "A. To fix bugs in the previous iOS version",
-          "B. To allow iPhone users to try new features early",
-          "C. To replace the developer beta program",
-          "D. To announce the official launch date"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了测试版的目的和用户能获得的体验。"
-      },
-      "translation_task": {
-        "en": "The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software's official launch this fall.",
-        "zh": "该公司周二发布了iOS 27公开测试版，让iPhone用户能够在软件今年秋季正式发布前，提前体验其人工智能助手和其他新功能。",
-        "valuable_point": "考察了现在分词短语作结果状语的翻译技巧，以及长句中时间状语的处理方式。"
-      },
-      "quiz": {
-        "question": "What is the main purpose of the iOS 27 public beta release?",
-        "options": [
-          "A. To fix bugs in the previous iOS version",
-          "B. To allow iPhone users to try new features early",
-          "C. To replace the developer beta program",
-          "D. To announce the official launch date"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了测试版的目的和用户能获得的体验。"
-      }
-    },
-    "id": "article_1784069086213_l0e5",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
