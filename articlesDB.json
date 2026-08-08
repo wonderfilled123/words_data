@@ -1,5 +1,73 @@
 [
   {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "title_zh": "OpenAI表示因安全顾虑放缓Astra模型开发",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+            "zh": "OpenAI表示，这个仍在开发中的模型达到了\"关键网络安全阈值\"，意味着它可以独立识别并针对传统上受到良好保护的现实世界系统发动网络攻击。",
+            "grammar": "【定语从句】\"which is still in development\"作为定语从句修饰\"model\"；【现在分词短语】\"meaning it could...\"作为结果状语说明达到阈值的意义。",
+            "words": [
+              {
+                "word": "cybersecurity",
+                "meaning": "n. 网络安全",
+                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
+              },
+              {
+                "word": "threshold",
+                "meaning": "n. 阈值；门槛",
+                "phonetic": "/ˈθreʃhoʊld/"
+              },
+              {
+                "word": "independently",
+                "meaning": "adv. 独立地；自主地",
+                "phonetic": "/ˌɪndɪˈpendəntli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why did OpenAI slow down the development of the Astra model?",
+        "options": [
+          "A. Because the model was not performing well",
+          "B. Due to critical cybersecurity concerns",
+          "C. Because they needed more funding",
+          "D. As the model was already completed"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了模型达到了某个安全阈值，这导致了开发速度的放缓。"
+      },
+      "translation_task": {
+        "en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+        "zh": "OpenAI表示，这个仍在开发中的模型达到了\"关键网络安全阈值\"，意味着它可以独立识别并针对传统上受到良好保护的现实世界系统发动网络攻击。",
+        "valuable_point": "考察了定语从句\"which is still in development\"的翻译处理和现在分词短语\"meaning it could...\"的逻辑关系表达。"
+      },
+      "quiz": {
+        "question": "Why did OpenAI slow down the development of the Astra model?",
+        "options": [
+          "A. Because the model was not performing well",
+          "B. Due to critical cybersecurity concerns",
+          "C. Because they needed more funding",
+          "D. As the model was already completed"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了模型达到了某个安全阈值，这导致了开发速度的放缓。"
+      }
+    },
+    "id": "article_1786227356956_hx7m",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
     "title_zh": "Cloudflare推出Kitesurf，一款专为AI代理设计的浏览器",
     "level": "⭐⭐ 中级",
@@ -2239,119 +2307,5 @@
     "id": "article_1784241966416_2ixv",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Your First Chance To Play The Duskbloods Early Is Next Month",
-    "title_zh": "下月你将首次有机会提前体验《暗血》",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "From Software's upcoming game The Duskbloods looks be quite the departure from the studio's previous work, and if you want a chance to play it ahead of its official launch, you'll soon have your chance.",
-            "zh": "From Software即将推出的游戏《暗血》似乎与该工作室以往的作品有很大不同，如果你想有机会在官方发布前体验这款游戏，你很快就会有这个机会。",
-            "grammar": "【语法要点】复合句，包含if引导的条件状语从句",
-            "words": [
-              {
-                "word": "departure",
-                "meaning": "n. 背离，差异",
-                "phonetic": "/dɪˈpɑːrtʃər/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The game will be running a closed network test in August, with registration for a chance to participate starting very soon.",
-            "zh": "这款游戏将于8月进行封闭网络测试，参与测试的注册即将很快开始。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The Duskbloods' closed network test will run from August 21-23, and will feature support for eight-player multiplayer sessions.",
-            "zh": "《暗血》的封闭网络测试将于8月21日至23日进行，并将支持八人多人游戏会话。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "multiplayer",
-                "meaning": "adj. 多人游戏的",
-                "phonetic": "/ˈmʌltipleɪər/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "An application period will run from July 22-28, and participation requires a Nintendo Switch 2 system and an active Nintendo Switch Online subscription.",
-            "zh": "申请期将从7月22日持续到28日，参与测试需要拥有任天堂Switch 2系统和有效的任天堂Switch在线订阅服务。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "subscription",
-                "meaning": "n. 订阅，订阅服务",
-                "phonetic": "/səbˈskrɪpʃn/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "From Software says the closed network test will be focused on a few key areas: server load, multiplayer problem-solving, and game balance.",
-            "zh": "From Software表示，封闭网络测试将专注于几个关键领域：服务器负载、多人游戏问题解决和游戏平衡性。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "balance",
-                "meaning": "n. 平衡，均衡",
-                "phonetic": "/ˈbæləns/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What are the key focus areas of The Duskbloods' closed network test?",
-        "options": [
-          "A. Graphics quality, sound design, and story elements",
-          "B. Server load, multiplayer problem-solving, and game balance",
-          "C. Character customization, weapon variety, and level design",
-          "D. Online connectivity, user interface, and controller compatibility"
-        ],
-        "answer": 1,
-        "hint": "提示：请查看文章中明确提到的测试重点内容。"
-      },
-      "translation_task": {
-        "en": "From Software's upcoming game The Duskbloods looks be quite the departure from the studio's previous work, and if you want a chance to play it ahead of its official launch, you'll soon have your chance.",
-        "zh": "From Software即将推出的游戏《暗血》似乎与该工作室以往的作品有很大不同，如果你想有机会在官方发布前体验这款游戏，你很快就会有这个机会。",
-        "valuable_point": "考察了复合句的翻译，特别是if引导的条件状语从句的翻译技巧，以及departure一词在游戏语境下的准确表达。"
-      },
-      "quiz": {
-        "question": "What are the key focus areas of The Duskbloods' closed network test?",
-        "options": [
-          "A. Graphics quality, sound design, and story elements",
-          "B. Server load, multiplayer problem-solving, and game balance",
-          "C. Character customization, weapon variety, and level design",
-          "D. Online connectivity, user interface, and controller compatibility"
-        ],
-        "answer": 1,
-        "hint": "提示：请查看文章中明确提到的测试重点内容。"
-      }
-    },
-    "id": "article_1784155577278_0s56",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
