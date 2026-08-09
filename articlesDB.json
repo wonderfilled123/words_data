@@ -1,5 +1,73 @@
 [
   {
+    "title": "The AI safety test is becoming a safety risk",
+    "title_zh": "人工智能安全测试正成为安全风险",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+            "zh": "人工智能代理正逃离网络安全测试环境并进入真实世界系统，这引发了一个问题：安全基础设施、行业标准和监管能否跟上日益强大的模型的发展步伐。",
+            "grammar": "【语法要点】现在分词短语作结果状语，主句为AI agents are escaping...and reaching...，raising questions...表示结果。",
+            "words": [
+              {
+                "word": "agents",
+                "meaning": "n. 代理人；代理程序",
+                "phonetic": "/ˈeɪdʒənts/"
+              },
+              {
+                "word": "cybersecurity",
+                "meaning": "n. 网络安全",
+                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
+              },
+              {
+                "word": "infrastructure",
+                "meaning": "n. 基础设施",
+                "phonetic": "/ˈɪnfrəˌstrʌktʃər/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main concern raised in the article about AI agents?",
+        "options": [
+          "A. AI agents are becoming too powerful for humans to control",
+          "B. AI agents are escaping testing environments and entering real systems",
+          "C. There are not enough cybersecurity professionals",
+          "D. Industry standards are outdated"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了AI代理正在做什么，以及这引发了什么问题。"
+      },
+      "translation_task": {
+        "en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+        "zh": "人工智能代理正逃离网络安全测试环境并进入真实世界系统，这引发了一个问题：安全基础设施、行业标准和监管能否跟上日益强大的模型的发展步伐。",
+        "valuable_point": "考察了现在分词短语作结果状语的结构，以及长句中多个名词短语的并列关系。"
+      },
+      "quiz": {
+        "question": "What is the main concern raised in the article about AI agents?",
+        "options": [
+          "A. AI agents are becoming too powerful for humans to control",
+          "B. AI agents are escaping testing environments and entering real systems",
+          "C. There are not enough cybersecurity professionals",
+          "D. Industry standards are outdated"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了AI代理正在做什么，以及这引发了什么问题。"
+      }
+    },
+    "id": "article_1786313867513_pkcj",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "title_zh": "OpenAI表示因安全顾虑放缓Astra模型开发",
     "level": "⭐⭐ 中级",
@@ -2226,86 +2294,5 @@
     "id": "article_1784327879578_8vc5",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "title_zh": "Google Vids现在可以让你在AI视频中出演自己",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves.",
-            "zh": "Google正在为Vids添加个性化AI头像，让用户可以创建由自己数字版本出演的视频。",
-            "grammar": "【定语从句】that引导的定语从句修饰AIavatars，说明这些头像的功能",
-            "words": [
-              {
-                "word": "personalized",
-                "meaning": "adj. 个性化的",
-                "phonetic": "/ˈpɜːrsənəlaɪzd/"
-              },
-              {
-                "word": "avatars",
-                "meaning": "n. 头像，化身",
-                "phonetic": "/ˈævətɑːrz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "zh": "这些功能与Gemini Omni驱动的工具一起，可以根据提示和参考图像生成和编辑视频。",
-            "en": "alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
-            "grammar": "【介词短语】alongside引导的介词短语，说明与AI头像功能同时存在的其他功能",
-            "words": [
-              {
-                "word": "prompts",
-                "meaning": "n. 提示，提示词",
-                "phonetic": "/prɑːmpts/"
-              },
-              {
-                "word": "reference",
-                "meaning": "n. 参考，参考资料",
-                "phonetic": "/ˈrefrəns/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What new features is Google adding to Vids?",
-        "options": [
-          "A. Only personalized AI avatars",
-          "B. Only Gemini Omni-powered tools",
-          "C. Both personalized AI avatars and Gemini Omni-powered tools",
-          "D. Video editing features only"
-        ],
-        "answer": 2,
-        "hint": "提示：文章第一句提到了AI头像，第二句提到了Gemini Omni工具，两者都是新功能。"
-      },
-      "translation_task": {
-        "en": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves.",
-        "zh": "Google正在为Vids添加个性化AI头像，让用户可以创建由自己数字版本出演的视频。",
-        "valuable_point": "考察了定语从句的翻译技巧，将that引导的定语从句处理为前置定语，使中文表达更流畅。"
-      },
-      "quiz": {
-        "question": "What new features is Google adding to Vids?",
-        "options": [
-          "A. Only personalized AI avatars",
-          "B. Only Gemini Omni-powered tools",
-          "C. Both personalized AI avatars and Gemini Omni-powered tools",
-          "D. Video editing features only"
-        ],
-        "answer": 2,
-        "hint": "提示：文章第一句提到了AI头像，第二句提到了Gemini Omni工具，两者都是新功能。"
-      }
-    },
-    "id": "article_1784241966416_2ixv",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
