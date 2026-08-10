@@ -1,5 +1,131 @@
 [
   {
+    "title": "Indie Games Are Breaking Out–But It's Still Tough Out There",
+    "title_zh": "独立游戏正在崛起——但前路依然艰难",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Developer House House and publisher Panic announced today that their co-op multiplayer puzzle/exploration/goof-around game Big Walk has achieved huge sales success in just under a week.",
+            "zh": "开发商House House和发行商Panic今天宣布，他们的合作多人益智/探索/搞笑游戏《Big Walk》在不到一周的时间内取得了巨大的销售成功。",
+            "grammar": "【语法要点】宾语从句：that引导的从句作为announced的宾语，包含多个复合形容词修饰game",
+            "words": [
+              {
+                "word": "co-op",
+                "meaning": "adj. 合作式的",
+                "phonetic": "/ˈkoʊ.ɑːp/"
+              },
+              {
+                "word": "goof-around",
+                "meaning": "adj. 搞笑的，嬉闹的",
+                "phonetic": "/ˈɡuːf.ə.raʊnd/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "In a post on Bluesky, Panic announced that Big Walk has already passed over one million units in sales.",
+            "zh": "在Bluesky上的一篇帖子中，Panic宣布《Big Walk》的销量已经超过了一百万份。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "For small development teams and publishers, one million is a tremendous milestone--one that plenty of big commercial releases from major publishers often fail to reach.",
+            "zh": "对于小型开发团队和发行商来说，一百万是一个巨大的里程碑——许多来自大型商业发行商的重要作品都未能达到这一数字。",
+            "grammar": "【语法要点】破折号后的同位语：one that...用来解释milestone的具体含义",
+            "words": [
+              {
+                "word": "tremendous",
+                "meaning": "adj. 巨大的，惊人的",
+                "phonetic": "/trəˈmendəs/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "But we've seen a fair few massive indie hits in 2026 so far.",
+            "zh": "但2026年以来，我们已经看到了相当多的大型独立游戏成功案例。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Today the official X account of Ball X Pit posted that they've just crossed 2 million in sales while also teasing future content updates.",
+            "zh": "今天，Ball X Pit的官方X账户发布消息称，他们的销量刚刚突破200万，同时还在暗示未来的内容更新。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "teasing",
+                "meaning": "v. 暗示，逗弄",
+                "phonetic": "/ˈtiːzɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Bizarre raising sim/RPG hybrid Mewgenics also crossed the million mark, reportedly earning back its development cost in a matter of mere hours.",
+            "zh": "另类养成模拟/RPG混合游戏《Mewgenics》也突破了百万销量，据报道在短短几小时内就收回了开发成本。",
+            "grammar": "【语法要点】现在分词短语作结果状语：reportedly earning back...",
+            "words": [
+              {
+                "word": "hybrid",
+                "meaning": "n. 混合物，混合体",
+                "phonetic": "/ˈhaɪbrɪd/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the article, which game has crossed 2 million in sales?",
+        "options": [
+          "A. Big Walk",
+          "B. Mewgenics",
+          "C. Ball X Pit",
+          "D. House House"
+        ],
+        "answer": 2,
+        "hint": "提示：请仔细阅读第二段，寻找提到销量突破200万的游戏名称。"
+      },
+      "translation_task": {
+        "en": "For small development teams and publishers, one million is a tremendous milestone--one that plenty of big commercial releases from major publishers often fail to reach.",
+        "zh": "对于小型开发团队和发行商来说，一百万是一个巨大的里程碑——许多来自大型商业发行商的重要作品都未能达到这一数字。",
+        "valuable_point": "考察了破折号后同位语结构的翻译技巧，以及fail to reach这一否定表达的自然转换。"
+      },
+      "quiz": {
+        "question": "According to the article, which game has crossed 2 million in sales?",
+        "options": [
+          "A. Big Walk",
+          "B. Mewgenics",
+          "C. Ball X Pit",
+          "D. House House"
+        ],
+        "answer": 2,
+        "hint": "提示：请仔细阅读第二段，寻找提到销量突破200万的游戏名称。"
+      }
+    },
+    "id": "article_1786400694335_p9op",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "The AI safety test is becoming a safety risk",
     "title_zh": "人工智能安全测试正成为安全风险",
     "level": "⭐⭐ 中级",
@@ -2167,132 +2293,5 @@
     "id": "article_1784327853463_6zj7",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
-    "title_zh": "《马拉松》游戏总监在动荡时期离开Bungie",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.",
-            "zh": "《马拉松》游戏总监乔·齐格勒宣布他将离开Bungie去从事新工作，而他的离职正值该工作室的动荡时期。",
-            "grammar": "【现在完成时】使用现在完成时表示过去发生但与现在有联系的动作",
-            "words": [
-              {
-                "word": "tumultuous",
-                "meaning": "adj. 激烈的，动荡的",
-                "phonetic": "/tjuːˈmʌltʃuəs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Ziegler said in a note that taking over for him as game director on Marathon will be Del Chafe III, who was previously the assistant game director.",
-            "zh": "齐格勒在一份声明中表示，接替他担任《马拉松》游戏总监的是德尔·查夫三世，他此前担任助理游戏总监。",
-            "grammar": "【宾语从句】使用that引导的宾语从句作为said的宾语",
-            "words": [
-              {
-                "word": "director",
-                "meaning": "n. 总监，主任",
-                "phonetic": "/dəˈrektər/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Chafe III will work alongside creative director Julia Nardin to \"guide the game forward.\"",
-            "zh": "查夫三世将与创意总监朱莉娅·南丁合作，\"引导游戏向前发展\"。",
-            "grammar": "【介词短语】alongside表示\"与...一起\"，表示合作关系",
-            "words": [
-              {
-                "word": "alongside",
-                "meaning": "prep. 与...一起，在...旁边",
-                "phonetic": "/əˌlɔŋˈsaɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"Both of them have been operating in a strong leadership capacity for the team and are ready to guide Marathon into the next chapter with an even better and brighter future,\" Ziegler said.",
-            "zh": "齐格勒说：\"他们两人一直在团队中发挥强有力的领导作用，并准备好引导《马拉松》进入下一个篇章，拥有更美好、更光明的未来。\"",
-            "grammar": "【现在完成进行时】have been operating表示从过去开始一直持续到现在的动作",
-            "words": [
-              {
-                "word": "capacity",
-                "meaning": "n. 能力，职位",
-                "phonetic": "/kəˈpæsəti/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "\"I'm proud of them and I'm excited to see them helm the future of this crazy little world we've created together.\"",
-            "zh": "\"我为他们感到骄傲，并期待看到他们掌管我们共同创造的这个疯狂小世界的未来。\"",
-            "grammar": "【不定式】be excited to do sth表示\"对做某事感到兴奋\"",
-            "words": [
-              {
-                "word": "helm",
-                "meaning": "v. 掌管，领导",
-                "phonetic": "/helm/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Marathon has lost another game director.",
-            "zh": "《马拉松》又失去了一位游戏总监。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Who will replace Joe Ziegler as the game director for Marathon?",
-        "options": [
-          "A. Julia Nardin",
-          "B. Del Chafe III",
-          "C. The assistant game director",
-          "D. A new hire from outside Bungie"
-        ],
-        "answer": 1,
-        "hint": "提示：请查找文章中关于接替齐格勒担任游戏总监的具体人选。"
-      },
-      "translation_task": {
-        "en": "\"Both of them have been operating in a strong leadership capacity for the team and are ready to guide Marathon into the next chapter with an even better and brighter future,\" Ziegler said.",
-        "zh": "齐格勒说：\"他们两人一直在团队中发挥强有力的领导作用，并准备好引导《马拉松》进入下一个篇章，拥有更美好、更光明的未来。\"",
-        "valuable_point": "考察了现在完成进行时(have been operating)和介词短语(in a strong leadership capacity)的翻译，以及引语的完整转换。"
-      },
-      "quiz": {
-        "question": "Who will replace Joe Ziegler as the game director for Marathon?",
-        "options": [
-          "A. Julia Nardin",
-          "B. Del Chafe III",
-          "C. The assistant game director",
-          "D. A new hire from outside Bungie"
-        ],
-        "answer": 1,
-        "hint": "提示：请查找文章中关于接替齐格勒担任游戏总监的具体人选。"
-      }
-    },
-    "id": "article_1784327879578_8vc5",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
