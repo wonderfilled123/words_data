@@ -1,5 +1,208 @@
 [
   {
+    "title": "Google's Gemini App Surges to 1 Billion Users",
+    "title_zh": "谷歌Gemini应用用户突破10亿",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature.",
+            "zh": "谷歌还分享了人们实际使用聊天机器人的数据，其中63%的Gemini用户通过语音功能直接与助手对话。",
+            "grammar": "【语法要点】with引导的独立主格结构，表示伴随情况",
+            "words": [
+              {
+                "word": "chatbot",
+                "meaning": "n. 聊天机器人",
+                "phonetic": "/ˈtʃætbɒt/"
+              },
+              {
+                "word": "assistant",
+                "meaning": "n. 助手；助理",
+                "phonetic": "/əˈsɪstənt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Plus, Gemini now generates more than 150 million images every day, according to Google.",
+            "zh": "此外，根据谷歌的数据，Gemini现在每天生成超过1.5亿张图片。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "generates",
+                "meaning": "v. 生成；产生",
+                "phonetic": "/ˈdʒenəreɪts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What percentage of Gemini users use the voice feature to interact with the assistant?",
+        "options": [
+          "A. 50%",
+          "B. 63%",
+          "C. 75%",
+          "D. 90%"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了使用语音功能的用户比例。"
+      },
+      "translation_task": {
+        "en": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature.",
+        "zh": "谷歌还分享了人们实际使用聊天机器人的数据，其中63%的Gemini用户通过语音功能直接与助手对话。",
+        "valuable_point": "考察了with引导的独立主格结构在翻译中的处理方式，以及如何将英文长句拆分为符合中文表达习惯的短句。"
+      },
+      "quiz": {
+        "question": "What percentage of Gemini users use the voice feature to interact with the assistant?",
+        "options": [
+          "A. 50%",
+          "B. 63%",
+          "C. 75%",
+          "D. 90%"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了使用语音功能的用户比例。"
+      }
+    },
+    "id": "article_1786487384291_7alx",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "The Elder Scrolls 6 Might Have An 8-Letter Subtitle",
+    "title_zh": "《上古卷轴6》可能有一个8字母的副标题",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The Elder Scrolls 6 is one of Microsoft's biggest upcoming games, but it remains largely a mystery, despite being announced more than eight years ago.",
+            "zh": "《上古卷轴6》是微软最大的即将推出的游戏之一，但尽管它早在八多年前就已公布，它仍然 largely 是一个谜。",
+            "grammar": "【语法要点】despite引导的让步状语从句，表示尽管有某种情况，但主句的情况仍然成立。",
+            "words": [
+              {
+                "word": "mystery",
+                "meaning": "n. 谁都不知道的事；秘密",
+                "phonetic": "/ˈmɪstəri/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Today, August 11, Xbox CEO Asha Sharma provided an update on it, saying she witnessed a \"live playthrough\" of the game.",
+            "zh": "今天，8月11日，Xbox首席执行官Asha Sharma提供了关于这款游戏的更新，说她见证了一场游戏的\"实机演示\"。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "playthrough",
+                "meaning": "n. 游戏全程演示；通关过程",
+                "phonetic": "/ˈpleɪθruː/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "She also teased the game's subtitle, or at least that's what it seems like.",
+            "zh": "她还暗示了游戏的副标题，或者至少看起来是这样。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"The scale and grandeur are incredible. The story is even greater,\" she said.",
+            "zh": "\"规模和宏伟程度令人难以置信。故事更加精彩，\"她说。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "grandeur",
+                "meaning": "n. 宏伟；壮丽",
+                "phonetic": "/ˈɡrændʒər/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Those are buzzwords that do not mean much of anything.",
+            "zh": "这些只是流行词，并没有太多实际意义。",
+            "grammar": "【语法要点】that引导的定语从句修饰buzzwords，表示这些词的特点。",
+            "words": [
+              {
+                "word": "buzzwords",
+                "meaning": "n. 流行词；时髦术语",
+                "phonetic": "/ˈbʌzwɜːrdz/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "More intriguingly, Sharma included asterisks in her post that suggest she's referring to the game's subtitle.",
+            "zh": "更有趣的是，Sharma在她的帖子中包含了星号，这表明她指的是游戏的副标题。",
+            "grammar": "【语法要点】that引导的定语从句修饰asterisks，说明星号的作用。",
+            "words": [
+              {
+                "word": "intriguingly",
+                "meaning": "adv. 有趣地；引人入胜地",
+                "phonetic": "/ɪnˈtriːɡɪŋli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What did Xbox CEO Asha Sharma reveal about The Elder Scrolls 6?",
+        "options": [
+          "A. The exact release date of the game",
+          "B. That she witnessed a live playthrough of the game",
+          "C. The full plot of the game",
+          "D. The official subtitle of the game"
+        ],
+        "answer": 1,
+        "hint": "提示：注意文章中提到的Asha Sharma提供的更新内容，特别是关于她亲眼看到的部分。"
+      },
+      "translation_task": {
+        "en": "More intriguingly, Sharma included asterisks in her post that suggest she's referring to the game's subtitle.",
+        "zh": "更有趣的是，Sharma在她的帖子中包含了星号，这表明她指的是游戏的副标题。",
+        "valuable_point": "考察了定语从句的翻译技巧，that引导的定语从句修饰asterisks，在翻译时需要调整语序以符合中文表达习惯。"
+      },
+      "quiz": {
+        "question": "What did Xbox CEO Asha Sharma reveal about The Elder Scrolls 6?",
+        "options": [
+          "A. The exact release date of the game",
+          "B. That she witnessed a live playthrough of the game",
+          "C. The full plot of the game",
+          "D. The official subtitle of the game"
+        ],
+        "answer": 1,
+        "hint": "提示：注意文章中提到的Asha Sharma提供的更新内容，特别是关于她亲眼看到的部分。"
+      }
+    },
+    "id": "article_1786487399184_8sdk",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Indie Games Are Breaking Out–But It's Still Tough Out There",
     "title_zh": "独立游戏正在崛起——但前路依然艰难",
     "level": "⭐⭐ 中级",
@@ -2093,204 +2296,6 @@
       }
     },
     "id": "article_1784500792060_wihn",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
-    "title_zh": "苹果的大规模诉讼可能如何扰乱OpenAI的IPO计划",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
-            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
-            "grammar": "【语法要点】现在完成时态表达近期发生且持续影响的事件；'not messing around'为非正式表达，表示'严肃对待，不闹着玩'",
-            "words": [
-              {
-                "word": "lawsuit",
-                "meaning": "n. 诉讼",
-                "phonetic": "/ˈlɔːsuːt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-            "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在这家公司工作。",
-            "grammar": "【语法要点】现在分词短语'reaching all the way up to'作后置定语；'claims'在此处为动词，表示'声称'",
-            "words": [
-              {
-                "word": "alleges",
-                "meaning": "v. 断言，指控",
-                "phonetic": "/əˈledʒz/"
-              },
-              {
-                "word": "misconduct",
-                "meaning": "n. 不当行为，渎职",
-                "phonetic": "/ˌmɪsˈkɒndʌkt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an [...]",
-            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，因为据报道该公司正考虑进行IPO[...]",
-            "grammar": "【语法要点】'couldn't be worse'为最高级表达；'with'引导的独立主格结构表示伴随情况",
-            "words": [
-              {
-                "word": "hedged",
-                "meaning": "adj. 谨慎的，含糊的",
-                "phonetic": "/hedʒd/"
-              },
-              {
-                "word": "eyeing",
-                "meaning": "v. 看中，考虑",
-                "phonetic": "/ˈaɪɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
-        "options": [
-          "A. It has caused OpenAI to lose many of its employees",
-          "B. It has disrupted OpenAI's IPO plans at a critical time",
-          "C. It has led to the resignation of OpenAI's chief hardware officer",
-          "D. It has forced OpenAI to change its business model"
-        ],
-        "answer": 1,
-        "hint": "提示：文章最后一句提到了诉讼时机对OpenAI的IPO计划的影响。"
-      },
-      "translation_task": {
-        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-        "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在这家公司工作。",
-        "valuable_point": "考察了英语中长句的翻译技巧，特别是如何处理现在分词短语作后置定语和动词'claims'在不同语境下的含义。"
-      },
-      "quiz": {
-        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
-        "options": [
-          "A. It has caused OpenAI to lose many of its employees",
-          "B. It has disrupted OpenAI's IPO plans at a critical time",
-          "C. It has led to the resignation of OpenAI's chief hardware officer",
-          "D. It has forced OpenAI to change its business model"
-        ],
-        "answer": 1,
-        "hint": "提示：文章最后一句提到了诉讼时机对OpenAI的IPO计划的影响。"
-      }
-    },
-    "id": "article_1784414212647_fkgq",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
-    "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
-            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
-            "grammar": "【语法要点】现在完成时与一般过去时的对比使用，以及非正式表达\"not messing around\"的用法。",
-            "words": [
-              {
-                "word": "lawsuit",
-                "meaning": "n. 诉讼",
-                "phonetic": "/ˈlɔːsuːt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-            "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
-            "grammar": "【语法要点】现在分词短语\"reaching all the way up to\"作为后置定语修饰\"pattern of misconduct\"，以及\"claims\"引导的宾语从句。",
-            "words": [
-              {
-                "word": "alleges",
-                "meaning": "v. 断言，指控",
-                "phonetic": "/əˈledʒz/"
-              },
-              {
-                "word": "misconduct",
-                "meaning": "n. 不当行为，渎职",
-                "phonetic": "/ˌmɪsˈkɒndʌkt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an IPO [...]",
-            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，因为据报道该公司正考虑进行IPO[...]",
-            "grammar": "【语法要点】\"couldn't be worse\"表示最高程度的负面评价，\"with + 名词 + 分词结构\"表示伴随情况。",
-            "words": [
-              {
-                "word": "hedged",
-                "meaning": "adj. 谨慎的，含糊的",
-                "phonetic": "/hedʒd/"
-              },
-              {
-                "word": "eyeing",
-                "meaning": "v. 注视，考虑",
-                "phonetic": "/ˈaɪɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
-        "options": [
-          "A. It has caused OpenAI to lose many of its employees",
-          "B. It has disrupted OpenAI's IPO plans at a critical time",
-          "C. It has led to the resignation of OpenAI's chief hardware officer",
-          "D. It has forced OpenAI to change its business model"
-        ],
-        "answer": 1,
-        "hint": "提示：文章最后一句提到了诉讼时机和IPO计划的关系。"
-      },
-      "translation_task": {
-        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-        "zh": "该诉讼指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
-        "valuable_point": "考察了英语长句的翻译技巧，特别是\"reaching all the way up to\"这个表示程度递进的短语翻译，以及\"claims\"引导的宾语从句的处理方式。"
-      },
-      "quiz": {
-        "question": "What is the main impact of Apple's lawsuit on OpenAI according to the article?",
-        "options": [
-          "A. It has caused OpenAI to lose many of its employees",
-          "B. It has disrupted OpenAI's IPO plans at a critical time",
-          "C. It has led to the resignation of OpenAI's chief hardware officer",
-          "D. It has forced OpenAI to change its business model"
-        ],
-        "answer": 1,
-        "hint": "提示：文章最后一句提到了诉讼时机和IPO计划的关系。"
-      }
-    },
-    "id": "article_1784327853463_6zj7",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
