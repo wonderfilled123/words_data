@@ -1,5 +1,117 @@
 [
   {
+    "title": "Why Stream-ring-maker Sandbar says the future of AI wearables is voice",
+    "title_zh": "为什么流媒体戒指制造商Sandbar表示AI可穿戴设备的未来是语音",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
+            "zh": "过去几年里，AI笔记硬件已经兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳塞都承诺能够捕捉您的会议并将其转化为摘要和行动项目。",
+            "grammar": "【语法要点】现在完成进行时态表示从过去开始持续到现在的动作，with引导的独立主格结构作伴随状语",
+            "words": [
+              {
+                "word": "notetaking",
+                "meaning": "n. 笔记记录",
+                "phonetic": "/ˈnoʊtˌteɪkɪŋ/"
+              },
+              {
+                "word": "transcribing",
+                "meaning": "v. 转录，抄写",
+                "phonetic": "/trænˈskraɪbɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.",
+            "zh": "现在，一系列可穿戴设备——尤其是戒指——正在赌人们会以同样的方式捕捉零散的想法和创意。",
+            "grammar": "破折号插入语补充说明主语，现在进行时表示正在进行的动作或趋势",
+            "words": [
+              {
+                "word": "wearables",
+                "meaning": "n. 可穿戴设备",
+                "phonetic": "/ˈwerəbəlz/"
+              },
+              {
+                "word": "stray",
+                "meaning": "adj. 零散的，偶然的",
+                "phonetic": "/streɪ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "One of [...] is Sandbar, a startup that makes a smart ring called Stream.",
+            "zh": "其中之一是Sandbar，一家制造名为Stream的智能戒指的初创公司。",
+            "grammar": "同位语结构解释说明主语，that引导定语从句修饰startup",
+            "words": [
+              {
+                "word": "startup",
+                "meaning": "n. 初创公司",
+                "phonetic": "/ˈstɑːrtʌp/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Sandbar's co-founder and CEO, Chris Nooy, believes voice is the future of AI wearables because it's the most natural way for humans to interact with technology.",
+            "zh": "Sandbar的联合创始人兼CEO克里斯·努伊认为语音是AI可穿戴设备的未来，因为这是人类与技术互动最自然的方式。",
+            "grammar": "同位语结构说明人物身份，because引导原因状语从句",
+            "words": [
+              {
+                "word": "co-founder",
+                "meaning": "n. 联合创始人",
+                "phonetic": "/ˌkoʊˈfaʊndər/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the article, what does Sandbar believe is the future of AI wearables?",
+        "options": [
+          "A. Credit-card-sized devices",
+          "B. Voice interaction",
+          "C. Transcribing earbuds",
+          "D. Smart rings"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注Sandbar公司CEO的观点，文中明确提到了他对AI可穿戴设备未来的看法。"
+      },
+      "translation_task": {
+        "en": "Sandbar's co-founder and CEO, Chris Nooy, believes voice is the future of AI wearables because it's the most natural way for humans to interact with technology.",
+        "zh": "Sandbar的联合创始人兼CEO克里斯·努伊认为语音是AI可穿戴设备的未来，因为这是人类与技术互动最自然的方式。",
+        "valuable_point": "考察了同位语结构（Sandbar's co-founder and CEO, Chris Nooy）和原因状语从句（because引导）的翻译技巧。"
+      },
+      "quiz": {
+        "question": "According to the article, what does Sandbar believe is the future of AI wearables?",
+        "options": [
+          "A. Credit-card-sized devices",
+          "B. Voice interaction",
+          "C. Transcribing earbuds",
+          "D. Smart rings"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注Sandbar公司CEO的观点，文中明确提到了他对AI可穿戴设备未来的看法。"
+      }
+    },
+    "id": "article_1786660156224_6in0",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Why Stream-maker Sandbar says the future of AI wearables is voice",
     "title_zh": "为什么流媒体设备制造商Sandbar认为AI可穿戴设备的未来在于语音",
     "level": "⭐⭐ 中级",
@@ -2205,110 +2317,6 @@
       }
     },
     "id": "article_1784673798605_2tnx",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "How Apple's big lawsuit could disrupt OpenAI's IPO plans",
-    "title_zh": "苹果的大规模诉讼如何可能扰乱OpenAI的IPO计划",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it's not messing around.",
-            "zh": "苹果上周五对OpenAI提起商业秘密诉讼，而且这次是认真的。",
-            "grammar": "【语法要点】现在进行时表强调，表示苹果的行动是严肃的、非儿戏的。",
-            "words": [
-              {
-                "word": "lawsuit",
-                "meaning": "n. 诉讼",
-                "phonetic": "/ˈlɔːsuːt/"
-              },
-              {
-                "word": "messing around",
-                "meaning": "phr. 玩闹，不认真对待",
-                "phonetic": "/ˈmesɪŋ əˈraʊnd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-            "zh": "该投诉指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
-            "grammar": "【语法要点】复合句，包含两个并列谓语动词alleges和claims，现在分词短语reaching作后置修饰。",
-            "words": [
-              {
-                "word": "alleges",
-                "meaning": "v. 指控，声称",
-                "phonetic": "/əˈledʒz/"
-              },
-              {
-                "word": "misconduct",
-                "meaning": "n. 不当行为，渎职",
-                "phonetic": "/ˌmɪsˈkɒndʌkt/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "OpenAI's response so far has been carefully hedged, and the timing couldn't be worse with the company reportedly eyeing an [...]",
-            "zh": "OpenAI迄今为止的回应一直非常谨慎，而时机再糟糕不过了，据报道该公司正考虑进行首次公开募股[...]",
-            "grammar": "【语法要点】并列句，第二个分句包含with复合结构，eyeing在此处为现在分词作后置修饰。",
-            "words": [
-              {
-                "word": "hedged",
-                "meaning": "adj. 谨慎的，含糊的",
-                "phonetic": "/hedʒd/"
-              },
-              {
-                "word": "eyeing",
-                "meaning": "v. 注视，考虑",
-                "phonetic": "/ˈaɪɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main issue between Apple and OpenAI according to the article?",
-        "options": [
-          "A. OpenAI has been using Apple's technology without permission",
-          "B. Apple is concerned about OpenAI's IPO timing",
-          "C. OpenAI has hired too many former Apple employees",
-          "D. Apple has filed a trade secrets lawsuit against OpenAI"
-        ],
-        "answer": 3,
-        "hint": "提示：文章第一句就明确指出了苹果对OpenAI采取的法律行动。"
-      },
-      "translation_task": {
-        "en": "The complaint alleges a pattern of misconduct reaching all the way up to OpenAI's chief hardware officer and claims more than 400 former Apple employees now work at the company.",
-        "zh": "该投诉指控存在不当行为模式，甚至涉及OpenAI的首席硬件官，并声称有超过400名前苹果员工现在在该公司工作。",
-        "valuable_point": "考察了英语中复合句的翻译技巧，特别是现在分词短语作后置修饰和并列谓语的处理。"
-      },
-      "quiz": {
-        "question": "What is the main issue between Apple and OpenAI according to the article?",
-        "options": [
-          "A. OpenAI has been using Apple's technology without permission",
-          "B. Apple is concerned about OpenAI's IPO timing",
-          "C. OpenAI has hired too many former Apple employees",
-          "D. Apple has filed a trade secrets lawsuit against OpenAI"
-        ],
-        "answer": 3,
-        "hint": "提示：文章第一句就明确指出了苹果对OpenAI采取的法律行动。"
-      }
-    },
-    "id": "article_1784587478890_soqa",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
