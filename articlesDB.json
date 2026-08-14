@@ -1,5 +1,228 @@
 [
   {
+    "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
+    "title_zh": "扎克伯格真的相信人工智能是'为所有人'的吗？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
+            "zh": "本周，Meta发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行。",
+            "grammar": "【语法要点】同位语结构，'an open-weight AI model'是Glimmer的同位语，进一步解释说明。",
+            "words": [
+              {
+                "word": "released",
+                "meaning": "v. 发布，发行",
+                "phonetic": "/rɪˈliːst/"
+              },
+              {
+                "word": "open-weight",
+                "meaning": "adj. 开放权重的（指AI模型参数可公开获取）",
+                "phonetic": "/ˈəʊpən weɪt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "This is a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
+            "zh": "这与Muse Spark形成对比，后者是该公司更强大的模型，一直被锁定在其自己的API后面。",
+            "grammar": "【语法要点】定语从句，'that stays locked behind its own APIs'修饰'model'。",
+            "words": [
+              {
+                "word": "contrast",
+                "meaning": "n. 对比，差异",
+                "phonetic": "/ˈkɒntræst/"
+              },
+              {
+                "word": "powerful",
+                "meaning": "adj. 强大的，功能强大的",
+                "phonetic": "/ˈpaʊəfəl/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
+            "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该'为所有人'，而不是由少数几家实验室控制。",
+            "grammar": "【语法要点】现在分词短语作伴随状语，'arguing...'修饰'letter'。",
+            "words": [
+              {
+                "word": "alongside",
+                "meaning": "prep. 与...一起， alongside",
+                "phonetic": "/əˌlɒŋˈsaɪd/"
+              },
+              {
+                "word": "arguing",
+                "meaning": "v. 主张，认为",
+                "phonetic": "/ˈɑːɡjuːɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "But as Equity's [&#8230;]",
+            "zh": "但是，正如Equity的[&#8230;]",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main difference between Glimmer and Muse Spark mentioned in the article?",
+        "options": [
+          "A. Glimmer is more powerful than Muse Spark",
+          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
+          "C. Muse Spark is an open-weight model while Glimmer is not",
+          "D. Both models are controlled by a handful of labs"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了两个模型的主要区别，注意对比描述。"
+      },
+      "translation_task": {
+        "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
+        "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该'为所有人'，而不是由少数几家实验室控制。",
+        "valuable_point": "考察了现在分词短语作伴随状语的翻译技巧，以及'rather than'结构的处理。"
+      },
+      "quiz": {
+        "question": "What is the main difference between Glimmer and Muse Spark mentioned in the article?",
+        "options": [
+          "A. Glimmer is more powerful than Muse Spark",
+          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
+          "C. Muse Spark is an open-weight model while Glimmer is not",
+          "D. Both models are controlled by a handful of labs"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了两个模型的主要区别，注意对比描述。"
+      }
+    },
+    "id": "article_1786745459947_bqgm",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Rideshare Stimulator Outlines AI Usage After Contentious Exchange With Ex-Writer",
+    "title_zh": "《 rideshare刺激器》披露AI使用情况，与前作家争议后公开细节",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "After Saber Interactive unveiled its upcoming title Rideshare Stimulator, former lead writer Stella Sacco came forward and said that she had been replaced by ChatGPT during development.",
+            "zh": "在Saber Interactive公司公布其即将推出的游戏《Rideshare Stimulator》后，前首席作家Stella Sacco站出来说，在开发过程中她被ChatGPT取代了。",
+            "grammar": "【过去完成时】had been replaced表示过去某个时间点之前已经完成的被动动作",
+            "words": [
+              {
+                "word": "unveiled",
+                "meaning": "v. 揭示，公布",
+                "phonetic": "/ʌnˈveɪld/"
+              },
+              {
+                "word": "contentious",
+                "meaning": "adj. 有争议的，引起争论的",
+                "phonetic": "/kənˈtenʃəs/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Saber CEO Matthew Karch denied Sacco's allegation that she had been replaced by AI, but the company has now shared previously undisclosed details about Rideshare Stimulator's AI usage.",
+            "zh": "Saber公司CEO马修·卡奇否认了萨科关于她被AI取代的指控，但该公司现在分享了《Rideshare Stimulator》AI使用情况的先前未公开的细节。",
+            "grammar": "【现在完成时】has shared表示过去发生但对现在有影响的动作",
+            "words": [
+              {
+                "word": "allegation",
+                "meaning": "n. 指控，断言",
+                "phonetic": "/ˌælɪˈɡeɪʃn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Rideshare Stimulator casts players as a driver who can pick up a seemingly infinite number of passengers and interact with them while getting them to their final destinations.",
+            "zh": "《Rideshare Stimulator》让玩家扮演一名司机，可以接载看似无限数量的乘客，并在送他们到最终目的地的过程中与他们互动。",
+            "grammar": "【现在分词作状语】while getting them to...表示同时进行的动作",
+            "words": [
+              {
+                "word": "seemingly",
+                "meaning": "adv. 似乎，表面上",
+                "phonetic": "/ˈsiːmɪŋli/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "According to the new disclosure on the game's Steam page, Rideshare Stimulator uses AI tools for \"voice generation and some localization\" and AI-generated passenger missions that can be skipped if players only want \"human-written narrative content.\"",
+            "zh": "根据游戏Steam页面上新的披露，《Rideshare Stimulator》使用AI工具进行\"语音生成和部分本地化\"，以及AI生成的乘客任务，如果玩家只想体验\"人类编写的叙事内容\"，可以跳过这些任务。",
+            "grammar": "【定语从句】that can be skipped修饰AI-generated passenger missions",
+            "words": [
+              {
+                "word": "disclosure",
+                "meaning": "n. 公开，披露",
+                "phonetic": "/dɪsˈkləʊʒər/"
+              },
+              {
+                "word": "localization",
+                "meaning": "n. 本地化，本土化",
+                "phonetic": "/ˌləʊkəlaɪˈzeɪʃn/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What did Saber Interactive reveal about their use of AI in Rideshare Stimulator?",
+        "options": [
+          "A. They completely replaced human writers with AI",
+          "B. They use AI for voice generation and localization",
+          "C. They don't use AI at all in the game",
+          "D. They use AI only for passenger missions"
+        ],
+        "answer": 1,
+        "hint": "提示：查看文章中关于Steam页面披露的内容，特别是关于AI工具使用的具体描述。"
+      },
+      "translation_task": {
+        "en": "According to the new disclosure on the game's Steam page, Rideshare Stimulator uses AI tools for \"voice generation and some localization\" and AI-generated passenger missions that can be skipped if players only want \"human-written narrative content.\"",
+        "zh": "根据游戏Steam页面上新的披露，《Rideshare Stimulator》使用AI工具进行\"语音生成和部分本地化\"，以及AI生成的乘客任务，如果玩家只想体验\"人类编写的叙事内容\"，可以跳过这些任务。",
+        "valuable_point": "考察了包含引号和复杂修饰结构的句子的翻译，特别是\"voice generation and some localization\"和\"human-written narrative content\"等专业术语的准确翻译。"
+      },
+      "quiz": {
+        "question": "What did Saber Interactive reveal about their use of AI in Rideshare Stimulator?",
+        "options": [
+          "A. They completely replaced human writers with AI",
+          "B. They use AI for voice generation and localization",
+          "C. They don't use AI at all in the game",
+          "D. They use AI only for passenger missions"
+        ],
+        "answer": 1,
+        "hint": "提示：查看文章中关于Steam页面披露的内容，特别是关于AI工具使用的具体描述。"
+      }
+    },
+    "id": "article_1786745475873_ht9t",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Why Stream-ring-maker Sandbar says the future of AI wearables is voice",
     "title_zh": "为什么流媒体戒指制造商Sandbar表示AI可穿戴设备的未来是语音",
     "level": "⭐⭐ 中级",
@@ -2155,168 +2378,6 @@
       }
     },
     "id": "article_1784846690447_y2a4",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "How OpenAI's Human Mistake Led to the AI-Powered Hack on Hugging Face",
-    "title_zh": "OpenAI的人为失误如何导致对Hugging Face的AI攻击",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "OpenAI made a mistake setting up what it called a \"highly isolated\" testing environment and sandbox.",
-            "zh": "OpenAI在设置其所谓的\"高度隔离\"的测试环境和沙盒时犯了一个错误。",
-            "grammar": "【语法要点】what引导的名词性从句作setting up的宾语",
-            "words": [
-              {
-                "word": "isolated",
-                "meaning": "adj. 孤立的，隔离的",
-                "phonetic": "/ˈaɪsəleɪtɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-            "zh": "据网络安全专家称，正是这个人错误使得对Hugging Face的AI攻击成为可能。",
-            "grammar": "【语法要点】what引导的表语从句，强调原因",
-            "words": [
-              {
-                "word": "cybersecurity",
-                "meaning": "n. 网络安全",
-                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
-              },
-              {
-                "word": "AI-powered",
-                "meaning": "adj. AI驱动的",
-                "phonetic": "/ˌeɪˈaɪ ˈpaʊərd/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What was the main cause of the AI-powered attack on Hugging Face?",
-        "options": [
-          "A. A flaw in Hugging Face's security system",
-          "B. A human mistake by OpenAI in setting up testing environments",
-          "C. An intentional backdoor created by OpenAI",
-          "D. A vulnerability in AI technology itself"
-        ],
-        "answer": 1,
-        "hint": "提示：文章明确指出了导致攻击的根本原因，请关注第一段和第二段的关键信息。"
-      },
-      "translation_task": {
-        "en": "According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-        "zh": "据网络安全专家称，正是这个人错误使得对Hugging Face的AI攻击成为可能。",
-        "valuable_point": "考察了what引导的表语从句的翻译，以及\"is what made...possible\"强调结构的处理方式。"
-      },
-      "quiz": {
-        "question": "What was the main cause of the AI-powered attack on Hugging Face?",
-        "options": [
-          "A. A flaw in Hugging Face's security system",
-          "B. A human mistake by OpenAI in setting up testing environments",
-          "C. An intentional backdoor created by OpenAI",
-          "D. A vulnerability in AI technology itself"
-        ],
-        "answer": 1,
-        "hint": "提示：文章明确指出了导致攻击的根本原因，请关注第一段和第二段的关键信息。"
-      }
-    },
-    "id": "article_1784760700817_j205",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "AI and the Rise of the Universal Entertainment App",
-    "title_zh": "人工智能与全能娱乐应用的崛起",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks.",
-            "zh": "在过去十年中，流媒体平台通过主导音乐、视频、播客或有声书等单一格式进行竞争。",
-            "grammar": "【语法要点】时间状语开头的句子，使用现在完成时表示从过去持续到现在的动作。",
-            "words": [
-              {
-                "word": "streaming",
-                "meaning": "adj. 流式的，流媒体的",
-                "phonetic": "/ˈstriːmɪŋ/"
-              },
-              {
-                "word": "dominating",
-                "meaning": "v. 主导，支配（dominate的现在分词）",
-                "phonetic": "/ˈdɒmɪneɪtɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-            "zh": "现在，随着人工智能使内容的创建、组织和推荐变得更加容易，这些界限正在逐渐消失，促使Spotify、Netflix、YouTube和TikTok等公司转变为全能娱乐目的地。",
-            "grammar": "【语法要点】as引导的时间状语从句，现在分词短语作结果状语。",
-            "words": [
-              {
-                "word": "distinctions",
-                "meaning": "n. 区别，差异",
-                "phonetic": "/dɪˈstɪŋkʃənz/"
-              },
-              {
-                "word": "fading",
-                "meaning": "v. 逐渐消失，褪色（fade的现在分词）",
-                "phonetic": "/ˈfeɪdɪŋ/"
-              },
-              {
-                "word": "all-purpose",
-                "meaning": "adj. 多功能的，万能的",
-                "phonetic": "/ˈɔːlˌpɜːpəs/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What change is AI bringing to entertainment platforms according to the article?",
-        "options": [
-          "A. Making them focus on single formats like music or video",
-          "B. Helping them become all-purpose entertainment destinations",
-          "C. Reducing competition between different platforms",
-          "D. Eliminating the need for content recommendation systems"
-        ],
-        "answer": 1,
-        "hint": "提示：文章提到随着AI的发展，不同娱乐平台之间的界限正在消失，促使它们成为全能娱乐目的地。"
-      },
-      "translation_task": {
-        "en": "Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
-        "zh": "现在，随着人工智能使内容的创建、组织和推荐变得更加容易，这些界限正在逐渐消失，促使Spotify、Netflix、YouTube和TikTok等公司转变为全能娱乐目的地。",
-        "valuable_point": "考察了as引导的时间状语从句和现在分词短语作结果状语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What change is AI bringing to entertainment platforms according to the article?",
-        "options": [
-          "A. Making them focus on single formats like music or video",
-          "B. Helping them become all-purpose entertainment destinations",
-          "C. Reducing competition between different platforms",
-          "D. Eliminating the need for content recommendation systems"
-        ],
-        "answer": 1,
-        "hint": "提示：文章提到随着AI的发展，不同娱乐平台之间的界限正在消失，促使它们成为全能娱乐目的地。"
-      }
-    },
-    "id": "article_1784673798605_2tnx",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
