@@ -11,6 +11,117 @@
           {
             "s_id": "1-1",
             "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
+            "zh": "本周，Meta发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行。",
+            "grammar": "【语法要点】同位语结构，'an open-weight AI model'是'Glimmer'的同位语，进一步解释说明。",
+            "words": [
+              {
+                "word": "open-weight",
+                "meaning": "adj. 开放权重的",
+                "phonetic": "/ˈəʊpən weɪt/"
+              },
+              {
+                "word": "hardware",
+                "meaning": "n. 硬件",
+                "phonetic": "/ˈhɑːdweə(r)/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "This is a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
+            "zh": "这与Muse Spark形成对比，后者是该公司更强大的模型，一直被锁定在其自己的API后面。",
+            "grammar": "【语法要点】定语从句，'that stays locked behind its own APIs'修饰'model'。",
+            "words": [
+              {
+                "word": "contrast",
+                "meaning": "n. 对比；差异",
+                "phonetic": "/ˈkɒntrɑːst/"
+              },
+              {
+                "word": "API",
+                "meaning": "n. 应用程序接口（Application Programming Interface的缩写）",
+                "phonetic": "/ˌeɪ piː ˈaɪ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
+            "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该是'为所有人'的，而不是由少数几家实验室控制。",
+            "grammar": "【语法要点】现在分词短语作伴随状语，'arguing...'修饰'letter'，表示信中的内容。",
+            "words": [
+              {
+                "word": "alongside",
+                "meaning": "prep. 与...一起；在...旁边",
+                "phonetic": "/əˌlɒŋˈsaɪd/"
+              },
+              {
+                "word": "handful",
+                "meaning": "n. 少数；少量",
+                "phonetic": "/ˈhændfʊl/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "But as Equity's [&#8230;]",
+            "zh": "但是，正如Equity的[&#8230;]",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main difference between Glimmer and Muse Spark according to the article?",
+        "options": [
+          "A. Glimmer is more powerful than Muse Spark",
+          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
+          "C. Muse Spark is an open-weight model while Glimmer is not",
+          "D. Both models are controlled by a handful of labs"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了两个模型的主要区别，请仔细阅读第一段的内容。"
+      },
+      "translation_task": {
+        "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
+        "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该是'为所有人'的，而不是由少数几家实验室控制。",
+        "valuable_point": "考察了现在分词短语作伴随状语的翻译技巧，以及'arguing'引导的内容如何准确转换为中文的'主张'。"
+      },
+      "quiz": {
+        "question": "What is the main difference between Glimmer and Muse Spark according to the article?",
+        "options": [
+          "A. Glimmer is more powerful than Muse Spark",
+          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
+          "C. Muse Spark is an open-weight model while Glimmer is not",
+          "D. Both models are controlled by a handful of labs"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段明确指出了两个模型的主要区别，请仔细阅读第一段的内容。"
+      }
+    },
+    "id": "article_1786918133543_r7ed",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
+    "title_zh": "扎克伯格真的相信人工智能是'为所有人'的吗？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
             "zh": "本周，Meta发布了Glimmer，这是一个开放权重的人工智能模型，任何人都可以下载并在自己的硬件上运行。",
             "grammar": "【语法要点】同位语结构，'an open-weight AI model'是'Glimmer'的同位语，进一步解释说明。",
             "words": [
@@ -2339,74 +2450,6 @@
       }
     },
     "id": "article_1785192548138_9tm8",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "title_zh": "为什么Cognition收购Poke：AI个性正成为竞争优势",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The acquisition brings Poke's conversational style and interaction model to Cognition's coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-            "zh": "此次收购将Poke的对话风格和交互模式引入到Cognition的编码代理Devin中，这反映出一种日益增长的观点：AI助手与用户的交互方式与其背后的模型同样重要。",
-            "grammar": "【语法要点】复合句结构，包含that引导的宾语从句，体现了商业报道中常见的表达复杂观点的句式。",
-            "words": [
-              {
-                "word": "acquisition",
-                "meaning": "n. 收购，获得",
-                "phonetic": "/ˌækwɪˈzɪʃən/"
-              },
-              {
-                "word": "conversational",
-                "meaning": "adj. 对话的，交谈的",
-                "phonetic": "/ˌkɒnvəˈseɪʃənl/"
-              },
-              {
-                "word": "interaction",
-                "meaning": "n. 交互，互动",
-                "phonetic": "/ˌɪntərˈækʃən/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What does the acquisition of Poke by Cognition reflect?",
-        "options": [
-          "A. That coding agents are becoming more popular",
-          "B. That AI personality is becoming a competitive advantage",
-          "C. That conversational models are replacing traditional coding",
-          "D. That Poke's technology is superior to Devin's"
-        ],
-        "answer": 1,
-        "hint": "提示：文章标题和内容都强调了AI个性在竞争中的重要性。"
-      },
-      "translation_task": {
-        "en": "The acquisition brings Poke's conversational style and interaction model to Cognition's coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-        "zh": "此次收购将Poke的对话风格和交互模式引入到Cognition的编码代理Devin中，这反映出一种日益增长的观点：AI助手与用户的交互方式与其背后的模型同样重要。",
-        "valuable_point": "考察了复合句的翻译技巧，特别是如何处理包含that引导的宾语从句的长难句，以及如何准确传达商业收购背后的战略意义。"
-      },
-      "quiz": {
-        "question": "What does the acquisition of Poke by Cognition reflect?",
-        "options": [
-          "A. That coding agents are becoming more popular",
-          "B. That AI personality is becoming a competitive advantage",
-          "C. That conversational models are replacing traditional coding",
-          "D. That Poke's technology is superior to Devin's"
-        ],
-        "answer": 1,
-        "hint": "提示：文章标题和内容都强调了AI个性在竞争中的重要性。"
-      }
-    },
-    "id": "article_1784933464630_lgpc",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
