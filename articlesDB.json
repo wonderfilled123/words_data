@@ -1,6 +1,231 @@
 [
   {
     "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
+    "title_zh": "扎克伯格真的相信AI是'为所有人'的吗？",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
+            "zh": "本周，Meta发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行。",
+            "grammar": "【语法要点】同位语结构，'an open-weight AI model'是'Glimmer'的同位语，进一步解释说明。",
+            "words": [
+              {
+                "word": "open-weight",
+                "meaning": "adj. 开放权重的",
+                "phonetic": "/ˈəʊpən weɪt/"
+              },
+              {
+                "word": "hardware",
+                "meaning": "n. 硬件",
+                "phonetic": "/ˈhɑːdweə(r)/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "This is a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
+            "zh": "这与Muse Spark形成对比，后者是公司更强大的模型，一直被锁定在其自己的API后面。",
+            "grammar": "【语法要点】定语从句，'that stays locked behind its own APIs'修饰'model'。",
+            "words": [
+              {
+                "word": "contrast",
+                "meaning": "n. 对比，差异",
+                "phonetic": "/ˈkɒntrɑːst/"
+              },
+              {
+                "word": "API",
+                "meaning": "n. 应用程序接口",
+                "phonetic": "/ˌeɪ piː ˈaɪ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
+            "zh": "这次发布伴随着马克·扎克伯格的一封信，信中主张AI应该'为所有人'，而不是由少数几家实验室控制。",
+            "grammar": "【语法要点】现在分词短语作伴随状语，'arguing AI should be...'修饰'letter'。",
+            "words": [
+              {
+                "word": "alongside",
+                "meaning": "prep. 与...一起，在...旁边",
+                "phonetic": "/əˌlɒŋˈsaɪd/"
+              },
+              {
+                "word": "handful",
+                "meaning": "n. 少数，少量",
+                "phonetic": "/ˈhændfʊl/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main difference between Glimmer and Muse Spark?",
+        "options": [
+          "A. Glimmer is more powerful than Muse Spark",
+          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
+          "C. Muse Spark is an open-weight model while Glimmer is not",
+          "D. Both models are controlled by a handful of labs"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注文章中关于两个模型访问权限的描述。"
+      },
+      "translation_task": {
+        "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
+        "zh": "这次发布伴随着马克·扎克伯格的一封信，信中主张AI应该'为所有人'，而不是由少数几家实验室控制。",
+        "valuable_point": "考察了现在分词短语作伴随状语的翻译技巧，以及'rather than'的对比表达。"
+      },
+      "quiz": {
+        "question": "What is the main difference between Glimmer and Muse Spark?",
+        "options": [
+          "A. Glimmer is more powerful than Muse Spark",
+          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
+          "C. Muse Spark is an open-weight model while Glimmer is not",
+          "D. Both models are controlled by a handful of labs"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注文章中关于两个模型访问权限的描述。"
+      }
+    },
+    "id": "article_1787004700445_moqv",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "An Exclusive Castlevania Game Is Shutting Down",
+    "title_zh": "一款独家《恶魔城》游戏即将停运",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The Apple Arcade-exclusive Castlevania: Grimoire of Souls won't be playable for much longer, developer Konami has announced.",
+            "zh": "开发商科乐美宣布，苹果游戏独占的《恶魔城：灵魂之书》将很快无法再游玩。",
+            "grammar": "【语法要点】现在完成时与将来时的结合使用，表示即将发生但尚未完全实现的状态。",
+            "words": [
+              {
+                "word": "exclusive",
+                "meaning": "adj. 独家的，专有的",
+                "phonetic": "/ɪkˈskluːsɪv/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "In a post on social media and the game's official website, Konami confirmed Castlevania: Grimoire of Souls will be removed from Apple's gaming subscription service on August 20.",
+            "zh": "科乐美在社交媒体和游戏官方网站上发布帖子确认，《恶魔城：灵魂之书》将于8月20日从苹果游戏订阅服务中移除。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "subscription",
+                "meaning": "n. 订阅，订阅服务",
+                "phonetic": "/səbˈskrɪpʃn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Despite Konami stating the game has \"continued to be supported by many players,\" it will also shut down permanently and no longer be playable on September 3.",
+            "zh": "尽管科乐美表示游戏\"一直得到许多玩家的支持\"，但它也将于9月3日永久关闭，不再可玩。",
+            "grammar": "【语法要点】despite引导的让步状语从句，与主句形成对比关系。",
+            "words": [
+              {
+                "word": "permanently",
+                "meaning": "adv. 永久地，长期地",
+                "phonetic": "/ˈpɜːrmənəntli/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "\"We would like to express our gratitude to all of our players for their enthusiastic support throughout the years,\" Konami said.",
+            "zh": "科乐美表示：\"我们要感谢所有玩家多年来给予的热情支持。\"",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "The entire development and operations team sincerely thanks you for being part of this journey.\"",
+            "zh": "整个开发和运营团队真诚地感谢您成为这段旅程的一部分。\"",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "3-2",
+            "en": "Konami didn't give any real reason for the decision.",
+            "zh": "科乐美并未给出这一决定的真正原因。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "decision",
+                "meaning": "n. 决定，决策",
+                "phonetic": "/dɪˈsɪʒn/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "When will Castlevania: Grimoire of Souls be completely shut down?",
+        "options": [
+          "A. August 20",
+          "B. September 3",
+          "C. The exact date is not mentioned",
+          "D. It will be shut down gradually"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了两个日期，一个是游戏从苹果服务移除的日期，另一个是游戏完全关闭的日期。"
+      },
+      "translation_task": {
+        "en": "Despite Konami stating the game has \"continued to be supported by many players,\" it will also shut down permanently and no longer be playable on September 3.",
+        "zh": "尽管科乐美表示游戏\"一直得到许多玩家的支持\"，但它也将于9月3日永久关闭，不再可玩。",
+        "valuable_point": "考察了despite引导的让步状语从句的翻译，以及引语的保留与表达方式的转换。"
+      },
+      "quiz": {
+        "question": "When will Castlevania: Grimoire of Souls be completely shut down?",
+        "options": [
+          "A. August 20",
+          "B. September 3",
+          "C. The exact date is not mentioned",
+          "D. It will be shut down gradually"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了两个日期，一个是游戏从苹果服务移除的日期，另一个是游戏完全关闭的日期。"
+      }
+    },
+    "id": "article_1787004709842_t4mq",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
+    "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
     "title_zh": "扎克伯格真的相信人工智能是'为所有人'的吗？",
     "level": "⭐⭐ 中级",
     "time": "3 分钟阅读",
@@ -2246,210 +2471,6 @@
       }
     },
     "id": "article_1785365150938_d9al",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "A Chance To Get Behind The Wheel Of Crazy Taxi: World Tour Is Coming Soon",
-    "title_zh": "疯狂出租车：世界巡回赛试驾机会即将到来",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Those itching to take Crazy Taxi: World Tour for a test drive can now sign up for their chance, as developer Sega has announced a multiplayer closed network test.",
-            "zh": "那些渴望试玩《疯狂出租车：世界巡回赛》的玩家现在可以报名参加测试，因为开发商世嘉已经宣布将进行多人封闭网络测试。",
-            "grammar": "【现在分词作定语】\"itching to take\" 表示\"渴望做某事\"的状态",
-            "words": [
-              {
-                "word": "itching",
-                "meaning": "adj. 渴望的，迫不及待的",
-                "phonetic": "/ˈɪtʃɪŋ/"
-              },
-              {
-                "word": "developer",
-                "meaning": "n. 开发商",
-                "phonetic": "/dɪˈveləpər/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Crazy Taxi: World Tour's closed network test will run September 11-13 in the US.",
-            "zh": "《疯狂出租车：世界巡回赛》的封闭网络测试将于9月11日至13日在美国进行。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Those interested will need to sign up on the game's website by August 31.",
-            "zh": "感兴趣的玩家需要在8月31日前在游戏官网上报名。",
-            "grammar": "【过去分词作定语】\"interested\" 表示\"感兴趣的\"",
-            "words": [
-              {
-                "word": "sign up",
-                "meaning": "phr. 报名，注册",
-                "phonetic": "/saɪn ʌp/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The test will be available on all of Crazy Taxi: World Tour's announced platforms (Xbox Series X|S, PC, and PlayStation 5), though Sega states on its website that certain platforms \"may have limited participant capacity.\"",
-            "zh": "测试将在《疯狂出租车：世界巡回赛》所有已公布的平台上提供（Xbox Series X|S、PC和PlayStation 5），但世嘉在其网站上表示某些平台\"可能参与人数有限制\"。",
-            "grammar": "【让步状语从句】\"though\"引导的从句表示\"尽管\"",
-            "words": [
-              {
-                "word": "platform",
-                "meaning": "n. 平台",
-                "phonetic": "/ˈplætfɔːrm/"
-              },
-              {
-                "word": "capacity",
-                "meaning": "n. 容量，能力",
-                "phonetic": "/kəˈpæsəti/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "The announcement of the network test comes alongside a new trailer highlighting the game's West Coast, a location that will look familiar to fans of Sega's manic driving franchise but will be just one of its playable locations.",
-            "zh": "网络测试的公告伴随着一段新的预告片，展示了游戏的西海岸场景，这个地点对世嘉疯狂驾驶系列粉丝来说会很熟悉，但只是游戏可游玩地点之一。",
-            "grammar": "【现在分词作后置定语】\"highlighting\"修饰\"trailer\"",
-            "words": [
-              {
-                "word": "manic",
-                "meaning": "adj. 狂热的，疯狂的",
-                "phonetic": "/ˈmænɪk/"
-              },
-              {
-                "word": "franchise",
-                "meaning": "n. 系列作品，特许经营权",
-                "phonetic": "/ˈfræntʃaɪz/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "It is called \"World Tour\" after ...",
-            "zh": "它被称为\"世界巡回赛\"是因为...",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "When will the closed network test for Crazy Taxi: World Tour take place?",
-        "options": [
-          "A. August 31",
-          "B. September 11-13",
-          "C. September 11-31",
-          "D. The article doesn't specify"
-        ],
-        "answer": 1,
-        "hint": "提示：请查找文章中明确提到的测试日期。"
-      },
-      "translation_task": {
-        "en": "The announcement of the network test comes alongside a new trailer highlighting the game's West Coast, a location that will look familiar to fans of Sega's manic driving franchise but will be just one of its playable locations.",
-        "zh": "网络测试的公告伴随着一段新的预告片，展示了游戏的西海岸场景，这个地点对世嘉疯狂驾驶系列粉丝来说会很熟悉，但只是游戏可游玩地点之一。",
-        "valuable_point": "考察了现在分词短语作后置定语和定语从句的翻译技巧。"
-      },
-      "quiz": {
-        "question": "When will the closed network test for Crazy Taxi: World Tour take place?",
-        "options": [
-          "A. August 31",
-          "B. September 11-13",
-          "C. September 11-31",
-          "D. The article doesn't specify"
-        ],
-        "answer": 1,
-        "hint": "提示：请查找文章中明确提到的测试日期。"
-      }
-    },
-    "id": "article_1785278988916_ned0",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-    "title_zh": "升级您的AI基础设施！TechCrunch Disrupt 2026智能系统议程初探",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-            "zh": "在TechCrunch Disrupt 2026大会上，智能系统舞台将成为能源、基础设施和技术碰撞的场所，内容涵盖从聚变突破到人工智能给整个经济带来的电网压力等方方面面。",
-            "grammar": "【语法要点】复合句结构，包含where引导的定语从句和现在分词短语作伴随状语。",
-            "words": [
-              {
-                "word": "infrastructure",
-                "meaning": "n. 基础设施",
-                "phonetic": "/ˈɪnfrəˌstrʌktʃər/"
-              },
-              {
-                "word": "collide",
-                "meaning": "v. 碰撞，冲突",
-                "phonetic": "/kəˈlaɪd/"
-              },
-              {
-                "word": "fusion",
-                "meaning": "n. 融合，聚变",
-                "phonetic": "/ˈfjuːʒən/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What topics will be covered at the Smart Systems Stage at TechCrunch Disrupt 2026?",
-        "options": [
-          "A. Only AI applications in business",
-          "B. Energy, infrastructure, and technology intersections",
-          "C. Renewable energy solutions only",
-          "D. Social media trends and marketing"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确提到了智能系统舞台将涵盖哪些领域的交叉内容。"
-      },
-      "translation_task": {
-        "en": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
-        "zh": "在TechCrunch Disrupt 2026大会上，智能系统舞台将成为能源、基础设施和技术碰撞的场所，内容涵盖从聚变突破到人工智能给整个经济带来的电网压力等方方面面。",
-        "valuable_point": "考察了英语长句的翻译技巧，特别是包含多个名词短语和定语从句的复合句处理方法。"
-      },
-      "quiz": {
-        "question": "What topics will be covered at the Smart Systems Stage at TechCrunch Disrupt 2026?",
-        "options": [
-          "A. Only AI applications in business",
-          "B. Energy, infrastructure, and technology intersections",
-          "C. Renewable energy solutions only",
-          "D. Social media trends and marketing"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确提到了智能系统舞台将涵盖哪些领域的交叉内容。"
-      }
-    },
-    "id": "article_1785192548138_9tm8",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
