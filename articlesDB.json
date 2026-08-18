@@ -1,5 +1,137 @@
 [
   {
+    "title": "Apparent GTA 6 Footage And Map Leak As Rockstar Issues Takedowns",
+    "title_zh": "GTA 6游戏画面与地图疑似泄露，R星发起下架请求",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "New footage and details about Rockstar Games' Grand Theft Auto 6 appear to have been leaked online.",
+            "zh": "关于Rockstar Games的《侠盗猎车手6》的新画面和细节似乎已经在线上泄露。",
+            "grammar": "现在完成时被动语态，表示已经发生且与现在有联系的动作。",
+            "words": [
+              {
+                "word": "footage",
+                "meaning": "n. 影片，镜头素材",
+                "phonetic": "/ˈfʊtɪdʒ/"
+              },
+              {
+                "word": "leaked",
+                "meaning": "v. 泄露，泄露出去",
+                "phonetic": "/liːkt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "While the full veracity of the intel has yet to be confirmed, Rockstar's DMCA takedown requests suggest that some of it could be legitimate.",
+            "zh": "虽然这些信息的真实性尚未完全确认，但R星的DMCA下架请求表明其中部分内容可能是真实的。",
+            "grammar": "让步状语从句与主句结构，情态动词表示可能性。",
+            "words": [
+              {
+                "word": "veracity",
+                "meaning": "n. 真实性，诚实",
+                "phonetic": "/vəˈræsəti/"
+              },
+              {
+                "word": "intel",
+                "meaning": "n. 情报，信息",
+                "phonetic": "/ɪnˈtel/"
+              },
+              {
+                "word": "legitimate",
+                "meaning": "adj. 合法的，真实的",
+                "phonetic": "/lɪˈdʒɪtɪmət/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "And the person or persons behind the leak has issued some biblical demands if the company wants to avoid any additional unauthorized disclosures.",
+            "zh": "如果公司想避免任何额外的未经授权的披露，泄露者已经提出了一些圣经式的 demands。",
+            "grammar": "条件状语从句，主语为单数形式但包含复数概念。",
+            "words": [
+              {
+                "word": "biblical",
+                "meaning": "adj. 圣经的，权威的",
+                "phonetic": "/ˈbɪblɪkl/"
+              },
+              {
+                "word": "disclosures",
+                "meaning": "n. 披露，公开",
+                "phonetic": "/dɪsˈkləʊʒərz/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The leaker, who goes by Cyberleek, has issued the following \"commandments\" to Rockstar and other game publishers: Thou Shalt Not Sell Digital Preorders Thou Shalt Not Sell Fake Single-Player DLC Thou Shalt Preserve Single-Player Content",
+            "zh": "化名为Cyberleek的泄露者向R星和其他游戏发行商发布了以下\"戒律\"：不得销售数字预售 不得销售虚假单人游戏DLC 必须保留单人游戏内容",
+            "grammar": "非限制性定语从句，冒号引导的列举内容。",
+            "words": [
+              {
+                "word": "commandments",
+                "meaning": "n. 戒律，命令",
+                "phonetic": "/kəˈmændmənts/"
+              },
+              {
+                "word": "preorders",
+                "meaning": "n. 预购，预订",
+                "phonetic": "/ˌpriːˈɔːdərz/"
+              },
+              {
+                "word": "preserve",
+                "meaning": "v. 保留，保存",
+                "phonetic": "/prɪˈzɜːv/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What has Rockstar Games done in response to the GTA 6 leak?",
+        "options": [
+          "A. Confirmed the leaked information is legitimate",
+          "B. Issued DMCA takedown requests",
+          "C. Made biblical demands to the leaker",
+          "D. Released official trailers for GTA 6"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中提到了R星针对泄露内容采取的具体行动。"
+      },
+      "translation_task": {
+        "en": "While the full veracity of the intel has yet to be confirmed, Rockstar's DMCA takedown requests suggest that some of it could be legitimate.",
+        "zh": "虽然这些信息的真实性尚未完全确认，但R星的DMCA下架请求表明其中部分内容可能是真实的。",
+        "valuable_point": "考察了让步状语从句的翻译和情态动词表达可能性的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What has Rockstar Games done in response to the GTA 6 leak?",
+        "options": [
+          "A. Confirmed the leaked information is legitimate",
+          "B. Issued DMCA takedown requests",
+          "C. Made biblical demands to the leaker",
+          "D. Released official trailers for GTA 6"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中提到了R星针对泄露内容采取的具体行动。"
+      }
+    },
+    "id": "article_1787091020014_l07d",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
     "title_zh": "扎克伯格真的相信AI是'为所有人'的吗？",
     "level": "⭐⭐ 中级",
@@ -2405,73 +2537,5 @@
     "id": "article_1785452125286_wf90",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "title_zh": "由玛莎·斯图尔特联合创立的新AI初创公司Hint为房主提供AI助手",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \"AI for your home,\" combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-            "zh": "由玛莎·斯图尔特联合创立的AI家庭管理初创公司Hint希望成为\"您家庭的AI助手\"，将房产记录、维护计划、家庭文件和AI助手整合到一个应用程序中。",
-            "grammar": "【语法要点】现在分词短语作定语，复合名词结构",
-            "words": [
-              {
-                "word": "startup",
-                "meaning": "n. 初创公司",
-                "phonetic": "/ˈstɑːrtʌp/"
-              },
-              {
-                "word": "co-founded",
-                "meaning": "v. 联合创立",
-                "phonetic": "/ˌkoʊˈfaʊndɪd/"
-              },
-              {
-                "word": "combining",
-                "meaning": "v. 结合，整合",
-                "phonetic": "/kəmˈbaɪnɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is Hint aiming to become according to the article?",
-        "options": [
-          "A. A property management company",
-          "B. An AI assistant for homes",
-          "C. A maintenance schedule provider",
-          "D. A document storage app"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Hint希望成为什么，请寻找包含\"AI for your home\"的句子。"
-      },
-      "translation_task": {
-        "en": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \"AI for your home,\" combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-        "zh": "由玛莎·斯图尔特联合创立的AI家庭管理初创公司Hint希望成为\"您家庭的AI助手\"，将房产记录、维护计划、家庭文件和AI助手整合到一个应用程序中。",
-        "valuable_point": "考察了复合名词结构、现在分词短语作定语以及引语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What is Hint aiming to become according to the article?",
-        "options": [
-          "A. A property management company",
-          "B. An AI assistant for homes",
-          "C. A maintenance schedule provider",
-          "D. A document storage app"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Hint希望成为什么，请寻找包含\"AI for your home\"的句子。"
-      }
-    },
-    "id": "article_1785365150938_d9al",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
