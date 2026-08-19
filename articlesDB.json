@@ -1,5 +1,218 @@
 [
   {
+    "title": "Google packs Search and Gemini with new AI study tools",
+    "title_zh": "谷歌为搜索和Gemini添加新的AI学习工具",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying.",
+            "zh": "新学习功能的发布标志着谷歌的最新努力，旨在使Gemini成为学生在学习和研究时首选的AI助手。",
+            "grammar": "【语法要点】本句包含定语从句\"that students turn to when learning and studying\"修饰\"AI assistant\"，以及不定式短语\"to make Gemini...\"作目的状语。",
+            "words": [
+              {
+                "word": "launch",
+                "meaning": "n. 发布，推出",
+                "phonetic": "/lɔːntʃ/"
+              },
+              {
+                "word": "effort",
+                "meaning": "n. 努力，尝试",
+                "phonetic": "/ˈefərt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "It continues to compete with companies like OpenAI.",
+            "zh": "谷歌继续与OpenAI等公司竞争。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "compete",
+                "meaning": "v. 竞争，对抗",
+                "phonetic": "/kəmˈpiːt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is Google's goal with the new study features for Gemini?",
+        "options": [
+          "A. To make Gemini the most expensive AI assistant",
+          "B. To make Gemini the AI assistant that students turn to when learning",
+          "C. To replace all human teachers",
+          "D. To create a new search engine"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注文章第一句中提到的谷歌的目标。"
+      },
+      "translation_task": {
+        "en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying.",
+        "zh": "新学习功能的发布标志着谷歌的最新努力，旨在使Gemini成为学生在学习和研究时首选的AI助手。",
+        "valuable_point": "考察了定语从句的翻译技巧和目的状语的表达方式。"
+      },
+      "quiz": {
+        "question": "What is Google's goal with the new study features for Gemini?",
+        "options": [
+          "A. To make Gemini the most expensive AI assistant",
+          "B. To make Gemini the AI assistant that students turn to when learning",
+          "C. To replace all human teachers",
+          "D. To create a new search engine"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注文章第一句中提到的谷歌的目标。"
+      }
+    },
+    "id": "article_1787177567560_e0x0",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash",
+    "title_zh": "想要《现代战争4》测试码？只需说些垃圾话",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The creators of Call of Duty: Modern Warfare 4 are trying to prove one trash-talking player wrong by giving them a free code to the game's upcoming early-access beta.",
+            "zh": "《使命召唤：现代战争4》的开发者试图通过给一名说垃圾话的玩家提供免费的游戏抢先体验测试码，来证明他是错的。",
+            "grammar": "【现在进行时与不定式连用】are trying to prove...by giving...结构表示目的和方式",
+            "words": [
+              {
+                "word": "trash-talking",
+                "meaning": "adj. 说垃圾话的，说脏话的",
+                "phonetic": "/ˈtræʃˌtɔːkɪŋ/"
+              },
+              {
+                "word": "beta",
+                "meaning": "n. （软件或游戏的）测试版",
+                "phonetic": "/ˈbeɪtə/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "In response to a Modern Warfare 4 multiplayer trailer posted by CharlieIntel on X, one skeptical player going by TristanSpoof didn't have kind words for what they saw.",
+            "zh": "针对CharlieIntel在X上发布的《现代战争4》多人游戏预告片，一位名为TristanSpoof的怀疑论者对所见内容并不友善。",
+            "grammar": "【介词短语作状语】In response to...表示对某事的回应",
+            "words": [
+              {
+                "word": "skeptical",
+                "meaning": "adj. 怀疑的，持怀疑态度的",
+                "phonetic": "/ˈskeptɪkəl/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "\"This s*** looks awful ngl,\" they wrote in a quote repost.",
+            "zh": "\"这该死的东西看起来太糟糕了，说实话，\"他们在转发引用中写道。",
+            "grammar": "【口语表达】\"s***\"和\"ngl\"都是非正式口语表达",
+            "words": [
+              {
+                "word": "awful",
+                "meaning": "adj. 糟糕的，可怕的",
+                "phonetic": "/ˈɔːfəl/"
+              },
+              {
+                "word": "ngl",
+                "meaning": "abbr. not gonna lie的缩写，说实话",
+                "phonetic": "/ˌenˌdʒiːˈel/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Normally, rude behavior shouldn't be rewarded, but the official CallofDutyCM account took a different approach and clearly saw an opportunity.",
+            "zh": "通常情况下，粗鲁的行为不应该得到奖励，但官方的CallofDutyCM账号采取了不同的方法，并清楚地看到了一个机会。",
+            "grammar": "【转折关系】but连接两个对比的观点",
+            "words": [
+              {
+                "word": "approach",
+                "meaning": "n. 方法，方式",
+                "phonetic": "/əˈprəʊtʃ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Instead of fighting fire with fire, the account opted for a \"kill them with kindness\" strategy.",
+            "zh": "该账号没有以牙还牙，而是选择了一种\"以德报怨\"的策略。",
+            "grammar": "【习语】fighting fire with fire（以牙还牙）和kill them with kindness（以德报怨）是习语表达",
+            "words": [
+              {
+                "word": "opted",
+                "meaning": "v. 选择，决定（opt的过去式）",
+                "phonetic": "/ˈɒptɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Replying to TristanSpoof's post, the account said a...",
+            "zh": "在回复TristanSpoof的帖子时，该账号说了一个...",
+            "grammar": "【现在分词作状语】Replying to...表示伴随动作",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What strategy did the official CallofDutyCM account use in response to the negative comment?",
+        "options": [
+          "A. Ignoring the comment completely",
+          "B. Fighting fire with fire",
+          "C. Kill them with kindness",
+          "D. Deleting the negative post"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了该账号没有以牙还牙，而是选择了另一种策略。"
+      },
+      "translation_task": {
+        "en": "In response to a Modern Warfare 4 multiplayer trailer posted by CharlieIntel on X, one skeptical player going by TristanSpoof didn't have kind words for what they saw.",
+        "zh": "针对CharlieIntel在X上发布的《现代战争4》多人游戏预告片，一位名为TristanSpoof的怀疑论者对所见内容并不友善。",
+        "valuable_point": "考察了介词短语作状语和现在分词作定语的翻译技巧，以及如何自然处理英文中的非正式表达。"
+      },
+      "quiz": {
+        "question": "What strategy did the official CallofDutyCM account use in response to the negative comment?",
+        "options": [
+          "A. Ignoring the comment completely",
+          "B. Fighting fire with fire",
+          "C. Kill them with kindness",
+          "D. Deleting the negative post"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了该账号没有以牙还牙，而是选择了另一种策略。"
+      }
+    },
+    "id": "article_1787177582303_58cb",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Apparent GTA 6 Footage And Map Leak As Rockstar Issues Takedowns",
     "title_zh": "GTA 6游戏画面与地图疑似泄露，R星发起下架请求",
     "level": "⭐⭐ 中级",
@@ -2304,238 +2517,5 @@
     "id": "article_1785538139414_j6xd",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "If You Were Excited About Stellar Blade: Blood Rain, Here's An AI-Slop Music Video To Fix That",
-    "title_zh": "如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有个AI垃圾音乐视频来拯救你",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Stellar Blade: Blood Rain is being promoted with an AI-slop music video created by developer Shift Up, and it's all about as soulless as you might expect.",
-            "zh": "《Stellar Blade: Blood Rain》正由开发商Shift Up制作的一个AI垃圾音乐视频进行宣传，而这视频正如你预期的那样毫无灵魂。",
-            "grammar": "【现在进行时被动语态】描述正在发生的被动动作",
-            "words": [
-              {
-                "word": "soulless",
-                "meaning": "adj. 没有灵魂的，空洞的",
-                "phonetic": "/ˈsoʊlləs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
-            "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏官方预告片中出现的反乌托邦赛博朋克城市中，演唱一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
-            "grammar": "【非限制性定语从句】补充说明视频的特征",
-            "words": [
-              {
-                "word": "dystopian",
-                "meaning": "adj. 反乌托邦的，反面乌托邦的",
-                "phonetic": "/dɪsˈtoʊpiən/"
-              },
-              {
-                "word": "cyberpunk",
-                "meaning": "n. 赛博朋克，网络朋克",
-                "phonetic": "/ˈsaɪbərpʌŋk/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "At one point while wandering the city, Evie picks up a KPop Demon Hunters keychain.",
-            "zh": "在城市漫游时，艾薇一度捡起了一个KPop恶魔猎人钥匙扣。",
-            "grammar": "【现在进行时】描述正在进行的动作",
-            "words": [
-              {
-                "word": "wandering",
-                "meaning": "v. 漫游，闲逛",
-                "phonetic": "/ˈwɑːndərɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Towards the end of the video, there is \"behind the scenes footage\" of Shift Up developers \"on set\" with Evie, giving her direction, doing her makeup, and high-fiving members of the team.",
-            "zh": "视频接近尾声时，有Shift Up开发人员与艾薇\"在片场\"的\"幕后花絮\"，包括给她指导、化妆以及与团队成员击掌。",
-            "grammar": "【there be句型】表示存在",
-            "words": [
-              {
-                "word": "footage",
-                "meaning": "n. (电影、电视等的)片段，镜头",
-                "phonetic": "/ˈfʊtɪdʒ/"
-              },
-              {
-                "word": "makeup",
-                "meaning": "n. 化妆，化妆品",
-                "phonetic": "/ˈmeɪkʌp/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main criticism of the AI music video for Stellar Blade: Blood Rain?",
-        "options": [
-          "A. It features too many KPop elements",
-          "B. It is completely AI generated and lacks soul",
-          "C. It doesn't show enough of the game's city",
-          "D. The developers are not featured enough"
-        ],
-        "answer": 1,
-        "hint": "提示：文章开头直接点明了视频的主要问题，请关注第一段第一句。"
-      },
-      "translation_task": {
-        "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
-        "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏官方预告片中出现的反乌托邦赛博朋克城市中，演唱一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
-        "valuable_point": "考察了非限制性定语从句的翻译处理，以及多个形容词的排列顺序。"
-      },
-      "quiz": {
-        "question": "What is the main criticism of the AI music video for Stellar Blade: Blood Rain?",
-        "options": [
-          "A. It features too many KPop elements",
-          "B. It is completely AI generated and lacks soul",
-          "C. It doesn't show enough of the game's city",
-          "D. The developers are not featured enough"
-        ],
-        "answer": 1,
-        "hint": "提示：文章开头直接点明了视频的主要问题，请关注第一段第一句。"
-      }
-    },
-    "id": "article_1785538157415_j81g",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "EA Says Saudi Takeover Deal Is Set To Close Next Week",
-    "title_zh": "EA称沙特收购交易预计下周完成",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Electronic Arts will become a private company again very soon, with the gaming giant set to be acquired by an investors' group led by the Saudi Arabian government.",
-            "zh": "艺电公司(Electronic Arts)很快将再次成为一家私营公司，这家游戏巨头预计将被一个由沙特政府领导的投资者集团收购。",
-            "grammar": "【语法要点】现在分词短语作伴随状语",
-            "words": [
-              {
-                "word": "acquired",
-                "meaning": "v. 收购，获得",
-                "phonetic": "/əˈkwaɪəd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "As revealed in today's SEC filing, \"all regulatory approvals required to complete the Merger have been obtained.\"",
-            "zh": "正如今天向美国证券交易委员会(SEC)提交的文件所披露的那样，\"完成合并所需的所有监管批准均已获得。\"",
-            "grammar": "【语法要点】被动语态",
-            "words": [
-              {
-                "word": "regulatory",
-                "meaning": "adj. 监管的，规章的",
-                "phonetic": "/ˈreɡjələtɔːri/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Electronic Arts currently expects the Merger to close on or about the close of trading on August 4, 2026.",
-            "zh": "艺电公司目前预计合并将在2026年8月4日交易收盘时或前后完成。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "The news comes just after the deal was approved by the European Union.",
-            "zh": "这一消息恰好在欧盟批准该交易后传出。",
-            "grammar": "【语法要点】过去时的被动语态",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "The $55 billion deal is among the biggest ever seen in the gaming industry and will see EA--which has long been a publicly traded company--be taken private.",
-            "zh": "这笔550亿美元的交易是游戏行业史上最大的交易之一，并将使EA这家长期为上市公司的企业转为私营。",
-            "grammar": "【语法要点】see sb/sth do sth结构，插入语",
-            "words": [
-              {
-                "word": "publicly traded",
-                "meaning": "adj. 公开交易的，上市的",
-                "phonetic": "/ˈpʌblɪkli treɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Alongside Saudi Arabia, which is involved in the deal through its controversial Public Investment Fund, the other partners are private-equity firm Silver Lake and Affinity Partners.",
-            "zh": "除了通过其颇具争议的公共投资基金参与交易的沙特阿拉伯外，其他合作伙伴是私募股权公司银湖资本(Affinity Partners)和合作伙伴。",
-            "grammar": "【语法要点】非限制性定语从句",
-            "words": [
-              {
-                "word": "controversial",
-                "meaning": "adj. 有争议的，引起争议的",
-                "phonetic": "/ˌkɒntrəˈvɜːʃl/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "When does Electronic Arts expect the merger to close?",
-        "options": [
-          "A. On August 4, 2026",
-          "B. At the close of trading on August 4, 2026",
-          "C. Before August 4, 2026",
-          "D. After August 4, 2026"
-        ],
-        "answer": 1,
-        "hint": "提示：请查看第一段中关于合并完成时间的具体表述。"
-      },
-      "translation_task": {
-        "en": "The $55 billion deal is among the biggest ever seen in the gaming industry and will see EA--which has long been a publicly traded company--be taken private.",
-        "zh": "这笔550亿美元的交易是游戏行业史上最大的交易之一，并将使EA这家长期为上市公司的企业转为私营。",
-        "valuable_point": "考察了see sb/sth do sth结构的使用以及插入语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "When does Electronic Arts expect the merger to close?",
-        "options": [
-          "A. On August 4, 2026",
-          "B. At the close of trading on August 4, 2026",
-          "C. Before August 4, 2026",
-          "D. After August 4, 2026"
-        ],
-        "answer": 1,
-        "hint": "提示：请查看第一段中关于合并完成时间的具体表述。"
-      }
-    },
-    "id": "article_1785452125286_wf90",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
