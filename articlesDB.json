@@ -1,5 +1,109 @@
 [
   {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "title_zh": "司法部调查a16z.这对风险投资意味着什么？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran.",
+            "zh": "安德森·霍洛维茨(a16z)有两名合伙人分别担任现在相互竞争的两家公司的董事会成员：本·霍洛维茨在Databricks，马丁·卡萨多在Fivetran。",
+            "grammar": "【语法要点】主谓宾结构，包含同位语和冒号引导的举例说明",
+            "words": [
+              {
+                "word": "partners",
+                "meaning": "n. 合伙人",
+                "phonetic": "/ˈpɑːrtnərz/"
+              },
+              {
+                "word": "compete",
+                "meaning": "v. 竞争",
+                "phonetic": "/kəmˈpiːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that's rarely used against VCs.",
+            "zh": "表面上看没什么丑闻，但司法部据报道已经调查这一安排近一年时间，启用了一项112年反垄断法，而这项法律很少被用于针对风险投资公司。",
+            "grammar": "【语法要点】复合句，包含except引导的转折关系和现在完成进行时",
+            "words": [
+              {
+                "word": "scandalous",
+                "meaning": "adj. 丑闻的，引起公愤的",
+                "phonetic": "/ˈskændələs/"
+              },
+              {
+                "word": "antitrust",
+                "meaning": "adj. 反垄断的",
+                "phonetic": "/ˌæntiˈtrʌst/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Board conflicts aren't exactly new, and these companies weren't necessarily direct competitors when a16z first invested [...]",
+            "zh": "董事会冲突并不新鲜，而且当a16z最初投资时，这些公司不一定是直接竞争对手[...]",
+            "grammar": "【语法要点】并列句，包含when引导的时间状语从句",
+            "words": [
+              {
+                "word": "conflicts",
+                "meaning": "n. 冲突，矛盾",
+                "phonetic": "/ˈkɒnflɪkts/"
+              },
+              {
+                "word": "necessarily",
+                "meaning": "adv. 必然地，必定地",
+                "phonetic": "/ˈnesəserəli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main issue being investigated by the Department of Justice regarding Andreessen Horowitz?",
+        "options": [
+          "A. The age of the antitrust law being used",
+          "B. Board conflicts between competing companies",
+          "C. The length of time a16z has been investing",
+          "D. The competition between Databricks and Fivetran"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到司法部调查的是a16z合伙人同时担任相互竞争公司董事会成员的安排。"
+      },
+      "translation_task": {
+        "en": "Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that's rarely used against VCs.",
+        "zh": "表面上看没什么丑闻，但司法部据报道已经调查这一安排近一年时间，启用了一项112年反垄断法，而这项法律很少被用于针对风险投资公司。",
+        "valuable_point": "考察了复合句的翻译，特别是except引导的转折关系和现在完成进行时的表达方式。"
+      },
+      "quiz": {
+        "question": "What is the main issue being investigated by the Department of Justice regarding Andreessen Horowitz?",
+        "options": [
+          "A. The age of the antitrust law being used",
+          "B. Board conflicts between competing companies",
+          "C. The length of time a16z has been investing",
+          "D. The competition between Databricks and Fivetran"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到司法部调查的是a16z合伙人同时担任相互竞争公司董事会成员的安排。"
+      }
+    },
+    "id": "article_1787350280326_fect",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Google packs Search and Gemini with new AI study tools",
     "title_zh": "谷歌为搜索和Gemini添加新的AI学习工具",
     "level": "⭐⭐ 中级",
@@ -2428,94 +2532,5 @@
     "id": "article_1785624174998_hve4",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Sam Altman isn't the only one who wants to pump the brakes on AI",
-    "title_zh": "山姆·奥特曼并非唯一希望放缓AI发展步伐的人",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
-            "zh": "在多年全力推进人工智能之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业\"放慢步伐\"了。",
-            "grammar": "【语法要点】\"After years of + 动名词\"表示在...之后，\"pace oneself\"是固定搭配，意为\"控制自己的节奏\"。",
-            "words": [
-              {
-                "word": "pace",
-                "meaning": "v. 控制节奏，放慢速度",
-                "phonetic": "/peɪs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face.",
-            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的。",
-            "grammar": "【语法要点】\"broke out of\"表示\"突破...的束缚\"，\"get tangled up in\"表示\"陷入...的困境\"。",
-            "words": [
-              {
-                "word": "tangled",
-                "meaning": "adj. 纠缠的，陷入困境的",
-                "phonetic": "/ˈtæŋɡəld/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity's hosts point out, sloppy security seems to have [...]",
-            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的——尽管Equity的主持人指出，松懈的安全措施似乎已经...",
-            "grammar": "【语法要点】破折号后的内容是对前文的补充说明，\"point out\"表示\"指出\"，\"sloppy\"表示\"马虎的，不严谨的\"。",
-            "words": [
-              {
-                "word": "sloppy",
-                "meaning": "adj. 马虎的，不严谨的",
-                "phonetic": "/ˈslɒpi/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
-        "options": [
-          "A. Concerns about AI safety and security breaches",
-          "B. Government regulations requiring slower AI development",
-          "C. Competition from other AI companies",
-          "D. Technical limitations in current AI models"
-        ],
-        "answer": 0,
-        "hint": "提示：文章提到OpenAI自己的模型出现了安全问题，这可能是Altman呼吁放慢步伐的原因。"
-      },
-      "translation_task": {
-        "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
-        "zh": "在多年全力推进人工智能之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让AI行业\"放慢步伐\"了。",
-        "valuable_point": "考察了\"pushing full speed ahead\"和\"pace itself\"这两个表达速度变化的短语，以及引号在翻译中的处理方式。"
-      },
-      "quiz": {
-        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
-        "options": [
-          "A. Concerns about AI safety and security breaches",
-          "B. Government regulations requiring slower AI development",
-          "C. Competition from other AI companies",
-          "D. Technical limitations in current AI models"
-        ],
-        "answer": 0,
-        "hint": "提示：文章提到OpenAI自己的模型出现了安全问题，这可能是Altman呼吁放慢步伐的原因。"
-      }
-    },
-    "id": "article_1785538139414_j6xd",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
