@@ -1,5 +1,73 @@
 [
   {
+    "title": "Frontier AI labs still won't say how they'd contain a rogue model",
+    "title_zh": "前沿人工智能实验室仍不愿透露如何控制失控模型",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+            "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的应对失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
+            "grammar": "【语法要点】现在分词短语作结果状语，主句为简单陈述句结构",
+            "words": [
+              {
+                "word": "rogue",
+                "meaning": "adj. 失控的，叛逆的",
+                "phonetic": "/roʊɡ/"
+              },
+              {
+                "word": "preparedness",
+                "meaning": "n. 准备状态，准备情况",
+                "phonetic": "/prɪˈperədnəs/"
+              },
+              {
+                "word": "potentially",
+                "meaning": "adv. 潜在地，可能地",
+                "phonetic": "/pəˈtenʃəli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What does the new study reveal about leading AI labs' plans for rogue models?",
+        "options": [
+          "A. They have comprehensive and well-documented plans",
+          "B. They have few publicly documented plans",
+          "C. They are developing new containment methods",
+          "D. They believe rogue models are not a concern"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了研究发现的情况。"
+      },
+      "translation_task": {
+        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的应对失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
+        "valuable_point": "考察了长句中现在分词短语作结果状语的结构，以及多个形容词修饰名词的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What does the new study reveal about leading AI labs' plans for rogue models?",
+        "options": [
+          "A. They have comprehensive and well-documented plans",
+          "B. They have few publicly documented plans",
+          "C. They are developing new containment methods",
+          "D. They believe rogue models are not a concern"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了研究发现的情况。"
+      }
+    },
+    "id": "article_1787436592628_7lnk",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
     "title_zh": "司法部调查a16z.这对风险投资意味着什么？",
     "level": "⭐⭐ 中级",
@@ -2425,112 +2493,5 @@
     "id": "article_1785624159603_qmqr",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "If You Were Excited About Stellar Blade: Blood Rain, Here's An AI-Slop Music Video To Fix That",
-    "title_zh": "如果你对《Stellar Blade: Blood Rain》感到兴奋，这里有个AI垃圾音乐视频来拯救你",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Stellar Blade: Blood Rain is being promoted with an AI-slop music video created by developer Shift Up, and it's all about as soulless as you might expect.",
-            "zh": "《Stellar Blade: Blood Rain》正由开发商Shift Up制作的一个AI垃圾音乐视频进行宣传，而这视频正如你预期的那样毫无灵魂。",
-            "grammar": "【现在进行时被动语态】is being promoted 表示正在进行的被动动作",
-            "words": [
-              {
-                "word": "soulless",
-                "meaning": "adj. 没有灵魂的，空洞的",
-                "phonetic": "/ˈsoʊlləs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
-            "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏中官方预告片出现的反乌托邦赛博朋克城市中探索，并演唱了一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
-            "grammar": "【非限制性定语从句】which引导的从句修饰video，提供额外信息",
-            "words": [
-              {
-                "word": "dystopian",
-                "meaning": "adj. 反乌托邦的，反理想的",
-                "phonetic": "/dɪsˈtoʊpiən/"
-              },
-              {
-                "word": "cyberpunk",
-                "meaning": "n. 赛博朋克（科幻小说流派）",
-                "phonetic": "/ˈsaɪbərpʌŋk/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "At one point while wandering the city, Evie picks up a KPop Demon Hunters keychain.",
-            "zh": "在城市漫游的过程中，艾薇拿起了一个KPop恶魔猎人钥匙扣。",
-            "grammar": "【现在进行时】while wandering表示在...的同时进行某动作",
-            "words": [
-              {
-                "word": "wandering",
-                "meaning": "v. 漫游，徘徊",
-                "phonetic": "/ˈwɑːndərɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Towards the end of the video, there is \"behind the scenes footage\" of Shift Up developers \"on set\" with Evie, giving her direction, doing her makeup, and high-fiving members of the team.",
-            "zh": "在视频接近尾声时，有Shift Up开发人员与艾薇\"在片场\"的\"幕后花絮\"，包括给她指导、化妆以及与团队成员击掌。",
-            "grammar": "【there be句型】表示存在，后面跟名词短语",
-            "words": [
-              {
-                "word": "high-fiving",
-                "meaning": "v. 击掌（庆祝或打招呼）",
-                "phonetic": "/ˈhaɪˌfaɪvɪŋ/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main criticism of the AI-generated music video for Stellar Blade: Blood Rain?",
-        "options": [
-          "A. It features too much KPop content",
-          "B. It is completely AI generated and lacks soul",
-          "C. It doesn't show enough of the game's city",
-          "D. The developers are not featured enough"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了视频的主要问题，与AI生成有关。"
-      },
-      "translation_task": {
-        "en": "The video, which looks to be completely AI generated, features protagonist Evie singing an \"original\" song titled \"Wanna be in Love\" as she explores the dystopian cyberpunk city seen in the game's official announcement trailer.",
-        "zh": "这个看起来完全是AI生成的视频，展示了主角艾薇在游戏中官方预告片出现的反乌托邦赛博朋克城市中探索，并演唱了一首名为\"Wanna be in Love\"的\"原创\"歌曲。",
-        "valuable_point": "考察了非限制性定语从句的翻译处理，以及多个并列动作的翻译顺序。"
-      },
-      "quiz": {
-        "question": "What is the main criticism of the AI-generated music video for Stellar Blade: Blood Rain?",
-        "options": [
-          "A. It features too much KPop content",
-          "B. It is completely AI generated and lacks soul",
-          "C. It doesn't show enough of the game's city",
-          "D. The developers are not featured enough"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了视频的主要问题，与AI生成有关。"
-      }
-    },
-    "id": "article_1785624174998_hve4",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
