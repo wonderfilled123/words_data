@@ -1,5 +1,73 @@
 [
   {
+    "title": "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
+    "title_zh": "前沿人工智能实验室仍不愿透露如何控制失控模型",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+            "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的关于控制失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
+            "grammar": "【语法要点】现在分词短语作结果状语，主句包含宾语从句",
+            "words": [
+              {
+                "word": "rogue",
+                "meaning": "adj. 失控的，叛逆的",
+                "phonetic": "/roʊɡ/"
+              },
+              {
+                "word": "preparedness",
+                "meaning": "n. 准备状态，准备情况",
+                "phonetic": "/prɪˈperdnəs/"
+              },
+              {
+                "word": "potentially",
+                "meaning": "adv. 潜在地，可能地",
+                "phonetic": "/pəˈtenʃəli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What does the new study reveal about leading AI labs?",
+        "options": [
+          "A. They have comprehensive plans for containing rogue models",
+          "B. They are increasingly demonstrating dangerous behavior",
+          "C. They have few publicly documented plans for containing rogue models",
+          "D. They are preparing for unexpected AI behavior"
+        ],
+        "answer": 2,
+        "hint": "提示：文章第一句明确指出了新研究发现的主要问题。"
+      },
+      "translation_task": {
+        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的关于控制失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
+        "valuable_point": "考察了长句中现在分词短语作结果状语的结构，以及as引导原因状语从句的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What does the new study reveal about leading AI labs?",
+        "options": [
+          "A. They have comprehensive plans for containing rogue models",
+          "B. They are increasingly demonstrating dangerous behavior",
+          "C. They have few publicly documented plans for containing rogue models",
+          "D. They are preparing for unexpected AI behavior"
+        ],
+        "answer": 2,
+        "hint": "提示：文章第一句明确指出了新研究发现的主要问题。"
+      }
+    },
+    "id": "article_1787522961762_jkqa",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Frontier AI labs still won't say how they'd contain a rogue model",
     "title_zh": "前沿人工智能实验室仍不愿透露如何控制失控模型",
     "level": "⭐⭐ 中级",
@@ -2402,95 +2470,6 @@
       }
     },
     "id": "article_1785710613541_wcl1",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Sam Altman Isn't the Only One Who Wants to Pump the Brakes on AI",
-    "title_zh": "山姆·奥特曼并非唯一希望为人工智能踩刹车的人",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
-            "zh": "在人工智能领域全速推进多年后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
-            "grammar": "【语法要点】\"After + 名词短语\"作时间状语，表示\"在...之后\"；\"maybe it's time for...to...\"表示\"或许是时候让...做某事了\"。",
-            "words": [
-              {
-                "word": "pace",
-                "meaning": "v. 放慢速度，调整步伐",
-                "phonetic": "/peɪs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face.",
-            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的。",
-            "grammar": "【语法要点】\"broke out of\"表示\"突破...的限制\"；\"got tangled up in\"表示\"陷入...的困境\"。",
-            "words": [
-              {
-                "word": "tangled",
-                "meaning": "adj. 纠缠的，陷入困境的",
-                "phonetic": "/ˈtæŋɡəld/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity's hosts point out, sloppy security seems to have [...]",
-            "zh": "这些言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞几天后发表的——尽管Equity的主持人指出，松散的安全措施似乎导致了[...]",
-            "grammar": "【语法要点】破折号后的内容是对前文的补充说明；\"as...point out\"表示\"正如...所指出的\"。",
-            "words": [
-              {
-                "word": "sloppy",
-                "meaning": "adj. 马虎的，松散的",
-                "phonetic": "/ˈslɒpi/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
-        "options": [
-          "A. A security breach at OpenAI",
-          "B. One of OpenAI's models breaking out of its test environment",
-          "C. The failure of Hugging Face's security system",
-          "D. Years of rapid development in AI"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了某个具体事件的发生时间与Altman言论的时间关系。"
-      },
-      "translation_task": {
-        "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
-        "zh": "在人工智能领域全速推进多年后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
-        "valuable_point": "考察了\"pushing full speed ahead\"和\"pace oneself\"这两个与速度相关的表达，以及\"maybe it's time for...to...\"这一建议句型的翻译。"
-      },
-      "quiz": {
-        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
-        "options": [
-          "A. A security breach at OpenAI",
-          "B. One of OpenAI's models breaking out of its test environment",
-          "C. The failure of Hugging Face's security system",
-          "D. Years of rapid development in AI"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了某个具体事件的发生时间与Altman言论的时间关系。"
-      }
-    },
-    "id": "article_1785624159603_qmqr",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
