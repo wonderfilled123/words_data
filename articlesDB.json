@@ -1,5 +1,68 @@
 [
   {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "title_zh": "Valor和Point72以60亿美元估值支持General Intuition，AI初创公司进军机器人领域",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+            "zh": "General Intuition这家初创公司正在构建一个基础模型，用于训练通用AI代理如何在空间和时间中移动，现正以60亿美元的投前估值进行融资谈判，新投资者包括Valor Ventures、Point72 Ventures和Seven Seven Six。",
+            "grammar": "【语法要点】本句包含一个较长的同位语结构，解释General Intuition的业务内容，以及一个复杂的谓语部分说明融资情况。",
+            "words": [
+              {
+                "word": "foundation",
+                "meaning": "n. 基础，基础模型",
+                "phonetic": "/faʊnˈdeɪʃən/"
+              },
+              {
+                "word": "valuation",
+                "meaning": "n. 估值，估价",
+                "phonetic": "/ˌvæljuˈeɪʃən/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is General Intuition primarily developing according to the article?",
+        "options": [
+          "A. A new type of robot for industrial use",
+          "B. A foundation model for training AI agents to move through space and time",
+          "C. A valuation method for AI startups",
+          "D. A partnership with Valor Ventures"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了General Intuition的主要业务方向。"
+      },
+      "translation_task": {
+        "en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+        "zh": "General Intuition这家初创公司正在构建一个基础模型，用于训练通用AI代理如何在空间和时间中移动，现正以60亿美元的投前估值进行融资谈判，新投资者包括Valor Ventures、Point72 Ventures和Seven Seven Six。",
+        "valuable_point": "考察了长句中同位语结构的翻译处理，以及专业术语如'foundation model'和'pre-money valuation'的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is General Intuition primarily developing according to the article?",
+        "options": [
+          "A. A new type of robot for industrial use",
+          "B. A foundation model for training AI agents to move through space and time",
+          "C. A valuation method for AI startups",
+          "D. A partnership with Valor Ventures"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一句明确指出了General Intuition的主要业务方向。"
+      }
+    },
+    "id": "article_1787609626623_ta09",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
     "title_zh": "前沿人工智能实验室仍不愿透露如何控制失控模型",
     "level": "⭐⭐ 中级",
@@ -2376,100 +2439,6 @@
       }
     },
     "id": "article_1785797388852_fgqj",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Sam Altman isn't the only one who wants to pump the brakes on AI",
-    "title_zh": "山姆·奥特曼并非唯一希望为人工智能踩刹车的人",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
-            "zh": "在多年全力推动人工智能发展之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
-            "grammar": "【语法要点】\"After years of pushing...\"为时间状语前置结构，\"pace\"作为动词使用，意为\"控制速度\"。",
-            "words": [
-              {
-                "word": "pace",
-                "meaning": "v. 控制速度，调整步伐",
-                "phonetic": "/peɪs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face.",
-            "zh": "这番言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞事件发生几天后发表的。",
-            "grammar": "【语法要点】\"broke out of\"和\"got tangled up in\"为动词短语，分别表示\"突破\"和\"陷入\"。",
-            "words": [
-              {
-                "word": "tangled up",
-                "meaning": "phr. v. 陷入，卷入",
-                "phonetic": "/ˈtæŋɡld ʌp/"
-              },
-              {
-                "word": "breach",
-                "meaning": "n. 违反，漏洞，突破",
-                "phonetic": "/briːtʃ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The comments came just days after one of OpenAI's own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity's hosts point out, sloppy security seems to have [...]",
-            "zh": "这番言论是在OpenAI自己的一个模型突破测试环境并陷入Hugging Face的安全漏洞事件发生几天后发表的——尽管Equity节目的主持人指出，松懈的安全措施似乎导致了[...]",
-            "grammar": "【语法要点】破折号后的内容为补充说明，\"point out\"为固定搭配，意为\"指出\"。",
-            "words": [
-              {
-                "word": "sloppy",
-                "meaning": "adj. 马虎的，松懈的",
-                "phonetic": "/ˈslɒpi/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
-        "options": [
-          "A. A new breakthrough in AI technology",
-          "B. A security breach involving one of OpenAI's models",
-          "C. Government regulations on AI development",
-          "D. Public concerns about AI safety"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中提到奥特曼的言论是在某个特定事件发生后发表的，请关注第二段的内容。"
-      },
-      "translation_task": {
-        "en": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it's time for the AI industry to \"pace\" itself.",
-        "zh": "在多年全力推动人工智能发展之后，OpenAI首席执行官山姆·奥特曼表示，或许是时候让人工智能行业\"放慢脚步\"了。",
-        "valuable_point": "考察了\"pushing full speed ahead\"和\"pace oneself\"这两个与速度相关的表达，以及引号在英文中表示特定术语或强调的用法。"
-      },
-      "quiz": {
-        "question": "What prompted Sam Altman to suggest that the AI industry should pace itself?",
-        "options": [
-          "A. A new breakthrough in AI technology",
-          "B. A security breach involving one of OpenAI's models",
-          "C. Government regulations on AI development",
-          "D. Public concerns about AI safety"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中提到奥特曼的言论是在某个特定事件发生后发表的，请关注第二段的内容。"
-      }
-    },
-    "id": "article_1785710613541_wcl1",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
