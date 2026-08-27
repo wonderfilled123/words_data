@@ -1,5 +1,131 @@
 [
   {
+    "title": "It's A Good Week If You Like Games That Let You Play As An Animal",
+    "title_zh": "如果你喜欢扮演动物的游戏，这可是个好星期",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "After Gamescom Opening Night Live and the Future Games Show, we can't help noticing that there are multiple titles coming up that let players either assume control of an animal or play anthropomorphic characters who resemble human/animal hybrids.",
+            "zh": "在科隆游戏展开幕夜直播和未来游戏展之后，我们不禁注意到，有许多即将推出的游戏让玩家能够控制动物或扮演拟人化的角色，这些角色类似于人类/动物的混合体。",
+            "grammar": "【复合句结构】包含多个从句的复杂句，包含时间状语从句和定语从句。",
+            "words": [
+              {
+                "word": "anthropomorphic",
+                "meaning": "adj. 拟人化的",
+                "phonetic": "/ˌænθrəpəˈmɔːrfɪk/"
+              },
+              {
+                "word": "hybrids",
+                "meaning": "n. 混合物，混合体",
+                "phonetic": "/ˈhaɪbrɪdz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "To keep track of these upcoming titles, we ran down a full list of animal-centric games below.",
+            "zh": "为了追踪这些即将推出的游戏，我们在下面列出了完整的以动物为中心的游戏列表。",
+            "grammar": "【不定式作目的状语】使用不定式短语表达目的。",
+            "words": [
+              {
+                "word": "animal-centric",
+                "meaning": "adj. 以动物为中心的",
+                "phonetic": "/ˌænɪməlˈsentrɪk/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Amphibian Developer : Jarcorp Interactive Systems : PC, PlayStation 5, Xbox Series X|S, Switch Release Date : 2028",
+            "zh": "《两栖动物》开发商：Jarcorp Interactive Systems 平台：PC、PlayStation 5、Xbox Series X|S、Switch 发布日期：2028年",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-2",
+            "en": "Amphibian is a retro RPG that casts players as humanoid frogs on a quest to save their world.",
+            "zh": "《两栖动物》是一款复古RPG游戏，玩家在其中扮演人形青蛙，踏上拯救他们世界的征程。",
+            "grammar": "【定语从句】使用that引导的定语从句修饰RPG游戏。",
+            "words": [
+              {
+                "word": "humanoid",
+                "meaning": "adj. 人形的",
+                "phonetic": "/ˈhjuːmənɔɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-3",
+            "en": "As seen in the trailer below, the game apparently commits to its froggy bit by recording all of the dialogue as ribbit sounds.",
+            "zh": "如下面的预告片所示，这款游戏显然坚持其青蛙元素，将所有对话录制为呱呱声。",
+            "grammar": "【状语从句】使用as引导的状语从句表示方式。",
+            "words": [
+              {
+                "word": "commits to",
+                "meaning": "phr. 坚持，致力于",
+                "phonetic": "/kəˈmɪts tuː/"
+              },
+              {
+                "word": "ribbit",
+                "meaning": "n. 呱呱声（青蛙叫声）",
+                "phonetic": "/ˈrɪbɪt/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-4",
+            "en": "However, the English translations appear on-screen.",
+            "zh": "然而，英语翻译会显示在屏幕上。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main characteristic of the game 'Amphibian' mentioned in the article?",
+        "options": [
+          "A. It's a futuristic shooter game",
+          "B. Players control human characters in a fantasy world",
+          "C. It's a retro RPG where players play as humanoid frogs",
+          "D. The game features only animal sounds without any subtitles"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了游戏的类型和玩家扮演的角色。"
+      },
+      "translation_task": {
+        "en": "Amphibian is a retro RPG that casts players as humanoid frogs on a quest to save their world.",
+        "zh": "《两栖动物》是一款复古RPG游戏，玩家在其中扮演人形青蛙，踏上拯救他们世界的征程。",
+        "valuable_point": "考察了定语从句的翻译技巧，以及专业游戏术语的准确表达。"
+      },
+      "quiz": {
+        "question": "What is the main characteristic of the game 'Amphibian' mentioned in the article?",
+        "options": [
+          "A. It's a futuristic shooter game",
+          "B. Players control human characters in a fantasy world",
+          "C. It's a retro RPG where players play as humanoid frogs",
+          "D. The game features only animal sounds without any subtitles"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了游戏的类型和玩家扮演的角色。"
+      }
+    },
+    "id": "article_1787797294377_98j9",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Gamescom Opening Night Live 2026: All The Biggest Announcements, Games, And Trailers",
     "title_zh": "2026年科隆游戏展开幕夜直播：所有最大公告、游戏和预告片",
     "level": "⭐⭐ 中级",
@@ -2376,119 +2502,5 @@
     "id": "article_1785883900534_7irr",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "EA Has Officially Been Sold, And What Comes Next Could Be Painful",
-    "title_zh": "EA正式被收购，未来可能面临痛苦",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The blockbuster buyout of Electronic Arts has been completed, with Saudi Arabia's Public Investment Fund taking ownership of the gaming giant in the biggest leveraged buyout (LBO) in the history of commerce.",
-            "zh": "电子艺界(EA)的巨额收购已经完成，沙特阿拉伯公共投资基金成为这家游戏巨头的所有者，这是商业史上最大的杠杆收购(LBO)。",
-            "grammar": "【语法要点】现在完成时被动语态，with复合结构作伴随状语",
-            "words": [
-              {
-                "word": "blockbuster",
-                "meaning": "n. 重磅炸弹；巨大的成功",
-                "phonetic": "/ˈblɒkbʌstər/"
-              },
-              {
-                "word": "leveraged",
-                "meaning": "adj. 利用杠杆的；举债经营的",
-                "phonetic": "/ˈliːvərɪdʒd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "The $55 billion deal includes billions in debt for EA, which has prompted fears of massive cost-cutting with projected layoffs, studio closures, and game cancellations.",
-            "zh": "这笔550亿美元的交易包括EA数十亿美元的债务，这引发了人们对大规模裁减成本、预计裁员、工作室关闭和游戏取消的担忧。",
-            "grammar": "【语法要点】非限制性定语从句，with复合结构",
-            "words": [
-              {
-                "word": "projected",
-                "meaning": "adj. 预计的；投射的",
-                "phonetic": "/prəˈdʒektɪd/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Nothing has been confirmed as of yet, however.",
-            "zh": "然而，截至目前还没有任何事情得到确认。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"This moment recognizes the extraordinary people whose creativity, ambition, and passion have made EA one of the world's leading interactive entertainment companies,\" said EA CEO Andrew Wilson in the official announcement.",
-            "zh": "EA首席执行官安德鲁·威尔逊在官方公告中表示：'这一时刻认可了那些非凡的人们，他们的创造力、雄心和热情使EA成为世界领先的互动娱乐公司之一。'",
-            "grammar": "【语法要点】定语从句whose引导，引出先行词people",
-            "words": [
-              {
-                "word": "extraordinary",
-                "meaning": "adj. 非凡的；特别的",
-                "phonetic": "/ɪkˈstrɔːdənri/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-3",
-            "en": "\"We're entering this next chapter from a position of strength with partners who share our vision and ambition. Together, we'll invest boldly, accelerat...",
-            "zh": "'我们正从强势地位进入下一章，与分享我们愿景和雄心的合作伙伴一起。我们将大胆投资，加速...'",
-            "grammar": "【语法要点】介词短语作状语，定语从句who引导",
-            "words": [
-              {
-                "word": "ambition",
-                "meaning": "n. 雄心；野心",
-                "phonetic": "/æmˈbɪʃən/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main concern following EA's acquisition by Saudi Arabia's Public Investment Fund?",
-        "options": [
-          "A. The company will expand its game development studios",
-          "B. Massive cost-cutting measures including layoffs and studio closures",
-          "C. Immediate cancellation of all current game projects",
-          "D. A complete rebranding of the company"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了收购后可能引发的担忧，请关注第二段第一句。"
-      },
-      "translation_task": {
-        "en": "This moment recognizes the extraordinary people whose creativity, ambition, and passion have made EA one of the world's leading interactive entertainment companies.",
-        "zh": "这一时刻认可了那些非凡的人们，他们的创造力、雄心和热情使EA成为世界领先的互动娱乐公司之一。",
-        "valuable_point": "考察了定语从句whose的翻译技巧，以及英语长句的拆分与重组能力。"
-      },
-      "quiz": {
-        "question": "What is the main concern following EA's acquisition by Saudi Arabia's Public Investment Fund?",
-        "options": [
-          "A. The company will expand its game development studios",
-          "B. Massive cost-cutting measures including layoffs and studio closures",
-          "C. Immediate cancellation of all current game projects",
-          "D. A complete rebranding of the company"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了收购后可能引发的担忧，请关注第二段第一句。"
-      }
-    },
-    "id": "article_1785883919511_2g7y",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
