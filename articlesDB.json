@@ -1,5 +1,275 @@
 [
   {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "title_zh": "OpenAI、Anthropic、谷歌等100多家公司呼吁采取行动防范恶意AI",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity.",
+            "zh": "世界上一些最大的科技公司和AI初创企业联合起来，谴责当前网络安全状况。",
+            "grammar": "【现在完成时】表示过去发生且持续到现在的动作",
+            "words": [
+              {
+                "word": "decry",
+                "meaning": "v. 谴责，强烈批评",
+                "phonetic": "/dɪˈkraɪ/"
+              },
+              {
+                "word": "cybersecurity",
+                "meaning": "n. 网络安全",
+                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "They advertise a new solution that they say can ward off a new generation of cyber threats.",
+            "zh": "他们宣传一种新的解决方案，称其能够抵御新一代的网络威胁。",
+            "grammar": "【定语从句】that引导的定语从句修饰solution",
+            "words": [
+              {
+                "word": "ward off",
+                "meaning": "phr. 阻挡，防止",
+                "phonetic": "/wɔːrd ɔːf/"
+              },
+              {
+                "word": "threats",
+                "meaning": "n. 威胁，恐吓",
+                "phonetic": "/θrets/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The coalition includes major players like OpenAI, Anthropic, and Google.",
+            "zh": "该联盟包括OpenAI、Anthropic和谷歌等主要参与者。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "coalition",
+                "meaning": "n. 联盟，联合体",
+                "phonetic": "/ˌkoʊəˈlɪʃn/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "They are calling for urgent action to address the growing risks posed by advanced artificial intelligence systems.",
+            "zh": "他们呼吁采取紧急行动，以应对先进人工智能系统带来的日益增长的风险。",
+            "grammar": "【现在进行时】表示当前正在进行的动作",
+            "words": [
+              {
+                "word": "urgent",
+                "meaning": "adj. 紧急的，迫切的",
+                "phonetic": "/ˈɜːrdʒənt/"
+              },
+              {
+                "word": "posed",
+                "meaning": "v. 造成，构成（威胁）",
+                "phonetic": "/poʊzd/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What are the tech companies calling for according to the article?",
+        "options": [
+          "A. More investment in AI development",
+          "B. Urgent action to address AI risks",
+          "C. Stricter regulations on cybersecurity",
+          "D. Collaboration between governments and tech companies"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句明确提到了他们呼吁的内容。"
+      },
+      "translation_task": {
+        "en": "They are calling for urgent action to address the growing risks posed by advanced artificial intelligence systems.",
+        "zh": "他们呼吁采取紧急行动，以应对先进人工智能系统带来的日益增长的风险。",
+        "valuable_point": "考察了现在进行时态的翻译以及过去分词作后置定语的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What are the tech companies calling for according to the article?",
+        "options": [
+          "A. More investment in AI development",
+          "B. Urgent action to address AI risks",
+          "C. Stricter regulations on cybersecurity",
+          "D. Collaboration between governments and tech companies"
+        ],
+        "answer": 1,
+        "hint": "提示：文章最后一句明确提到了他们呼吁的内容。"
+      }
+    },
+    "id": "article_1787896315083_5yf6",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "GTA 6 NPCs Will Notice If You're Carrying A Weapon In Public",
+    "title_zh": "GTA 6的非玩家角色将注意到你在公共场所携带武器",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "In Rockstar Games' Grand Theft Auto franchise, players have been able to walk the streets while armed to the teeth without attracting attention from the non-player characters populating the world.",
+            "zh": "在Rockstar Games的《侠盗猎车手》系列游戏中，玩家一直以来都能够全副武装地走在街上，而不会引起世界中非玩家角色的注意。",
+            "grammar": "【现在完成时】描述从过去持续到现在的状态或习惯",
+            "words": [
+              {
+                "word": "armed",
+                "meaning": "adj. 武装的，携带武器的",
+                "phonetic": "/ɑːmd/"
+              },
+              {
+                "word": "franchise",
+                "meaning": "n. （游戏、电影等的）系列，特许经营权",
+                "phonetic": "/ˈfræntʃaɪz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "However, the NPCs in Grand Theft Auto 6 will be considerably more preceptive than their counterparts in the earlier games.",
+            "zh": "然而，《侠盗猎车手6》中的非玩家角色将比早期游戏中的同类角色更加警觉。",
+            "grammar": "【比较级】使用considerably more...than结构表示程度的比较",
+            "words": [
+              {
+                "word": "preceptive",
+                "meaning": "adj. 有洞察力的，警觉的",
+                "phonetic": "/prɪˈseptɪv/"
+              },
+              {
+                "word": "counterparts",
+                "meaning": "n. 对应的人或物，同类",
+                "phonetic": "/ˈkaʊntəpɑːrts/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "And that means packing weapons in public is going to come at a price.",
+            "zh": "这意味着在公共场所携带武器将会付出代价。",
+            "grammar": "【现在进行时】is going to结构表示即将发生的事情",
+            "words": [
+              {
+                "word": "packing",
+                "meaning": "v. 携带，装载",
+                "phonetic": "/ˈpækɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "According to a GTA 6 preview in The New York Times, \"a player in this one cannot whip out a shotgun or a rocket launcher and walk down the street without expecting the non-player characters to call the police.\"",
+            "zh": "根据《纽约时报》对《侠盗猎车手6》的预览报道，\"在这个游戏中，玩家不能突然掏出霰弹枪或火箭发射器并在街上行走，而不会期望非玩家角色报警。\"",
+            "grammar": "【间接引语】使用according to引导的引述结构",
+            "words": [
+              {
+                "word": "whip out",
+                "meaning": "phr. 突然掏出，迅速拿出",
+                "phonetic": "/wɪp aʊt/"
+              },
+              {
+                "word": "rocket launcher",
+                "meaning": "n. 火箭发射器",
+                "phonetic": "/ˈrɒkɪt ˌlɔːntʃər/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "As disclosed in Netflix's extended GTA 6 preview special, the game has restored the six-star Wanted level to the franchise.",
+            "zh": "正如Netflix的《侠盗猎车手6》特别预览节目所披露的，该游戏已将六星通缉等级重新引入系列。",
+            "grammar": "【被动语态】使用as disclosed in结构表示信息来源",
+            "words": [
+              {
+                "word": "disclosed",
+                "meaning": "v. 揭露，披露",
+                "phonetic": "/dɪsˈkləʊzd/"
+              },
+              {
+                "word": "Wanted level",
+                "meaning": "n. （游戏中的）通缉等级",
+                "phonetic": "/ˈwɒntɪd ˌlevl/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Presumably players will get into more trouble for firing a rocket launcher...",
+            "zh": "可以推测，玩家因发射火箭发射器而会惹上更多麻烦...",
+            "grammar": "【情态动词】使用presumably表示推测",
+            "words": [
+              {
+                "word": "presumably",
+                "meaning": "adv. 大概，推测起来",
+                "phonetic": "/prɪˈzjuːməbli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What will happen if players carry weapons in public in GTA 6?",
+        "options": [
+          "A. NPCs will ignore them as in previous games",
+          "B. NPCs will call the police",
+          "C. Players will automatically get a six-star wanted level",
+          "D. Nothing will happen differently from previous games"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看文章中关于NPC反应的具体描述。"
+      },
+      "translation_task": {
+        "en": "According to a GTA 6 preview in The New York Times, \"a player in this one cannot whip out a shotgun or a rocket launcher and walk down the street without expecting the non-player characters to call the police.\"",
+        "zh": "根据《纽约时报》对《侠盗猎车手6》的预览报道，\"在这个游戏中，玩家不能突然掏出霰弹枪或火箭发射器并在街上行走，而不会期望非玩家角色报警。\"",
+        "valuable_point": "考察了英语中双重否定结构（cannot...without...）的翻译技巧，以及短语动词whip out的准确表达。"
+      },
+      "quiz": {
+        "question": "What will happen if players carry weapons in public in GTA 6?",
+        "options": [
+          "A. NPCs will ignore them as in previous games",
+          "B. NPCs will call the police",
+          "C. Players will automatically get a six-star wanted level",
+          "D. Nothing will happen differently from previous games"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看文章中关于NPC反应的具体描述。"
+      }
+    },
+    "id": "article_1787896343111_kkss",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "It's A Good Week If You Like Games That Let You Play As An Animal",
     "title_zh": "如果你喜欢扮演动物的游戏，这可是个好星期",
     "level": "⭐⭐ 中级",
@@ -2320,186 +2590,6 @@
       }
     },
     "id": "article_1786141411132_vdmj",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "OpenAI says Apple's own security practices undermine its trade secrets case",
-    "title_zh": "OpenAI称苹果自身安全做法削弱了其商业秘密案",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit.",
-            "zh": "新提交的法庭文件展示了OpenAI在苹果商业秘密诉讼中的法律策略。",
-            "grammar": "【语法要点】主谓宾结构，包含所有格名词和专有名词。",
-            "words": [
-              {
-                "word": "exhibits",
-                "meaning": "n. 展品；证据",
-                "phonetic": "/ɪɡˈzɪbɪts/"
-              },
-              {
-                "word": "lawsuit",
-                "meaning": "n. 诉讼；官司",
-                "phonetic": "/ˈlɔːsuːt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "OpenAI aims to argue that Apple's own security and offboarding practices undermine its claims.",
-            "zh": "OpenAI旨在论证苹果自身的安全和离职做法削弱了其主张。",
-            "grammar": "【语法要点】复合句，包含目的状语从句和宾语从句。",
-            "words": [
-              {
-                "word": "offboarding",
-                "meaning": "n. 离职流程；员工离职管理",
-                "phonetic": "/ˌɒfˈbɔːdɪŋ/"
-              },
-              {
-                "word": "undermine",
-                "meaning": "v. 削弱；破坏",
-                "phonetic": "/ˌʌndərˈmaɪn/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "These practices include allowing an Apple manager to access a former engineer's iCloud account after he left the company.",
-            "zh": "这些做法包括允许一位苹果经理在一位前工程师离职后访问其iCloud账户。",
-            "grammar": "【语法要点】现在分词短语作后置定语，修饰前面的名词短语。",
-            "words": [
-              {
-                "word": "allegedly",
-                "meaning": "adv. 据称；被指控地",
-                "phonetic": "/əˈledʒɪdli/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "OpenAI claims this demonstrates that the allegedly stolen information was not properly protected.",
-            "zh": "OpenAI声称这表明据称被盗的信息并未得到妥善保护。",
-            "grammar": "【语法要点】宾语从句，包含被动语态和情态动词。",
-            "words": [
-              {
-                "word": "allegedly",
-                "meaning": "adv. 据称；被指控地",
-                "phonetic": "/əˈledʒɪdli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is OpenAI's main argument in Apple's trade secrets lawsuit?",
-        "options": [
-          "A. That Apple's security practices are better than claimed",
-          "B. That Apple's own security practices undermine its claims",
-          "C. That the stolen information was properly protected",
-          "D. That Apple managers should not access iCloud accounts"
-        ],
-        "answer": 1,
-        "hint": "提示：关注文章中OpenAI的法律策略核心内容。"
-      },
-      "translation_task": {
-        "en": "Newly filed court exhibits show OpenAI's legal strategy in Apple's trade secrets lawsuit: argue that Apple's own security and offboarding practices — including allowing an Apple manager to access a former engineer's iCloud account after he left the company — undermine its claims that the allegedly stolen information was properly protected.",
-        "zh": "新提交的法庭文件展示了OpenAI在苹果商业秘密诉讼中的法律策略：论证苹果自身的安全和离职做法——包括允许一位苹果经理在一位前工程师离职后访问其iCloud账户——削弱了其关于据称被盗信息得到妥善保护的主张。",
-        "valuable_point": "考察了长句中的插入语结构、同位语从句以及专业术语的准确翻译。"
-      },
-      "quiz": {
-        "question": "What is OpenAI's main argument in Apple's trade secrets lawsuit?",
-        "options": [
-          "A. That Apple's security practices are better than claimed",
-          "B. That Apple's own security practices undermine its claims",
-          "C. That the stolen information was properly protected",
-          "D. That Apple managers should not access iCloud accounts"
-        ],
-        "answer": 1,
-        "hint": "提示：关注文章中OpenAI的法律策略核心内容。"
-      }
-    },
-    "id": "article_1786066052947_t239",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-    "title_zh": "开源AI模型正追赶前沿技术，安全差距依然存在",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-            "zh": "一份新的SaferAI报告发现，Z.ai的开源GLM-5.2模型接近前沿AI能力，但缺乏关键的安全缓解措施，重新引发了人们对强大的开源模型可能超越治理和安全保障的担忧。",
-            "grammar": "【语法要点】复合句结构，包含while引导的对比状语从句和that引导的宾语从句",
-            "words": [
-              {
-                "word": "open-weight",
-                "meaning": "adj. 开源权重的",
-                "phonetic": "/ˈoʊpən weɪt/"
-              },
-              {
-                "word": "mitigations",
-                "meaning": "n. 缓解措施，减轻手段",
-                "phonetic": "/ˌmɪtɪˈɡeɪʃənz/"
-              },
-              {
-                "word": "outpace",
-                "meaning": "v. 超越，跑在前面",
-                "phonetic": "/ˌaʊtˈpeɪs/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main concern raised by the SaferAI report?",
-        "options": [
-          "A. Open-weight AI models are becoming too expensive",
-          "B. Open models might surpass governance and safety measures",
-          "C. Frontier AI models are becoming obsolete",
-          "D. Z.ai's GLM-5.2 model has perfect safety features"
-        ],
-        "answer": 1,
-        "hint": "提示：关注报告中提到的担忧，特别是关于开源模型与治理和安全保障的关系。"
-      },
-      "translation_task": {
-        "en": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
-        "zh": "一份新的SaferAI报告发现，Z.ai的开源GLM-5.2模型接近前沿AI能力，但缺乏关键的安全缓解措施，重新引发了人们对强大的开源模型可能超越治理和安全保障的担忧。",
-        "valuable_point": "考察了英语长句的翻译技巧，特别是包含while引导的对比状语从句和that引导的宾语从句的复合句结构。"
-      },
-      "quiz": {
-        "question": "What is the main concern raised by the SaferAI report?",
-        "options": [
-          "A. Open-weight AI models are becoming too expensive",
-          "B. Open models might surpass governance and safety measures",
-          "C. Frontier AI models are becoming obsolete",
-          "D. Z.ai's GLM-5.2 model has perfect safety features"
-        ],
-        "answer": 1,
-        "hint": "提示：关注报告中提到的担忧，特别是关于开源模型与治理和安全保障的关系。"
-      }
-    },
-    "id": "article_1785883900534_7irr",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
