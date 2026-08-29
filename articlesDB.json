@@ -1,5 +1,122 @@
 [
   {
+    "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It's Stuck At 30FPS",
+    "title_zh": "技术专家称《侠盗猎车手6》是迄今为止视觉效果最先进的游戏，这也解释了为何它锁定在30FPS",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds.",
+            "zh": "《侠盗猎车手6》终于迎来了首次大型游戏玩法展示，让我们首次真正看到了Rockstar公司庞大的开放世界及其所包含的丰富细节。",
+            "grammar": "现在完成时与现在进行时的结合使用，描述已经发生且持续影响现在的事件。",
+            "words": [
+              {
+                "word": "reveal",
+                "meaning": "n. 揭示，展示",
+                "phonetic": "/rɪˈviːl/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry.",
+            "zh": "根据Digital Foundry专家的看法，它可能是我们见过的视觉效果最令人印象深刻的一款游戏。",
+            "grammar": "关系代词引导的定语从句，使用最高级表示程度。",
+            "words": [
+              {
+                "word": "visually-impressive",
+                "meaning": "adj. 视觉上令人印象深刻的",
+                "phonetic": "/ˈvɪʒuəli ɪmˈpresɪv/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
+            "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
+            "grammar": "with复合结构作伴随状语，表示伴随情况。",
+            "words": [
+              {
+                "word": "presentation",
+                "meaning": "n. 呈现，展示",
+                "phonetic": "/ˌprezənˈteɪʃn/"
+              },
+              {
+                "word": "rendering",
+                "meaning": "n. 渲染（计算机图形学）",
+                "phonetic": "/ˈrendərɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The pair praised a slew of details showcased in the gameplay, including standout character rendering, especially the hair physics and skin details across not just the game's protagonist, but many NPCs too.",
+            "zh": "这对搭档称赞了游戏玩法中展示的大量细节，包括出色的角色渲染，特别是不仅限于游戏主角，还有许多NPC角色的头发物理效果和皮肤细节。",
+            "grammar": "including引导的插入语，列举具体细节；not just...but also...结构表示递进关系。",
+            "words": [
+              {
+                "word": "slew",
+                "meaning": "n. 大量，许多",
+                "phonetic": "/sluː/"
+              },
+              {
+                "word": "protagonist",
+                "meaning": "n. 主角，主人公",
+                "phonetic": "/proʊˈtæɡənɪst/"
+              },
+              {
+                "word": "NPC",
+                "meaning": "n. 非玩家角色(Non-Player Character)",
+                "phonetic": "/ˌen piː ˈsiː/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the article, what did Digital Foundry experts specifically praise about GTA 6?",
+        "options": [
+          "A. The game's frame rate performance",
+          "B. The visual presentation and character details",
+          "C. The size of the open world",
+          "D. The gameplay mechanics"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现和角色细节的称赞。"
+      },
+      "translation_task": {
+        "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
+        "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
+        "valuable_point": "考察了with复合结构作伴随状语的翻译技巧，以及引语的准确传达。"
+      },
+      "quiz": {
+        "question": "According to the article, what did Digital Foundry experts specifically praise about GTA 6?",
+        "options": [
+          "A. The game's frame rate performance",
+          "B. The visual presentation and character details",
+          "C. The size of the open world",
+          "D. The gameplay mechanics"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现和角色细节的称赞。"
+      }
+    },
+    "id": "article_1787973886382_hp7s",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
     "title_zh": "OpenAI、Anthropic、谷歌等100多家公司呼吁采取行动防范恶意AI",
     "level": "⭐⭐ 中级",
@@ -2509,87 +2626,6 @@
       }
     },
     "id": "article_1786227356956_hx7m",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "title_zh": "Cloudflare推出Kitesurf，一款专为AI代理设计的浏览器",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people.",
-            "zh": "Kitesurf是一款云端浏览器，专为AI代理而非人类设计。",
-            "grammar": "【语法要点】过去分词短语作后置定语",
-            "words": [
-              {
-                "word": "cloud-hosted",
-                "meaning": "adj. 云端托管的",
-                "phonetic": "/ˈklaʊd hoʊstɪd/"
-              },
-              {
-                "word": "designed",
-                "meaning": "v. 设计的（过去分词）",
-                "phonetic": "/dɪˈzaɪnd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-            "zh": "与Chromium相比，它在常见的自动化任务中使用更少的计算能力，帮助开发者更高效地构建基于浏览器的AI代理。",
-            "grammar": "【语法要点】现在分词短语作结果状语",
-            "words": [
-              {
-                "word": "automation",
-                "meaning": "n. 自动化",
-                "phonetic": "/ˌɔːtəˈmeɪʃən/"
-              },
-              {
-                "word": "efficiently",
-                "meaning": "adv. 高效地",
-                "phonetic": "/ɪˈfɪʃəntli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main advantage of Kitesurf compared to Chromium?",
-        "options": [
-          "A. It has more features for human users",
-          "B. It uses less computing power for automation tasks",
-          "C. It works faster on all websites",
-          "D. It requires no internet connection"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Kitesurf与Chromium在计算资源使用方面的对比。"
-      },
-      "translation_task": {
-        "en": "It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-        "zh": "与Chromium相比，它在常见的自动化任务中使用更少的计算能力，帮助开发者更高效地构建基于浏览器的AI代理。",
-        "valuable_point": "考察了比较级结构\"less than\"和现在分词短语作结果状语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What is the main advantage of Kitesurf compared to Chromium?",
-        "options": [
-          "A. It has more features for human users",
-          "B. It uses less computing power for automation tasks",
-          "C. It works faster on all websites",
-          "D. It requires no internet connection"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Kitesurf与Chromium在计算资源使用方面的对比。"
-      }
-    },
-    "id": "article_1786141411132_vdmj",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
