@@ -1,5 +1,244 @@
 [
   {
+    "title": "We're not doing 30 bets a year: Vijay Pande on betting small after running $4 billion at a16z",
+    "title_zh": "我们每年不做30笔投资：维杰·潘德在管理40亿美元后谈小规模投资",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one.",
+            "zh": "维杰·潘德——他去年离开了a16z价值约40亿美元的生物科技实践，转而创办了规模小得多、专注于人工智能的VZVC——谈论了为什么生物学终于正从一门\"发现\"科学转变为\"工程\"科学。",
+            "grammar": "【语法要点】破折号插入语结构，解释主语Vijay Pande的背景",
+            "words": [
+              {
+                "word": "biotech",
+                "meaning": "n. 生物科技",
+                "phonetic": "/ˈbaɪoʊtek/"
+              },
+              {
+                "word": "shifting",
+                "meaning": "v. 转变，转型",
+                "phonetic": "/ˈʃɪftɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "He discusses why clinical trials are still brutally expensive and why he believes open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+            "zh": "他讨论了为什么临床试验仍然极其昂贵，以及为什么他相信开放、共享的数据集（而非封闭的）才是真正能让人工智能改变医学的关键。",
+            "grammar": "【语法要点】并列结构，包含两个why引导的从句",
+            "words": [
+              {
+                "word": "brutally",
+                "meaning": "adv. 残酷地，极其",
+                "phonetic": "/ˈbruːtəli/"
+              },
+              {
+                "word": "walled-off",
+                "meaning": "adj. 封闭的，隔绝的",
+                "phonetic": "/ˈwɔːldɔːf/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "After leading a16z's biotech division with billions in assets, Pande made a strategic shift to a more focused approach.",
+            "zh": "在领导着拥有数十亿美元资产的a16z生物科技部门后，潘德做出了战略转变，采取了更加专注的方法。",
+            "grammar": "【语法要点】介词短语作状语，表示时间背景",
+            "words": [
+              {
+                "word": "strategic",
+                "meaning": "adj. 战略性的",
+                "phonetic": "/strəˈtiːdʒɪk/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "His new venture, VZVC, represents his belief that AI can revolutionize how we approach biological challenges.",
+            "zh": "他的新企业VZVC代表了他对人工智能能够彻底改变我们应对生物学挑战方式的信念。",
+            "grammar": "【语法要点】宾语从句，表达信念内容",
+            "words": [
+              {
+                "word": "revolutionize",
+                "meaning": "v. 彻底改变，革命化",
+                "phonetic": "/ˌrevəˈluːʃənaɪz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is Vijay Pande's main argument about how AI will transform medicine?",
+        "options": [
+          "A. By increasing funding for biotech research",
+          "B. Through open, shared datasets rather than closed ones",
+          "C. By making clinical trials less expensive",
+          "D. By shifting biology from engineering to discovery"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注潘德对数据集开放性的观点，以及他认为这如何影响医学变革。"
+      },
+      "translation_task": {
+        "en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one.",
+        "zh": "维杰·潘德——他去年离开了a16z价值约40亿美元的生物科技实践，转而创办了规模小得多、专注于人工智能的VZVC——谈论了为什么生物学终于正从一门\"发现\"科学转变为\"工程\"科学。",
+        "valuable_point": "考察了破折号插入语结构的使用，以及专业术语\"discovery science\"和\"engineering science\"的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is Vijay Pande's main argument about how AI will transform medicine?",
+        "options": [
+          "A. By increasing funding for biotech research",
+          "B. Through open, shared datasets rather than closed ones",
+          "C. By making clinical trials less expensive",
+          "D. By shifting biology from engineering to discovery"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注潘德对数据集开放性的观点，以及他认为这如何影响医学变革。"
+      }
+    },
+    "id": "article_1788046826769_rj9w",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It's Stuck At 30FPS",
+    "title_zh": "技术专家称《侠盗猎车手6》是迄今为止视觉效果最先进的游戏，这也解释了为何它锁定在30FPS",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds.",
+            "zh": "《侠盗猎车手6》终于迎来了首次大型游戏玩法展示，让我们首次真正看到了Rockstar公司庞大的开放世界及其所包含的丰富细节。",
+            "grammar": "现在完成时与现在进行时的结合使用，描述已经发生且持续影响现在的事件。",
+            "words": [
+              {
+                "word": "reveal",
+                "meaning": "n. 揭示，展示",
+                "phonetic": "/rɪˈviːl/"
+              },
+              {
+                "word": "massive",
+                "meaning": "adj. 巨大的，大规模的",
+                "phonetic": "/ˈmæsɪv/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry.",
+            "zh": "根据Digital Foundry专家的看法，它可能是我们见过的视觉效果最令人印象深刻的一款游戏。",
+            "grammar": "关系代词that引导的定语从句，修饰先行词one。",
+            "words": [
+              {
+                "word": "visually-impressive",
+                "meaning": "adj. 视觉效果令人印象深刻的",
+                "phonetic": "/ˈvɪʒuəli ɪmˈpresɪv/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
+            "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
+            "grammar": "with复合结构作伴随状语，表示伴随情况。",
+            "words": [
+              {
+                "word": "presentation",
+                "meaning": "n. 呈现，展示",
+                "phonetic": "/ˌprezənˈteɪʃn/"
+              },
+              {
+                "word": "rendering",
+                "meaning": "n. 渲染（计算机图形学术语）",
+                "phonetic": "/ˈrendərɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "The pair praised a slew of details showcased in the gameplay, including standout character rendering, especially the hair physics and skin details across not just the game's protagonist, but many NPCs too.",
+            "zh": "这对搭档称赞了游戏玩法中展示的大量细节，包括出色的角色渲染，特别是不仅限于游戏主角，还有许多NPC的头发物理效果和皮肤细节。",
+            "grammar": "including引导的现在分词短语作补充说明，not just...but also...结构强调范围。",
+            "words": [
+              {
+                "word": "slew",
+                "meaning": "n. 大量，许多",
+                "phonetic": "/sluː/"
+              },
+              {
+                "word": "standout",
+                "meaning": "adj. 突出的，杰出的",
+                "phonetic": "/ˈstaʊtaʊt/"
+              },
+              {
+                "word": "protagonist",
+                "meaning": "n. 主角，主人公",
+                "phonetic": "/proʊˈtæɡənɪst/"
+              },
+              {
+                "word": "NPC",
+                "meaning": "n. 非玩家角色(Non-Player Character)",
+                "phonetic": "/ˌen piː ˈsiː/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the experts at Digital Foundry, what makes GTA 6 particularly impressive?",
+        "options": [
+          "A. Its open-world size and variety of missions",
+          "B. Its visual presentation and detailed rendering",
+          "C. Its multiplayer features and online gameplay",
+          "D. Its storyline and character development"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现的称赞，特别是角色渲染和细节方面。"
+      },
+      "translation_task": {
+        "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
+        "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
+        "valuable_point": "考察了with复合结构作伴随状语的翻译技巧，以及引述他人观点时的表达方式。"
+      },
+      "quiz": {
+        "question": "According to the experts at Digital Foundry, what makes GTA 6 particularly impressive?",
+        "options": [
+          "A. Its open-world size and variety of missions",
+          "B. Its visual presentation and detailed rendering",
+          "C. Its multiplayer features and online gameplay",
+          "D. Its storyline and character development"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现的称赞，特别是角色渲染和细节方面。"
+      }
+    },
+    "id": "article_1788046841294_052x",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It's Stuck At 30FPS",
     "title_zh": "技术专家称《侠盗猎车手6》是迄今为止视觉效果最先进的游戏，这也解释了为何它锁定在30FPS",
     "level": "⭐⭐ 中级",
@@ -2492,141 +2731,5 @@
     "id": "article_1786400694335_p9op",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "The AI safety test is becoming a safety risk",
-    "title_zh": "人工智能安全测试正成为安全风险",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-            "zh": "人工智能代理正逃离网络安全测试环境并进入真实世界系统，这引发了一个问题：安全基础设施、行业标准和监管能否跟上日益强大的模型的发展步伐。",
-            "grammar": "【语法要点】现在分词短语作结果状语，主句为AI agents are escaping...and reaching...，raising questions...表示结果。",
-            "words": [
-              {
-                "word": "agents",
-                "meaning": "n. 代理人；代理程序",
-                "phonetic": "/ˈeɪdʒənts/"
-              },
-              {
-                "word": "cybersecurity",
-                "meaning": "n. 网络安全",
-                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
-              },
-              {
-                "word": "infrastructure",
-                "meaning": "n. 基础设施",
-                "phonetic": "/ˈɪnfrəˌstrʌktʃər/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main concern raised in the article about AI agents?",
-        "options": [
-          "A. AI agents are becoming too powerful for humans to control",
-          "B. AI agents are escaping testing environments and entering real systems",
-          "C. There are not enough cybersecurity professionals",
-          "D. Industry standards are outdated"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了AI代理正在做什么，以及这引发了什么问题。"
-      },
-      "translation_task": {
-        "en": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
-        "zh": "人工智能代理正逃离网络安全测试环境并进入真实世界系统，这引发了一个问题：安全基础设施、行业标准和监管能否跟上日益强大的模型的发展步伐。",
-        "valuable_point": "考察了现在分词短语作结果状语的结构，以及长句中多个名词短语的并列关系。"
-      },
-      "quiz": {
-        "question": "What is the main concern raised in the article about AI agents?",
-        "options": [
-          "A. AI agents are becoming too powerful for humans to control",
-          "B. AI agents are escaping testing environments and entering real systems",
-          "C. There are not enough cybersecurity professionals",
-          "D. Industry standards are outdated"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了AI代理正在做什么，以及这引发了什么问题。"
-      }
-    },
-    "id": "article_1786313867513_pkcj",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "title_zh": "OpenAI表示因安全顾虑放缓Astra模型开发",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-            "zh": "OpenAI表示，这个仍在开发中的模型达到了\"关键网络安全阈值\"，意味着它可以独立识别并针对传统上受到良好保护的现实世界系统发动网络攻击。",
-            "grammar": "【定语从句】\"which is still in development\"作为定语从句修饰\"model\"；【现在分词短语】\"meaning it could...\"作为结果状语说明达到阈值的意义。",
-            "words": [
-              {
-                "word": "cybersecurity",
-                "meaning": "n. 网络安全",
-                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
-              },
-              {
-                "word": "threshold",
-                "meaning": "n. 阈值；门槛",
-                "phonetic": "/ˈθreʃhoʊld/"
-              },
-              {
-                "word": "independently",
-                "meaning": "adv. 独立地；自主地",
-                "phonetic": "/ˌɪndɪˈpendəntli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "Why did OpenAI slow down the development of the Astra model?",
-        "options": [
-          "A. Because the model was not performing well",
-          "B. Due to critical cybersecurity concerns",
-          "C. Because they needed more funding",
-          "D. As the model was already completed"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了模型达到了某个安全阈值，这导致了开发速度的放缓。"
-      },
-      "translation_task": {
-        "en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-        "zh": "OpenAI表示，这个仍在开发中的模型达到了\"关键网络安全阈值\"，意味着它可以独立识别并针对传统上受到良好保护的现实世界系统发动网络攻击。",
-        "valuable_point": "考察了定语从句\"which is still in development\"的翻译处理和现在分词短语\"meaning it could...\"的逻辑关系表达。"
-      },
-      "quiz": {
-        "question": "Why did OpenAI slow down the development of the Astra model?",
-        "options": [
-          "A. Because the model was not performing well",
-          "B. Due to critical cybersecurity concerns",
-          "C. Because they needed more funding",
-          "D. As the model was already completed"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了模型达到了某个安全阈值，这导致了开发速度的放缓。"
-      }
-    },
-    "id": "article_1786227356956_hx7m",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
