@@ -1,5 +1,213 @@
 [
   {
+    "title": "Musk's Faster Path to More Gas Turbines Comes with Pollution Problem",
+    "title_zh": "马斯克更快获得更多燃气涡轮机的道路带来污染问题",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else.",
+            "zh": "埃隆·马斯克表示，一个保密的SpaceX新铸造厂将让他能够铸造自己的涡轮叶片，并比任何人都快18个月使燃气发电上线。",
+            "grammar": "【语法要点】复合句，包含主句和宾语从句，使用了比较级结构",
+            "words": [
+              {
+                "word": "foundry",
+                "meaning": "n. 铸造厂",
+                "phonetic": "/ˈfaʊndri/"
+              },
+              {
+                "word": "turbine",
+                "meaning": "n. 涡轮机",
+                "phonetic": "/ˈtɜːrbaɪn/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "— but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+            "zh": "—但这是一种押注于燃料源的做法，而这种燃料源已经在他（和其他人）的涡轮机所到之处引发了诉讼和健康研究。",
+            "grammar": "【语法要点】破折号引导的转折句，包含定语从句和现在分词短语",
+            "words": [
+              {
+                "word": "triggering",
+                "meaning": "v. 触发，引发",
+                "phonetic": "/ˈtrɪɡərɪŋ/"
+              },
+              {
+                "word": "lawsuits",
+                "meaning": "n. 诉讼（复数）",
+                "phonetic": "/ˈlɔːsuːts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main concern about SpaceX's new foundry according to the article?",
+        "options": [
+          "A. It will take longer than expected to produce turbine blades",
+          "B. It uses a fuel source that causes pollution and legal issues",
+          "C. It will be less efficient than competitors' methods",
+          "D. It will create too many health studies"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到这种燃料源已经引发了诉讼和健康研究，这是主要问题所在。"
+      },
+      "translation_task": {
+        "en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else.",
+        "zh": "埃隆·马斯克表示，一个保密的SpaceX新铸造厂将让他能够铸造自己的涡轮叶片，并比任何人都快18个月使燃气发电上线。",
+        "valuable_point": "考察了包含多个动作的复合句翻译，以及专业术语（foundry, turbine blades）的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is the main concern about SpaceX's new foundry according to the article?",
+        "options": [
+          "A. It will take longer than expected to produce turbine blades",
+          "B. It uses a fuel source that causes pollution and legal issues",
+          "C. It will be less efficient than competitors' methods",
+          "D. It will create too many health studies"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到这种燃料源已经引发了诉讼和健康研究，这是主要问题所在。"
+      }
+    },
+    "id": "article_1788134438890_affx",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Minecraft Mobs Arrive As Cookie Treats At Crumbl For Limited Time",
+    "title_zh": "《我的世界》生物限时登陆Crumbl饼干店",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Chicken cookies! Crumbl has revealed a Minecraft collaboration that introduces six different desserts based on the sandbox game to the menu starting today.",
+            "zh": "鸡肉饼干！Crumbl饼干店宣布了一项《我的世界》合作活动，从今天开始推出六种基于这款沙盒游戏的不同甜点。",
+            "grammar": "现在完成时表示刚刚发生的动作",
+            "words": [
+              {
+                "word": "collaboration",
+                "meaning": "n. 合作；协作",
+                "phonetic": "/kəˌlæbəˈreɪʃn/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Yes, they're all square shaped, and no, there isn't a chicken jockey.",
+            "zh": "是的，它们都是方形的，不，这里没有鸡骑士。",
+            "grammar": "",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Available tomorrow, August 31, through September 5, the four-sided treats include a cookie butter cookie with a chicken topper, a Creeper Key lime sandwich, and a lemon poppyseed cookie topped with a boxy bee.",
+            "zh": "从明天8月31日至9月5日，这些四方形的甜点包括一款带有鸡肉装饰的黄油饼干，一款苦酸橙三明治，以及一款顶部有方形蜜蜂的柠檬罂粟籽饼干。",
+            "grammar": "包含多个并列成分的复杂句",
+            "words": [
+              {
+                "word": "poppyseed",
+                "meaning": "n. 罂粟籽",
+                "phonetic": "/ˈpɑːpiːsiːd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Those three treats are joined by an Enderman cookies-and-cream sandwich, which has purple marshmallow mousse in the middle.",
+            "zh": "这三种甜点再加上一款末影人饼干奶油三明治，中间有紫色棉花糖慕斯。",
+            "grammar": "非限制性定语从句",
+            "words": [
+              {
+                "word": "marshmallow",
+                "meaning": "n. 棉花糖",
+                "phonetic": "/ˈmɑːrʃˌmæloʊ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Who knew those weirdos could have such a tasty-sounding filling?",
+            "zh": "谁会想到那些怪人能有这么美味的馅料？",
+            "grammar": "反问句表达惊讶",
+            "words": [
+              {
+                "word": "weirdos",
+                "meaning": "n. 怪人；古怪的人",
+                "phonetic": "/ˈwɪərdoʊz/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Meanwhile, the pig-themed dessert is a cherry blossom cookie, with maraschino cherries and cherry cream cheese frosting as two of the key ingredients.",
+            "zh": "与此同时，猪主题的甜点是樱花饼干，其中马拉斯奇诺樱桃和樱桃奶油奶酪糖霜是两种主要成分。",
+            "grammar": "with...作为...的结构的用法",
+            "words": [
+              {
+                "word": "maraschino",
+                "meaning": "n. 马拉斯奇诺樱桃（用糖浆浸泡的樱桃）",
+                "phonetic": "/ˌmærəˈskiːnoʊ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "How long will the Minecraft-themed cookies be available at Crumbl?",
+        "options": [
+          "A. From August 31 through September 5",
+          "B. From today through next week",
+          "C. For one month only",
+          "D. Until they sell out"
+        ],
+        "answer": 0,
+        "hint": "提示：文章中明确提到了这些饼干的供应时间。"
+      },
+      "translation_task": {
+        "en": "Available tomorrow, August 31, through September 5, the four-sided treats include a cookie butter cookie with a chicken topper, a Creeper Key lime sandwich, and a lemon poppyseed cookie topped with a boxy bee.",
+        "zh": "从明天8月31日至9月5日，这些四方形的甜点包括一款带有鸡肉装饰的黄油饼干，一款苦酸橙三明治，以及一款顶部有方形蜜蜂的柠檬罂粟籽饼干。",
+        "valuable_point": "考察了多个并列成分的翻译处理，以及专有名词（如Creeper）的保留翻译。"
+      },
+      "quiz": {
+        "question": "How long will the Minecraft-themed cookies be available at Crumbl?",
+        "options": [
+          "A. From August 31 through September 5",
+          "B. From today through next week",
+          "C. For one month only",
+          "D. Until they sell out"
+        ],
+        "answer": 0,
+        "hint": "提示：文章中明确提到了这些饼干的供应时间。"
+      }
+    },
+    "id": "article_1788134496132_q1kw",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "We're not doing 30 bets a year: Vijay Pande on betting small after running $4 billion at a16z",
     "title_zh": "我们每年不做30笔投资：维杰·潘德在管理40亿美元后谈小规模投资",
     "level": "⭐⭐ 中级",
@@ -2478,258 +2686,5 @@
     "id": "article_1786487384291_7alx",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "The Elder Scrolls 6 Might Have An 8-Letter Subtitle",
-    "title_zh": "《上古卷轴6》可能有一个8字母的副标题",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The Elder Scrolls 6 is one of Microsoft's biggest upcoming games, but it remains largely a mystery, despite being announced more than eight years ago.",
-            "zh": "《上古卷轴6》是微软最大的即将推出的游戏之一，但尽管它早在八多年前就已公布，它仍然 largely 是一个谜。",
-            "grammar": "【语法要点】despite引导的让步状语从句，表示尽管有某种情况，但主句的情况仍然成立。",
-            "words": [
-              {
-                "word": "mystery",
-                "meaning": "n. 谁都不知道的事；秘密",
-                "phonetic": "/ˈmɪstəri/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Today, August 11, Xbox CEO Asha Sharma provided an update on it, saying she witnessed a \"live playthrough\" of the game.",
-            "zh": "今天，8月11日，Xbox首席执行官Asha Sharma提供了关于这款游戏的更新，说她见证了一场游戏的\"实机演示\"。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "playthrough",
-                "meaning": "n. 游戏全程演示；通关过程",
-                "phonetic": "/ˈpleɪθruː/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "She also teased the game's subtitle, or at least that's what it seems like.",
-            "zh": "她还暗示了游戏的副标题，或者至少看起来是这样。",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"The scale and grandeur are incredible. The story is even greater,\" she said.",
-            "zh": "\"规模和宏伟程度令人难以置信。故事更加精彩，\"她说。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "grandeur",
-                "meaning": "n. 宏伟；壮丽",
-                "phonetic": "/ˈɡrændʒər/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "Those are buzzwords that do not mean much of anything.",
-            "zh": "这些只是流行词，并没有太多实际意义。",
-            "grammar": "【语法要点】that引导的定语从句修饰buzzwords，表示这些词的特点。",
-            "words": [
-              {
-                "word": "buzzwords",
-                "meaning": "n. 流行词；时髦术语",
-                "phonetic": "/ˈbʌzwɜːrdz/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "More intriguingly, Sharma included asterisks in her post that suggest she's referring to the game's subtitle.",
-            "zh": "更有趣的是，Sharma在她的帖子中包含了星号，这表明她指的是游戏的副标题。",
-            "grammar": "【语法要点】that引导的定语从句修饰asterisks，说明星号的作用。",
-            "words": [
-              {
-                "word": "intriguingly",
-                "meaning": "adv. 有趣地；引人入胜地",
-                "phonetic": "/ɪnˈtriːɡɪŋli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What did Xbox CEO Asha Sharma reveal about The Elder Scrolls 6?",
-        "options": [
-          "A. The exact release date of the game",
-          "B. That she witnessed a live playthrough of the game",
-          "C. The full plot of the game",
-          "D. The official subtitle of the game"
-        ],
-        "answer": 1,
-        "hint": "提示：注意文章中提到的Asha Sharma提供的更新内容，特别是关于她亲眼看到的部分。"
-      },
-      "translation_task": {
-        "en": "More intriguingly, Sharma included asterisks in her post that suggest she's referring to the game's subtitle.",
-        "zh": "更有趣的是，Sharma在她的帖子中包含了星号，这表明她指的是游戏的副标题。",
-        "valuable_point": "考察了定语从句的翻译技巧，that引导的定语从句修饰asterisks，在翻译时需要调整语序以符合中文表达习惯。"
-      },
-      "quiz": {
-        "question": "What did Xbox CEO Asha Sharma reveal about The Elder Scrolls 6?",
-        "options": [
-          "A. The exact release date of the game",
-          "B. That she witnessed a live playthrough of the game",
-          "C. The full plot of the game",
-          "D. The official subtitle of the game"
-        ],
-        "answer": 1,
-        "hint": "提示：注意文章中提到的Asha Sharma提供的更新内容，特别是关于她亲眼看到的部分。"
-      }
-    },
-    "id": "article_1786487399184_8sdk",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Indie Games Are Breaking Out–But It's Still Tough Out There",
-    "title_zh": "独立游戏正在崛起——但前路依然艰难",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Developer House House and publisher Panic announced today that their co-op multiplayer puzzle/exploration/goof-around game Big Walk has achieved huge sales success in just under a week.",
-            "zh": "开发商House House和发行商Panic今天宣布，他们的合作多人益智/探索/搞笑游戏《Big Walk》在不到一周的时间内取得了巨大的销售成功。",
-            "grammar": "【语法要点】宾语从句：that引导的从句作为announced的宾语，包含多个复合形容词修饰game",
-            "words": [
-              {
-                "word": "co-op",
-                "meaning": "adj. 合作式的",
-                "phonetic": "/ˈkoʊ.ɑːp/"
-              },
-              {
-                "word": "goof-around",
-                "meaning": "adj. 搞笑的，嬉闹的",
-                "phonetic": "/ˈɡuːf.ə.raʊnd/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "In a post on Bluesky, Panic announced that Big Walk has already passed over one million units in sales.",
-            "zh": "在Bluesky上的一篇帖子中，Panic宣布《Big Walk》的销量已经超过了一百万份。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "For small development teams and publishers, one million is a tremendous milestone--one that plenty of big commercial releases from major publishers often fail to reach.",
-            "zh": "对于小型开发团队和发行商来说，一百万是一个巨大的里程碑——许多来自大型商业发行商的重要作品都未能达到这一数字。",
-            "grammar": "【语法要点】破折号后的同位语：one that...用来解释milestone的具体含义",
-            "words": [
-              {
-                "word": "tremendous",
-                "meaning": "adj. 巨大的，惊人的",
-                "phonetic": "/trəˈmendəs/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "But we've seen a fair few massive indie hits in 2026 so far.",
-            "zh": "但2026年以来，我们已经看到了相当多的大型独立游戏成功案例。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "Today the official X account of Ball X Pit posted that they've just crossed 2 million in sales while also teasing future content updates.",
-            "zh": "今天，Ball X Pit的官方X账户发布消息称，他们的销量刚刚突破200万，同时还在暗示未来的内容更新。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "teasing",
-                "meaning": "v. 暗示，逗弄",
-                "phonetic": "/ˈtiːzɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Bizarre raising sim/RPG hybrid Mewgenics also crossed the million mark, reportedly earning back its development cost in a matter of mere hours.",
-            "zh": "另类养成模拟/RPG混合游戏《Mewgenics》也突破了百万销量，据报道在短短几小时内就收回了开发成本。",
-            "grammar": "【语法要点】现在分词短语作结果状语：reportedly earning back...",
-            "words": [
-              {
-                "word": "hybrid",
-                "meaning": "n. 混合物，混合体",
-                "phonetic": "/ˈhaɪbrɪd/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the article, which game has crossed 2 million in sales?",
-        "options": [
-          "A. Big Walk",
-          "B. Mewgenics",
-          "C. Ball X Pit",
-          "D. House House"
-        ],
-        "answer": 2,
-        "hint": "提示：请仔细阅读第二段，寻找提到销量突破200万的游戏名称。"
-      },
-      "translation_task": {
-        "en": "For small development teams and publishers, one million is a tremendous milestone--one that plenty of big commercial releases from major publishers often fail to reach.",
-        "zh": "对于小型开发团队和发行商来说，一百万是一个巨大的里程碑——许多来自大型商业发行商的重要作品都未能达到这一数字。",
-        "valuable_point": "考察了破折号后同位语结构的翻译技巧，以及fail to reach这一否定表达的自然转换。"
-      },
-      "quiz": {
-        "question": "According to the article, which game has crossed 2 million in sales?",
-        "options": [
-          "A. Big Walk",
-          "B. Mewgenics",
-          "C. Ball X Pit",
-          "D. House House"
-        ],
-        "answer": 2,
-        "hint": "提示：请仔细阅读第二段，寻找提到销量突破200万的游戏名称。"
-      }
-    },
-    "id": "article_1786400694335_p9op",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
