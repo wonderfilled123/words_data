@@ -1,6 +1,87 @@
 [
   {
     "title": "Musk's Faster Path to More Gas Turbines Comes with Pollution Problem",
+    "title_zh": "马斯克加速获取更多燃气轮机的路径带来污染问题",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else.",
+            "zh": "埃隆·马斯克表示，一个神秘的SpaceX新铸造厂将让他能够铸造自己的涡轮叶片，并比任何其他人都快18个月使燃气发电上线。",
+            "grammar": "【语法要点】复合句，包含主句和宾语从句，使用了比较级结构",
+            "words": [
+              {
+                "word": "foundry",
+                "meaning": "n. 铸造厂",
+                "phonetic": "/ˈfaʊndri/"
+              },
+              {
+                "word": "turbine",
+                "meaning": "n. 涡轮机",
+                "phonetic": "/ˈtɜːrbaɪn/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+            "zh": "但这押注于一种燃料来源，这种燃料来源已经在他（和其他人）的涡轮机所到之处引发了诉讼和健康研究。",
+            "grammar": "【语法要点】包含定语从句的复合句，使用了现在完成进行时",
+            "words": [
+              {
+                "word": "triggering",
+                "meaning": "v. 引发，触发",
+                "phonetic": "/ˈtrɪɡərɪŋ/"
+              },
+              {
+                "word": "lawsuits",
+                "meaning": "n. 诉讼（复数）",
+                "phonetic": "/ˈlɔːsuːts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main concern about Elon Musk's new gas turbine project?",
+        "options": [
+          "A. The secrecy of the SpaceX foundry",
+          "B. The faster production timeline",
+          "C. The pollution and health issues associated with gas turbines",
+          "D. The cost of turbine blade casting"
+        ],
+        "answer": 2,
+        "hint": "提示：文章最后部分提到了这种燃料来源已经引发了什么问题？"
+      },
+      "translation_task": {
+        "en": "but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+        "zh": "但这押注于一种燃料来源，这种燃料来源已经在他（和其他人）的涡轮机所到之处引发了诉讼和健康研究。",
+        "valuable_point": "考察了定语从句的翻译技巧和现在完成进行时的表达方式，以及专业术语'lawsuits'的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is the main concern about Elon Musk's new gas turbine project?",
+        "options": [
+          "A. The secrecy of the SpaceX foundry",
+          "B. The faster production timeline",
+          "C. The pollution and health issues associated with gas turbines",
+          "D. The cost of turbine blade casting"
+        ],
+        "answer": 2,
+        "hint": "提示：文章最后部分提到了这种燃料来源已经引发了什么问题？"
+      }
+    },
+    "id": "article_1788305893715_q2jg",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Musk's Faster Path to More Gas Turbines Comes with Pollution Problem",
     "title_zh": "马斯克加速获取更多燃气涡轮机的道路带来污染问题",
     "level": "⭐⭐ 中级",
     "time": "2 分钟阅读",
@@ -2577,118 +2658,6 @@
       }
     },
     "id": "article_1786660156224_6in0",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Why Stream-maker Sandbar says the future of AI wearables is voice",
-    "title_zh": "为什么流媒体设备制造商Sandbar认为AI可穿戴设备的未来在于语音",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-            "zh": "过去几年里，AI笔记硬件已经兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳机都承诺能捕捉您的会议并将其转化为摘要和行动项目。",
-            "grammar": "【现在完成进行时】描述从过去开始持续到现在的状态，强调动作的持续性和影响。",
-            "words": [
-              {
-                "word": "notetaking",
-                "meaning": "n. 笔记记录",
-                "phonetic": "/ˈnoʊtˌteɪkɪŋ/"
-              },
-              {
-                "word": "transcribing",
-                "meaning": "v. 转录，抄写",
-                "phonetic": "/trænsˈkraɪbɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.",
-            "zh": "现在，一波全新的可穿戴设备——尤其是戒指——正在赌人们也想用同样的方式捕捉零散的想法和思绪。",
-            "grammar": "【破折号用法】破折号用于强调插入语，突出戒指这一特定类型的可穿戴设备。",
-            "words": [
-              {
-                "word": "wearables",
-                "meaning": "n. 可穿戴设备",
-                "phonetic": "/ˈwɛrəbəlz/"
-              },
-              {
-                "word": "stray",
-                "meaning": "adj. 零散的，偶然的",
-                "phonetic": "/streɪ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "One of the companies betting on this trend is Sandbar, which makes a smart ring called Stream that uses voice commands to capture thoughts.",
-            "zh": "押注这一趋势的公司之一是Sandbar，他们生产一款名为Stream的智能戒指，它使用语音命令来捕捉想法。",
-            "grammar": "【定语从句】which引导的非限制性定语从句，补充说明Sandbar公司。",
-            "words": [
-              {
-                "word": "commands",
-                "meaning": "n. 命令，指令",
-                "phonetic": "/kəˈmændz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The company believes that voice is the most natural interface for capturing thoughts quickly and efficiently.",
-            "zh": "该公司相信语音是快速高效捕捉想法最自然的界面。",
-            "grammar": "【宾语从句】that引导的宾语从句，表达公司的信念。",
-            "words": [
-              {
-                "word": "interface",
-                "meaning": "n. 界面，接口",
-                "phonetic": "/ˈɪntərˌfeɪs/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the article, what is Sandbar's main product and how does it work?",
-        "options": [
-          "A. A smart ring called Stream that uses voice commands to capture thoughts",
-          "B. Credit-card-sized devices that capture meetings and turn them into summaries",
-          "C. Transcribing earbuds that capture stray thoughts",
-          "D. Pendants and pins that capture action items"
-        ],
-        "answer": 0,
-        "hint": "提示：文章第二段第一句明确提到了Sandbar的产品及其工作方式。"
-      },
-      "translation_task": {
-        "en": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-        "zh": "过去几年里，AI笔记硬件已经兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳机都承诺能捕捉您的会议并将其转化为摘要和行动项目。",
-        "valuable_point": "考察了现在完成进行时态的使用和with复合结构作状语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "According to the article, what is Sandbar's main product and how does it work?",
-        "options": [
-          "A. A smart ring called Stream that uses voice commands to capture thoughts",
-          "B. Credit-card-sized devices that capture meetings and turn them into summaries",
-          "C. Transcribing earbuds that capture stray thoughts",
-          "D. Pendants and pins that capture action items"
-        ],
-        "answer": 0,
-        "hint": "提示：文章第二段第一句明确提到了Sandbar的产品及其工作方式。"
-      }
-    },
-    "id": "article_1786573697964_ss9j",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
