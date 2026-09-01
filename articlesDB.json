@@ -1,6 +1,87 @@
 [
   {
     "title": "Musk's Faster Path to More Gas Turbines Comes with Pollution Problem",
+    "title_zh": "马斯克加速获取更多燃气涡轮机的道路带来污染问题",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else.",
+            "zh": "埃隆·马斯克表示，一个神秘的SpaceX新铸造厂将让他能够铸造自己的涡轮叶片，并比任何其他人都快18个月让燃气发电上线。",
+            "grammar": "【语法要点】复合句，包含宾语从句和比较结构",
+            "words": [
+              {
+                "word": "foundry",
+                "meaning": "n. 铸造厂",
+                "phonetic": "/ˈfaʊndri/"
+              },
+              {
+                "word": "turbine",
+                "meaning": "n. 涡轮机",
+                "phonetic": "/ˈtɜːrbaɪn/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "But it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+            "zh": "但这是一种押注于燃料源的做法，而这种燃料源已经在他（和其他人）的涡轮机所到之处引发了诉讼和健康研究。",
+            "grammar": "【语法要点】定语从句和现在完成进行时的使用",
+            "words": [
+              {
+                "word": "triggering",
+                "meaning": "v. 引发，触发",
+                "phonetic": "/ˈtrɪɡərɪŋ/"
+              },
+              {
+                "word": "lawsuits",
+                "meaning": "n. 诉讼（复数）",
+                "phonetic": "/ˈlɔːsuːts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main concern about SpaceX's new foundry according to the article?",
+        "options": [
+          "A. It will take longer than expected to build",
+          "B. It will use too much energy",
+          "C. It involves a fuel source that causes pollution and legal issues",
+          "D. It will be less efficient than competitors"
+        ],
+        "answer": 2,
+        "hint": "提示：文章最后部分提到了这种燃料源已经引发了什么问题？"
+      },
+      "translation_task": {
+        "en": "But it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+        "zh": "但这是一种押注于燃料源的做法，而这种燃料源已经在他（和其他人）的涡轮机所到之处引发了诉讼和健康研究。",
+        "valuable_point": "考察了定语从句的翻译技巧和现在完成进行时态的准确表达"
+      },
+      "quiz": {
+        "question": "What is the main concern about SpaceX's new foundry according to the article?",
+        "options": [
+          "A. It will take longer than expected to build",
+          "B. It will use too much energy",
+          "C. It involves a fuel source that causes pollution and legal issues",
+          "D. It will be less efficient than competitors"
+        ],
+        "answer": 2,
+        "hint": "提示：文章最后部分提到了这种燃料源已经引发了什么问题？"
+      }
+    },
+    "id": "article_1788223922609_5p4c",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Musk's Faster Path to More Gas Turbines Comes with Pollution Problem",
     "title_zh": "马斯克更快获得更多燃气涡轮机的道路带来污染问题",
     "level": "⭐⭐ 中级",
     "time": "2 分钟阅读",
@@ -2608,82 +2689,6 @@
       }
     },
     "id": "article_1786573697964_ss9j",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Google's Gemini App Surges to 1 Billion Users",
-    "title_zh": "谷歌Gemini应用用户突破10亿",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature.",
-            "zh": "谷歌还分享了人们实际使用聊天机器人的数据，其中63%的Gemini用户通过语音功能直接与助手对话。",
-            "grammar": "【语法要点】with引导的独立主格结构，表示伴随情况",
-            "words": [
-              {
-                "word": "chatbot",
-                "meaning": "n. 聊天机器人",
-                "phonetic": "/ˈtʃætbɒt/"
-              },
-              {
-                "word": "assistant",
-                "meaning": "n. 助手；助理",
-                "phonetic": "/əˈsɪstənt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Plus, Gemini now generates more than 150 million images every day, according to Google.",
-            "zh": "此外，根据谷歌的数据，Gemini现在每天生成超过1.5亿张图片。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "generates",
-                "meaning": "v. 生成；产生",
-                "phonetic": "/ˈdʒenəreɪts/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What percentage of Gemini users use the voice feature to interact with the assistant?",
-        "options": [
-          "A. 50%",
-          "B. 63%",
-          "C. 75%",
-          "D. 90%"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了使用语音功能的用户比例。"
-      },
-      "translation_task": {
-        "en": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature.",
-        "zh": "谷歌还分享了人们实际使用聊天机器人的数据，其中63%的Gemini用户通过语音功能直接与助手对话。",
-        "valuable_point": "考察了with引导的独立主格结构在翻译中的处理方式，以及如何将英文长句拆分为符合中文表达习惯的短句。"
-      },
-      "quiz": {
-        "question": "What percentage of Gemini users use the voice feature to interact with the assistant?",
-        "options": [
-          "A. 50%",
-          "B. 63%",
-          "C. 75%",
-          "D. 90%"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了使用语音功能的用户比例。"
-      }
-    },
-    "id": "article_1786487384291_7alx",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
