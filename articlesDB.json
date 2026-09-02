@@ -1,5 +1,107 @@
 [
   {
+    "title": "Pangram's Max Spero on why AI detection is harder than 'Real or Fake'",
+    "title_zh": "Pangram公司Max Spero谈为何AI检测比'真假辨别'更难",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "The internet has a trust problem, and it's not just because social media feeds are filling up with AI slop.",
+            "zh": "互联网存在信任问题，这不仅仅是因为社交媒体信息流中充斥着AI生成的低质量内容。",
+            "grammar": "【语法要点】not just because...结构，强调原因不止一个",
+            "words": [
+              {
+                "word": "slop",
+                "meaning": "n. 低质量内容；垃圾信息",
+                "phonetic": "/slɒp/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what's real.",
+            "zh": "AI生成的文本和图像现在正进入求职申请、产品评论，甚至保险理赔中，使得平台和用户都在努力辨别什么是真实的。",
+            "grammar": "【语法要点】现在分词短语作结果状语，表示主句动作导致的结果",
+            "words": [
+              {
+                "word": "scrambling",
+                "meaning": "v. 争相；匆忙行动",
+                "phonetic": "/ˈskræmblɪŋ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "A handful of startups have cropped up in the past couple of years aiming to solve this problem.",
+            "zh": "过去几年中，一些初创公司已经出现，旨在解决这个问题。",
+            "grammar": "【语法要点】现在完成时表示从过去持续到现在的动作，crop up表示'突然出现'",
+            "words": [
+              {
+                "word": "cropped up",
+                "meaning": "phr. 突然出现；涌现",
+                "phonetic": "/krɒpt ʌp/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "But according to Max Spero, co-founder of Pangram, the challenge is more complex than simply distinguishing between real and fake content.",
+            "zh": "但据Pangram联合创始人Max Spero称，挑战比简单地辨别真实与虚假内容更为复杂。",
+            "grammar": "【语法要点】according to引导的介词短语作状语，more than表示'不仅仅是'",
+            "words": [
+              {
+                "word": "distinguishing",
+                "meaning": "v. 区分；辨别",
+                "phonetic": "/dɪˈstɪŋɡwɪʃɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the article, what is the main challenge with AI-generated content?",
+        "options": [
+          "A. It's only found in social media feeds",
+          "B. It's difficult to distinguish from real content",
+          "C. It's only affecting job applications",
+          "D. It's making insurance claims impossible"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到辨别真实与虚假内容比想象的更复杂。"
+      },
+      "translation_task": {
+        "en": "AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and users alike scrambling to figure out what's real.",
+        "zh": "AI生成的文本和图像现在正进入求职申请、产品评论，甚至保险理赔中，使得平台和用户都在努力辨别什么是真实的。",
+        "valuable_point": "考察了现在分词短语作结果状语的翻译技巧，以及making one's way into这一习语的表达。"
+      },
+      "quiz": {
+        "question": "According to the article, what is the main challenge with AI-generated content?",
+        "options": [
+          "A. It's only found in social media feeds",
+          "B. It's difficult to distinguish from real content",
+          "C. It's only affecting job applications",
+          "D. It's making insurance claims impossible"
+        ],
+        "answer": 1,
+        "hint": "提示：文章提到辨别真实与虚假内容比想象的更复杂。"
+      }
+    },
+    "id": "article_1788392407283_lc37",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Musk's Faster Path to More Gas Turbines Comes with Pollution Problem",
     "title_zh": "马斯克加速获取更多燃气轮机的路径带来污染问题",
     "level": "⭐⭐ 中级",
@@ -2548,117 +2650,5 @@
     "id": "article_1786745475873_ht9t",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Why Stream-ring-maker Sandbar says the future of AI wearables is voice",
-    "title_zh": "为什么流媒体戒指制造商Sandbar表示AI可穿戴设备的未来是语音",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items.",
-            "zh": "过去几年里，AI笔记硬件已经兴起，信用卡大小的设备、吊坠、胸针，甚至转录耳塞都承诺能够捕捉您的会议并将其转化为摘要和行动项目。",
-            "grammar": "【语法要点】现在完成进行时态表示从过去开始持续到现在的动作，with引导的独立主格结构作伴随状语",
-            "words": [
-              {
-                "word": "notetaking",
-                "meaning": "n. 笔记记录",
-                "phonetic": "/ˈnoʊtˌteɪkɪŋ/"
-              },
-              {
-                "word": "transcribing",
-                "meaning": "v. 转录，抄写",
-                "phonetic": "/trænˈskraɪbɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.",
-            "zh": "现在，一系列可穿戴设备——尤其是戒指——正在赌人们会以同样的方式捕捉零散的想法和创意。",
-            "grammar": "破折号插入语补充说明主语，现在进行时表示正在进行的动作或趋势",
-            "words": [
-              {
-                "word": "wearables",
-                "meaning": "n. 可穿戴设备",
-                "phonetic": "/ˈwerəbəlz/"
-              },
-              {
-                "word": "stray",
-                "meaning": "adj. 零散的，偶然的",
-                "phonetic": "/streɪ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "One of [...] is Sandbar, a startup that makes a smart ring called Stream.",
-            "zh": "其中之一是Sandbar，一家制造名为Stream的智能戒指的初创公司。",
-            "grammar": "同位语结构解释说明主语，that引导定语从句修饰startup",
-            "words": [
-              {
-                "word": "startup",
-                "meaning": "n. 初创公司",
-                "phonetic": "/ˈstɑːrtʌp/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Sandbar's co-founder and CEO, Chris Nooy, believes voice is the future of AI wearables because it's the most natural way for humans to interact with technology.",
-            "zh": "Sandbar的联合创始人兼CEO克里斯·努伊认为语音是AI可穿戴设备的未来，因为这是人类与技术互动最自然的方式。",
-            "grammar": "同位语结构说明人物身份，because引导原因状语从句",
-            "words": [
-              {
-                "word": "co-founder",
-                "meaning": "n. 联合创始人",
-                "phonetic": "/ˌkoʊˈfaʊndər/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the article, what does Sandbar believe is the future of AI wearables?",
-        "options": [
-          "A. Credit-card-sized devices",
-          "B. Voice interaction",
-          "C. Transcribing earbuds",
-          "D. Smart rings"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注Sandbar公司CEO的观点，文中明确提到了他对AI可穿戴设备未来的看法。"
-      },
-      "translation_task": {
-        "en": "Sandbar's co-founder and CEO, Chris Nooy, believes voice is the future of AI wearables because it's the most natural way for humans to interact with technology.",
-        "zh": "Sandbar的联合创始人兼CEO克里斯·努伊认为语音是AI可穿戴设备的未来，因为这是人类与技术互动最自然的方式。",
-        "valuable_point": "考察了同位语结构（Sandbar's co-founder and CEO, Chris Nooy）和原因状语从句（because引导）的翻译技巧。"
-      },
-      "quiz": {
-        "question": "According to the article, what does Sandbar believe is the future of AI wearables?",
-        "options": [
-          "A. Credit-card-sized devices",
-          "B. Voice interaction",
-          "C. Transcribing earbuds",
-          "D. Smart rings"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注Sandbar公司CEO的观点，文中明确提到了他对AI可穿戴设备未来的看法。"
-      }
-    },
-    "id": "article_1786660156224_6in0",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
