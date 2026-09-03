@@ -1,5 +1,204 @@
 [
   {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "title_zh": "Meta付费查看用户如何使用其最新AI模型",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+            "zh": "对于其新的Muse Spark模型（旨在运行编码和其他智能体），Meta为那些通过分享提示词和模型输出来\"贡献\"未来模型开发的用户提供平均约95%的明确折扣。",
+            "grammar": "【语法要点】本句包含较长的介词短语和定语从句，结构复杂，主句为Meta is offering an explicit discount。",
+            "words": [
+              {
+                "word": "Muse Spark",
+                "meaning": "专有名词. Muse Spark模型",
+                "phonetic": "/mjuːz spɑːrk/"
+              },
+              {
+                "word": "agents",
+                "meaning": "n. 智能体，代理",
+                "phonetic": "/ˈeɪdʒənts/"
+              },
+              {
+                "word": "explicit",
+                "meaning": "adj. 明确的，清楚的",
+                "phonetic": "/ɪkˈsplɪsɪt/"
+              },
+              {
+                "word": "prompts",
+                "meaning": "n. 提示词，提示",
+                "phonetic": "/ˈprɒmpts/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is Meta offering to users who share their prompts and model outputs?",
+        "options": [
+          "A. A free subscription to Muse Spark",
+          "B. A 95% discount on the Muse Spark model",
+          "C. Early access to future AI models",
+          "D. Payment for their contributions"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了折扣的比例和条件。"
+      },
+      "translation_task": {
+        "en": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+        "zh": "对于其新的Muse Spark模型（旨在运行编码和其他智能体），Meta为那些通过分享提示词和模型输出来\"贡献\"未来模型开发的用户提供平均约95%的明确折扣。",
+        "valuable_point": "考察了长句中定语从句和介词短语的翻译技巧，以及专业术语\"agents\"和\"prompts\"的准确翻译。"
+      },
+      "quiz": {
+        "question": "What is Meta offering to users who share their prompts and model outputs?",
+        "options": [
+          "A. A free subscription to Muse Spark",
+          "B. A 95% discount on the Muse Spark model",
+          "C. Early access to future AI models",
+          "D. Payment for their contributions"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了折扣的比例和条件。"
+      }
+    },
+    "id": "article_1788478691264_q3xp",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "GTA 6 Is Completely Changing How You Steal Cars",
+    "title_zh": "GTA 6 完全改变了偷车的方式",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Carjacking in Grand Theft Auto games has been, as the title denotes, a staple of the series.",
+            "zh": "正如标题所示，汽车劫持一直是《侠盗猎车手》系列游戏的一个标志。",
+            "grammar": "【语法要点】插入语结构，as the title denotes 作为插入语，补充说明前面的内容。",
+            "words": [
+              {
+                "word": "carjacking",
+                "meaning": "n. 汽车劫持",
+                "phonetic": "/ˈkɑːrdʒækɪŋ/"
+              },
+              {
+                "word": "staple",
+                "meaning": "n. 主要组成部分；标志",
+                "phonetic": "/ˈsteɪpəl/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Up until now, it's largely been the same.",
+            "zh": "直到现在，它基本上一直保持不变。",
+            "grammar": "【语法要点】现在完成时，表示从过去持续到现在的状态或动作。",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "While there have been more details and animations added over the years, the premise has remained that you'll walk up to a car, press Y or Triangle, throw the driver out, get in and drive away.",
+            "zh": "虽然多年来添加了更多细节和动画，但基本前提仍然是：你走近一辆车，按Y或三角键，把司机扔出去，然后上车开走。",
+            "grammar": "【语法要点】while引导的让步状语从句，以及that引导的表语从句。",
+            "words": [
+              {
+                "word": "premise",
+                "meaning": "n. 前提；基本假设",
+                "phonetic": "/ˈprɛmɪs/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "If the car was parked, you'd execute the same button press to smash the window and steal it.",
+            "zh": "如果车是停着的，你会执行相同的按键操作来砸碎车窗并偷走它。",
+            "grammar": "【语法要点】虚拟语气，if引导的条件从句表示与现在事实相反的假设。",
+            "words": [
+              {
+                "word": "execute",
+                "meaning": "v. 执行；实施",
+                "phonetic": "/ˈɛksɪˌkjuːt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "With GTA 6, carjacking is getting a complete overhaul.",
+            "zh": "在GTA 6中，汽车劫持将得到彻底的革新。",
+            "grammar": "【语法要点】with复合结构，表示伴随情况；现在进行时表示即将发生的变化。",
+            "words": [
+              {
+                "word": "overhaul",
+                "meaning": "n. 彻底改革；全面检修",
+                "phonetic": "/ˈoʊvərˌhɔːl/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "Here, we've got all of the information we know so far on how to steal cars in GTA 6.",
+            "zh": "在这里，我们整理了目前所知的关于如何在GTA 6中偷车的所有信息。",
+            "grammar": "【语法要点】定语从句we know so far修饰information。",
+            "words": []
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What has remained largely the same in previous Grand Theft Auto games according to the article?",
+        "options": [
+          "A. The graphics and animations",
+          "B. The premise of carjacking",
+          "C. The controls for stealing cars",
+          "D. The types of cars available"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段提到，尽管多年来添加了更多细节和动画，但某个基本前提保持不变。"
+      },
+      "translation_task": {
+        "en": "While there have been more details and animations added over the years, the premise has remained that you'll walk up to a car, press Y or Triangle, throw the driver out, get in and drive away.",
+        "zh": "虽然多年来添加了更多细节和动画，但基本前提仍然是：你走近一辆车，按Y或三角键，把司机扔出去，然后上车开走。",
+        "valuable_point": "考察了while引导的让步状语从句和that引导的表语从句的翻译技巧，以及英语长句的拆分处理。"
+      },
+      "quiz": {
+        "question": "What has remained largely the same in previous Grand Theft Auto games according to the article?",
+        "options": [
+          "A. The graphics and animations",
+          "B. The premise of carjacking",
+          "C. The controls for stealing cars",
+          "D. The types of cars available"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段提到，尽管多年来添加了更多细节和动画，但某个基本前提保持不变。"
+      }
+    },
+    "id": "article_1788478705182_0cp6",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Pangram's Max Spero on why AI detection is harder than 'Real or Fake'",
     "title_zh": "Pangram公司Max Spero谈为何AI检测比'真假辨别'更难",
     "level": "⭐⭐ 中级",
@@ -2427,228 +2626,5 @@
     "id": "article_1786831727323_cqxt",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
-    "title_zh": "扎克伯格真的相信人工智能是'为所有人'的吗？",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
-            "zh": "本周，Meta发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行。",
-            "grammar": "【语法要点】同位语结构，'an open-weight AI model'是Glimmer的同位语，进一步解释说明。",
-            "words": [
-              {
-                "word": "released",
-                "meaning": "v. 发布，发行",
-                "phonetic": "/rɪˈliːst/"
-              },
-              {
-                "word": "open-weight",
-                "meaning": "adj. 开放权重的（指AI模型参数可公开获取）",
-                "phonetic": "/ˈəʊpən weɪt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "This is a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
-            "zh": "这与Muse Spark形成对比，后者是该公司更强大的模型，一直被锁定在其自己的API后面。",
-            "grammar": "【语法要点】定语从句，'that stays locked behind its own APIs'修饰'model'。",
-            "words": [
-              {
-                "word": "contrast",
-                "meaning": "n. 对比，差异",
-                "phonetic": "/ˈkɒntræst/"
-              },
-              {
-                "word": "powerful",
-                "meaning": "adj. 强大的，功能强大的",
-                "phonetic": "/ˈpaʊəfəl/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
-            "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该'为所有人'，而不是由少数几家实验室控制。",
-            "grammar": "【语法要点】现在分词短语作伴随状语，'arguing...'修饰'letter'。",
-            "words": [
-              {
-                "word": "alongside",
-                "meaning": "prep. 与...一起， alongside",
-                "phonetic": "/əˌlɒŋˈsaɪd/"
-              },
-              {
-                "word": "arguing",
-                "meaning": "v. 主张，认为",
-                "phonetic": "/ˈɑːɡjuːɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "But as Equity's [&#8230;]",
-            "zh": "但是，正如Equity的[&#8230;]",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main difference between Glimmer and Muse Spark mentioned in the article?",
-        "options": [
-          "A. Glimmer is more powerful than Muse Spark",
-          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
-          "C. Muse Spark is an open-weight model while Glimmer is not",
-          "D. Both models are controlled by a handful of labs"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了两个模型的主要区别，注意对比描述。"
-      },
-      "translation_task": {
-        "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
-        "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该'为所有人'，而不是由少数几家实验室控制。",
-        "valuable_point": "考察了现在分词短语作伴随状语的翻译技巧，以及'rather than'结构的处理。"
-      },
-      "quiz": {
-        "question": "What is the main difference between Glimmer and Muse Spark mentioned in the article?",
-        "options": [
-          "A. Glimmer is more powerful than Muse Spark",
-          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
-          "C. Muse Spark is an open-weight model while Glimmer is not",
-          "D. Both models are controlled by a handful of labs"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了两个模型的主要区别，注意对比描述。"
-      }
-    },
-    "id": "article_1786745459947_bqgm",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Rideshare Stimulator Outlines AI Usage After Contentious Exchange With Ex-Writer",
-    "title_zh": "《 rideshare刺激器》披露AI使用情况，与前作家争议后公开细节",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "After Saber Interactive unveiled its upcoming title Rideshare Stimulator, former lead writer Stella Sacco came forward and said that she had been replaced by ChatGPT during development.",
-            "zh": "在Saber Interactive公司公布其即将推出的游戏《Rideshare Stimulator》后，前首席作家Stella Sacco站出来说，在开发过程中她被ChatGPT取代了。",
-            "grammar": "【过去完成时】had been replaced表示过去某个时间点之前已经完成的被动动作",
-            "words": [
-              {
-                "word": "unveiled",
-                "meaning": "v. 揭示，公布",
-                "phonetic": "/ʌnˈveɪld/"
-              },
-              {
-                "word": "contentious",
-                "meaning": "adj. 有争议的，引起争论的",
-                "phonetic": "/kənˈtenʃəs/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Saber CEO Matthew Karch denied Sacco's allegation that she had been replaced by AI, but the company has now shared previously undisclosed details about Rideshare Stimulator's AI usage.",
-            "zh": "Saber公司CEO马修·卡奇否认了萨科关于她被AI取代的指控，但该公司现在分享了《Rideshare Stimulator》AI使用情况的先前未公开的细节。",
-            "grammar": "【现在完成时】has shared表示过去发生但对现在有影响的动作",
-            "words": [
-              {
-                "word": "allegation",
-                "meaning": "n. 指控，断言",
-                "phonetic": "/ˌælɪˈɡeɪʃn/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Rideshare Stimulator casts players as a driver who can pick up a seemingly infinite number of passengers and interact with them while getting them to their final destinations.",
-            "zh": "《Rideshare Stimulator》让玩家扮演一名司机，可以接载看似无限数量的乘客，并在送他们到最终目的地的过程中与他们互动。",
-            "grammar": "【现在分词作状语】while getting them to...表示同时进行的动作",
-            "words": [
-              {
-                "word": "seemingly",
-                "meaning": "adv. 似乎，表面上",
-                "phonetic": "/ˈsiːmɪŋli/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "According to the new disclosure on the game's Steam page, Rideshare Stimulator uses AI tools for \"voice generation and some localization\" and AI-generated passenger missions that can be skipped if players only want \"human-written narrative content.\"",
-            "zh": "根据游戏Steam页面上新的披露，《Rideshare Stimulator》使用AI工具进行\"语音生成和部分本地化\"，以及AI生成的乘客任务，如果玩家只想体验\"人类编写的叙事内容\"，可以跳过这些任务。",
-            "grammar": "【定语从句】that can be skipped修饰AI-generated passenger missions",
-            "words": [
-              {
-                "word": "disclosure",
-                "meaning": "n. 公开，披露",
-                "phonetic": "/dɪsˈkləʊʒər/"
-              },
-              {
-                "word": "localization",
-                "meaning": "n. 本地化，本土化",
-                "phonetic": "/ˌləʊkəlaɪˈzeɪʃn/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What did Saber Interactive reveal about their use of AI in Rideshare Stimulator?",
-        "options": [
-          "A. They completely replaced human writers with AI",
-          "B. They use AI for voice generation and localization",
-          "C. They don't use AI at all in the game",
-          "D. They use AI only for passenger missions"
-        ],
-        "answer": 1,
-        "hint": "提示：查看文章中关于Steam页面披露的内容，特别是关于AI工具使用的具体描述。"
-      },
-      "translation_task": {
-        "en": "According to the new disclosure on the game's Steam page, Rideshare Stimulator uses AI tools for \"voice generation and some localization\" and AI-generated passenger missions that can be skipped if players only want \"human-written narrative content.\"",
-        "zh": "根据游戏Steam页面上新的披露，《Rideshare Stimulator》使用AI工具进行\"语音生成和部分本地化\"，以及AI生成的乘客任务，如果玩家只想体验\"人类编写的叙事内容\"，可以跳过这些任务。",
-        "valuable_point": "考察了包含引号和复杂修饰结构的句子的翻译，特别是\"voice generation and some localization\"和\"human-written narrative content\"等专业术语的准确翻译。"
-      },
-      "quiz": {
-        "question": "What did Saber Interactive reveal about their use of AI in Rideshare Stimulator?",
-        "options": [
-          "A. They completely replaced human writers with AI",
-          "B. They use AI for voice generation and localization",
-          "C. They don't use AI at all in the game",
-          "D. They use AI only for passenger missions"
-        ],
-        "answer": 1,
-        "hint": "提示：查看文章中关于Steam页面披露的内容，特别是关于AI工具使用的具体描述。"
-      }
-    },
-    "id": "article_1786745475873_ht9t",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
