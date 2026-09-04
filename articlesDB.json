@@ -1,5 +1,109 @@
 [
   {
+    "title": "What will Apple's John Ternus era look like?",
+    "title_zh": "苹果的约翰·特纳斯时代将是什么样子？",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "It's officially the Ternus era at Apple.",
+            "zh": "这标志着苹果正式进入特纳斯时代。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "officially",
+                "meaning": "adv. 官方地，正式地",
+                "phonetic": "/əˈfɪʃəli/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \"huge launch next week\" — timing that puts Apple's next iPhone event on his desk before he's even settled in.",
+            "zh": "本周蒂姆·库克卸任首席执行官职务，将公司交给了前硬件主管约翰·特纳斯，后者的首份备忘录承诺\"下周将有一次重大发布\"——这一时间安排意味着苹果的下一场iPhone发布会将摆在他的办公桌上，而他还未完全安顿下来。",
+            "grammar": "【语法要点】包含定语从句和现在分词短语的结构",
+            "words": [
+              {
+                "word": "stepped down",
+                "meaning": "phr. 辞职，下台",
+                "phonetic": "/ˈstept daʊn/"
+              },
+              {
+                "word": "memo",
+                "meaning": "n. 备忘录",
+                "phonetic": "/ˈmemoʊ/"
+              },
+              {
+                "word": "launch",
+                "meaning": "n. 发布，推出",
+                "phonetic": "/lɔːntʃ/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Cook isn't going far, though: he's staying on as Executive Chairman, focused on the kind of policy [...]",
+            "zh": "然而，库克并未完全离开：他将留任执行董事长，专注于政策方面的工作[...]",
+            "grammar": "【语法要点】冒号的使用和现在分词短语作状语",
+            "words": [
+              {
+                "word": "executive",
+                "meaning": "adj. 执行的，高管的",
+                "phonetic": "/ɪɡˈzekjətɪv/"
+              },
+              {
+                "word": "policy",
+                "meaning": "n. 政策，方针",
+                "phonetic": "/ˈpɑːləsi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What position will Tim Cook hold after stepping down as CEO?",
+        "options": [
+          "A. He will completely leave Apple.",
+          "B. He will become the new hardware chief.",
+          "C. He will stay on as Executive Chairman.",
+          "D. He will focus on the iPhone launch next week."
+        ],
+        "answer": 2,
+        "hint": "提示：请查找文章中关于蒂姆·库克卸任后去向的具体描述。"
+      },
+      "translation_task": {
+        "en": "Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \"huge launch next week\" — timing that puts Apple's next iPhone event on his desk before he's even settled in.",
+        "zh": "本周蒂姆·库克卸任首席执行官职务，将公司交给了前硬件主管约翰·特纳斯，后者的首份备忘录承诺\"下周将有一次重大发布\"——这一时间安排意味着苹果的下一场iPhone发布会将摆在他的办公桌上，而他还未完全安顿下来。",
+        "valuable_point": "考察了包含定语从句和现在分词短语的长难句翻译，以及破折号后补充说明的处理方式。"
+      },
+      "quiz": {
+        "question": "What position will Tim Cook hold after stepping down as CEO?",
+        "options": [
+          "A. He will completely leave Apple.",
+          "B. He will become the new hardware chief.",
+          "C. He will stay on as Executive Chairman.",
+          "D. He will focus on the iPhone launch next week."
+        ],
+        "answer": 2,
+        "hint": "提示：请查找文章中关于蒂姆·库克卸任后去向的具体描述。"
+      }
+    },
+    "id": "article_1788564627910_2tmg",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Meta is paying to peek at how you use their latest AI model",
     "title_zh": "Meta付费查看用户如何使用其最新AI模型",
     "level": "⭐⭐ 中级",
@@ -2515,115 +2619,6 @@
       }
     },
     "id": "article_1786918133543_r7ed",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
-    "title_zh": "扎克伯格真的相信人工智能是'为所有人'的吗？",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
-            "zh": "本周，Meta发布了Glimmer，这是一个开放权重的人工智能模型，任何人都可以下载并在自己的硬件上运行。",
-            "grammar": "【语法要点】同位语结构，'an open-weight AI model'是'Glimmer'的同位语，进一步解释说明。",
-            "words": [
-              {
-                "word": "open-weight",
-                "meaning": "adj. 开放权重的",
-                "phonetic": "/ˈəʊpən weɪt/"
-              },
-              {
-                "word": "hardware",
-                "meaning": "n. 硬件",
-                "phonetic": "/ˈhɑːdweə(r)/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "This is a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
-            "zh": "这与Muse Spark形成对比，后者是该公司更强大的模型，一直被锁定在其自己的API后面。",
-            "grammar": "【语法要点】定语从句，'that stays locked behind its own APIs'修饰'model'。",
-            "words": [
-              {
-                "word": "contrast",
-                "meaning": "n. 对比，差异",
-                "phonetic": "/ˈkɒntrɑːst/"
-              },
-              {
-                "word": "API",
-                "meaning": "n. 应用程序编程接口",
-                "phonetic": "/eɪ piː aɪ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
-            "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该'为所有人'，而不是由少数几家实验室控制。",
-            "grammar": "【语法要点】现在分词短语作伴随状语，'arguing...'修饰'letter'。",
-            "words": [
-              {
-                "word": "alongside",
-                "meaning": "prep. 与...一起，在...旁边",
-                "phonetic": "/əˌlɒŋˈsaɪd/"
-              },
-              {
-                "word": "arguing",
-                "meaning": "v. 主张，认为",
-                "phonetic": "/ˈɑːɡjuːɪŋ/"
-              },
-              {
-                "word": "handful",
-                "meaning": "n. 少数，少量",
-                "phonetic": "/ˈhændfʊl/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main difference between Glimmer and Muse Spark according to the article?",
-        "options": [
-          "A. Glimmer is more powerful than Muse Spark",
-          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
-          "C. Muse Spark is an open-weight model while Glimmer is not",
-          "D. Both models are controlled by a handful of labs"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了两个模型的主要区别，请仔细阅读第一段的内容。"
-      },
-      "translation_task": {
-        "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
-        "zh": "此次发布伴随着马克·扎克伯格的一封信，信中主张人工智能应该'为所有人'，而不是由少数几家实验室控制。",
-        "valuable_point": "考察了现在分词短语作伴随状语的翻译技巧，以及'arguing'引导的宾语从句的翻译处理。"
-      },
-      "quiz": {
-        "question": "What is the main difference between Glimmer and Muse Spark according to the article?",
-        "options": [
-          "A. Glimmer is more powerful than Muse Spark",
-          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
-          "C. Muse Spark is an open-weight model while Glimmer is not",
-          "D. Both models are controlled by a handful of labs"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一段明确指出了两个模型的主要区别，请仔细阅读第一段的内容。"
-      }
-    },
-    "id": "article_1786831727323_cqxt",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
