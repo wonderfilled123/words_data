@@ -1,5 +1,194 @@
 [
   {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "title_zh": "Meta推出Muse AI助手。消费者会信任它吗？",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+            "zh": "Meta的新个人AI助手Muse希望访问用户的电子邮件、日历、支付服务、健康服务等等——这使得该公司迄今为止最大的消费者AI赌注成为一场对人们是否仍然信任其数据的主要考验。",
+            "grammar": "【语法要点】破折号连接的两个独立分句，形成补充说明关系；现在分词短语making作结果状语。",
+            "words": [
+              {
+                "word": "agent",
+                "meaning": "n. 代理人；代理商",
+                "phonetic": "/ˈeɪdʒənt/"
+              },
+              {
+                "word": "access",
+                "meaning": "n. 接入；使用权 v. 访问；获取",
+                "phonetic": "/ˈækses/"
+              },
+              {
+                "word": "bet",
+                "meaning": "n. 赌注；冒险尝试",
+                "phonetic": "/bet/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What makes Meta's Muse AI agent a significant test for the company?",
+        "options": [
+          "A. Its ability to process multiple types of user data",
+          "B. Its potential to replace human assistants",
+          "C. The level of access it requires from users",
+          "D. Its integration with health services"
+        ],
+        "answer": 2,
+        "hint": "提示：关注文章中提到的Muse希望访问的用户数据范围，以及这如何成为对Meta的考验。"
+      },
+      "translation_task": {
+        "en": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "zh": "Meta的新个人AI助手Muse希望访问用户的电子邮件、日历、支付服务、健康服务等等——这使得该公司迄今为止最大的消费者AI赌注成为一场对人们是否仍然信任其数据的主要考验。",
+        "valuable_point": "考察了破折号连接的两个独立分句的翻译技巧，以及现在分词短语作结果状语的翻译处理。"
+      },
+      "quiz": {
+        "question": "What makes Meta's Muse AI agent a significant test for the company?",
+        "options": [
+          "A. Its ability to process multiple types of user data",
+          "B. Its potential to replace human assistants",
+          "C. The level of access it requires from users",
+          "D. Its integration with health services"
+        ],
+        "answer": 2,
+        "hint": "提示：关注文章中提到的Muse希望访问的用户数据范围，以及这如何成为对Meta的考验。"
+      }
+    },
+    "id": "article_1788911059418_mir8",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Xbox Game Pass Adds A Great Call Of Duty Game Today",
+    "title_zh": "Xbox游戏通行证今日加入一款精彩的使命召唤游戏",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Xbox Game Pass grows today with the addition of a popular Call of Duty game.",
+            "zh": "Xbox游戏通行证今日通过加入一款流行的使命召唤游戏而扩大规模。",
+            "grammar": "【语法要点】with + 名词 + 分词结构，表示伴随情况",
+            "words": [
+              {
+                "word": "addition",
+                "meaning": "n. 添加；增加物",
+                "phonetic": "/əˈdɪʃən/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "New to the service from today, September 8, is 2020's Call of Duty: Black Ops Cold War.",
+            "zh": "从今天9月8日起，2020年的《使命召唤：黑色行动冷战》正式加入该服务。",
+            "grammar": "【语法要点】倒装句，表语前置，强调新加入的游戏",
+            "words": []
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "It's available on Game Pass Ultimate, Game Pass Premium, and PC Game Pass, and the game supports cloud streaming as well.",
+            "zh": "该游戏可在游戏通行证高级版、高级版和PC游戏通行证上使用，同时也支持云流媒体。",
+            "grammar": "【语法要点】并列句，使用and连接两个独立分句",
+            "words": [
+              {
+                "word": "streaming",
+                "meaning": "n. 流媒体；流式传输",
+                "phonetic": "/ˈstriːmɪŋ/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Developed by Treyarch and Raven, Black Ops Cold War is set in Cold War-era 1981, with its campaign following Russell Adler as he and his team seek out a spy named Perseus.",
+            "zh": "由Treyarch和Raven开发的《黑色行动冷战》设定在冷战时期的1981年，其战役模式跟随Russell Adler和他的团队追捕一名名为Perseus的间谍。",
+            "grammar": "【语法要点】过去分词短语作状语，with + 名词 + 分词结构",
+            "words": [
+              {
+                "word": "campaign",
+                "meaning": "n. 战役；活动",
+                "phonetic": "/kæmˈpeɪn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "The game also has multiplayer, of course, along with Zombies.",
+            "zh": "当然，这款游戏还有多人模式和僵尸模式。",
+            "grammar": "【语法要点】插入语的使用，of course表示强调",
+            "words": []
+          },
+          {
+            "s_id": "3-2",
+            "en": "Black Ops Cold War was a bit hit, becoming 2020's best-selling game overall in the US.",
+            "zh": "《黑色行动冷战》取得了巨大成功，成为2020年美国最畅销的游戏。",
+            "grammar": "【语法要点】现在分词短语作结果状语",
+            "words": [
+              {
+                "word": "hit",
+                "meaning": "n. 成功之作；热门事物",
+                "phonetic": "/hɪt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Which platforms is Call of Duty: Black Ops Cold War available on through Xbox Game Pass?",
+        "options": [
+          "A. Only Game Pass Ultimate",
+          "B. Game Pass Ultimate, Game Pass Premium, and PC Game Pass",
+          "C. Only PC Game Pass",
+          "D. Game Pass Ultimate and PC Game Pass only"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看文章第一段中关于游戏可用性的描述。"
+      },
+      "translation_task": {
+        "en": "Developed by Treyarch and Raven, Black Ops Cold War is set in Cold War-era 1981, with its campaign following Russell Adler as he and his team seek out a spy named Perseus.",
+        "zh": "由Treyarch和Raven开发的《黑色行动冷战》设定在冷战时期的1981年，其战役模式跟随Russell Adler和他的团队追捕一名名为Perseus的间谍。",
+        "valuable_point": "考察了过去分词短语作状语和with + 名词 + 分词结构的翻译技巧。"
+      },
+      "quiz": {
+        "question": "Which platforms is Call of Duty: Black Ops Cold War available on through Xbox Game Pass?",
+        "options": [
+          "A. Only Game Pass Ultimate",
+          "B. Game Pass Ultimate, Game Pass Premium, and PC Game Pass",
+          "C. Only PC Game Pass",
+          "D. Game Pass Ultimate and PC Game Pass only"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看文章第一段中关于游戏可用性的描述。"
+      }
+    },
+    "id": "article_1788911077690_1aan",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "What will Apple's John Ternus era look like?",
     "title_zh": "苹果的约翰·特纳斯时代将会是什么样子？",
     "level": "⭐⭐ 中级",
@@ -2382,231 +2571,6 @@
       }
     },
     "id": "article_1787091020014_l07d",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is 'for everyone'?",
-    "title_zh": "扎克伯格真的相信AI是'为所有人'的吗？",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware.",
-            "zh": "本周，Meta发布了Glimmer，这是一个开放权重的AI模型，任何人都可以下载并在自己的硬件上运行。",
-            "grammar": "【语法要点】同位语结构，'an open-weight AI model'是'Glimmer'的同位语，进一步解释说明。",
-            "words": [
-              {
-                "word": "open-weight",
-                "meaning": "adj. 开放权重的",
-                "phonetic": "/ˈəʊpən weɪt/"
-              },
-              {
-                "word": "hardware",
-                "meaning": "n. 硬件",
-                "phonetic": "/ˈhɑːdweə(r)/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "This is a contrast to Muse Spark, the company's more powerful model that stays locked behind its own APIs.",
-            "zh": "这与Muse Spark形成对比，后者是公司更强大的模型，一直被锁定在其自己的API后面。",
-            "grammar": "【语法要点】定语从句，'that stays locked behind its own APIs'修饰'model'。",
-            "words": [
-              {
-                "word": "contrast",
-                "meaning": "n. 对比，差异",
-                "phonetic": "/ˈkɒntrɑːst/"
-              },
-              {
-                "word": "API",
-                "meaning": "n. 应用程序接口",
-                "phonetic": "/ˌeɪ piː ˈaɪ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
-            "zh": "这次发布伴随着马克·扎克伯格的一封信，信中主张AI应该'为所有人'，而不是由少数几家实验室控制。",
-            "grammar": "【语法要点】现在分词短语作伴随状语，'arguing AI should be...'修饰'letter'。",
-            "words": [
-              {
-                "word": "alongside",
-                "meaning": "prep. 与...一起，在...旁边",
-                "phonetic": "/əˌlɒŋˈsaɪd/"
-              },
-              {
-                "word": "handful",
-                "meaning": "n. 少数，少量",
-                "phonetic": "/ˈhændfʊl/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main difference between Glimmer and Muse Spark?",
-        "options": [
-          "A. Glimmer is more powerful than Muse Spark",
-          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
-          "C. Muse Spark is an open-weight model while Glimmer is not",
-          "D. Both models are controlled by a handful of labs"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注文章中关于两个模型访问权限的描述。"
-      },
-      "translation_task": {
-        "en": "The release landed alongside a letter from Mark Zuckerberg arguing AI should be 'for everyone' rather than controlled by a handful of labs.",
-        "zh": "这次发布伴随着马克·扎克伯格的一封信，信中主张AI应该'为所有人'，而不是由少数几家实验室控制。",
-        "valuable_point": "考察了现在分词短语作伴随状语的翻译技巧，以及'rather than'的对比表达。"
-      },
-      "quiz": {
-        "question": "What is the main difference between Glimmer and Muse Spark?",
-        "options": [
-          "A. Glimmer is more powerful than Muse Spark",
-          "B. Glimmer can be downloaded and run by anyone, while Muse Spark is locked behind APIs",
-          "C. Muse Spark is an open-weight model while Glimmer is not",
-          "D. Both models are controlled by a handful of labs"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注文章中关于两个模型访问权限的描述。"
-      }
-    },
-    "id": "article_1787004700445_moqv",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "An Exclusive Castlevania Game Is Shutting Down",
-    "title_zh": "一款独家《恶魔城》游戏即将停运",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The Apple Arcade-exclusive Castlevania: Grimoire of Souls won't be playable for much longer, developer Konami has announced.",
-            "zh": "开发商科乐美宣布，苹果游戏独占的《恶魔城：灵魂之书》将很快无法再游玩。",
-            "grammar": "【语法要点】现在完成时与将来时的结合使用，表示即将发生但尚未完全实现的状态。",
-            "words": [
-              {
-                "word": "exclusive",
-                "meaning": "adj. 独家的，专有的",
-                "phonetic": "/ɪkˈskluːsɪv/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "In a post on social media and the game's official website, Konami confirmed Castlevania: Grimoire of Souls will be removed from Apple's gaming subscription service on August 20.",
-            "zh": "科乐美在社交媒体和游戏官方网站上发布帖子确认，《恶魔城：灵魂之书》将于8月20日从苹果游戏订阅服务中移除。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "subscription",
-                "meaning": "n. 订阅，订阅服务",
-                "phonetic": "/səbˈskrɪpʃn/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Despite Konami stating the game has \"continued to be supported by many players,\" it will also shut down permanently and no longer be playable on September 3.",
-            "zh": "尽管科乐美表示游戏\"一直得到许多玩家的支持\"，但它也将于9月3日永久关闭，不再可玩。",
-            "grammar": "【语法要点】despite引导的让步状语从句，与主句形成对比关系。",
-            "words": [
-              {
-                "word": "permanently",
-                "meaning": "adv. 永久地，长期地",
-                "phonetic": "/ˈpɜːrmənəntli/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "\"We would like to express our gratitude to all of our players for their enthusiastic support throughout the years,\" Konami said.",
-            "zh": "科乐美表示：\"我们要感谢所有玩家多年来给予的热情支持。\"",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "The entire development and operations team sincerely thanks you for being part of this journey.\"",
-            "zh": "整个开发和运营团队真诚地感谢您成为这段旅程的一部分。\"",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "3-2",
-            "en": "Konami didn't give any real reason for the decision.",
-            "zh": "科乐美并未给出这一决定的真正原因。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "decision",
-                "meaning": "n. 决定，决策",
-                "phonetic": "/dɪˈsɪʒn/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "When will Castlevania: Grimoire of Souls be completely shut down?",
-        "options": [
-          "A. August 20",
-          "B. September 3",
-          "C. The exact date is not mentioned",
-          "D. It will be shut down gradually"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了两个日期，一个是游戏从苹果服务移除的日期，另一个是游戏完全关闭的日期。"
-      },
-      "translation_task": {
-        "en": "Despite Konami stating the game has \"continued to be supported by many players,\" it will also shut down permanently and no longer be playable on September 3.",
-        "zh": "尽管科乐美表示游戏\"一直得到许多玩家的支持\"，但它也将于9月3日永久关闭，不再可玩。",
-        "valuable_point": "考察了despite引导的让步状语从句的翻译，以及引语的保留与表达方式的转换。"
-      },
-      "quiz": {
-        "question": "When will Castlevania: Grimoire of Souls be completely shut down?",
-        "options": [
-          "A. August 20",
-          "B. September 3",
-          "C. The exact date is not mentioned",
-          "D. It will be shut down gradually"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了两个日期，一个是游戏从苹果服务移除的日期，另一个是游戏完全关闭的日期。"
-      }
-    },
-    "id": "article_1787004709842_t4mq",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
   }
