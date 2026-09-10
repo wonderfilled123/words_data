@@ -1,5 +1,206 @@
 [
   {
+    "title": "Apple Watch's new AI features are normalizing the idea that technology is always listening",
+    "title_zh": "Apple Watch的新AI功能正在使'技术一直在监听'的观念常态化",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Apple says its new watches won't save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+            "zh": "苹果表示其新款手表不会保存原始音频，但能够转录近期语音和总结周围对话的功能引发了关于同意、隐私以及当人们知道自己可能一直被录音时如何行为的新问题。",
+            "grammar": "【复合句结构】包含主句和多个从句，使用了'but'连接转折关系，'that'引导定语从句修饰'features'，'when'引导时间状语从句。",
+            "words": [
+              {
+                "word": "transcribe",
+                "meaning": "v. 转录，抄写",
+                "phonetic": "/trænˈskraɪb/"
+              },
+              {
+                "word": "ambient",
+                "meaning": "adj. 周围的，环境的",
+                "phonetic": "/ˈæmbiənt/"
+              },
+              {
+                "word": "consent",
+                "meaning": "n. 同意，准许",
+                "phonetic": "/kənˈsent/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What concerns are raised by Apple Watch's new AI features?",
+        "options": [
+          "A. Battery life and durability issues",
+          "B. Questions about consent, privacy, and behavior when being recorded",
+          "C. Compatibility with other Apple devices",
+          "D. The accuracy of transcription and summarization"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确提到了这些功能引发的新问题，关注关于同意、隐私和行为方面的担忧。"
+      },
+      "translation_task": {
+        "en": "Apple says its new watches won't save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "zh": "苹果表示其新款手表不会保存原始音频，但能够转录近期语音和总结周围对话的功能引发了关于同意、隐私以及当人们知道自己可能一直被录音时如何行为的新问题。",
+        "valuable_point": "考察了包含多个从句的复杂句翻译，特别是定语从句和状语从句的处理方式，以及专业术语的准确翻译。"
+      },
+      "quiz": {
+        "question": "What concerns are raised by Apple Watch's new AI features?",
+        "options": [
+          "A. Battery life and durability issues",
+          "B. Questions about consent, privacy, and behavior when being recorded",
+          "C. Compatibility with other Apple devices",
+          "D. The accuracy of transcription and summarization"
+        ],
+        "answer": 1,
+        "hint": "提示：文章明确提到了这些功能引发的新问题，关注关于同意、隐私和行为方面的担忧。"
+      }
+    },
+    "id": "article_1789083045860_u1c9",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Wardogs' Massive Start On Steam Undercut By Brutal Server Queues [Update]",
+    "title_zh": "《战狗》Steam火爆开局被残酷的服务器队列所破坏 [更新]",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Update: A hotfix has now been released for Wardogs that targets the ongoing server issues.",
+            "zh": "更新：针对持续的服务器问题，《战狗》现已发布了一个紧急修复补丁。",
+            "grammar": "【语法要点】现在完成时态表示最近发生的动作，'that'引导定语从句修饰'hotfix'。",
+            "words": [
+              {
+                "word": "hotfix",
+                "meaning": "n. 紧急修复补丁",
+                "phonetic": "/ˈhɒtfɪks/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "If you're logged in and stuck in a queue, you'll need to close the game to download the update, which will then send you back into a queue once you log in again.",
+            "zh": "如果您已登录并卡在队列中，您需要关闭游戏以下载更新，然后重新登录时您将再次进入队列。",
+            "grammar": "【语法要点】'which'引导非限制性定语从句，'once'引导时间状语从句。",
+            "words": [
+              {
+                "word": "queue",
+                "meaning": "n. 队列，排队",
+                "phonetic": "/kjuː/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Players will be allowed into the game in \"controlled batches,\" the size of which were not specified, and might portend continued queues for the time being.",
+            "zh": "玩家将被允许以\"受控批次\"的方式进入游戏，批次大小未指定，这可能预示着队列将持续一段时间。",
+            "grammar": "【语法要点】'the size of which'是'of which'结构，引导定语从句，'portend'是较正式的动词。",
+            "words": [
+              {
+                "word": "portend",
+                "meaning": "v. 预示，预示着",
+                "phonetic": "/pɔːˈtend/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "More players will be let in as the issues are resolved, but no specific timetable is provided for how long that could take.",
+            "zh": "随着问题得到解决，将有更多玩家被允许进入游戏，但没有提供具体的时间表说明这可能需要多长时间。",
+            "grammar": "【语法要点】'as'引导时间状语从句，被动语态'are resolved'和'is provided'的使用。",
+            "words": [
+              {
+                "word": "timetable",
+                "meaning": "n. 时间表，时刻表",
+                "phonetic": "/ˈtaɪmteɪbl/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Alongside the long queues, the patch targets issues with joining servers and an issue causing players to be kicked from matches.",
+            "zh": "除了长队列外，该补丁还解决了加入服务器的问题以及导致玩家被踢出比赛的问题。",
+            "grammar": "【语法要点】'alongside'表示'除了...之外'，'causing players to be kicked'是现在分词短语作定语。",
+            "words": [
+              {
+                "word": "patch",
+                "meaning": "n. 补丁，修补程序",
+                "phonetic": "/pætʃ/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "\"We will be actively monitoring the ongoing situation post hotfix and will be working through the night to see this resolved,\" the develop...",
+            "zh": "\"我们将在紧急修复后积极监控持续的情况，并将通宵工作以解决此问题，\"开发团队...",
+            "grammar": "【语法要点】'will be doing'表示将来进行时，强调计划中的持续动作。",
+            "words": [
+              {
+                "word": "monitoring",
+                "meaning": "v. 监控，监视",
+                "phonetic": "/ˈmɒnɪtərɪŋ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the current status of Wardogs server issues after the hotfix?",
+        "options": [
+          "A. All server issues have been completely resolved",
+          "B. Players can now enter the game without any queues",
+          "C. Players will be admitted in controlled batches but queues may continue",
+          "D. The hotfix has been cancelled due to technical difficulties"
+        ],
+        "answer": 2,
+        "hint": "提示：请查看文章中关于玩家进入游戏方式和队列状态的描述。"
+      },
+      "translation_task": {
+        "en": "Players will be allowed into the game in \"controlled batches,\" the size of which were not specified, and might portend continued queues for the time being.",
+        "zh": "玩家将被允许以\"受控批次\"的方式进入游戏，批次大小未指定，这可能预示着队列将持续一段时间。",
+        "valuable_point": "考察了'which'引导的定语从句和'portend'这一较正式词汇的翻译，以及长句的合理拆分。"
+      },
+      "quiz": {
+        "question": "What is the current status of Wardogs server issues after the hotfix?",
+        "options": [
+          "A. All server issues have been completely resolved",
+          "B. Players can now enter the game without any queues",
+          "C. Players will be admitted in controlled batches but queues may continue",
+          "D. The hotfix has been cancelled due to technical difficulties"
+        ],
+        "answer": 2,
+        "hint": "提示：请查看文章中关于玩家进入游戏方式和队列状态的描述。"
+      }
+    },
+    "id": "article_1789083058641_08q7",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
     "title_zh": "Meta推出Muse AI助手。消费者会信任它吗？",
     "level": "⭐⭐ 中级",
@@ -2304,274 +2505,5 @@
     "id": "article_1787177567560_e0x0",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Want A Modern Warfare 4 Beta Code? Just Talk Trash",
-    "title_zh": "想要《现代战争4》测试码？只需说些垃圾话",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The creators of Call of Duty: Modern Warfare 4 are trying to prove one trash-talking player wrong by giving them a free code to the game's upcoming early-access beta.",
-            "zh": "《使命召唤：现代战争4》的开发者试图通过给一名说垃圾话的玩家提供免费的游戏抢先体验测试码，来证明他是错的。",
-            "grammar": "【现在进行时与不定式连用】are trying to prove...by giving...结构表示目的和方式",
-            "words": [
-              {
-                "word": "trash-talking",
-                "meaning": "adj. 说垃圾话的，说脏话的",
-                "phonetic": "/ˈtræʃˌtɔːkɪŋ/"
-              },
-              {
-                "word": "beta",
-                "meaning": "n. （软件或游戏的）测试版",
-                "phonetic": "/ˈbeɪtə/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "In response to a Modern Warfare 4 multiplayer trailer posted by CharlieIntel on X, one skeptical player going by TristanSpoof didn't have kind words for what they saw.",
-            "zh": "针对CharlieIntel在X上发布的《现代战争4》多人游戏预告片，一位名为TristanSpoof的怀疑论者对所见内容并不友善。",
-            "grammar": "【介词短语作状语】In response to...表示对某事的回应",
-            "words": [
-              {
-                "word": "skeptical",
-                "meaning": "adj. 怀疑的，持怀疑态度的",
-                "phonetic": "/ˈskeptɪkəl/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "\"This s*** looks awful ngl,\" they wrote in a quote repost.",
-            "zh": "\"这该死的东西看起来太糟糕了，说实话，\"他们在转发引用中写道。",
-            "grammar": "【口语表达】\"s***\"和\"ngl\"都是非正式口语表达",
-            "words": [
-              {
-                "word": "awful",
-                "meaning": "adj. 糟糕的，可怕的",
-                "phonetic": "/ˈɔːfəl/"
-              },
-              {
-                "word": "ngl",
-                "meaning": "abbr. not gonna lie的缩写，说实话",
-                "phonetic": "/ˌenˌdʒiːˈel/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "Normally, rude behavior shouldn't be rewarded, but the official CallofDutyCM account took a different approach and clearly saw an opportunity.",
-            "zh": "通常情况下，粗鲁的行为不应该得到奖励，但官方的CallofDutyCM账号采取了不同的方法，并清楚地看到了一个机会。",
-            "grammar": "【转折关系】but连接两个对比的观点",
-            "words": [
-              {
-                "word": "approach",
-                "meaning": "n. 方法，方式",
-                "phonetic": "/əˈprəʊtʃ/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "Instead of fighting fire with fire, the account opted for a \"kill them with kindness\" strategy.",
-            "zh": "该账号没有以牙还牙，而是选择了一种\"以德报怨\"的策略。",
-            "grammar": "【习语】fighting fire with fire（以牙还牙）和kill them with kindness（以德报怨）是习语表达",
-            "words": [
-              {
-                "word": "opted",
-                "meaning": "v. 选择，决定（opt的过去式）",
-                "phonetic": "/ˈɒptɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Replying to TristanSpoof's post, the account said a...",
-            "zh": "在回复TristanSpoof的帖子时，该账号说了一个...",
-            "grammar": "【现在分词作状语】Replying to...表示伴随动作",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What strategy did the official CallofDutyCM account use in response to the negative comment?",
-        "options": [
-          "A. Ignoring the comment completely",
-          "B. Fighting fire with fire",
-          "C. Kill them with kindness",
-          "D. Deleting the negative post"
-        ],
-        "answer": 2,
-        "hint": "提示：文章中明确提到了该账号没有以牙还牙，而是选择了另一种策略。"
-      },
-      "translation_task": {
-        "en": "In response to a Modern Warfare 4 multiplayer trailer posted by CharlieIntel on X, one skeptical player going by TristanSpoof didn't have kind words for what they saw.",
-        "zh": "针对CharlieIntel在X上发布的《现代战争4》多人游戏预告片，一位名为TristanSpoof的怀疑论者对所见内容并不友善。",
-        "valuable_point": "考察了介词短语作状语和现在分词作定语的翻译技巧，以及如何自然处理英文中的非正式表达。"
-      },
-      "quiz": {
-        "question": "What strategy did the official CallofDutyCM account use in response to the negative comment?",
-        "options": [
-          "A. Ignoring the comment completely",
-          "B. Fighting fire with fire",
-          "C. Kill them with kindness",
-          "D. Deleting the negative post"
-        ],
-        "answer": 2,
-        "hint": "提示：文章中明确提到了该账号没有以牙还牙，而是选择了另一种策略。"
-      }
-    },
-    "id": "article_1787177582303_58cb",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "Apparent GTA 6 Footage And Map Leak As Rockstar Issues Takedowns",
-    "title_zh": "GTA 6游戏画面与地图疑似泄露，R星发起下架请求",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "New footage and details about Rockstar Games' Grand Theft Auto 6 appear to have been leaked online.",
-            "zh": "关于Rockstar Games的《侠盗猎车手6》的新画面和细节似乎已经在线上泄露。",
-            "grammar": "现在完成时被动语态，表示已经发生且与现在有联系的动作。",
-            "words": [
-              {
-                "word": "footage",
-                "meaning": "n. 影片，镜头素材",
-                "phonetic": "/ˈfʊtɪdʒ/"
-              },
-              {
-                "word": "leaked",
-                "meaning": "v. 泄露，泄露出去",
-                "phonetic": "/liːkt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "While the full veracity of the intel has yet to be confirmed, Rockstar's DMCA takedown requests suggest that some of it could be legitimate.",
-            "zh": "虽然这些信息的真实性尚未完全确认，但R星的DMCA下架请求表明其中部分内容可能是真实的。",
-            "grammar": "让步状语从句与主句结构，情态动词表示可能性。",
-            "words": [
-              {
-                "word": "veracity",
-                "meaning": "n. 真实性，诚实",
-                "phonetic": "/vəˈræsəti/"
-              },
-              {
-                "word": "intel",
-                "meaning": "n. 情报，信息",
-                "phonetic": "/ɪnˈtel/"
-              },
-              {
-                "word": "legitimate",
-                "meaning": "adj. 合法的，真实的",
-                "phonetic": "/lɪˈdʒɪtɪmət/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "And the person or persons behind the leak has issued some biblical demands if the company wants to avoid any additional unauthorized disclosures.",
-            "zh": "如果公司想避免任何额外的未经授权的披露，泄露者已经提出了一些圣经式的 demands。",
-            "grammar": "条件状语从句，主语为单数形式但包含复数概念。",
-            "words": [
-              {
-                "word": "biblical",
-                "meaning": "adj. 圣经的，权威的",
-                "phonetic": "/ˈbɪblɪkl/"
-              },
-              {
-                "word": "disclosures",
-                "meaning": "n. 披露，公开",
-                "phonetic": "/dɪsˈkləʊʒərz/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The leaker, who goes by Cyberleek, has issued the following \"commandments\" to Rockstar and other game publishers: Thou Shalt Not Sell Digital Preorders Thou Shalt Not Sell Fake Single-Player DLC Thou Shalt Preserve Single-Player Content",
-            "zh": "化名为Cyberleek的泄露者向R星和其他游戏发行商发布了以下\"戒律\"：不得销售数字预售 不得销售虚假单人游戏DLC 必须保留单人游戏内容",
-            "grammar": "非限制性定语从句，冒号引导的列举内容。",
-            "words": [
-              {
-                "word": "commandments",
-                "meaning": "n. 戒律，命令",
-                "phonetic": "/kəˈmændmənts/"
-              },
-              {
-                "word": "preorders",
-                "meaning": "n. 预购，预订",
-                "phonetic": "/ˌpriːˈɔːdərz/"
-              },
-              {
-                "word": "preserve",
-                "meaning": "v. 保留，保存",
-                "phonetic": "/prɪˈzɜːv/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What has Rockstar Games done in response to the GTA 6 leak?",
-        "options": [
-          "A. Confirmed the leaked information is legitimate",
-          "B. Issued DMCA takedown requests",
-          "C. Made biblical demands to the leaker",
-          "D. Released official trailers for GTA 6"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中提到了R星针对泄露内容采取的具体行动。"
-      },
-      "translation_task": {
-        "en": "While the full veracity of the intel has yet to be confirmed, Rockstar's DMCA takedown requests suggest that some of it could be legitimate.",
-        "zh": "虽然这些信息的真实性尚未完全确认，但R星的DMCA下架请求表明其中部分内容可能是真实的。",
-        "valuable_point": "考察了让步状语从句的翻译和情态动词表达可能性的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What has Rockstar Games done in response to the GTA 6 leak?",
-        "options": [
-          "A. Confirmed the leaked information is legitimate",
-          "B. Issued DMCA takedown requests",
-          "C. Made biblical demands to the leaker",
-          "D. Released official trailers for GTA 6"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中提到了R星针对泄露内容采取的具体行动。"
-      }
-    },
-    "id": "article_1787091020014_l07d",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
