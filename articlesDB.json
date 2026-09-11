@@ -1,5 +1,104 @@
 [
   {
+    "title": "An Anthropic Researcher's Doomsday Warning Comes at a Very Interesting Time",
+    "title_zh": "一位Anthropic研究员的末日警告恰逢其时",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\".",
+            "zh": "一位Anthropic研究员本周辞职，在X平台上发帖警告称该公司\"正径直奔向自我改进的超智能，并拿我们的生命做赌注\"。",
+            "grammar": "【语法要点】现在分词短语作伴随状语，引出警告内容",
+            "words": [
+              {
+                "word": "resigned",
+                "meaning": "v. 辞职",
+                "phonetic": "/rɪˈzaɪnd/"
+              },
+              {
+                "word": "superintelligence",
+                "meaning": "n. 超智能",
+                "phonetic": "/ˌsuːpərɪnˈtelɪdʒəns/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The company's own alignment lead even co-signed the message rather than walking it back.",
+            "zh": "该公司自己的对齐负责人甚至共同签署了这条信息，而不是撤回它。",
+            "grammar": "【语法要点】even强调意外情况，rather than表示选择",
+            "words": [
+              {
+                "word": "alignment",
+                "meaning": "n. 对齐，校准",
+                "phonetic": "/əˈlaɪnmənt/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "It's the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.",
+            "zh": "这是人工智能行业以前曾试探过的那种末日警告，但时机不同，据报道Anthropic正准备进行IPO，这使得警告产生了不同的影响。",
+            "grammar": "【语法要点】with复合结构作状语，说明背景情况",
+            "words": [
+              {
+                "word": "doomer",
+                "meaning": "n. 悲观主义者，末日论者",
+                "phonetic": "/ˈduːmər/"
+              },
+              {
+                "word": "IPO",
+                "meaning": "n. 首次公开募股(Initial Public Offering的缩写)",
+                "phonetic": "/ˌaɪˌpiːˈoʊ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "Why is the Anthropic researcher's warning considered significant at this particular time?",
+        "options": [
+          "A. Because the researcher is a high-ranking official at Anthropic",
+          "B. Because the company's alignment lead supported the warning",
+          "C. Because Anthropic is reportedly preparing for an IPO",
+          "D. Because the warning specifically mentions gambling with lives"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了一个特定的商业活动，这个时间点使警告产生了不同的影响。"
+      },
+      "translation_task": {
+        "en": "It's the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.",
+        "zh": "这是人工智能行业以前曾试探过的那种末日警告，但时机不同，据报道Anthropic正准备进行IPO，这使得警告产生了不同的影响。",
+        "valuable_point": "考察了with复合结构作状语的表达方式，以及makes it land differently这一地道的英语表达"
+      },
+      "quiz": {
+        "question": "Why is the Anthropic researcher's warning considered significant at this particular time?",
+        "options": [
+          "A. Because the researcher is a high-ranking official at Anthropic",
+          "B. Because the company's alignment lead supported the warning",
+          "C. Because Anthropic is reportedly preparing for an IPO",
+          "D. Because the warning specifically mentions gambling with lives"
+        ],
+        "answer": 2,
+        "hint": "提示：文章中明确提到了一个特定的商业活动，这个时间点使警告产生了不同的影响。"
+      }
+    },
+    "id": "article_1789169908201_hiz1",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "Apple Watch's new AI features are normalizing the idea that technology is always listening",
     "title_zh": "Apple Watch的新AI功能正在使'技术一直在监听'的观念常态化",
     "level": "⭐⭐ 中级",
@@ -2427,82 +2526,6 @@
       }
     },
     "id": "article_1787350280326_fect",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Google packs Search and Gemini with new AI study tools",
-    "title_zh": "谷歌为搜索和Gemini添加新的AI学习工具",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying.",
-            "zh": "新学习功能的发布标志着谷歌的最新努力，旨在使Gemini成为学生在学习和研究时首选的AI助手。",
-            "grammar": "【语法要点】本句包含定语从句\"that students turn to when learning and studying\"修饰\"AI assistant\"，以及不定式短语\"to make Gemini...\"作目的状语。",
-            "words": [
-              {
-                "word": "launch",
-                "meaning": "n. 发布，推出",
-                "phonetic": "/lɔːntʃ/"
-              },
-              {
-                "word": "effort",
-                "meaning": "n. 努力，尝试",
-                "phonetic": "/ˈefərt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "It continues to compete with companies like OpenAI.",
-            "zh": "谷歌继续与OpenAI等公司竞争。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "compete",
-                "meaning": "v. 竞争，对抗",
-                "phonetic": "/kəmˈpiːt/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is Google's goal with the new study features for Gemini?",
-        "options": [
-          "A. To make Gemini the most expensive AI assistant",
-          "B. To make Gemini the AI assistant that students turn to when learning",
-          "C. To replace all human teachers",
-          "D. To create a new search engine"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注文章第一句中提到的谷歌的目标。"
-      },
-      "translation_task": {
-        "en": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying.",
-        "zh": "新学习功能的发布标志着谷歌的最新努力，旨在使Gemini成为学生在学习和研究时首选的AI助手。",
-        "valuable_point": "考察了定语从句的翻译技巧和目的状语的表达方式。"
-      },
-      "quiz": {
-        "question": "What is Google's goal with the new study features for Gemini?",
-        "options": [
-          "A. To make Gemini the most expensive AI assistant",
-          "B. To make Gemini the AI assistant that students turn to when learning",
-          "C. To replace all human teachers",
-          "D. To create a new search engine"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注文章第一句中提到的谷歌的目标。"
-      }
-    },
-    "id": "article_1787177567560_e0x0",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
