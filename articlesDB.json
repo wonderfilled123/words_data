@@ -1,5 +1,226 @@
 [
   {
+    "title": "An Anthropic researcher's doomsday warning comes at a very interesting time",
+    "title_zh": "Anthropic研究员的末日警告恰逢其时",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "An Anthropic researcher resigned this week, warning in a post on X that the company is \"racing straight to self-improving superintelligence and gambling with our lives\".",
+            "zh": "一位Anthropic研究员本周辞职，在X平台发帖警告称该公司\"正径直奔向自我改进的超智能，并拿我们的生命做赌注\"。",
+            "grammar": "【语法要点】现在分词短语作伴随状语，引出警告内容",
+            "words": [
+              {
+                "word": "resigned",
+                "meaning": "v. 辞职",
+                "phonetic": "/rɪˈzaɪnd/"
+              },
+              {
+                "word": "superintelligence",
+                "meaning": "n. 超智能",
+                "phonetic": "/ˌsuːpərɪnˈtelɪdʒəns/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The company's own alignment lead even co-signed the message rather than walking it back.",
+            "zh": "该公司自身的对齐负责人甚至共同签署了这条信息，而不是撤回它。",
+            "grammar": "【语法要点】even强调语气，rather than连接对比结构",
+            "words": [
+              {
+                "word": "alignment",
+                "meaning": "n. 对齐，校准",
+                "phonetic": "/əˈlaɪnmənt/"
+              },
+              {
+                "word": "co-signed",
+                "meaning": "v. 共同签署",
+                "phonetic": "/ˌkoʊˈsaɪnd/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "It's the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.",
+            "zh": "这是人工智能行业以前曾接触过的那种末日警告，但时机不同，据报道Anthropic正在准备IPO，这使得警告产生了不同的影响。",
+            "grammar": "【语法要点】with复合结构作状语，表示伴随情况",
+            "words": [
+              {
+                "word": "doomer",
+                "meaning": "n. 悲观主义者，末日论者",
+                "phonetic": "/ˈduːmər/"
+              },
+              {
+                "word": "flirted",
+                "meaning": "v. 调情，与...保持若即若离的关系",
+                "phonetic": "/ˈflɜːrtɪd/"
+              },
+              {
+                "word": "IPO",
+                "meaning": "n. 首次公开募股",
+                "phonetic": "/ˌaɪˌpiːˈoʊ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What makes the Anthropic researcher's warning different from previous AI doomer warnings?",
+        "options": [
+          "A. The researcher was not actually employed by Anthropic",
+          "B. The company's alignment lead supported the warning",
+          "C. Anthropic is reportedly preparing for an IPO",
+          "D. The warning was posted on social media platform X"
+        ],
+        "answer": 2,
+        "hint": "提示：文章提到警告的时机很特别，这与公司的什么计划有关？"
+      },
+      "translation_task": {
+        "en": "It's the kind of doomer warning the AI industry has flirted with before, but the timing, with Anthropic reportedly preparing for an IPO, makes it land differently.",
+        "zh": "这是人工智能行业以前曾接触过的那种末日警告，但时机不同，据报道Anthropic正在准备IPO，这使得警告产生了不同的影响。",
+        "valuable_point": "考察了with复合结构作状语的表达方式，以及makes it land differently这一地道的英语表达"
+      },
+      "quiz": {
+        "question": "What makes the Anthropic researcher's warning different from previous AI doomer warnings?",
+        "options": [
+          "A. The researcher was not actually employed by Anthropic",
+          "B. The company's alignment lead supported the warning",
+          "C. Anthropic is reportedly preparing for an IPO",
+          "D. The warning was posted on social media platform X"
+        ],
+        "answer": 2,
+        "hint": "提示：文章提到警告的时机很特别，这与公司的什么计划有关？"
+      }
+    },
+    "id": "article_1789255852388_4ajb",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "WoW Forever Will Add All-New Content To Classic Azeroth This November",
+    "title_zh": "魔兽世界永恒版将于十一月为经典艾泽拉斯添加全新内容",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "World of Warcraft Forever is Blizzard's next iteration on WoW Classic, one that will add new content in the form of zones, quests, dungeons, raids, and even a new playable race while keeping the old-school MMORPG's world and gameplay intact.",
+            "zh": "魔兽世界永恒版是暴雪对魔兽世界经典版的下一个迭代版本，它将以区域、任务、地下城、团队副本甚至新可玩种族的形式添加新内容，同时保持老派MMORPG的世界和游戏玩法不变。",
+            "grammar": "【语法要点】定语从句修饰\"one\"，现在分词短语\"while keeping...\"作伴随状语",
+            "words": [
+              {
+                "word": "iteration",
+                "meaning": "n. 迭代版本",
+                "phonetic": "/ˌɪtəˈreɪʃn/"
+              },
+              {
+                "word": "intact",
+                "meaning": "adj. 完整无损的",
+                "phonetic": "/ɪnˈtækt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Revealed during BlizzCon 2026's opening ceremony, WoW Forever is Blizzard's attempt to give WoW Classic fans the \"forever\" game they've wanted for years.",
+            "zh": "在2026年暴雪嘉年华的开幕式上公布，魔兽世界永恒版是暴雪试图为魔兽世界经典版粉丝提供他们多年来一直想要的\"永恒\"游戏。",
+            "grammar": "【语法要点】过去分词短语作状语，定语从句\"they've wanted...\"修饰\"game\"",
+            "words": [
+              {
+                "word": "ceremony",
+                "meaning": "n. 典礼，仪式",
+                "phonetic": "/ˈserəməni/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "However, instead of the MMO progressing to the game's subsequent expansions and their new areas, as Classic has in the past, WoW Forever will instead keep the focus on WoW's original two continents, Eastern Kingdoms and Kalimdor.",
+            "zh": "然而，与经典版过去不同，魔兽世界永恒版不会让这款MMORPG发展到游戏的后续版本及其新区域，而是将重点保持在魔兽世界的原始两个大陆——东部王国和卡利姆多。",
+            "grammar": "【语法要点】\"instead of\"和\"instead\"的对比使用，插入语\"as Classic has in the past\"",
+            "words": [
+              {
+                "word": "subsequent",
+                "meaning": "adj. 后续的，随后的",
+                "phonetic": "/ˈsʌbsɪkwənt/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Within that Classic backdrop will be up to 1,000 new quests, Blizzard said, as well as revamped zones, and three entirely new zones that fill out areas present on the map in...",
+            "zh": "暴雪表示，在这经典背景下，将有多达1000个新任务，以及重新设计的区域，还有三个全新的区域来填补地图上已有的区域...",
+            "grammar": "【语法要点】倒装句\"Within that Classic backdrop will be...\"，定语从句\"that fill out...\"修饰\"zones\"",
+            "words": [
+              {
+                "word": "backdrop",
+                "meaning": "n. 背景",
+                "phonetic": "/ˈbækdrɒp/"
+              },
+              {
+                "word": "revamp",
+                "meaning": "v. 重新设计，改造",
+                "phonetic": "/ˌriːˈvæmp/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main difference between WoW Forever and previous Classic versions?",
+        "options": [
+          "A. WoW Forever will progress to subsequent expansions",
+          "B. WoW Forever will focus on original continents only",
+          "C. WoW Forever will remove all old content",
+          "D. WoW Forever will not add any new quests"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确指出魔兽世界永恒版不会像经典版过去那样发展到后续版本，而是保持重点在原始大陆上。"
+      },
+      "translation_task": {
+        "en": "However, instead of the MMO progressing to the game's subsequent expansions and their new areas, as Classic has in the past, WoW Forever will instead keep the focus on WoW's original two continents, Eastern Kingdoms and Kalimdor.",
+        "zh": "然而，与经典版过去不同，魔兽世界永恒版不会让这款MMORPG发展到游戏的后续版本及其新区域，而是将重点保持在魔兽世界的原始两个大陆——东部王国和卡利姆多。",
+        "valuable_point": "考察了英语中\"instead of\"和\"instead\"的对比使用，以及插入语\"as Classic has in the past\"的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What is the main difference between WoW Forever and previous Classic versions?",
+        "options": [
+          "A. WoW Forever will progress to subsequent expansions",
+          "B. WoW Forever will focus on original continents only",
+          "C. WoW Forever will remove all old content",
+          "D. WoW Forever will not add any new quests"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确指出魔兽世界永恒版不会像经典版过去那样发展到后续版本，而是保持重点在原始大陆上。"
+      }
+    },
+    "id": "article_1789255865043_u0fs",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "An Anthropic Researcher's Doomsday Warning Comes at a Very Interesting Time",
     "title_zh": "一位Anthropic研究员的末日警告恰逢其时",
     "level": "⭐⭐ 中级",
@@ -2354,178 +2575,6 @@
       }
     },
     "id": "article_1787522961762_jkqa",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Frontier AI labs still won't say how they'd contain a rogue model",
-    "title_zh": "前沿人工智能实验室仍不愿透露如何控制失控模型",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-            "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的应对失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
-            "grammar": "【语法要点】现在分词短语作结果状语，主句为简单陈述句结构",
-            "words": [
-              {
-                "word": "rogue",
-                "meaning": "adj. 失控的，叛逆的",
-                "phonetic": "/roʊɡ/"
-              },
-              {
-                "word": "preparedness",
-                "meaning": "n. 准备状态，准备情况",
-                "phonetic": "/prɪˈperədnəs/"
-              },
-              {
-                "word": "potentially",
-                "meaning": "adv. 潜在地，可能地",
-                "phonetic": "/pəˈtenʃəli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What does the new study reveal about leading AI labs' plans for rogue models?",
-        "options": [
-          "A. They have comprehensive and well-documented plans",
-          "B. They have few publicly documented plans",
-          "C. They are developing new containment methods",
-          "D. They believe rogue models are not a concern"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了研究发现的情况。"
-      },
-      "translation_task": {
-        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-        "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的应对失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
-        "valuable_point": "考察了长句中现在分词短语作结果状语的结构，以及多个形容词修饰名词的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What does the new study reveal about leading AI labs' plans for rogue models?",
-        "options": [
-          "A. They have comprehensive and well-documented plans",
-          "B. They have few publicly documented plans",
-          "C. They are developing new containment methods",
-          "D. They believe rogue models are not a concern"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了研究发现的情况。"
-      }
-    },
-    "id": "article_1787436592628_7lnk",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "title_zh": "司法部调查a16z.这对风险投资意味着什么？",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran.",
-            "zh": "安德森·霍洛维茨(a16z)有两名合伙人分别担任现在相互竞争的两家公司的董事会成员：本·霍洛维茨在Databricks，马丁·卡萨多在Fivetran。",
-            "grammar": "【语法要点】主谓宾结构，包含同位语和冒号引导的举例说明",
-            "words": [
-              {
-                "word": "partners",
-                "meaning": "n. 合伙人",
-                "phonetic": "/ˈpɑːrtnərz/"
-              },
-              {
-                "word": "compete",
-                "meaning": "v. 竞争",
-                "phonetic": "/kəmˈpiːt/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that's rarely used against VCs.",
-            "zh": "表面上看没什么丑闻，但司法部据报道已经调查这一安排近一年时间，启用了一项112年反垄断法，而这项法律很少被用于针对风险投资公司。",
-            "grammar": "【语法要点】复合句，包含except引导的转折关系和现在完成进行时",
-            "words": [
-              {
-                "word": "scandalous",
-                "meaning": "adj. 丑闻的，引起公愤的",
-                "phonetic": "/ˈskændələs/"
-              },
-              {
-                "word": "antitrust",
-                "meaning": "adj. 反垄断的",
-                "phonetic": "/ˌæntiˈtrʌst/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Board conflicts aren't exactly new, and these companies weren't necessarily direct competitors when a16z first invested [...]",
-            "zh": "董事会冲突并不新鲜，而且当a16z最初投资时，这些公司不一定是直接竞争对手[...]",
-            "grammar": "【语法要点】并列句，包含when引导的时间状语从句",
-            "words": [
-              {
-                "word": "conflicts",
-                "meaning": "n. 冲突，矛盾",
-                "phonetic": "/ˈkɒnflɪkts/"
-              },
-              {
-                "word": "necessarily",
-                "meaning": "adv. 必然地，必定地",
-                "phonetic": "/ˈnesəserəli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main issue being investigated by the Department of Justice regarding Andreessen Horowitz?",
-        "options": [
-          "A. The age of the antitrust law being used",
-          "B. Board conflicts between competing companies",
-          "C. The length of time a16z has been investing",
-          "D. The competition between Databricks and Fivetran"
-        ],
-        "answer": 1,
-        "hint": "提示：文章提到司法部调查的是a16z合伙人同时担任相互竞争公司董事会成员的安排。"
-      },
-      "translation_task": {
-        "en": "Nothing too scandalous on the surface, except the Department of Justice has reportedly been investigating the arrangement for almost a year, dusting off a 112-year-old antitrust law that's rarely used against VCs.",
-        "zh": "表面上看没什么丑闻，但司法部据报道已经调查这一安排近一年时间，启用了一项112年反垄断法，而这项法律很少被用于针对风险投资公司。",
-        "valuable_point": "考察了复合句的翻译，特别是except引导的转折关系和现在完成进行时的表达方式。"
-      },
-      "quiz": {
-        "question": "What is the main issue being investigated by the Department of Justice regarding Andreessen Horowitz?",
-        "options": [
-          "A. The age of the antitrust law being used",
-          "B. Board conflicts between competing companies",
-          "C. The length of time a16z has been investing",
-          "D. The competition between Databricks and Fivetran"
-        ],
-        "answer": 1,
-        "hint": "提示：文章提到司法部调查的是a16z合伙人同时担任相互竞争公司董事会成员的安排。"
-      }
-    },
-    "id": "article_1787350280326_fect",
     "category": "🤖 人工智能",
     "icon": "⚡"
   }
