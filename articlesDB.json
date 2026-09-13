@@ -1,5 +1,221 @@
 [
   {
+    "title": "Obama urges Democrats to have a 'clear plan' for AI safeguards",
+    "title_zh": "奥巴马敦促民主党为人工智能保障制定'明确计划'",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety.",
+            "zh": "奥巴马最近表示，民主党需要将人工智能列为他们的\"核心议程\"之一，并\"制定一个非常明确的计划\"，以应对这项技术带来的经济影响和安全方面的担忧。",
+            "grammar": "【语法要点】本句使用了直接引语和间接引语结合的结构，包含一个复合句，主句是'Obama said'，后面跟着两个宾语从句。",
+            "words": [
+              {
+                "word": "artificial",
+                "meaning": "adj. 人工的，人造的",
+                "phonetic": "/ˌɑːrtɪˈfɪʃl/"
+              },
+              {
+                "word": "central",
+                "meaning": "adj. 核心的，中心的",
+                "phonetic": "/ˈsentrəl/"
+              },
+              {
+                "word": "safeguards",
+                "meaning": "n. 保障措施，防护措施",
+                "phonetic": "/ˈseɪfɡɑːrdz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What did Obama recently urge Democrats to do regarding artificial intelligence?",
+        "options": [
+          "A. To avoid discussing AI technology",
+          "B. To make AI one of their central agendas with a clear plan",
+          "C. To focus only on AI's economic benefits",
+          "D. To delay addressing AI concerns until later"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注奥巴马对民主党提出的具体建议，特别是关于人工智能的定位和行动计划。"
+      },
+      "translation_task": {
+        "en": "Obama recently said that Democrats need to make artificial intelligence one of their \"central agendas\" and \"have a very clear plan\" to address concerns around the technology's economic impact and safety.",
+        "zh": "奥巴马最近表示，民主党需要将人工智能列为他们的\"核心议程\"之一，并\"制定一个非常明确的计划\"，以应对这项技术带来的经济影响和安全方面的担忧。",
+        "valuable_point": "考察了直接引语和间接引语结合的翻译技巧，以及\"central agendas\"和\"clear plan\"等政治术语的准确表达。"
+      },
+      "quiz": {
+        "question": "What did Obama recently urge Democrats to do regarding artificial intelligence?",
+        "options": [
+          "A. To avoid discussing AI technology",
+          "B. To make AI one of their central agendas with a clear plan",
+          "C. To focus only on AI's economic benefits",
+          "D. To delay addressing AI concerns until later"
+        ],
+        "answer": 1,
+        "hint": "提示：请关注奥巴马对民主党提出的具体建议，特别是关于人工智能的定位和行动计划。"
+      }
+    },
+    "id": "article_1789343039556_ni7y",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "You'll Fight The Protoss In StarCraft, Too, Don't Worry",
+    "title_zh": "别担心，你也会在《星际争霸》中与神族作战",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "StarCraft's reveal trailer squarely put the focus on the Terrans, who later in the cinematic face a terrifying confrontation with the Zerg.",
+            "zh": "《星际争霸》的预告片将焦点完全集中在人类身上，他们在电影后期与虫族面临可怕的对抗。",
+            "grammar": "【定语从句】who引导的定语从句修饰Terrans，说明他们在预告片中的遭遇。",
+            "words": [
+              {
+                "word": "squarely",
+                "meaning": "adv. 直接地，明确地",
+                "phonetic": "/ˈskwɛrli/"
+              },
+              {
+                "word": "terrifying",
+                "meaning": "adj. 令人恐惧的",
+                "phonetic": "/ˈtɛrɪfaɪɪŋ/"
+              },
+              {
+                "word": "confrontation",
+                "meaning": "n. 对抗，冲突",
+                "phonetic": "/ˌkɑːnfrʌnˈteɪʃn/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "The franchise's three franchises--including the Protoss--have always been a central element of what distinguishes StarCraft from other strategy games.",
+            "zh": "该系列游戏的三个种族——包括神族——一直是《星际争霸》区别于其他策略游戏的核心要素。",
+            "grammar": "【插入语】including the Protoss作为插入语，补充说明三个种族的内容。",
+            "words": [
+              {
+                "word": "franchise",
+                "meaning": "n. （游戏、电影等的）系列",
+                "phonetic": "/ˈfræntʃaɪz/"
+              },
+              {
+                "word": "distinguishes",
+                "meaning": "v. 区分，使...与众不同",
+                "phonetic": "/dɪˈstɪŋɡwɪʃɪz/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Although the Protoss were effectively absent from the trailer, they are a foe you will face at some point.",
+            "zh": "尽管神族在预告片中几乎缺席，但他们是你将在某个时候面对的敌人。",
+            "grammar": "【让步状语从句】Although引导的让步状语从句，表示尽管神族缺席，但玩家仍会遇到他们。",
+            "words": [
+              {
+                "word": "absent",
+                "meaning": "adj. 缺席的，不在场的",
+                "phonetic": "/ˈæbsənt/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "GameSpot spoke with GM and creative director Dan Hay at BlizzCon and asked him about how the three factions will interact with each other.",
+            "zh": "GameSpot在暴雪嘉年华上与GM兼创意总监丹·海进行了交谈，询问了他关于三个种族将如何相互交流的问题。",
+            "grammar": "【并列结构】spoke with...and asked him...是并列谓语，表示两个连续的动作。",
+            "words": [
+              {
+                "word": "interactive",
+                "meaning": "adj. 相互作用的，互动的",
+                "phonetic": "/ˌɪntərˈæktɪv/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 3,
+        "sentences": [
+          {
+            "s_id": "3-1",
+            "en": "Although he was expectedly coy on specifics, he did offer up some thoughts.",
+            "zh": "尽管他如预期般对细节保持谨慎，但他确实提供了一些想法。",
+            "grammar": "【让步状语从句】Although引导的让步状语从句，表示尽管谨慎，但仍提供了信息。",
+            "words": [
+              {
+                "word": "coy",
+                "meaning": "adj. 谨慎的，害羞的",
+                "phonetic": "/kɔɪ/"
+              }
+            ]
+          },
+          {
+            "s_id": "3-2",
+            "en": "\"The answer to that question is I absolutely unequivocally can't say,\" Hay said.",
+            "zh": "海说：\"那个问题的答案是我绝对明确地说不出来。\"",
+            "grammar": "【直接引语】引述了丹·海的原话，使用了绝对否定表达。",
+            "words": [
+              {
+                "word": "unequivocally",
+                "meaning": "adv. 明确地，不含糊地",
+                "phonetic": "/ˌʌnɪˈkwɪvəkəli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main point of the article regarding the Protoss?",
+        "options": [
+          "A. The Protoss are the main focus of the StarCraft reveal trailer",
+          "B. The Protoss will not appear in the new StarCraft game",
+          "C. The Protoss are confirmed to be a playable faction",
+          "D. The Protoss will be encountered by players despite not being in the trailer"
+        ],
+        "answer": 3,
+        "hint": "提示：文章中明确提到了神族在预告片中的情况以及玩家未来是否会遇到他们。"
+      },
+      "translation_task": {
+        "en": "Although he was expectedly coy on specifics, he did offer up some thoughts.",
+        "zh": "尽管他如预期般对细节保持谨慎，但他确实提供了一些想法。",
+        "valuable_point": "考察了让步状语从句的翻译技巧，以及\"coy on specifics\"这一固定搭配的准确表达。"
+      },
+      "quiz": {
+        "question": "What is the main point of the article regarding the Protoss?",
+        "options": [
+          "A. The Protoss are the main focus of the StarCraft reveal trailer",
+          "B. The Protoss will not appear in the new StarCraft game",
+          "C. The Protoss are confirmed to be a playable faction",
+          "D. The Protoss will be encountered by players despite not being in the trailer"
+        ],
+        "answer": 3,
+        "hint": "提示：文章中明确提到了神族在预告片中的情况以及玩家未来是否会遇到他们。"
+      }
+    },
+    "id": "article_1789343058456_qmal",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "An Anthropic researcher's doomsday warning comes at a very interesting time",
     "title_zh": "Anthropic研究员的末日警告恰逢其时",
     "level": "⭐⭐ 中级",
@@ -2446,136 +2662,5 @@
     "id": "article_1787696028881_gchz",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "title_zh": "Valor和Point72以60亿美元估值支持General Intuition，AI初创公司进军机器人领域",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-            "zh": "General Intuition这家初创公司正在构建一个基础模型，用于训练通用AI代理如何在空间和时间中移动，现正以60亿美元的投前估值进行融资谈判，新投资者包括Valor Ventures、Point72 Ventures和Seven Seven Six。",
-            "grammar": "【语法要点】本句包含一个较长的同位语结构，解释General Intuition的业务内容，以及一个复杂的谓语部分说明融资情况。",
-            "words": [
-              {
-                "word": "foundation",
-                "meaning": "n. 基础，基础模型",
-                "phonetic": "/faʊnˈdeɪʃən/"
-              },
-              {
-                "word": "valuation",
-                "meaning": "n. 估值，估价",
-                "phonetic": "/ˌvæljuˈeɪʃən/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is General Intuition primarily developing according to the article?",
-        "options": [
-          "A. A new type of robot for industrial use",
-          "B. A foundation model for training AI agents to move through space and time",
-          "C. A valuation method for AI startups",
-          "D. A partnership with Valor Ventures"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了General Intuition的主要业务方向。"
-      },
-      "translation_task": {
-        "en": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
-        "zh": "General Intuition这家初创公司正在构建一个基础模型，用于训练通用AI代理如何在空间和时间中移动，现正以60亿美元的投前估值进行融资谈判，新投资者包括Valor Ventures、Point72 Ventures和Seven Seven Six。",
-        "valuable_point": "考察了长句中同位语结构的翻译处理，以及专业术语如'foundation model'和'pre-money valuation'的准确翻译。"
-      },
-      "quiz": {
-        "question": "What is General Intuition primarily developing according to the article?",
-        "options": [
-          "A. A new type of robot for industrial use",
-          "B. A foundation model for training AI agents to move through space and time",
-          "C. A valuation method for AI startups",
-          "D. A partnership with Valor Ventures"
-        ],
-        "answer": 1,
-        "hint": "提示：文章第一句明确指出了General Intuition的主要业务方向。"
-      }
-    },
-    "id": "article_1787609626623_ta09",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
-  },
-  {
-    "title": "Frontier AI Labs Still Won't Say How They'd Contain a Rogue Model",
-    "title_zh": "前沿人工智能实验室仍不愿透露如何控制失控模型",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-            "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的关于控制失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
-            "grammar": "【语法要点】现在分词短语作结果状语，主句包含宾语从句",
-            "words": [
-              {
-                "word": "rogue",
-                "meaning": "adj. 失控的，叛逆的",
-                "phonetic": "/roʊɡ/"
-              },
-              {
-                "word": "preparedness",
-                "meaning": "n. 准备状态，准备情况",
-                "phonetic": "/prɪˈperdnəs/"
-              },
-              {
-                "word": "potentially",
-                "meaning": "adv. 潜在地，可能地",
-                "phonetic": "/pəˈtenʃəli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What does the new study reveal about leading AI labs?",
-        "options": [
-          "A. They have comprehensive plans for containing rogue models",
-          "B. They are increasingly demonstrating dangerous behavior",
-          "C. They have few publicly documented plans for containing rogue models",
-          "D. They are preparing for unexpected AI behavior"
-        ],
-        "answer": 2,
-        "hint": "提示：文章第一句明确指出了新研究发现的主要问题。"
-      },
-      "translation_task": {
-        "en": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-        "zh": "一项新研究发现，领先的人工智能实验室几乎没有公开记录的关于控制失控模型的计划，这引发了人们对准备情况的质疑，因为人工智能系统越来越多地表现出意外且可能危险的行为。",
-        "valuable_point": "考察了长句中现在分词短语作结果状语的结构，以及as引导原因状语从句的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What does the new study reveal about leading AI labs?",
-        "options": [
-          "A. They have comprehensive plans for containing rogue models",
-          "B. They are increasingly demonstrating dangerous behavior",
-          "C. They have few publicly documented plans for containing rogue models",
-          "D. They are preparing for unexpected AI behavior"
-        ],
-        "answer": 2,
-        "hint": "提示：文章第一句明确指出了新研究发现的主要问题。"
-      }
-    },
-    "id": "article_1787522961762_jkqa",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
