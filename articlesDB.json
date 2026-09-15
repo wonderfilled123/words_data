@@ -1,5 +1,203 @@
 [
   {
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "title_zh": "探索如何在TechCrunch Disrupt 2026上将您的初创企业从原型扩展到生产",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics).",
+            "zh": "在TechCrunch Disrupt 2026大会上，跟随扩展领袖Adrian Macneil (Foxglove)、John Mackey (MBRYONICS)和Boris Sofman (Bedrock Robotics)，学习如何将您的初创企业突破从原型扩展到生产。",
+            "grammar": "【语法要点】本句使用了祈使句开头，包含多个专有名词和机构名称，展示了如何介绍活动嘉宾和主题。",
+            "words": [
+              {
+                "word": "prototype",
+                "meaning": "n. 原型",
+                "phonetic": "/ˈproʊtətaɪp/"
+              },
+              {
+                "word": "production",
+                "meaning": "n. 生产，制造",
+                "phonetic": "/prəˈdʌkʃn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Register before September 25 to save up to $200 on your pass.",
+            "zh": "在9月25日前注册，可节省高达200美元的通行费。",
+            "grammar": "【语法要点】本句使用了不定式作目的状语，表示注册的目的。",
+            "words": [
+              {
+                "word": "register",
+                "meaning": "v. 注册，登记",
+                "phonetic": "/ˈredʒɪstər/"
+              },
+              {
+                "word": "pass",
+                "meaning": "n. 通行证，入场券",
+                "phonetic": "/pæs/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main benefit of registering before September 25 for TechCrunch Disrupt 2026?",
+        "options": [
+          "A. Meeting the scaling leaders personally",
+          "B. Getting a discount of up to $200 on the pass",
+          "C. Receiving a free prototype kit",
+          "D. Access to exclusive production facilities"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了早注册的优惠信息，请查找与费用相关的句子。"
+      },
+      "translation_task": {
+        "en": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics).",
+        "zh": "在TechCrunch Disrupt 2026大会上，跟随扩展领袖Adrian Macneil (Foxglove)、John Mackey (MBRYONICS)和Boris Sofman (Bedrock Robotics)，学习如何将您的初创企业突破从原型扩展到生产。",
+        "valuable_point": "考察了专有名词翻译和长句结构处理，特别是多个并列人名和机构名称的翻译技巧。"
+      },
+      "quiz": {
+        "question": "What is the main benefit of registering before September 25 for TechCrunch Disrupt 2026?",
+        "options": [
+          "A. Meeting the scaling leaders personally",
+          "B. Getting a discount of up to $200 on the pass",
+          "C. Receiving a free prototype kit",
+          "D. Access to exclusive production facilities"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了早注册的优惠信息，请查找与费用相关的句子。"
+      }
+    },
+    "id": "article_1789516064257_b2l3",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Microsoft Reacts To Xbox Game Pass Rumor That Could Change The Service In A Big Way",
+    "title_zh": "微软对可能大幅改变Xbox Game Pass服务的传闻作出回应",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Microsoft has released a statement in response to a new rumor that claims the company is considering a massive shakeup to Xbox Game Pass in 2027 that would include numerous significant changes.",
+            "zh": "微软发布声明回应一则新传闻，该传闻称公司正在考虑对Xbox Game Pass进行大规模改组，这将包括许多重大变化。",
+            "grammar": "【语法要点】复合句，包含多个从句和修饰成分。",
+            "words": [
+              {
+                "word": "shakeup",
+                "meaning": "n. 改组，重组",
+                "phonetic": "/ˈʃeɪkʌp/"
+              },
+              {
+                "word": "significant",
+                "meaning": "adj. 重要的，显著的",
+                "phonetic": "/sɪɡˈnɪfɪkənt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "ResetEra user Slayven, who has accurately reported on unannounced Xbox news before, said the changes could include the bifurcation of Game Pass into two tiers: one with ads and one without.",
+            "zh": "ResetEra用户Slayven（曾准确报道过未公开的Xbox新闻）表示，这些变化可能包括将Game Pass分为两个层级：一个带广告，一个不带广告。",
+            "grammar": "【语法要点】非限制性定语从句，冒号引导解释说明。",
+            "words": [
+              {
+                "word": "bifurcation",
+                "meaning": "n. 分叉，分成两部分",
+                "phonetic": "/ˌbɪfərˈkeɪʃn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The tier with ads would be $13/month, while Game Pass without ads would cost $20/month, according to the report.",
+            "zh": "根据报告，带广告的层级将为每月13美元，而不带广告的Game Pass则需每月20美元。",
+            "grammar": "【语法要点】while连接的对比结构，表示两种情况的对比。",
+            "words": [
+              {
+                "word": "tier",
+                "meaning": "n. 层级，等级",
+                "phonetic": "/tɪr/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "That's $3/month less than Game Pass Ultimate currently, and the price cut is reportedly reflective of another big change: Microsoft is reportedly removing day-one new releases from Game Pass starting in the February-April window of 2027.",
+            "zh": "这比目前的Game Pass Ultimate每月少3美元，而且据报道，这一价格削减反映了另一项重大变化：微软据报道将从2027年2月至4月期间开始，将首日发布的新游戏从Game Pass中移除。",
+            "grammar": "【语法要点】冒号引导的解释说明，包含时间状语。",
+            "words": [
+              {
+                "word": "reflective",
+                "meaning": "adj. 反映的，显示的",
+                "phonetic": "/rɪˈflektɪv/"
+              },
+              {
+                "word": "window",
+                "meaning": "n. （时间）段，期",
+                "phonetic": "/ˈwɪndoʊ/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "According to the rumor, what changes might Microsoft make to Xbox Game Pass in 2027?",
+        "options": [
+          "A. Increasing the price of Game Pass Ultimate",
+          "B. Splitting Game Pass into two tiers with different prices",
+          "C. Removing all games from Game Pass",
+          "D. Adding more advertisements to all tiers"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Game Pass将被分成两个不同的层级，并且价格不同。"
+      },
+      "translation_task": {
+        "en": "The tier with ads would be $13/month, while Game Pass without ads would cost $20/month, according to the report.",
+        "zh": "根据报告，带广告的层级将为每月13美元，而不带广告的Game Pass则需每月20美元。",
+        "valuable_point": "考察了while连接的对比结构以及带介词短语的名词短语翻译。"
+      },
+      "quiz": {
+        "question": "According to the rumor, what changes might Microsoft make to Xbox Game Pass in 2027?",
+        "options": [
+          "A. Increasing the price of Game Pass Ultimate",
+          "B. Splitting Game Pass into two tiers with different prices",
+          "C. Removing all games from Game Pass",
+          "D. Adding more advertisements to all tiers"
+        ],
+        "answer": 1,
+        "hint": "提示：文章中明确提到了Game Pass将被分成两个不同的层级，并且价格不同。"
+      }
+    },
+    "id": "article_1789516075667_qijg",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Microsoft's new AI 'code of conduct' tells models not to hack systems or trick humans",
     "title_zh": "微软新的人工智能'行为准则'要求模型不得入侵系统或欺骗人类",
     "level": "⭐⭐ 中级",
@@ -2339,284 +2537,5 @@
     "id": "article_1787896315083_5yf6",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "GTA 6 NPCs Will Notice If You're Carrying A Weapon In Public",
-    "title_zh": "GTA 6的非玩家角色将注意到你在公共场所携带武器",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "In Rockstar Games' Grand Theft Auto franchise, players have been able to walk the streets while armed to the teeth without attracting attention from the non-player characters populating the world.",
-            "zh": "在Rockstar Games的《侠盗猎车手》系列游戏中，玩家一直以来都能够全副武装地走在街上，而不会引起世界中非玩家角色的注意。",
-            "grammar": "【现在完成时】描述从过去持续到现在的状态或习惯",
-            "words": [
-              {
-                "word": "armed",
-                "meaning": "adj. 武装的，携带武器的",
-                "phonetic": "/ɑːmd/"
-              },
-              {
-                "word": "franchise",
-                "meaning": "n. （游戏、电影等的）系列，特许经营权",
-                "phonetic": "/ˈfræntʃaɪz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "However, the NPCs in Grand Theft Auto 6 will be considerably more preceptive than their counterparts in the earlier games.",
-            "zh": "然而，《侠盗猎车手6》中的非玩家角色将比早期游戏中的同类角色更加警觉。",
-            "grammar": "【比较级】使用considerably more...than结构表示程度的比较",
-            "words": [
-              {
-                "word": "preceptive",
-                "meaning": "adj. 有洞察力的，警觉的",
-                "phonetic": "/prɪˈseptɪv/"
-              },
-              {
-                "word": "counterparts",
-                "meaning": "n. 对应的人或物，同类",
-                "phonetic": "/ˈkaʊntəpɑːrts/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "And that means packing weapons in public is going to come at a price.",
-            "zh": "这意味着在公共场所携带武器将会付出代价。",
-            "grammar": "【现在进行时】is going to结构表示即将发生的事情",
-            "words": [
-              {
-                "word": "packing",
-                "meaning": "v. 携带，装载",
-                "phonetic": "/ˈpækɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "According to a GTA 6 preview in The New York Times, \"a player in this one cannot whip out a shotgun or a rocket launcher and walk down the street without expecting the non-player characters to call the police.\"",
-            "zh": "根据《纽约时报》对《侠盗猎车手6》的预览报道，\"在这个游戏中，玩家不能突然掏出霰弹枪或火箭发射器并在街上行走，而不会期望非玩家角色报警。\"",
-            "grammar": "【间接引语】使用according to引导的引述结构",
-            "words": [
-              {
-                "word": "whip out",
-                "meaning": "phr. 突然掏出，迅速拿出",
-                "phonetic": "/wɪp aʊt/"
-              },
-              {
-                "word": "rocket launcher",
-                "meaning": "n. 火箭发射器",
-                "phonetic": "/ˈrɒkɪt ˌlɔːntʃər/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 3,
-        "sentences": [
-          {
-            "s_id": "3-1",
-            "en": "As disclosed in Netflix's extended GTA 6 preview special, the game has restored the six-star Wanted level to the franchise.",
-            "zh": "正如Netflix的《侠盗猎车手6》特别预览节目所披露的，该游戏已将六星通缉等级重新引入系列。",
-            "grammar": "【被动语态】使用as disclosed in结构表示信息来源",
-            "words": [
-              {
-                "word": "disclosed",
-                "meaning": "v. 揭露，披露",
-                "phonetic": "/dɪsˈkləʊzd/"
-              },
-              {
-                "word": "Wanted level",
-                "meaning": "n. （游戏中的）通缉等级",
-                "phonetic": "/ˈwɒntɪd ˌlevl/"
-              }
-            ]
-          },
-          {
-            "s_id": "3-2",
-            "en": "Presumably players will get into more trouble for firing a rocket launcher...",
-            "zh": "可以推测，玩家因发射火箭发射器而会惹上更多麻烦...",
-            "grammar": "【情态动词】使用presumably表示推测",
-            "words": [
-              {
-                "word": "presumably",
-                "meaning": "adv. 大概，推测起来",
-                "phonetic": "/prɪˈzjuːməbli/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What will happen if players carry weapons in public in GTA 6?",
-        "options": [
-          "A. NPCs will ignore them as in previous games",
-          "B. NPCs will call the police",
-          "C. Players will automatically get a six-star wanted level",
-          "D. Nothing will happen differently from previous games"
-        ],
-        "answer": 1,
-        "hint": "提示：请查看文章中关于NPC反应的具体描述。"
-      },
-      "translation_task": {
-        "en": "According to a GTA 6 preview in The New York Times, \"a player in this one cannot whip out a shotgun or a rocket launcher and walk down the street without expecting the non-player characters to call the police.\"",
-        "zh": "根据《纽约时报》对《侠盗猎车手6》的预览报道，\"在这个游戏中，玩家不能突然掏出霰弹枪或火箭发射器并在街上行走，而不会期望非玩家角色报警。\"",
-        "valuable_point": "考察了英语中双重否定结构（cannot...without...）的翻译技巧，以及短语动词whip out的准确表达。"
-      },
-      "quiz": {
-        "question": "What will happen if players carry weapons in public in GTA 6?",
-        "options": [
-          "A. NPCs will ignore them as in previous games",
-          "B. NPCs will call the police",
-          "C. Players will automatically get a six-star wanted level",
-          "D. Nothing will happen differently from previous games"
-        ],
-        "answer": 1,
-        "hint": "提示：请查看文章中关于NPC反应的具体描述。"
-      }
-    },
-    "id": "article_1787896343111_kkss",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "It's A Good Week If You Like Games That Let You Play As An Animal",
-    "title_zh": "如果你喜欢扮演动物的游戏，这可是个好星期",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "After Gamescom Opening Night Live and the Future Games Show, we can't help noticing that there are multiple titles coming up that let players either assume control of an animal or play anthropomorphic characters who resemble human/animal hybrids.",
-            "zh": "在科隆游戏展开幕夜直播和未来游戏展之后，我们不禁注意到，有许多即将推出的游戏让玩家能够控制动物或扮演拟人化的角色，这些角色类似于人类/动物的混合体。",
-            "grammar": "【复合句结构】包含多个从句的复杂句，包含时间状语从句和定语从句。",
-            "words": [
-              {
-                "word": "anthropomorphic",
-                "meaning": "adj. 拟人化的",
-                "phonetic": "/ˌænθrəpəˈmɔːrfɪk/"
-              },
-              {
-                "word": "hybrids",
-                "meaning": "n. 混合物，混合体",
-                "phonetic": "/ˈhaɪbrɪdz/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "To keep track of these upcoming titles, we ran down a full list of animal-centric games below.",
-            "zh": "为了追踪这些即将推出的游戏，我们在下面列出了完整的以动物为中心的游戏列表。",
-            "grammar": "【不定式作目的状语】使用不定式短语表达目的。",
-            "words": [
-              {
-                "word": "animal-centric",
-                "meaning": "adj. 以动物为中心的",
-                "phonetic": "/ˌænɪməlˈsentrɪk/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Amphibian Developer : Jarcorp Interactive Systems : PC, PlayStation 5, Xbox Series X|S, Switch Release Date : 2028",
-            "zh": "《两栖动物》开发商：Jarcorp Interactive Systems 平台：PC、PlayStation 5、Xbox Series X|S、Switch 发布日期：2028年",
-            "grammar": "",
-            "words": []
-          },
-          {
-            "s_id": "2-2",
-            "en": "Amphibian is a retro RPG that casts players as humanoid frogs on a quest to save their world.",
-            "zh": "《两栖动物》是一款复古RPG游戏，玩家在其中扮演人形青蛙，踏上拯救他们世界的征程。",
-            "grammar": "【定语从句】使用that引导的定语从句修饰RPG游戏。",
-            "words": [
-              {
-                "word": "humanoid",
-                "meaning": "adj. 人形的",
-                "phonetic": "/ˈhjuːmənɔɪd/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-3",
-            "en": "As seen in the trailer below, the game apparently commits to its froggy bit by recording all of the dialogue as ribbit sounds.",
-            "zh": "如下面的预告片所示，这款游戏显然坚持其青蛙元素，将所有对话录制为呱呱声。",
-            "grammar": "【状语从句】使用as引导的状语从句表示方式。",
-            "words": [
-              {
-                "word": "commits to",
-                "meaning": "phr. 坚持，致力于",
-                "phonetic": "/kəˈmɪts tuː/"
-              },
-              {
-                "word": "ribbit",
-                "meaning": "n. 呱呱声（青蛙叫声）",
-                "phonetic": "/ˈrɪbɪt/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-4",
-            "en": "However, the English translations appear on-screen.",
-            "zh": "然而，英语翻译会显示在屏幕上。",
-            "grammar": "",
-            "words": []
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is the main characteristic of the game 'Amphibian' mentioned in the article?",
-        "options": [
-          "A. It's a futuristic shooter game",
-          "B. Players control human characters in a fantasy world",
-          "C. It's a retro RPG where players play as humanoid frogs",
-          "D. The game features only animal sounds without any subtitles"
-        ],
-        "answer": 2,
-        "hint": "提示：文章中明确提到了游戏的类型和玩家扮演的角色。"
-      },
-      "translation_task": {
-        "en": "Amphibian is a retro RPG that casts players as humanoid frogs on a quest to save their world.",
-        "zh": "《两栖动物》是一款复古RPG游戏，玩家在其中扮演人形青蛙，踏上拯救他们世界的征程。",
-        "valuable_point": "考察了定语从句的翻译技巧，以及专业游戏术语的准确表达。"
-      },
-      "quiz": {
-        "question": "What is the main characteristic of the game 'Amphibian' mentioned in the article?",
-        "options": [
-          "A. It's a futuristic shooter game",
-          "B. Players control human characters in a fantasy world",
-          "C. It's a retro RPG where players play as humanoid frogs",
-          "D. The game features only animal sounds without any subtitles"
-        ],
-        "answer": 2,
-        "hint": "提示：文章中明确提到了游戏的类型和玩家扮演的角色。"
-      }
-    },
-    "id": "article_1787797294377_98j9",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
