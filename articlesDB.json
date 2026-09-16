@@ -1,5 +1,208 @@
 [
   {
+    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+    "title_zh": "Anthropic和OpenAI希望嵌入安全评估员。他们真的会独立吗？",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs.",
+            "zh": "Anthropic和OpenAI希望在其人工智能实验室内部嵌入独立的安全评估员。",
+            "grammar": "【语法要点】want to + 动词原形，表示意愿或计划；embed...inside...表示将某物嵌入内部",
+            "words": [
+              {
+                "word": "embed",
+                "meaning": "v. 嵌入，植入",
+                "phonetic": "/ɪmˈbɛd/"
+              },
+              {
+                "word": "evaluators",
+                "meaning": "n. 评估员，评估者",
+                "phonetic": "/ɪˈvæljueɪtərz/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+            "zh": "研究人员欢迎这种前所未有的接触机会，但警告称，有意义的监督需要透明度、独立性，并最终需要监管。",
+            "grammar": "【语法要点】welcome...but warn...结构表示欢迎但警告；requires...and...结构表示需要多个条件",
+            "words": [
+              {
+                "word": "unprecedented",
+                "meaning": "adj. 前所未有的，空前的",
+                "phonetic": "/ʌnˈprɛsɪdentɪd/"
+              },
+              {
+                "word": "oversight",
+                "meaning": "n. 监督，监管",
+                "phonetic": "/ˈoʊvərsaɪt/"
+              },
+              {
+                "word": "transparency",
+                "meaning": "n. 透明度，透明性",
+                "phonetic": "/trænsˈpærənsi/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What do researchers believe is necessary for meaningful oversight of AI safety evaluators?",
+        "options": [
+          "A. Just embedding evaluators inside AI labs",
+          "B. Transparency, independence, and eventually regulation",
+          "C. More researchers in the field",
+          "D. Advanced technology for evaluation"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看第二句中研究人员提出的具体要求。"
+      },
+      "translation_task": {
+        "en": "Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+        "zh": "研究人员欢迎这种前所未有的接触机会，但警告称，有意义的监督需要透明度、独立性，并最终需要监管。",
+        "valuable_point": "考察了welcome...but warn...转折结构，以及requires...and...并列结构的翻译处理。"
+      },
+      "quiz": {
+        "question": "What do researchers believe is necessary for meaningful oversight of AI safety evaluators?",
+        "options": [
+          "A. Just embedding evaluators inside AI labs",
+          "B. Transparency, independence, and eventually regulation",
+          "C. More researchers in the field",
+          "D. Advanced technology for evaluation"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看第二句中研究人员提出的具体要求。"
+      }
+    },
+    "id": "article_1789603010221_87ih",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
+    "title": "Metroid Ravenous Logo Memes Make Phrases Like \"Girl Dinner\" And \"They Took My Ass\" Look So Metal",
+    "title_zh": "《掠夺者》标志迷因让\"女孩晚餐\"和\"他们抢了我的屁股\"等短语看起来如此重金属",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Hype emanating from the reveal of Metroid Ravenous has translated into an onslaught of memes after a logo generator circulated online.",
+            "zh": "《掠夺者》公布后引发的狂热，在标志生成器在网上传播后转化为大量迷因。",
+            "grammar": "【语法要点】现在分词短语作主语，现在完成时表示持续到现在的动作",
+            "words": [
+              {
+                "word": "emanating",
+                "meaning": "v. 发出，源自",
+                "phonetic": "/ˈeməneɪtɪŋ/"
+              },
+              {
+                "word": "onslaught",
+                "meaning": "n. 猛攻，冲击",
+                "phonetic": "/ˈɒnslɔːt/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "If you're on Reddit or Bluesky, you may have seen the instantly iconic image of Samus Aran aggressively pinning down a mysterious enemy for consumption.",
+            "zh": "如果你在Reddit或Bluesky上，你可能已经看到了萨姆斯·阿兰将神秘敌人按倒并准备吞噬的标志性图像。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "aggressively",
+                "meaning": "adv. 侵略性地，攻击性地",
+                "phonetic": "/əˈɡresɪvli/"
+              },
+              {
+                "word": "consumption",
+                "meaning": "n. 消费，消耗，吞噬",
+                "phonetic": "/kənˈsʌmpʃn/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "The Pixelframe Design website unveiled a tool that lets anyone input any text and style it to look like the grainy and jagged Metroid Ravenous logo, with four options for the image background.",
+            "zh": "Pixelframe Design网站发布了一个工具，让任何人输入任何文本并将其样式化成粗糙不平的《掠夺者》标志，并提供四种图像背景选项。",
+            "grammar": "【语法要点】that引导的定语从句修饰tool，with短语作伴随状语",
+            "words": [
+              {
+                "word": "unveiled",
+                "meaning": "v. 揭示，公布",
+                "phonetic": "/ʌnˈveɪld/"
+              },
+              {
+                "word": "jagged",
+                "meaning": "adj. 锯齿状的，参差不齐的",
+                "phonetic": "/ˈdʒæɡɪd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "Pixelframe Design previously made similar logo generators for games like GTA 6, The Duskbloods, and famously, Pokopia.",
+            "zh": "Pixelframe Design之前为《GTA 6》、《暗血》等游戏制作了类似的标志生成器，最著名的是《Pokopia》。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "famously",
+                "meaning": "adv. 著名地，众所周知地",
+                "phonetic": "/ˈfeɪməsli/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What has happened after the logo generator for Metroid Ravenous was released online?",
+        "options": [
+          "A. The game's release date was announced",
+          "B. Many memes using the logo style have been created",
+          "C. The game was cancelled due to negative feedback",
+          "D. Only professional designers can use the tool"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段提到了标志生成器传播后的结果。"
+      },
+      "translation_task": {
+        "en": "The Pixelframe Design website unveiled a tool that lets anyone input any text and style it to look like the grainy and jagged Metroid Ravenous logo, with four options for the image background.",
+        "zh": "Pixelframe Design网站发布了一个工具，让任何人输入任何文本并将其样式化成粗糙不平的《掠夺者》标志，并提供四种图像背景选项。",
+        "valuable_point": "考察了包含多个修饰成分的复杂句翻译，特别是\"that\"引导的定语从句和\"with\"引导的伴随状语的处理。"
+      },
+      "quiz": {
+        "question": "What has happened after the logo generator for Metroid Ravenous was released online?",
+        "options": [
+          "A. The game's release date was announced",
+          "B. Many memes using the logo style have been created",
+          "C. The game was cancelled due to negative feedback",
+          "D. Only professional designers can use the tool"
+        ],
+        "answer": 1,
+        "hint": "提示：文章第一段提到了标志生成器传播后的结果。"
+      }
+    },
+    "id": "article_1789603021944_60nm",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
     "title_zh": "探索如何在TechCrunch Disrupt 2026上将您的初创企业从原型扩展到生产",
     "level": "⭐⭐ 中级",
@@ -2303,239 +2506,5 @@
     "id": "article_1788046841294_052x",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It's Stuck At 30FPS",
-    "title_zh": "技术专家称《侠盗猎车手6》是迄今为止视觉效果最先进的游戏，这也解释了为何它锁定在30FPS",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds.",
-            "zh": "《侠盗猎车手6》终于迎来了首次大型游戏玩法展示，让我们首次真正看到了Rockstar公司庞大的开放世界及其所包含的丰富细节。",
-            "grammar": "现在完成时与现在进行时的结合使用，描述已经发生且持续影响现在的事件。",
-            "words": [
-              {
-                "word": "reveal",
-                "meaning": "n. 揭示，展示",
-                "phonetic": "/rɪˈviːl/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry.",
-            "zh": "根据Digital Foundry专家的看法，它可能是我们见过的视觉效果最令人印象深刻的一款游戏。",
-            "grammar": "关系代词引导的定语从句，使用最高级表示程度。",
-            "words": [
-              {
-                "word": "visually-impressive",
-                "meaning": "adj. 视觉上令人印象深刻的",
-                "phonetic": "/ˈvɪʒuəli ɪmˈpresɪv/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
-            "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
-            "grammar": "with复合结构作伴随状语，表示伴随情况。",
-            "words": [
-              {
-                "word": "presentation",
-                "meaning": "n. 呈现，展示",
-                "phonetic": "/ˌprezənˈteɪʃn/"
-              },
-              {
-                "word": "rendering",
-                "meaning": "n. 渲染（计算机图形学）",
-                "phonetic": "/ˈrendərɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The pair praised a slew of details showcased in the gameplay, including standout character rendering, especially the hair physics and skin details across not just the game's protagonist, but many NPCs too.",
-            "zh": "这对搭档称赞了游戏玩法中展示的大量细节，包括出色的角色渲染，特别是不仅限于游戏主角，还有许多NPC角色的头发物理效果和皮肤细节。",
-            "grammar": "including引导的插入语，列举具体细节；not just...but also...结构表示递进关系。",
-            "words": [
-              {
-                "word": "slew",
-                "meaning": "n. 大量，许多",
-                "phonetic": "/sluː/"
-              },
-              {
-                "word": "protagonist",
-                "meaning": "n. 主角，主人公",
-                "phonetic": "/proʊˈtæɡənɪst/"
-              },
-              {
-                "word": "NPC",
-                "meaning": "n. 非玩家角色(Non-Player Character)",
-                "phonetic": "/ˌen piː ˈsiː/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the article, what did Digital Foundry experts specifically praise about GTA 6?",
-        "options": [
-          "A. The game's frame rate performance",
-          "B. The visual presentation and character details",
-          "C. The size of the open world",
-          "D. The gameplay mechanics"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现和角色细节的称赞。"
-      },
-      "translation_task": {
-        "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
-        "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
-        "valuable_point": "考察了with复合结构作伴随状语的翻译技巧，以及引语的准确传达。"
-      },
-      "quiz": {
-        "question": "According to the article, what did Digital Foundry experts specifically praise about GTA 6?",
-        "options": [
-          "A. The game's frame rate performance",
-          "B. The visual presentation and character details",
-          "C. The size of the open world",
-          "D. The gameplay mechanics"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现和角色细节的称赞。"
-      }
-    },
-    "id": "article_1787973886382_hp7s",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
-  },
-  {
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "title_zh": "OpenAI、Anthropic、谷歌等100多家公司呼吁采取行动防范恶意AI",
-    "level": "⭐⭐ 中级",
-    "time": "2 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity.",
-            "zh": "世界上一些最大的科技公司和AI初创企业联合起来，谴责当前网络安全状况。",
-            "grammar": "【现在完成时】表示过去发生且持续到现在的动作",
-            "words": [
-              {
-                "word": "decry",
-                "meaning": "v. 谴责，强烈批评",
-                "phonetic": "/dɪˈkraɪ/"
-              },
-              {
-                "word": "cybersecurity",
-                "meaning": "n. 网络安全",
-                "phonetic": "/ˌsaɪbərˈsɪkjərəti/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "They advertise a new solution that they say can ward off a new generation of cyber threats.",
-            "zh": "他们宣传一种新的解决方案，称其能够抵御新一代的网络威胁。",
-            "grammar": "【定语从句】that引导的定语从句修饰solution",
-            "words": [
-              {
-                "word": "ward off",
-                "meaning": "phr. 阻挡，防止",
-                "phonetic": "/wɔːrd ɔːf/"
-              },
-              {
-                "word": "threats",
-                "meaning": "n. 威胁，恐吓",
-                "phonetic": "/θrets/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "The coalition includes major players like OpenAI, Anthropic, and Google.",
-            "zh": "该联盟包括OpenAI、Anthropic和谷歌等主要参与者。",
-            "grammar": "",
-            "words": [
-              {
-                "word": "coalition",
-                "meaning": "n. 联盟，联合体",
-                "phonetic": "/ˌkoʊəˈlɪʃn/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "They are calling for urgent action to address the growing risks posed by advanced artificial intelligence systems.",
-            "zh": "他们呼吁采取紧急行动，以应对先进人工智能系统带来的日益增长的风险。",
-            "grammar": "【现在进行时】表示当前正在进行的动作",
-            "words": [
-              {
-                "word": "urgent",
-                "meaning": "adj. 紧急的，迫切的",
-                "phonetic": "/ˈɜːrdʒənt/"
-              },
-              {
-                "word": "posed",
-                "meaning": "v. 造成，构成（威胁）",
-                "phonetic": "/poʊzd/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What are the tech companies calling for according to the article?",
-        "options": [
-          "A. More investment in AI development",
-          "B. Urgent action to address AI risks",
-          "C. Stricter regulations on cybersecurity",
-          "D. Collaboration between governments and tech companies"
-        ],
-        "answer": 1,
-        "hint": "提示：文章最后一句明确提到了他们呼吁的内容。"
-      },
-      "translation_task": {
-        "en": "They are calling for urgent action to address the growing risks posed by advanced artificial intelligence systems.",
-        "zh": "他们呼吁采取紧急行动，以应对先进人工智能系统带来的日益增长的风险。",
-        "valuable_point": "考察了现在进行时态的翻译以及过去分词作后置定语的翻译技巧。"
-      },
-      "quiz": {
-        "question": "What are the tech companies calling for according to the article?",
-        "options": [
-          "A. More investment in AI development",
-          "B. Urgent action to address AI risks",
-          "C. Stricter regulations on cybersecurity",
-          "D. Collaboration between governments and tech companies"
-        ],
-        "answer": 1,
-        "hint": "提示：文章最后一句明确提到了他们呼吁的内容。"
-      }
-    },
-    "id": "article_1787896315083_5yf6",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
