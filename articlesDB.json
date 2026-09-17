@@ -1,5 +1,119 @@
 [
   {
+    "title": "GTA 6 Will Feature The \"Next Evolution Of In-Game Radio,\" Rockstar Says",
+    "title_zh": "Rockstar称《GTA 6》将推出\"游戏电台的下一阶段进化\"",
+    "level": "⭐⭐ 中级",
+    "time": "3 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music.",
+            "zh": "在Rockstar今天宣布《GTA 6：原声带》的博客文章底部，有一段关于游戏未来在声音和音乐方面其他更新的内容。",
+            "grammar": "【语法要点】过去分词短语作状语，主语为\"a line\"，\"tucked away\"表示被隐藏或放置在不显眼的位置。",
+            "words": [
+              {
+                "word": "tucked away",
+                "meaning": "短语. 被隐藏，被放置在不显眼的位置",
+                "phonetic": "/tʌkt əˈweɪ/"
+              }
+            ]
+          },
+          {
+            "s_id": "1-2",
+            "en": "Rockstar said fans should \"stay tuned for more details about the music of GTA 6,\" and specifically the game's \"dynamic score.\"",
+            "zh": "Rockstar表示粉丝应该\"继续关注关于《GTA 6》音乐的更多细节\"，特别是游戏的\"动态配乐\"。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "stay tuned",
+                "meaning": "短语. 继续关注，保持收听",
+                "phonetic": "/steɪ tjuːnd/"
+              },
+              {
+                "word": "dynamic",
+                "meaning": "形容词. 动态的，不断变化的",
+                "phonetic": "/daɪˈnæmɪk/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "p_id": 2,
+        "sentences": [
+          {
+            "s_id": "2-1",
+            "en": "Additionally, Rockstar teased that GTA 6 will feature the \"next evolution of in-game radio, and more.\"",
+            "zh": "此外，Rockstar暗示《GTA 6》将推出\"游戏电台的下一阶段进化，以及更多内容\"。",
+            "grammar": "",
+            "words": [
+              {
+                "word": "teased",
+                "meaning": "动词. 暗示，逗弄",
+                "phonetic": "/tiːzd/"
+              }
+            ]
+          },
+          {
+            "s_id": "2-2",
+            "en": "This does not tell us a whole lot.",
+            "zh": "这并没有告诉我们太多信息。",
+            "grammar": "",
+            "words": []
+          },
+          {
+            "s_id": "2-3",
+            "en": "However, it was previously rumored that GTA 6 will feature people like DJ Khaled hosting his own in-game radio station.",
+            "zh": "然而，此前有传言称《GTA 6》将邀请DJ Khaled等人主持自己的游戏电台。",
+            "grammar": "【语法要点】被动语态\"it was rumored\"，以及现在分词短语\"hosting his own in-game radio station\"作后置定语修饰\"people\"。",
+            "words": [
+              {
+                "word": "rumored",
+                "meaning": "形容词. 被传言的，谣传的",
+                "phonetic": "/ˈruːmərd/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What specific feature did Rockstar mention about GTA 6's music system?",
+        "options": [
+          "A. The ability to import Spotify playlists",
+          "B. The next evolution of in-game radio",
+          "C. DJ Khaled hosting a radio show",
+          "D. Dynamic score for the main character"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看Rockstar在博客文章中直接提到的关于音乐系统的具体描述。"
+      },
+      "translation_task": {
+        "en": "Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music.",
+        "zh": "在Rockstar今天宣布《GTA 6：原声带》的博客文章底部，有一段关于游戏未来在声音和音乐方面其他更新的内容。",
+        "valuable_point": "考察了英语中过去分词短语作状语的用法，以及长句中信息的重新组织顺序。"
+      },
+      "quiz": {
+        "question": "What specific feature did Rockstar mention about GTA 6's music system?",
+        "options": [
+          "A. The ability to import Spotify playlists",
+          "B. The next evolution of in-game radio",
+          "C. DJ Khaled hosting a radio show",
+          "D. Dynamic score for the main character"
+        ],
+        "answer": 1,
+        "hint": "提示：请查看Rockstar在博客文章中直接提到的关于音乐系统的具体描述。"
+      }
+    },
+    "id": "article_1789688819203_bk59",
+    "category": "🎮 游戏电竞",
+    "icon": "🎯"
+  },
+  {
     "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
     "title_zh": "Anthropic和OpenAI希望嵌入安全评估员。他们真的会独立吗？",
     "level": "⭐⭐ 中级",
@@ -2379,132 +2493,5 @@
     "id": "article_1788046826769_rj9w",
     "category": "🤖 人工智能",
     "icon": "⚡"
-  },
-  {
-    "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It's Stuck At 30FPS",
-    "title_zh": "技术专家称《侠盗猎车手6》是迄今为止视觉效果最先进的游戏，这也解释了为何它锁定在30FPS",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds.",
-            "zh": "《侠盗猎车手6》终于迎来了首次大型游戏玩法展示，让我们首次真正看到了Rockstar公司庞大的开放世界及其所包含的丰富细节。",
-            "grammar": "现在完成时与现在进行时的结合使用，描述已经发生且持续影响现在的事件。",
-            "words": [
-              {
-                "word": "reveal",
-                "meaning": "n. 揭示，展示",
-                "phonetic": "/rɪˈviːl/"
-              },
-              {
-                "word": "massive",
-                "meaning": "adj. 巨大的，大规模的",
-                "phonetic": "/ˈmæsɪv/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry.",
-            "zh": "根据Digital Foundry专家的看法，它可能是我们见过的视觉效果最令人印象深刻的一款游戏。",
-            "grammar": "关系代词that引导的定语从句，修饰先行词one。",
-            "words": [
-              {
-                "word": "visually-impressive",
-                "meaning": "adj. 视觉效果令人印象深刻的",
-                "phonetic": "/ˈvɪʒuəli ɪmˈpresɪv/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
-            "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
-            "grammar": "with复合结构作伴随状语，表示伴随情况。",
-            "words": [
-              {
-                "word": "presentation",
-                "meaning": "n. 呈现，展示",
-                "phonetic": "/ˌprezənˈteɪʃn/"
-              },
-              {
-                "word": "rendering",
-                "meaning": "n. 渲染（计算机图形学术语）",
-                "phonetic": "/ˈrendərɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "The pair praised a slew of details showcased in the gameplay, including standout character rendering, especially the hair physics and skin details across not just the game's protagonist, but many NPCs too.",
-            "zh": "这对搭档称赞了游戏玩法中展示的大量细节，包括出色的角色渲染，特别是不仅限于游戏主角，还有许多NPC的头发物理效果和皮肤细节。",
-            "grammar": "including引导的现在分词短语作补充说明，not just...but also...结构强调范围。",
-            "words": [
-              {
-                "word": "slew",
-                "meaning": "n. 大量，许多",
-                "phonetic": "/sluː/"
-              },
-              {
-                "word": "standout",
-                "meaning": "adj. 突出的，杰出的",
-                "phonetic": "/ˈstaʊtaʊt/"
-              },
-              {
-                "word": "protagonist",
-                "meaning": "n. 主角，主人公",
-                "phonetic": "/proʊˈtæɡənɪst/"
-              },
-              {
-                "word": "NPC",
-                "meaning": "n. 非玩家角色(Non-Player Character)",
-                "phonetic": "/ˌen piː ˈsiː/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "According to the experts at Digital Foundry, what makes GTA 6 particularly impressive?",
-        "options": [
-          "A. Its open-world size and variety of missions",
-          "B. Its visual presentation and detailed rendering",
-          "C. Its multiplayer features and online gameplay",
-          "D. Its storyline and character development"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现的称赞，特别是角色渲染和细节方面。"
-      },
-      "translation_task": {
-        "en": "Digital Foundry's Oliver Mackenzie and Richard Leadbetter have praised GTA 6's visual presentation, with Mackenzie specifically going as far to call it the \"most impressive example of real-time game rendering\" he's ever seen.",
-        "zh": "Digital Foundry的Oliver Mackenzie和Richard Leadbetter称赞了《侠盗猎车手6》的视觉呈现，Mackenzie更是直接将其称为他见过的\"最令人印象深刻实时游戏渲染的典范\"。",
-        "valuable_point": "考察了with复合结构作伴随状语的翻译技巧，以及引述他人观点时的表达方式。"
-      },
-      "quiz": {
-        "question": "According to the experts at Digital Foundry, what makes GTA 6 particularly impressive?",
-        "options": [
-          "A. Its open-world size and variety of missions",
-          "B. Its visual presentation and detailed rendering",
-          "C. Its multiplayer features and online gameplay",
-          "D. Its storyline and character development"
-        ],
-        "answer": 1,
-        "hint": "提示：文章中明确提到了Digital Foundry专家对游戏视觉呈现的称赞，特别是角色渲染和细节方面。"
-      }
-    },
-    "id": "article_1788046841294_052x",
-    "category": "🎮 游戏电竞",
-    "icon": "🎯"
   }
 ]
