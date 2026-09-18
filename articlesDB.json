@@ -1,5 +1,73 @@
 [
   {
+    "title": "World model companies are keeping a lot of secrets",
+    "title_zh": "世界模型公司守着大量秘密",
+    "level": "⭐⭐ 中级",
+    "time": "2 分钟阅读",
+    "paragraphs": [
+      {
+        "p_id": 1,
+        "sentences": [
+          {
+            "s_id": "1-1",
+            "en": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+            "zh": "世界模型领域的每个人都坐拥大量资金和巨大声势，但别指望任何人——从创始人到他们自己的数据供应商——会告诉你他们实际在构建什么。",
+            "grammar": "本句使用了对比结构，前半部分描述现状，后半部分用but转折，表达一种讽刺意味。",
+            "words": [
+              {
+                "word": "world-models",
+                "meaning": "n. 世界模型(人工智能领域)",
+                "phonetic": "/ˈwɜːrldˌmoʊdəlz/"
+              },
+              {
+                "word": "sitting on",
+                "meaning": "phr. 坐拥，拥有(大量资源)",
+                "phonetic": "/ˈsɪtɪŋ ɒn/"
+              },
+              {
+                "word": "buzz",
+                "meaning": "n. 喧闹，声势，热议",
+                "phonetic": "/bʌz/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "active_recall": {
+      "mc_quiz": {
+        "question": "What is the main point of the article about world-model companies?",
+        "options": [
+          "A. They are sharing their building plans with everyone",
+          "B. They have a lot of money and attention but keep their projects secret",
+          "C. Their data suppliers are revealing their secrets",
+          "D. They are struggling financially despite the buzz"
+        ],
+        "answer": 1,
+        "hint": "提示：文章开头提到公司坐拥大量资金和声势，但后半句用but转折，表明他们守着秘密。"
+      },
+      "translation_task": {
+        "en": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "zh": "世界模型领域的每个人都坐拥大量资金和巨大声势，但别指望任何人——从创始人到他们自己的数据供应商——会告诉你他们实际在构建什么。",
+        "valuable_point": "考察了英语中'sitting on'的习语表达，以及破折号插入语的使用，翻译时需要保持原文的讽刺语气。"
+      },
+      "quiz": {
+        "question": "What is the main point of the article about world-model companies?",
+        "options": [
+          "A. They are sharing their building plans with everyone",
+          "B. They have a lot of money and attention but keep their projects secret",
+          "C. Their data suppliers are revealing their secrets",
+          "D. They are struggling financially despite the buzz"
+        ],
+        "answer": 1,
+        "hint": "提示：文章开头提到公司坐拥大量资金和声势，但后半句用but转折，表明他们守着秘密。"
+      }
+    },
+    "id": "article_1789774978715_b05u",
+    "category": "🤖 人工智能",
+    "icon": "⚡"
+  },
+  {
     "title": "GTA 6 Will Feature The \"Next Evolution Of In-Game Radio,\" Rockstar Says",
     "title_zh": "Rockstar称《GTA 6》将推出\"游戏电台的下一阶段进化\"",
     "level": "⭐⭐ 中级",
@@ -2381,117 +2449,5 @@
     "id": "article_1788134496132_q1kw",
     "category": "🎮 游戏电竞",
     "icon": "🎯"
-  },
-  {
-    "title": "We're not doing 30 bets a year: Vijay Pande on betting small after running $4 billion at a16z",
-    "title_zh": "我们每年不做30笔投资：维杰·潘德在管理40亿美元后谈小规模投资",
-    "level": "⭐⭐ 中级",
-    "time": "3 分钟阅读",
-    "paragraphs": [
-      {
-        "p_id": 1,
-        "sentences": [
-          {
-            "s_id": "1-1",
-            "en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one.",
-            "zh": "维杰·潘德——他去年离开了a16z价值约40亿美元的生物科技实践，转而创办了规模小得多、专注于人工智能的VZVC——谈论了为什么生物学终于正从一门\"发现\"科学转变为\"工程\"科学。",
-            "grammar": "【语法要点】破折号插入语结构，解释主语Vijay Pande的背景",
-            "words": [
-              {
-                "word": "biotech",
-                "meaning": "n. 生物科技",
-                "phonetic": "/ˈbaɪoʊtek/"
-              },
-              {
-                "word": "shifting",
-                "meaning": "v. 转变，转型",
-                "phonetic": "/ˈʃɪftɪŋ/"
-              }
-            ]
-          },
-          {
-            "s_id": "1-2",
-            "en": "He discusses why clinical trials are still brutally expensive and why he believes open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-            "zh": "他讨论了为什么临床试验仍然极其昂贵，以及为什么他相信开放、共享的数据集（而非封闭的）才是真正能让人工智能改变医学的关键。",
-            "grammar": "【语法要点】并列结构，包含两个why引导的从句",
-            "words": [
-              {
-                "word": "brutally",
-                "meaning": "adv. 残酷地，极其",
-                "phonetic": "/ˈbruːtəli/"
-              },
-              {
-                "word": "walled-off",
-                "meaning": "adj. 封闭的，隔绝的",
-                "phonetic": "/ˈwɔːldɔːf/"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "p_id": 2,
-        "sentences": [
-          {
-            "s_id": "2-1",
-            "en": "After leading a16z's biotech division with billions in assets, Pande made a strategic shift to a more focused approach.",
-            "zh": "在领导着拥有数十亿美元资产的a16z生物科技部门后，潘德做出了战略转变，采取了更加专注的方法。",
-            "grammar": "【语法要点】介词短语作状语，表示时间背景",
-            "words": [
-              {
-                "word": "strategic",
-                "meaning": "adj. 战略性的",
-                "phonetic": "/strəˈtiːdʒɪk/"
-              }
-            ]
-          },
-          {
-            "s_id": "2-2",
-            "en": "His new venture, VZVC, represents his belief that AI can revolutionize how we approach biological challenges.",
-            "zh": "他的新企业VZVC代表了他对人工智能能够彻底改变我们应对生物学挑战方式的信念。",
-            "grammar": "【语法要点】宾语从句，表达信念内容",
-            "words": [
-              {
-                "word": "revolutionize",
-                "meaning": "v. 彻底改变，革命化",
-                "phonetic": "/ˌrevəˈluːʃənaɪz/"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "active_recall": {
-      "mc_quiz": {
-        "question": "What is Vijay Pande's main argument about how AI will transform medicine?",
-        "options": [
-          "A. By increasing funding for biotech research",
-          "B. Through open, shared datasets rather than closed ones",
-          "C. By making clinical trials less expensive",
-          "D. By shifting biology from engineering to discovery"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注潘德对数据集开放性的观点，以及他认为这如何影响医学变革。"
-      },
-      "translation_task": {
-        "en": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one.",
-        "zh": "维杰·潘德——他去年离开了a16z价值约40亿美元的生物科技实践，转而创办了规模小得多、专注于人工智能的VZVC——谈论了为什么生物学终于正从一门\"发现\"科学转变为\"工程\"科学。",
-        "valuable_point": "考察了破折号插入语结构的使用，以及专业术语\"discovery science\"和\"engineering science\"的准确翻译。"
-      },
-      "quiz": {
-        "question": "What is Vijay Pande's main argument about how AI will transform medicine?",
-        "options": [
-          "A. By increasing funding for biotech research",
-          "B. Through open, shared datasets rather than closed ones",
-          "C. By making clinical trials less expensive",
-          "D. By shifting biology from engineering to discovery"
-        ],
-        "answer": 1,
-        "hint": "提示：请关注潘德对数据集开放性的观点，以及他认为这如何影响医学变革。"
-      }
-    },
-    "id": "article_1788046826769_rj9w",
-    "category": "🤖 人工智能",
-    "icon": "⚡"
   }
 ]
